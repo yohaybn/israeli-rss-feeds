@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Culture &amp; Entertainment</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Culture &amp; Entertainment" title="Culture &amp; Entertainment">
+      <outline type="rss" text="/Film" title="/Film" xmlUrl="https://feeds2.feedburner.com/slashfilm" htmlUrl="https://www.slashfilm.com/"/>
+      <outline type="rss" text="500px" title="500px" xmlUrl="https://iso.500px.com/feed/" htmlUrl="https://iso.500px.com"/>
+      <outline type="rss" text="A year of reading the world" title="A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" htmlUrl="https://ayearofreadingtheworld.com"/>
+      <outline type="rss" text="Ain&#x27;t It Cool News Feed" title="Ain&#x27;t It Cool News Feed" xmlUrl="https://www.aintitcool.com/node/feed/" htmlUrl="http://www.aintitcool.com/"/>
+      <outline type="rss" text="BOOK RIOT" title="BOOK RIOT" xmlUrl="https://bookriot.com/feed/" htmlUrl="https://bookriot.com/"/>
+      <outline type="rss" text="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" title="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" xmlUrl="https://www.comingsoon.net/feed" htmlUrl="https://www.comingsoon.net/"/>
+      <outline type="rss" text="Deadline" title="Deadline" xmlUrl="https://deadline.com/feed/" htmlUrl="https://deadline.com"/>
+      <outline type="rss" text="Digital Photography School" title="Digital Photography School" xmlUrl="https://feeds.feedburner.com/DigitalPhotographySchool" htmlUrl="https://digital-photography-school.com/"/>
+      <outline type="rss" text="FirstShowing.net" title="FirstShowing.net" xmlUrl="https://www.firstshowing.net/feed/" htmlUrl="https://www.firstshowing.net"/>
+      <outline type="rss" text="History in 28-minutes" title="History in 28-minutes" xmlUrl="https://www.historyisnowmagazine.com/blog?format=RSS" htmlUrl="https://www.historyisnowmagazine.com/blog/"/>
+      <outline type="rss" text="IndieWire" title="IndieWire" xmlUrl="https://www.indiewire.com/feed/" htmlUrl="https://www.indiewire.com"/>
+      <outline type="rss" text="Light Stalking" title="Light Stalking" xmlUrl="https://www.lightstalking.com/feed/" htmlUrl="https://www.lightstalking.com/"/>
+      <outline type="rss" text="Movie News and Discussion" title="Movie News and Discussion" xmlUrl="https://www.reddit.com/r/movies/.rss" htmlUrl="https://www.reddit.com/r/movies/"/>
+      <outline type="rss" text="Movies" title="Movies" xmlUrl="https://bleedingcool.com/movies/feed/" htmlUrl="https://bleedingcool.com"/>
+      <outline type="rss" text="NewInBooks" title="NewInBooks" xmlUrl="https://www.newinbooks.com/feed/" htmlUrl="https://www.newinbooks.com"/>
+      <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl="https://petapixel.com/"/>
+      <outline type="rss" text="So many books, so little time" title="So many books, so little time" xmlUrl="https://www.reddit.com/r/books/.rss" htmlUrl="https://www.reddit.com/r/books/"/>
+      <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl="http://strobist.blogspot.com/"/>
+      <outline type="rss" text="TV Fanatic" title="TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" htmlUrl="https://www.tvfanatic.com/"/>
+      <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://www.tvline.com/feed/" htmlUrl="https://www.tvline.com/"/>
+      <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com"/>
+      <outline type="rss" text="📺Television News and Discussion" title="📺Television News and Discussion" xmlUrl="https://www.reddit.com/r/television/.rss" htmlUrl="https://www.reddit.com/r/television/"/>
+    </outline>
+  </body>
+</opml>

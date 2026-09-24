@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Science &amp; Environment</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Science &amp; Environment" title="Science &amp; Environment">
+      <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment"/>
+      <outline type="rss" text="BLOG POSTS – Mark Avery" title="BLOG POSTS – Mark Avery" xmlUrl="https://markavery.info/blog/feed/" htmlUrl="https://markavery.info"/>
+      <outline type="rss" text="Blog | Nature | PBS" title="Blog | Nature | PBS" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" htmlUrl="https://www.pbs.org/wnet/nature/blog/"/>
+      <outline type="rss" text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" htmlUrl="https://www.reddit.com/r/EarthPorn/"/>
+      <outline type="rss" text="Environment" title="Environment" xmlUrl="https://www.reddit.com/r/environment/.rss" htmlUrl="https://www.reddit.com/r/environment/"/>
+      <outline type="rss" text="Environment + Energy – The Conversation" title="Environment + Energy – The Conversation" xmlUrl="https://theconversation.com/au/environment/articles.atom" htmlUrl="https://theconversation.com"/>
+      <outline type="rss" text="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" title="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2647163.cms" htmlUrl="https://timesofindia.indiatimes.com/articlelist/2647163.cms"/>
+      <outline type="rss" text="Environment | The Guardian" title="Environment | The Guardian" xmlUrl="https://www.theguardian.com/us/environment/rss" htmlUrl="https://www.theguardian.com/us/environment"/>
+      <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed" htmlUrl="https://flowingdata.com"/>
+      <outline type="rss" text="Good Good Good" title="Good Good Good" xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" htmlUrl="https://www.goodgoodgood.co"/>
+      <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
+      <outline type="rss" text="NASA" title="NASA" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://www.nasa.gov"/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="http://feeds.nature.com/nature/rss/current?x=1" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.reddit.com/r/nature/.rss" htmlUrl="https://www.reddit.com/r/nature/"/>
+      <outline type="rss" text="Nature" title="Nature" xmlUrl="https://www.nature.com/nature.rss" htmlUrl="http://feeds.nature.com/nature/rss/current"/>
+      <outline type="rss" text="Nature Gifs" title="Nature Gifs" xmlUrl="https://www.reddit.com/r/NatureGifs/.rss" htmlUrl="https://www.reddit.com/r/NatureGifs/"/>
+      <outline type="rss" text="New Scientist - Space" title="New Scientist - Space" xmlUrl="https://www.newscientist.com/subject/space/feed/" htmlUrl="https://www.newscientist.com/subject/space/"/>
+      <outline type="rss" text="NPR Topics: Environment" title="NPR Topics: Environment" xmlUrl="https://feeds.npr.org/1025/rss.xml" htmlUrl="https://www.npr.org/templates/story/story.php?storyId=1025"/>
+      <outline type="rss" text="NYT &gt; Climate and Environment" title="NYT &gt; Climate and Environment" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml" htmlUrl="https://www.nytimes.com/section/climate"/>
+      <outline type="rss" text="NYT &gt; Science" title="NYT &gt; Science" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml" htmlUrl="https://www.nytimes.com/section/science"/>
+      <outline type="rss" text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" xmlUrl="https://phys.org/rss-feed/" htmlUrl="https://phys.org/"/>
+      <outline type="rss" text="Popular Science" title="Popular Science" xmlUrl="https://www.popsci.com/arcio/rss/" htmlUrl="https://www.popsci.com"/>
+      <outline type="rss" text="Prakati India" title="Prakati India" xmlUrl="https://prakati.in/feed/" htmlUrl="https://prakati.in/"/>
+      <outline type="rss" text="Reflections of the Natural World" title="Reflections of the Natural World" xmlUrl="https://reflectionsofthenaturalworld.com/feed/" htmlUrl="https://reflectionsofthenaturalworld.com"/>
+      <outline type="rss" text="Science" title="Science" xmlUrl="https://gizmodo.com/tag/science/rss" htmlUrl="https://gizmodo.com/tag/science"/>
+      <outline type="rss" text="Science Latest" title="Science Latest" xmlUrl="https://www.wired.com/feed/category/science/latest/rss" htmlUrl="https://www.wired.com"/>
+      <outline type="rss" text="Scientific American Content: Global" title="Scientific American Content: Global" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global" htmlUrl="https://www.scientificamerican.com"/>
+      <outline type="rss" text="Space | The Guardian" title="Space | The Guardian" xmlUrl="https://www.theguardian.com/science/space/rss" htmlUrl="https://www.theguardian.com/science/space"/>
+      <outline type="rss" text="Stories Archives - Nature Canada" title="Stories Archives - Nature Canada" xmlUrl="https://naturecanada.ca/category/news/blog/feed/" htmlUrl="https://naturecanada.ca/category/news/blog/"/>
+      <outline type="rss" text="Wildlife Photography: Gear, Photos &amp; Discussion" title="Wildlife Photography: Gear, Photos &amp; Discussion" xmlUrl="https://www.reddit.com/r/wildlifephotography/.rss" htmlUrl="https://www.reddit.com/r/wildlifephotography/"/>
+      <outline type="rss" text="Wildlife | The Guardian" title="Wildlife | The Guardian" xmlUrl="https://www.theguardian.com/environment/wildlife/rss" htmlUrl="https://www.theguardian.com/environment/wildlife"/>
+      <outline type="rss" text="🔥 Nature Is Fucking Lit" title="🔥 Nature Is Fucking Lit" xmlUrl="https://www.reddit.com/r/NatureIsFuckingLit/.rss" htmlUrl="https://www.reddit.com/r/NatureIsFuckingLit/"/>
+    </outline>
+  </body>
+</opml>

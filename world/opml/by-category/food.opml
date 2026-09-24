@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Food &amp; Cooking</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Food &amp; Cooking" title="Food &amp; Cooking">
+      <outline type="rss" text="Budget Bytes" title="Budget Bytes" xmlUrl="http://budgetbytes.blogspot.com/feeds/posts/default" htmlUrl="https://www.budgetbytes.com/"/>
+      <outline type="rss" text="David Lebovitz" title="David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" htmlUrl="https://www.davidlebovitz.com/"/>
+      <outline type="rss" text="How Sweet Eats" title="How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" htmlUrl="https://www.howsweeteats.com/"/>
+      <outline type="rss" text="Kitchn | Inspiring cooks, nourishing homes" title="Kitchn | Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" htmlUrl="https://www.thekitchn.com"/>
+      <outline type="rss" text="Love and Lemons" title="Love and Lemons" xmlUrl="https://www.loveandlemons.com/feed/" htmlUrl="https://www.loveandlemons.com/"/>
+      <outline type="rss" text="Love and Olive Oil" title="Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" htmlUrl="https://www.loveandoliveoil.com"/>
+      <outline type="rss" text="NYT &gt; Food" title="NYT &gt; Food" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" htmlUrl="https://www.nytimes.com/section/food"/>
+      <outline type="rss" text="Shutterbean" title="Shutterbean" xmlUrl="https://www.shutterbean.com/feed/" htmlUrl="https://www.shutterbean.com"/>
+      <outline type="rss" text="smitten kitchen" title="smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" htmlUrl="https://smittenkitchen.com"/>
+    </outline>
+  </body>
+</opml>

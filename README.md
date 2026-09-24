@@ -229,3 +229,9 @@ _אין עדיין פידים בקטגוריה הזו._
 3. פותחים PR. כל פיד חדש צריך להיות חי ומעודכן - בדיקה מקומית: `python scripts/check_feeds.py`.
 
 הקטלוג מנותק בכוונה מכל אפליקציה ספציפית - כל קורא RSS או אפליקציה יכולים להשתמש בו.
+
+## קטלוג בינלאומי
+
+בתיקייה [`world/`](world/) יש קטלוג פידים בינלאומי באותה סכמה ובאותן קטגוריות, שמומר מ-[plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) וכל פיד בו אומת מול האתר החי. מסתנכרן ומאומת מחדש כל שבוע. כתובת גלם לאפליקציות:
+
+`https://raw.githubusercontent.com/yohaybn/israeli-rss-feeds/main/world/feeds.json`

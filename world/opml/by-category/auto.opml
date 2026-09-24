@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Cars &amp; Transportation</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Cars &amp; Transportation" title="Cars &amp; Transportation">
+      <outline type="rss" text="Autocar RSS Feed" title="Autocar RSS Feed" xmlUrl="https://www.autocar.co.uk/rss" htmlUrl="https://www.autocar.co.uk/"/>
+      <outline type="rss" text="BikeEXIF" title="BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" htmlUrl="https://www.bikeexif.com"/>
+      <outline type="rss" text="BMWBLOG" title="BMWBLOG" xmlUrl="https://feeds.feedburner.com/BmwBlog" htmlUrl="https://www.bmwblog.com/"/>
+      <outline type="rss" text="Carscoops" title="Carscoops" xmlUrl="https://www.carscoops.com/feed/" htmlUrl="https://www.carscoops.com/"/>
+      <outline type="rss" text="Formula 1" title="Formula 1" xmlUrl="https://www.reddit.com/r/formula1/.rss" htmlUrl="https://www.reddit.com/r/formula1/"/>
+      <outline type="rss" text="Jalopnik - Obsessed with the culture of cars" title="Jalopnik - Obsessed with the culture of cars" xmlUrl="https://jalopnik.com/rss" htmlUrl="https://www.jalopnik.com/"/>
+      <outline type="rss" text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" xmlUrl="https://www.caranddriver.com/rss/all.xml/" htmlUrl="https://www.caranddriver.com/"/>
+      <outline type="rss" text="The best vintage and classic cars for sale online | Bring a Trailer" title="The best vintage and classic cars for sale online | Bring a Trailer" xmlUrl="https://bringatrailer.com/feed/" htmlUrl="https://bringatrailer.com"/>
+      <outline type="rss" text="TheTruthAboutCars" title="TheTruthAboutCars" xmlUrl="https://www.thetruthaboutcars.com/feed/" htmlUrl="https://www.thetruthaboutcars.com"/>
+    </outline>
+  </body>
+</opml>

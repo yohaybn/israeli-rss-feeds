@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Fashion &amp; Lifestyle</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Fashion &amp; Lifestyle" title="Fashion &amp; Lifestyle">
+      <outline type="rss" text="Beauty - ELLE" title="Beauty - ELLE" xmlUrl="https://www.elle.com/rss/beauty.xml/" htmlUrl="https://www.elle.com/beauty/"/>
+      <outline type="rss" text="Fashion - ELLE" title="Fashion - ELLE" xmlUrl="https://www.elle.com/rss/fashion.xml/" htmlUrl="https://www.elle.com/fashion/"/>
+      <outline type="rss" text="Fashion | The Guardian" title="Fashion | The Guardian" xmlUrl="https://www.theguardian.com/fashion/rss" htmlUrl="https://www.theguardian.com/fashion"/>
+      <outline type="rss" text="fashionbeans.com" title="fashionbeans.com" xmlUrl="https://www.fashionbeans.com/rss-feed/?category=fashion" htmlUrl="https://www.fashionbeans.com"/>
+      <outline type="rss" text="Fashionista Full" title="Fashionista Full" xmlUrl="https://fashionista.com/.rss/excerpt/beauty" htmlUrl="https://fashionista.com"/>
+      <outline type="rss" text="Fashionista Full" title="Fashionista Full" xmlUrl="https://fashionista.com/.rss/excerpt/" htmlUrl="https://fashionista.com"/>
+      <outline type="rss" text="Latest from Who What Wear" title="Latest from Who What Wear" xmlUrl="https://www.whowhatwear.com/rss" htmlUrl="https://www.whowhatwear.com/feeds.xml"/>
+      <outline type="rss" text="NYT &gt; Style" title="NYT &gt; Style" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml" htmlUrl="https://www.nytimes.com/section/style"/>
+      <outline type="rss" text="POPSUGAR Beauty" title="POPSUGAR Beauty" xmlUrl="https://www.popsugar.com/beauty/feed" htmlUrl="https://www.popsugar.com/beauty/"/>
+      <outline type="rss" text="POPSUGAR Fashion" title="POPSUGAR Fashion" xmlUrl="https://www.popsugar.com/fashion/feed" htmlUrl="https://www.popsugar.com/fashion/"/>
+      <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/beauty/rss.xml" htmlUrl="https://www.refinery29.com/beauty"/>
+      <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" htmlUrl="https://www.refinery29.com/fashion"/>
+      <outline type="rss" text="The Beauty Look Book" title="The Beauty Look Book" xmlUrl="https://thebeautylookbook.com/feed" htmlUrl="https://thebeautylookbook.com/"/>
+    </outline>
+  </body>
+</opml>

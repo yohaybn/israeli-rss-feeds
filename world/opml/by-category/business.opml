@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Economy &amp; Business</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Economy &amp; Business" title="Economy &amp; Business">
+      <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl="https://www.investing.com"/>
+      <outline type="rss" text="Bitcoin - The Currency of the Internet" title="Bitcoin - The Currency of the Internet" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/"/>
+      <outline type="rss" text="Bitcoin News" title="Bitcoin News" xmlUrl="https://news.bitcoin.com/feed/" htmlUrl="https://news.bitcoin.com/"/>
+      <outline type="rss" text="Breaking News on Seeking Alpha" title="Breaking News on Seeking Alpha" xmlUrl="https://seekingalpha.com/market_currents.xml" htmlUrl="https://seekingalpha.com/news/all"/>
+      <outline type="rss" text="Budgets Are Sexy" title="Budgets Are Sexy" xmlUrl="https://feeds2.feedburner.com/budgetsaresexy" htmlUrl="https://budgetsaresexy.com/"/>
+      <outline type="rss" text="Cointelegraph.com News" title="Cointelegraph.com News" xmlUrl="https://cointelegraph.com/rss" htmlUrl="https://cointelegraph.com"/>
+      <outline type="rss" text="Cryptocurrency News &amp; Discussion" title="Cryptocurrency News &amp; Discussion" xmlUrl="https://www.reddit.com/r/CryptoCurrency/.rss" htmlUrl="https://www.reddit.com/r/CryptoCurrency/"/>
+      <outline type="rss" text="cryptocurrency | TechCrunch" title="cryptocurrency | TechCrunch" xmlUrl="https://techcrunch.com/tag/cryptocurrency/feed/" htmlUrl="https://techcrunch.com/tag/cryptocurrency/"/>
+      <outline type="rss" text="CryptoCurrency – Finance Magnates | Financial and business news" title="CryptoCurrency – Finance Magnates | Financial and business news" xmlUrl="https://www.financemagnates.com/cryptocurrency/feed/" htmlUrl="https://www.financemagnates.com/"/>
+      <outline type="rss" text="CryptoNinjas" title="CryptoNinjas" xmlUrl="https://www.cryptoninjas.net/feed/" htmlUrl="https://www.cryptoninjas.net/"/>
+      <outline type="rss" text="CryptoPotato" title="CryptoPotato" xmlUrl="https://cryptopotato.com/feed/" htmlUrl="https://cryptopotato.com/"/>
+      <outline type="rss" text="DailyCoin" title="DailyCoin" xmlUrl="https://dailycoin.com/feed/" htmlUrl="https://dailycoin.com/"/>
+      <outline type="rss" text="Economic Times" title="Economic Times" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms" htmlUrl="https://economictimes.indiatimes.com"/>
+      <outline type="rss" text="Entrepreneur – Latest" title="Entrepreneur – Latest" xmlUrl="http://feeds.feedburner.com/entrepreneur/latest" htmlUrl="https://www.entrepreneur.comrss-feed/latest/"/>
+      <outline type="rss" text="Ethereum" title="Ethereum" xmlUrl="https://www.reddit.com/r/ethereum/.rss" htmlUrl="https://www.reddit.com/r/ethereum/"/>
+      <outline type="rss" text="Ethereum Foundation Blog" title="Ethereum Foundation Blog" xmlUrl="https://blog.ethereum.org/feed.xml" htmlUrl="https://blog.ethereum.org"/>
+      <outline type="rss" text="Feld Thoughts" title="Feld Thoughts" xmlUrl="https://feld.com/feed" htmlUrl="https://feld.com/"/>
+      <outline type="rss" text="Financial Samurai" title="Financial Samurai" xmlUrl="https://www.financialsamurai.com/feed/" htmlUrl="https://www.financialsamurai.com/"/>
+      <outline type="rss" text="Forbes - Business" title="Forbes - Business" xmlUrl="https://www.forbes.com/business/feed/" htmlUrl="https://www.forbes.com/business/"/>
+      <outline type="rss" text="Fortune | FORTUNE" title="Fortune | FORTUNE" xmlUrl="https://fortune.com/feed" htmlUrl="https://fortune.com"/>
+      <outline type="rss" text="Hacker News: Front Page" title="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="Inc.com" title="Inc.com" xmlUrl="https://www.inc.com/rss/" htmlUrl="https://www.inc.com/"/>
+      <outline type="rss" text="INCRYPTED" title="INCRYPTED" xmlUrl="https://incrypted.net/feed/" htmlUrl="https://incrypted.com/"/>
+      <outline type="rss" text="Kraken Blog" title="Kraken Blog" xmlUrl="https://blog.kraken.com/feed" htmlUrl="https://blog.kraken.com/"/>
+      <outline type="rss" text="Making Sense Of Cents" title="Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" htmlUrl="https://www.makingsenseofcents.com/"/>
+      <outline type="rss" text="Money Crashers" title="Money Crashers" xmlUrl="https://www.moneycrashers.com/feed/" htmlUrl="https://www.moneycrashers.com"/>
+      <outline type="rss" text="Money Saving Mom®" title="Money Saving Mom®" xmlUrl="https://moneysavingmom.com/feed/" htmlUrl="https://moneysavingmom.com/"/>
+      <outline type="rss" text="Money Under 30" title="Money Under 30" xmlUrl="https://www.moneyunder30.com/feed/" htmlUrl="https://www.moneyunder30.com/"/>
+      <outline type="rss" text="MoneyNing" title="MoneyNing" xmlUrl="http://feeds.feedburner.com/MoneyNing" htmlUrl="https://moneyning.com"/>
+      <outline type="rss" text="NerdWallet" title="NerdWallet" xmlUrl="https://www.nerdwallet.com/blog/feed/" htmlUrl="https://www.nerdwallet.com/blog"/>
+      <outline type="rss" text="News - Cryptonews" title="News - Cryptonews" xmlUrl="https://cryptonews.com/news/feed/" htmlUrl="https://cryptonews.com/news/"/>
+      <outline type="rss" text="NewsBTC" title="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl="https://www.newsbtc.com/"/>
+      <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com"/>
+      <outline type="rss" text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" xmlUrl="https://www.savingadvice.com/feed/" htmlUrl="https://www.savingadvice.com/"/>
+      <outline type="rss" text="Small Business Trends" title="Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" htmlUrl="https://smallbiztrends.com/"/>
+      <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="https://steveblank.com/feed/" htmlUrl="https://steveblank.com"/>
+      <outline type="rss" text="The College Investor" title="The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" htmlUrl="https://thecollegeinvestor.com"/>
+      <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed/" htmlUrl="https://www.intercom.com/blog/"/>
+      <outline type="rss" text="The Market&#x27;s Compass Technical View" title="The Market&#x27;s Compass Technical View" xmlUrl="https://themarketscompass.substack.com/feed" htmlUrl="https://themarketscompass.substack.com"/>
+      <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl="https://www.cnbc.com/us-top-news-and-analysis/"/>
+      <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl="https://venturebeat.com/feed/"/>
+      <outline type="rss" text="Well Kept Wallet" title="Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" htmlUrl="https://wellkeptwallet.com/"/>
+      <outline type="rss" text="Wise Bread" title="Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" htmlUrl="https://www.wisebread.com/secretfbfeed4"/>
+      <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl="https://finance.yahoo.com/"/>
+      <outline type="rss" text="ZebPay" title="ZebPay" xmlUrl="https://zebpay.com/feed" htmlUrl="https://zebpay.com"/>
+    </outline>
+  </body>
+</opml>

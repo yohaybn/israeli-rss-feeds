@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Digital Culture &amp; Web</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Digital Culture &amp; Web" title="Digital Culture &amp; Web">
+      <outline type="rss" text="/r/Memes the original since 2008" title="/r/Memes the original since 2008" xmlUrl="https://www.reddit.com/r/memes/.rss" htmlUrl="https://www.reddit.com/r/memes/"/>
+      <outline type="rss" text="A sub for History Memes" title="A sub for History Memes" xmlUrl="https://www.reddit.com/r/historymemes/.rss" htmlUrl="https://www.reddit.com/r/historymemes/"/>
+      <outline type="rss" text="Advice Animals" title="Advice Animals" xmlUrl="https://www.reddit.com/r/AdviceAnimals/.rss" htmlUrl="https://www.reddit.com/r/AdviceAnimals/"/>
+      <outline type="rss" text="dankmemes" title="dankmemes" xmlUrl="https://www.reddit.com/r/dankmemes/.rss" htmlUrl="https://www.reddit.com/r/dankmemes/"/>
+      <outline type="rss" text="FAIL Blog" title="FAIL Blog" xmlUrl="http://feeds.feedburner.com/failblog" htmlUrl="https://failblog.cheezburger.com/"/>
+      <outline type="rss" text="I Can Has Cheezburger?" title="I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" htmlUrl="https://icanhas.cheezburger.com/"/>
+      <outline type="rss" text="Indian Memes" title="Indian Memes" xmlUrl="https://www.reddit.com/r/IndianMeyMeys/.rss" htmlUrl="https://www.reddit.com/r/IndianMeyMeys/"/>
+      <outline type="rss" text="Internet for the Spirit" title="Internet for the Spirit" xmlUrl="https://www.reddit.com/r/wholesomememes/.rss" htmlUrl="https://www.reddit.com/r/wholesomememes/"/>
+      <outline type="rss" text="Know Your Meme Newsfeed" title="Know Your Meme Newsfeed" xmlUrl="https://knowyourmeme.com/newsfeed.rss" htmlUrl="https://knowyourmeme.com"/>
+      <outline type="rss" text="Memebase" title="Memebase" xmlUrl="https://memebase.cheezburger.com/rss" htmlUrl="https://memebase.cheezburger.com/"/>
+      <outline type="rss" text="Penny Arcade" title="Penny Arcade" xmlUrl="https://www.penny-arcade.com/feed" htmlUrl="https://www.penny-arcade.com/"/>
+      <outline type="rss" text="PostSecret" title="PostSecret" xmlUrl="https://postsecret.com/feed/?alt=rss" htmlUrl="https://postsecret.com/"/>
+      <outline type="rss" text="PrequelMemes - Memes of the Star Wars Prequels" title="PrequelMemes - Memes of the Star Wars Prequels" xmlUrl="https://www.reddit.com/r/PrequelMemes/.rss" htmlUrl="https://www.reddit.com/r/PrequelMemes/"/>
+      <outline type="rss" text="r/IndianDankMemes - India&#x27;s Largest Meme Subreddit" title="r/IndianDankMemes - India&#x27;s Largest Meme Subreddit" xmlUrl="https://www.reddit.com/r/IndianDankMemes/.rss" htmlUrl="https://www.reddit.com/r/IndianDankMemes/"/>
+      <outline type="rss" text="Saturday Morning Breakfast Cereal" title="Saturday Morning Breakfast Cereal" xmlUrl="https://www.smbc-comics.com/comic/rss" htmlUrl="https://www.smbc-comics.com/"/>
+      <outline type="rss" text="selfies of the soul" title="selfies of the soul" xmlUrl="https://www.reddit.com/r/me_irl/.rss" htmlUrl="https://www.reddit.com/r/me_irl/"/>
+      <outline type="rss" text="The Bloggess" title="The Bloggess" xmlUrl="https://thebloggess.com/feed/" htmlUrl="https://thebloggess.com"/>
+      <outline type="rss" text="The Daily WTF" title="The Daily WTF" xmlUrl="http://syndication.thedailywtf.com/TheDailyWtf" htmlUrl="http://thedailywtf.com/"/>
+      <outline type="rss" text="The Oatmeal - Comics by Matthew Inman" title="The Oatmeal - Comics by Matthew Inman" xmlUrl="http://feeds.feedburner.com/oatmealfeed" htmlUrl="http://theoatmeal.com/"/>
+      <outline type="rss" text="The Onion" title="The Onion" xmlUrl="https://www.theonion.com/rss" htmlUrl="https://theonion.com/"/>
+      <outline type="rss" text="when things get too real for meirl" title="when things get too real for meirl" xmlUrl="https://www.reddit.com/r/2meirl4meirl/.rss" htmlUrl="https://www.reddit.com/r/2meirl4meirl/"/>
+      <outline type="rss" text="xkcd.com" title="xkcd.com" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+      <outline type="rss" text="😎HAHA DAE MINIONS!!!😎" title="😎HAHA DAE MINIONS!!!😎" xmlUrl="https://www.reddit.com/r/terriblefacebookmemes/.rss" htmlUrl="https://www.reddit.com/r/terriblefacebookmemes/"/>
+    </outline>
+  </body>
+</opml>

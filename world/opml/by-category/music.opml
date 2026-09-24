@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Music</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Music" title="Music">
+      <outline type="rss" text="Consequence" title="Consequence" xmlUrl="http://consequenceofsound.net/feed" htmlUrl="https://consequence.net"/>
+      <outline type="rss" text="Music Business Worldwide" title="Music Business Worldwide" xmlUrl="https://www.musicbusinessworldwide.com/feed/" htmlUrl="https://www.musicbusinessworldwide.com"/>
+      <outline type="rss" text="RSS: News" title="RSS: News" xmlUrl="http://pitchfork.com/rss/news" htmlUrl="https://pitchfork.com"/>
+    </outline>
+  </body>
+</opml>

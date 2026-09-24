@@ -1,0 +1,21 @@
+name: Weekly world catalog sync
+on:
+  schedule:
+    - cron: '0 6 * * 0'   # Sundays 06:00 UTC, after the Israeli feed check
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Re-sync from plenaryapp/awesome-rss-feeds and verify
+        run: python scripts/sync_world.py
+      - name: Commit updated world catalog
+        run: |
+          git config user.name "feed-checker"
+          git config user.email "actions@github.com"
+          git add world/
+          git diff --cached --quiet || git commit -m "World catalog sync $(date +%Y-%m-%d)"
+          git push

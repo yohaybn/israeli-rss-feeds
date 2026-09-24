@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Real Estate &amp; Home Design</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Real Estate &amp; Home Design" title="Real Estate &amp; Home Design">
+      <outline type="rss" text="A Beautiful Mess" title="A Beautiful Mess" xmlUrl="https://abeautifulmess.com/feed/" htmlUrl="https://abeautifulmess.com/"/>
+      <outline type="rss" text="ArchDaily Global" title="ArchDaily Global" xmlUrl="http://feeds.feedburner.com/Archdaily" htmlUrl="https://www.archdaily.com/"/>
+      <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.architecturaldigest.com/feed/rss" htmlUrl="https://www.architecturaldigest.com"/>
+      <outline type="rss" text="Architecture" title="Architecture" xmlUrl="https://www.reddit.com/r/architecture/.rss" htmlUrl="https://www.reddit.com/r/architecture/"/>
+      <outline type="rss" text="architecture archives | designboom | architecture &amp; design magazine" title="architecture archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/architecture/feed/" htmlUrl="https://www.designboom.com/architecture/"/>
+      <outline type="rss" text="Architecture news and projects | Dezeen" title="Architecture news and projects | Dezeen" xmlUrl="https://www.dezeen.com/architecture/feed/" htmlUrl="https://www.dezeen.com/architecture/"/>
+      <outline type="rss" text="BLOG - decor8" title="BLOG - decor8" xmlUrl="https://www.decor8blog.com/blog?format=rss" htmlUrl="https://www.decor8blog.com/blog/"/>
+      <outline type="rss" text="Blog – Hackaday" title="Blog – Hackaday" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com"/>
+      <outline type="rss" text="Core77" title="Core77" xmlUrl="http://feeds.feedburner.com/core77/blog" htmlUrl="http://core77.com/home/rss"/>
+      <outline type="rss" text="design archives | designboom | architecture &amp; design magazine" title="design archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/design/feed/" htmlUrl="https://www.designboom.com/design/"/>
+      <outline type="rss" text="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" title="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" xmlUrl="https://design-milk.com/category/architecture/feed/" htmlUrl="https://design-milk.com/category/architecture/"/>
+      <outline type="rss" text="Design MilkInterior Design Ideas for Your Modern Home | Design Milk" title="Design MilkInterior Design Ideas for Your Modern Home | Design Milk" xmlUrl="https://design-milk.com/category/interior-design/feed/" htmlUrl="https://design-milk.com/category/interior-design/"/>
+      <outline type="rss" text="Fubiz Media" title="Fubiz Media" xmlUrl="http://feeds.feedburner.com/fubiz" htmlUrl="https://www.fubiz.net"/>
+      <outline type="rss" text="How-To Geek" title="How-To Geek" xmlUrl="https://www.howtogeek.com/feed/" htmlUrl="https://www.howtogeek.com"/>
+      <outline type="rss" text="IKEA Hackers" title="IKEA Hackers" xmlUrl="https://ikeahackers.net/feed" htmlUrl="https://ikeahackers.net"/>
+      <outline type="rss" text="In My Own Style" title="In My Own Style" xmlUrl="https://inmyownstyle.com/feed" htmlUrl="https://inmyownstyle.com/"/>
+      <outline type="rss" text="Interior Design (Interior Architecture)" title="Interior Design (Interior Architecture)" xmlUrl="https://www.reddit.com/r/InteriorDesign/.rss" htmlUrl="https://www.reddit.com/r/InteriorDesign/"/>
+      <outline type="rss" text="Interior Design Ideas" title="Interior Design Ideas" xmlUrl="https://www.home-designing.com/feed" htmlUrl="https://www.home-designing.com"/>
+      <outline type="rss" text="Interior design | Dezeen" title="Interior design | Dezeen" xmlUrl="https://www.dezeen.com/interiors/feed/" htmlUrl="https://www.dezeen.com/interiors/"/>
+      <outline type="rss" text="Latest from Ideal Home in News" title="Latest from Ideal Home in News" xmlUrl="https://www.idealhome.co.uk/feed" htmlUrl="https://www.idealhome.co.uk/feed"/>
+      <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com"/>
+      <outline type="rss" text="The Inspired Room" title="The Inspired Room" xmlUrl="https://theinspiredroom.net/feed/" htmlUrl="https://theinspiredroom.net"/>
+      <outline type="rss" text="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" title="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" xmlUrl="http://feeds.feedburner.com/blogspot/ZBcZ" htmlUrl="https://www.thriftydecorchick.com/"/>
+      <outline type="rss" text="Trendir" title="Trendir" xmlUrl="https://www.trendir.com/feed/" htmlUrl="https://www.trendir.com/"/>
+      <outline type="rss" text="Yanko Design" title="Yanko Design" xmlUrl="http://feeds.feedburner.com/yankodesign" htmlUrl="https://www.yankodesign.com"/>
+      <outline type="rss" text="Yatzer | Live Beautifully. Explore Endlessly." title="Yatzer | Live Beautifully. Explore Endlessly." xmlUrl="https://www.yatzer.com/rss.xml" htmlUrl="https://www.yatzer.com"/>
+      <outline type="rss" text="Young House Love" title="Young House Love" xmlUrl="https://www.younghouselove.com/feed/" htmlUrl="https://www.younghouselove.com/"/>
+    </outline>
+  </body>
+</opml>

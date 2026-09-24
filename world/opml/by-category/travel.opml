@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Travel &amp; Leisure</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Travel &amp; Leisure" title="Travel &amp; Leisure">
+      <outline type="rss" text="Adventure.com" title="Adventure.com" xmlUrl="https://adventure.com/feed/" htmlUrl="https://adventure.com/"/>
+      <outline type="rss" text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com"/>
+      <outline type="rss" text="Everything Everywhere" title="Everything Everywhere" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" htmlUrl="https://everything-everywhere.com"/>
+      <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl="https://www.nytimes.com/section/travel"/>
+      <outline type="rss" text="The Points Guy Articles" title="The Points Guy Articles" xmlUrl="http://feeds.feedburner.com/thepointsguy" htmlUrl="https://thepointsguy.com/feeds/the-points-guy"/>
+      <outline type="rss" text="Travel Blog -" title="Travel Blog -" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" htmlUrl="https://www.nomadicmatt.com/travel-blog/"/>
+      <outline type="rss" text="Travel Dudes" title="Travel Dudes" xmlUrl="https://traveldudes.com/feed/" htmlUrl="https://traveldudes.com"/>
+      <outline type="rss" text="Travel | The Guardian" title="Travel | The Guardian" xmlUrl="https://www.theguardian.com/uk/travel/rss" htmlUrl="https://www.theguardian.com/uk/travel"/>
+    </outline>
+  </body>
+</opml>

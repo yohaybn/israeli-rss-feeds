@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Gaming</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Gaming" title="Gaming">
+      <outline type="rss" text="Better Chess" title="Better Chess" xmlUrl="https://betterchess.net/feed/" htmlUrl="https://betterchess.net"/>
+      <outline type="rss" text="Chess News" title="Chess News" xmlUrl="https://en.chessbase.com/feed" htmlUrl="https://en.chessbase.com/"/>
+      <outline type="rss" text="Chess | The Guardian" title="Chess | The Guardian" xmlUrl="https://www.theguardian.com/sport/chess/rss" htmlUrl="https://www.theguardian.com/sport/chess"/>
+      <outline type="rss" text="Chess.com News" title="Chess.com News" xmlUrl="https://www.chess.com/rss/news" htmlUrl="https://www.chess.com/"/>
+      <outline type="rss" text="Chessable Blog" title="Chessable Blog" xmlUrl="https://www.chessable.com/blog/feed/" htmlUrl="https://www.chessable.com/blog"/>
+      <outline type="rss" text="Eurogamer.net Latest Articles Feed" title="Eurogamer.net Latest Articles Feed" xmlUrl="https://www.eurogamer.net/?format=rss" htmlUrl="https://www.eurogamer.net/feed"/>
+      <outline type="rss" text="For the budding patzer" title="For the budding patzer" xmlUrl="https://www.reddit.com/r/chessbeginners/.rss" htmlUrl="https://www.reddit.com/r/chessbeginners/"/>
+      <outline type="rss" text="GameSpot - All Content" title="GameSpot - All Content" xmlUrl="https://www.gamespot.com/feeds/mashup/" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
+      <outline type="rss" text="IGN Articles" title="IGN Articles" xmlUrl="http://feeds.ign.com/ign/all" htmlUrl="https://www.ign.com/articles"/>
+      <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed/" htmlUrl="https://indiegamesplus.com/"/>
+      <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" htmlUrl="https://kotaku.com/"/>
+      <outline type="rss" text="Lichess&#x27;s Blog" title="Lichess&#x27;s Blog" xmlUrl="https://lichess.org/blog.atom" htmlUrl="https://lichess.org/@/Lichess/blog"/>
+      <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
+      <outline type="rss" text="Polygon.com" title="Polygon.com" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com"/>
+      <outline type="rss" text="r/Chess" title="r/Chess" xmlUrl="https://www.reddit.com/r/chess/.rss" htmlUrl="https://www.reddit.com/r/chess/"/>
+      <outline type="rss" text="r/gaming" title="r/gaming" xmlUrl="https://www.reddit.com/r/gaming.rss" htmlUrl="https://www.reddit.com/r/gaming"/>
+      <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="https://www.rockpapershotgun.com/feed"/>
+      <outline type="rss" text="The Ancient Gaming Noob" title="The Ancient Gaming Noob" xmlUrl="http://feeds.feedburner.com/TheAncientGamingNoob" htmlUrl="https://tagn.wordpress.com"/>
+      <outline type="rss" text="The Escapist" title="The Escapist" xmlUrl="https://www.escapistmagazine.com/v2/feed/" htmlUrl="https://www.escapistmagazine.com/"/>
+      <outline type="rss" text="The Week in Chess" title="The Week in Chess" xmlUrl="https://theweekinchess.com/twic-rss-feed" htmlUrl="https://theweekinchess.com/"/>
+      <outline type="rss" text="TouchArcade - iPhone, iPad, Android Games Forum" title="TouchArcade - iPhone, iPad, Android Games Forum" xmlUrl="https://toucharcade.com/community/forums/-/index.rss" htmlUrl="https://toucharcade.com/community/"/>
+    </outline>
+  </body>
+</opml>

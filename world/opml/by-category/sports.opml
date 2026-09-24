@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>World RSS - Sports</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="Sports" title="Sports">
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/cricket/rss.xml" htmlUrl="https://www.bbc.co.uk/sport/cricket"/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/football/rss.xml" htmlUrl="https://www.bbc.co.uk/sport/football"/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/rss.xml" htmlUrl="https://www.bbc.co.uk/sport"/>
+      <outline type="rss" text="BBC Sport" title="BBC Sport" xmlUrl="https://feeds.bbci.co.uk/sport/tennis/rss.xml" htmlUrl="https://www.bbc.co.uk/sport/tennis"/>
+      <outline type="rss" text="Cricket" title="Cricket" xmlUrl="https://www.reddit.com/r/Cricket/.rss" htmlUrl="https://www.reddit.com/r/Cricket/"/>
+      <outline type="rss" text="Cricket news from ESPN Cricinfo.com" title="Cricket news from ESPN Cricinfo.com" xmlUrl="http://www.espncricinfo.com/rss/content/story/feeds/0.xml" htmlUrl="https://www.cricinfo.com/"/>
+      <outline type="rss" text="Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India" title="Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/54829575.cms" htmlUrl="https://timesofindia.indiatimes.com/sports/cricket"/>
+      <outline type="rss" text="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" title="Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden" xmlUrl="https://www.wisden.com/feed" htmlUrl="https://www.wisden.com/latest-updates"/>
+      <outline type="rss" text="Cricket | The Guardian" title="Cricket | The Guardian" xmlUrl="https://www.theguardian.com/sport/cricket/rss" htmlUrl="https://www.theguardian.com/sport/cricket"/>
+      <outline type="rss" text="EFL Championship" title="EFL Championship" xmlUrl="https://www.reddit.com/r/Championship/.rss?format=xml" htmlUrl="https://www.reddit.com/r/Championship/?format=xml"/>
+      <outline type="rss" text="Football - The People&#x27;s Sport" title="Football - The People&#x27;s Sport" xmlUrl="https://www.reddit.com/r/football/.rss?format=xml" htmlUrl="https://www.reddit.com/r/football/?format=xml"/>
+      <outline type="rss" text="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" title="Football News, Football Scores, Premier League, La Liga, ISL | The Hindu" xmlUrl="https://www.thehindu.com/sport/football/feeder/default.rss" htmlUrl="https://www.thehindu.com/sport/football/"/>
+      <outline type="rss" text="Football | The Guardian" title="Football | The Guardian" xmlUrl="https://www.theguardian.com/football/rss" htmlUrl="https://www.theguardian.com/football"/>
+      <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvsports-cricket" htmlUrl="https://www.ndtv.com/"/>
+      <outline type="rss" text="NYT &gt; Sports &gt; Soccer" title="NYT &gt; Sports &gt; Soccer" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml" htmlUrl="https://www.nytimes.com/section/sports/soccer"/>
+      <outline type="rss" text="NYT &gt; Sports &gt; Tennis" title="NYT &gt; Sports &gt; Tennis" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml" htmlUrl="https://www.nytimes.com/section/sports/tennis"/>
+      <outline type="rss" text="Perfect Tennis" title="Perfect Tennis" xmlUrl="https://www.perfect-tennis.com/feed/" htmlUrl="https://www.perfect-tennis.com"/>
+      <outline type="rss" text="Soccer News" title="Soccer News" xmlUrl="https://www.soccernews.com/feed/" htmlUrl="https://www.soccernews.com/"/>
+      <outline type="rss" text="Sport | The Guardian" title="Sport | The Guardian" xmlUrl="https://www.theguardian.com/uk/sport/rss" htmlUrl="https://www.theguardian.com/uk/sport"/>
+      <outline type="rss" text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" xmlUrl="https://feeds.skynews.com/feeds/rss/sports.xml" htmlUrl="https://news.sky.com/sports"/>
+      <outline type="rss" text="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" title="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4719148.cms" htmlUrl="https://timesofindia.indiatimes.com/sports"/>
+      <outline type="rss" text="sports.yahoo.com" title="sports.yahoo.com" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl="https://sports.yahoo.com"/>
+      <outline type="rss" text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" htmlUrl="https://www.reddit.com/r/tennis/"/>
+      <outline type="rss" text="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" title="Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams | The Hindu" xmlUrl="https://www.thehindu.com/sport/tennis/feeder/default.rss" htmlUrl="https://www.thehindu.com/sport/tennis/"/>
+      <outline type="rss" text="Tennis | The Guardian" title="Tennis | The Guardian" xmlUrl="https://www.theguardian.com/sport/tennis/rss" htmlUrl="https://www.theguardian.com/sport/tennis"/>
+    </outline>
+  </body>
+</opml>

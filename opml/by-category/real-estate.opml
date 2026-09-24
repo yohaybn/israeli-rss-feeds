@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - נדל&quot;ן ועיצוב הבית</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
+      <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
+    </outline>
+  </body>
+</opml>

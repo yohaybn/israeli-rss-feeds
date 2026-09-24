@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - בריאות ורפואה</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="בריאות ורפואה" title="בריאות ורפואה">
+      <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
+    </outline>
+  </body>
+</opml>

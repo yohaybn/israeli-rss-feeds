@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - דעה וטורים אישיים</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="דעה וטורים אישיים" title="דעה וטורים אישיים">
+      <outline type="rss" text="Israellycool" title="Israellycool" xmlUrl="https://www.israellycool.com/feed/" htmlUrl="https://www.israellycool.com/"/>
+      <outline type="rss" text="מידה" title="מידה" xmlUrl="https://mida.org.il/feed/" htmlUrl="https://mida.org.il/"/>
+      <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
+      <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+    </outline>
+  </body>
+</opml>

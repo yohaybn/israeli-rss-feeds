@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - קריירה ועבודה</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="קריירה ועבודה" title="קריירה ועבודה">
+      <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+    </outline>
+  </body>
+</opml>

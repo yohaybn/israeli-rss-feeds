@@ -1,14 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "name": "israeli-rss-feeds",
-  "description": "קטלוג פידי RSS ישראלי מתוחזק - חדשות, טכנולוגיה, כלכלה, ספורט, בלוגים ועוד",
+  "description": "קטלוג פידי RSS ישראלי מתוחזק ב-20 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-24",
   "feed_count": 53,
   "categories": [
     {
       "id": "news",
-      "name_he": "חדשות",
-      "name_en": "News",
+      "name_he": "חדשות ואקטואליה",
+      "name_en": "News & Current Affairs",
+      "description_he": "חדשות בארץ ובעולם, מבזקים",
       "feeds": [
         {
           "title": "ynet - חדשות",
@@ -159,20 +160,6 @@
           }
         },
         {
-          "title": "וואלה - בריאות",
-          "url": "https://rss.walla.co.il/feed/18",
-          "site": "Walla",
-          "homepage": "https://www.walla.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 13743,
-            "source": [
-              "tranco"
-            ]
-          }
-        },
-        {
           "title": "הארץ - כל הכתבות",
           "url": "https://www.haaretz.co.il/srv/htz-all-articles",
           "site": "Haaretz",
@@ -215,23 +202,16 @@
               "tranco"
             ]
           }
-        }
-      ]
-    },
-    {
-      "id": "finance",
-      "name_he": "כלכלה ופיננסים",
-      "name_en": "Finance",
-      "feeds": [
+        },
         {
-          "title": "mako - צרכנות וכלכלה",
-          "url": "https://rcs.mako.co.il/rss/news-money.xml",
-          "site": "Mako (N12)",
-          "homepage": "https://www.mako.co.il/",
+          "title": "כיכר השבת",
+          "url": "https://www.kikar.co.il/feed",
+          "site": "Kikar Hashabbat",
+          "homepage": "https://www.kikar.co.il/",
           "language": "he",
           "popularity": {
-            "feedly_subscribers": 8,
-            "tranco_rank": 6072,
+            "feedly_subscribers": 0,
+            "tranco_rank": 53481,
             "source": [
               "feedly",
               "tranco"
@@ -239,14 +219,28 @@
           }
         },
         {
-          "title": "גלובס - בארץ",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
+          "title": "בחדרי חרדים",
+          "url": "https://www.bhol.co.il/feed/",
+          "site": "Bhol",
+          "homepage": "https://www.bhol.co.il/",
           "language": "he",
           "popularity": {
-            "feedly_subscribers": 125,
-            "tranco_rank": 12406,
+            "feedly_subscribers": null,
+            "tranco_rank": 55370,
+            "source": [
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "סרוגים",
+          "url": "https://www.srugim.co.il/feed",
+          "site": "Srugim",
+          "homepage": "https://www.srugim.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 2,
+            "tranco_rank": 58451,
             "source": [
               "feedly",
               "tranco"
@@ -254,89 +248,14 @@
           }
         },
         {
-          "title": "גלובס - שוק ההון והשקעות",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 41,
-            "tranco_rank": 12406,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "גלובס - גלובלי ושוקי עולם",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 28,
-            "tranco_rank": 12406,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "גלובס - נדל\"ן ותשתיות",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 14,
-            "tranco_rank": 12406,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "גלובס - ניהול וקריירה",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 8,
-            "tranco_rank": 12406,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "גלובס - ראשי",
-          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725",
-          "site": "Globes",
-          "homepage": "https://www.globes.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 4,
-            "tranco_rank": 12406,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "וואלה - כסף וצרכנות",
-          "url": "https://rss.walla.co.il/feed/3",
-          "site": "Walla",
-          "homepage": "https://www.walla.co.il/",
+          "title": "כיפה",
+          "url": "https://www.kipa.co.il/rss.xml",
+          "site": "Kipa",
+          "homepage": "https://www.kipa.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": 1,
-            "tranco_rank": 13743,
+            "tranco_rank": 65752,
             "source": [
               "feedly",
               "tranco"
@@ -344,14 +263,119 @@
           }
         },
         {
-          "title": "TheMarker - כל הכתבות",
-          "url": "https://www.themarker.com/srv/tm-all-articles",
-          "site": "TheMarker",
-          "homepage": "https://www.themarker.com/",
-          "language": "he",
+          "title": "Times of Israel",
+          "url": "https://www.timesofisrael.com/feed/",
+          "site": "Times of Israel",
+          "homepage": "https://www.timesofisrael.com/",
+          "language": "en",
           "popularity": {
-            "feedly_subscribers": 18,
-            "tranco_rank": 36286,
+            "feedly_subscribers": 116,
+            "tranco_rank": 3977,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Jerusalem Post",
+          "url": "https://rss.jpost.com/rss/rssfeedsfrontpage.aspx",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 34,
+            "tranco_rank": 4085,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Haaretz - Latest Headlines",
+          "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
+          "site": "Haaretz English",
+          "homepage": "https://www.haaretz.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 264,
+            "tranco_rank": 5979,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Haaretz - Israel News",
+          "url": "https://www.haaretz.com/srv/israel-news-rss",
+          "site": "Haaretz English",
+          "homepage": "https://www.haaretz.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 163,
+            "tranco_rank": 5979,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Ynetnews",
+          "url": "https://www.ynetnews.com/Integration/StoryRss2.xml",
+          "site": "Ynetnews",
+          "homepage": "https://www.ynetnews.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 2,
+            "tranco_rank": 12828,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Israel National News",
+          "url": "https://www.israelnationalnews.com/Rss.aspx?act=.1",
+          "site": "INN English",
+          "homepage": "https://www.israelnationalnews.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 3,
+            "tranco_rank": 21149,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "JNS",
+          "url": "https://www.jns.org/feed/",
+          "site": "JNS",
+          "homepage": "https://www.jns.org/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 522,
+            "tranco_rank": 36674,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "Algemeiner",
+          "url": "https://www.algemeiner.com/feed/",
+          "site": "Algemeiner",
+          "homepage": "https://www.algemeiner.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 7,
+            "tranco_rank": 59625,
             "source": [
               "feedly",
               "tranco"
@@ -362,8 +386,9 @@
     },
     {
       "id": "tech",
-      "name_he": "טכנולוגיה",
-      "name_en": "Tech",
+      "name_he": "טכנולוגיה וגאדג'טים",
+      "name_en": "Technology & Gadgets",
+      "description_he": "חדשות הייטק, מוצרי צריכה",
       "feeds": [
         {
           "title": "גלובס - טכנולוגיה",
@@ -452,6 +477,144 @@
               "feedly"
             ]
           }
+        },
+        {
+          "title": "פלאנט תוכנה חופשית בישראל",
+          "url": "http://planet.linux.org.il/rss20.xml",
+          "site": "Planet FOSS-IL",
+          "homepage": "http://planet.linux.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 126,
+            "tranco_rank": null,
+            "source": [
+              "feedly"
+            ]
+          }
+        },
+        {
+          "title": "אינטרנט ישראל (רן בר-זיק)",
+          "url": "https://internet-israel.com/feed/",
+          "site": "Internet Israel",
+          "homepage": "https://internet-israel.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 42,
+            "tranco_rank": null,
+            "source": [
+              "feedly"
+            ]
+          }
+        },
+        {
+          "title": "מגזין HT (הום ת'יאטר)",
+          "url": "https://www.hometheater.co.il/feed/",
+          "site": "HomeTheater",
+          "homepage": "https://www.hometheater.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Haaretz - Tech",
+          "url": "https://www.haaretz.com/srv/technology-news-rss",
+          "site": "Haaretz English",
+          "homepage": "https://www.haaretz.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": 14,
+            "tranco_rank": 5979,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "business",
+      "name_he": "כלכלה ועסקים",
+      "name_en": "Economy & Business",
+      "description_he": "שוק ההון, פיננסים, יזמות",
+      "feeds": [
+        {
+          "title": "גלובס - בארץ",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 125,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "גלובס - שוק ההון והשקעות",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 41,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "גלובס - גלובלי ושוקי עולם",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 28,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "גלובס - ראשי",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 4,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "TheMarker - כל הכתבות",
+          "url": "https://www.themarker.com/srv/tm-all-articles",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 18,
+            "tranco_rank": 36286,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
         }
       ]
     },
@@ -459,6 +622,7 @@
       "id": "sports",
       "name_he": "ספורט",
       "name_en": "Sports",
+      "description_he": "חדשות ספורט, תוצאות, פרשנויות",
       "feeds": [
         {
           "title": "וואלה - ספורט",
@@ -492,65 +656,28 @@
       ]
     },
     {
-      "id": "religion",
-      "name_he": "יהדות",
-      "name_en": "Religion",
+      "id": "culture",
+      "name_he": "תרבות ופנאי",
+      "name_en": "Culture & Entertainment",
+      "description_he": "קולנוע, טלוויזיה, ספרות",
+      "feeds": []
+    },
+    {
+      "id": "health",
+      "name_he": "בריאות ורפואה",
+      "name_en": "Health & Medicine",
+      "description_he": "חדשות רפואיות, בריאות הציבור",
       "feeds": [
         {
-          "title": "כיכר השבת",
-          "url": "https://www.kikar.co.il/feed",
-          "site": "Kikar Hashabbat",
-          "homepage": "https://www.kikar.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 0,
-            "tranco_rank": 53481,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "בחדרי חרדים",
-          "url": "https://www.bhol.co.il/feed/",
-          "site": "Bhol",
-          "homepage": "https://www.bhol.co.il/",
+          "title": "וואלה - בריאות",
+          "url": "https://rss.walla.co.il/feed/18",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,
-            "tranco_rank": 55370,
+            "tranco_rank": 13743,
             "source": [
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "סרוגים",
-          "url": "https://www.srugim.co.il/feed",
-          "site": "Srugim",
-          "homepage": "https://www.srugim.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 2,
-            "tranco_rank": 58451,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "כיפה",
-          "url": "https://www.kipa.co.il/rss.xml",
-          "site": "Kipa",
-          "homepage": "https://www.kipa.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 1,
-            "tranco_rank": 65752,
-            "source": [
-              "feedly",
               "tranco"
             ]
           }
@@ -558,25 +685,32 @@
       ]
     },
     {
-      "id": "lifestyle",
-      "name_he": "לייףסטייל",
-      "name_en": "Lifestyle",
+      "id": "science",
+      "name_he": "מדע וסביבה",
+      "name_en": "Science & Environment",
+      "description_he": "תגליות, אקולוגיה, חלל",
+      "feeds": []
+    },
+    {
+      "id": "music",
+      "name_he": "מוזיקה",
+      "name_en": "Music",
+      "description_he": "עדכוני אמנים, ביקורות אלבומים",
+      "feeds": []
+    },
+    {
+      "id": "gaming",
+      "name_he": "גיימינג",
+      "name_en": "Gaming",
+      "description_he": "חדשות משחקי וידאו, קונסולות",
+      "feeds": []
+    },
+    {
+      "id": "food",
+      "name_he": "אוכל וקולינריה",
+      "name_en": "Food & Cooking",
+      "description_he": "מתכונים, מסעדות",
       "feeds": [
-        {
-          "title": "את - מגזין את",
-          "url": "https://www.atmag.co.il/feed/",
-          "site": "At Magazine",
-          "homepage": "https://www.atmag.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 8,
-            "tranco_rank": 429306,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
         {
           "title": "פודי",
           "url": "https://foody.co.il/feed/",
@@ -595,9 +729,77 @@
       ]
     },
     {
-      "id": "blogs",
-      "name_he": "בלוגים וקהילות",
-      "name_en": "Blogs",
+      "id": "travel",
+      "name_he": "תיירות ופנאי",
+      "name_en": "Travel & Leisure",
+      "description_he": "טיולים, חופשות, תעופה",
+      "feeds": []
+    },
+    {
+      "id": "auto",
+      "name_he": "רכב ותחבורה",
+      "name_en": "Cars & Transportation",
+      "description_he": "חדשות רכב, תחבורה ציבורית",
+      "feeds": []
+    },
+    {
+      "id": "fashion",
+      "name_he": "אופנה ולייף סטייל",
+      "name_en": "Fashion & Lifestyle",
+      "description_he": "טרנדים, טיפוח",
+      "feeds": [
+        {
+          "title": "את - מגזין את",
+          "url": "https://www.atmag.co.il/feed/",
+          "site": "At Magazine",
+          "homepage": "https://www.atmag.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 8,
+            "tranco_rank": 429306,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "real-estate",
+      "name_he": "נדל\"ן ועיצוב הבית",
+      "name_en": "Real Estate & Home Design",
+      "description_he": "שוק הדיור, עיצוב פנים",
+      "feeds": [
+        {
+          "title": "גלובס - נדל\"ן ותשתיות",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 14,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "parenting",
+      "name_he": "הורות ומשפחה",
+      "name_en": "Parenting & Family",
+      "description_he": "גידול ילדים, חינוך",
+      "feeds": []
+    },
+    {
+      "id": "opinion",
+      "name_he": "דעה וטורים אישיים",
+      "name_en": "Opinion & Personal Columns",
+      "description_he": "מאמרי דעה, בלוגים כלליים",
       "feeds": [
         {
           "title": "Israellycool",
@@ -630,34 +832,6 @@
           }
         },
         {
-          "title": "פלאנט תוכנה חופשית בישראל",
-          "url": "http://planet.linux.org.il/rss20.xml",
-          "site": "Planet FOSS-IL",
-          "homepage": "http://planet.linux.org.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 126,
-            "tranco_rank": null,
-            "source": [
-              "feedly"
-            ]
-          }
-        },
-        {
-          "title": "אינטרנט ישראל (רן בר-זיק)",
-          "url": "https://internet-israel.com/feed/",
-          "site": "Internet Israel",
-          "homepage": "https://internet-israel.com/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": 42,
-            "tranco_rank": null,
-            "source": [
-              "feedly"
-            ]
-          }
-        },
-        {
           "title": "Elder of Ziyon",
           "url": "https://elderofziyon.blogspot.com/feeds/posts/default",
           "site": "Elder of Ziyon",
@@ -668,160 +842,6 @@
             "tranco_rank": null,
             "source": [
               "feedly"
-            ]
-          }
-        },
-        {
-          "title": "מגזין HT (הום ת'יאטר)",
-          "url": "https://www.hometheater.co.il/feed/",
-          "site": "HomeTheater",
-          "homepage": "https://www.hometheater.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": null,
-            "source": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "english",
-      "name_he": "באנגלית",
-      "name_en": "English",
-      "feeds": [
-        {
-          "title": "Times of Israel",
-          "url": "https://www.timesofisrael.com/feed/",
-          "site": "Times of Israel",
-          "homepage": "https://www.timesofisrael.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 116,
-            "tranco_rank": 3977,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Jerusalem Post",
-          "url": "https://rss.jpost.com/rss/rssfeedsfrontpage.aspx",
-          "site": "JPost",
-          "homepage": "https://www.jpost.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 34,
-            "tranco_rank": 4085,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Haaretz - Latest Headlines",
-          "url": "https://www.haaretz.com/srv/haaretz-latest-headlines",
-          "site": "Haaretz English",
-          "homepage": "https://www.haaretz.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 264,
-            "tranco_rank": 5979,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Haaretz - Israel News",
-          "url": "https://www.haaretz.com/srv/israel-news-rss",
-          "site": "Haaretz English",
-          "homepage": "https://www.haaretz.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 163,
-            "tranco_rank": 5979,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Haaretz - Tech",
-          "url": "https://www.haaretz.com/srv/technology-news-rss",
-          "site": "Haaretz English",
-          "homepage": "https://www.haaretz.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 14,
-            "tranco_rank": 5979,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Ynetnews",
-          "url": "https://www.ynetnews.com/Integration/StoryRss2.xml",
-          "site": "Ynetnews",
-          "homepage": "https://www.ynetnews.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 2,
-            "tranco_rank": 12828,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Israel National News",
-          "url": "https://www.israelnationalnews.com/Rss.aspx?act=.1",
-          "site": "INN English",
-          "homepage": "https://www.israelnationalnews.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 3,
-            "tranco_rank": 21149,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "JNS",
-          "url": "https://www.jns.org/feed/",
-          "site": "JNS",
-          "homepage": "https://www.jns.org/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 522,
-            "tranco_rank": 36674,
-            "source": [
-              "feedly",
-              "tranco"
-            ]
-          }
-        },
-        {
-          "title": "Algemeiner",
-          "url": "https://www.algemeiner.com/feed/",
-          "site": "Algemeiner",
-          "homepage": "https://www.algemeiner.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": 7,
-            "tranco_rank": 59625,
-            "source": [
-              "feedly",
-              "tranco"
             ]
           }
         },
@@ -841,6 +861,81 @@
           }
         }
       ]
+    },
+    {
+      "id": "podcasts",
+      "name_he": "פודקאסטים",
+      "name_en": "Podcasts",
+      "description_he": "עדכונים על פרקים חדשים",
+      "feeds": []
+    },
+    {
+      "id": "career",
+      "name_he": "קריירה ועבודה",
+      "name_en": "Career & Work",
+      "description_he": "חיפוש עבודה, ניהול, התפתחות מקצועית",
+      "feeds": [
+        {
+          "title": "גלובס - ניהול וקריירה",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 8,
+            "tranco_rank": 12406,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "consumer",
+      "name_he": "צרכנות ומבצעים",
+      "name_en": "Consumer & Deals",
+      "description_he": "חדשות צרכנות, דילים",
+      "feeds": [
+        {
+          "title": "mako - צרכנות וכלכלה",
+          "url": "https://rcs.mako.co.il/rss/news-money.xml",
+          "site": "Mako (N12)",
+          "homepage": "https://www.mako.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 8,
+            "tranco_rank": 6072,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        },
+        {
+          "title": "וואלה - כסף וצרכנות",
+          "url": "https://rss.walla.co.il/feed/3",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": 1,
+            "tranco_rank": 13743,
+            "source": [
+              "feedly",
+              "tranco"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital-culture",
+      "name_he": "תרבות דיגיטלית ורשת",
+      "name_en": "Digital Culture & Web",
+      "description_he": "ממים, טרנדים ברשתות חברתיות",
+      "feeds": []
     }
   ]
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - אופנה ולייף סטייל</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
+      <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+    </outline>
+  </body>
+</opml>

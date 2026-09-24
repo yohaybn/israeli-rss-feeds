@@ -25,18 +25,19 @@
 
 - קובצי המדינות (חדשות כלליות לכל מדינה) נכנסים ל"חדשות ואקטואליה" עם שדה `country`.
 - פיד עם פרקי אודיו (enclosure מסוג audio) נכנס ל"פודקאסטים", מכל נושא במקור.
-- קטגוריות שאין להן מקבילה במקור נשארות ריקות: בריאות, הורות, דעות, קריירה, צרכנות, בינה מלאכותית.
+- קטגוריות שאין להן מקבילה במקור נשארות ריקות: בריאות, הורות, דעות, קריירה, צרכנות.
+- בינה מלאכותית: אין כזו במקור, אז הפידים באים מרשימה ידנית - [`curated.json`](curated.json) (מעבדות מחקר, ניוזלטרים, אתרי חדשות). הם עוברים את אותה בדיקה, והקטגוריה והשפה שלהם קבועות (פיד ידני עם פרקי אודיו לא עובר לפודקאסטים). Anthropic ו-Meta AI לא מפרסמות פיד רשמי, ולכן הפידים שלהן מגיעים מ-[Olshansk/rss-feeds](https://github.com/Olshansk/rss-feeds) (פיד קהילתי שנבנה מהאתר).
 
 ## סנכרון שבועי
 
 `.github/workflows/sync-world.yml` רץ כל יום ראשון ומריץ את `scripts/sync_world.py`: מושך את הגרסה העדכנית של plenaryapp, מאמת מחדש את כל הפידים ומעדכן את הקבצים בתיקייה הזו. פיד שכבר בקטלוג יוצא רק אחרי שתי בדיקות שבועיות כושלות ברצף, ותשובת חסימה (401/403/429) לא נחשבת כישלון עבורו. אם יותר מ-40% מהפידים נכשלים בריצה אחת, הסקריפט לא כותב כלום (תקלת רשת, לא פידים מתים).
 
-הרצה מקומית: `python scripts/sync_world.py`. אל תערכו את `world/feeds.json` ידנית - הוא נוצר מחדש בכל ריצה; שינויי מיפוי נעשים ב-`CATEGORY_MAP` בסקריפט.
+הרצה מקומית: `python scripts/sync_world.py`. אל תערכו את `world/feeds.json` ידנית - הוא נוצר מחדש בכל ריצה; שינויי מיפוי נעשים ב-`CATEGORY_MAP` בסקריפט, והוספת פיד ידני נעשית ב-`world/curated.json`. אחרי עריכה של `curated.json` אפשר להריץ `python scripts/sync_world.py --only-new` - בודק רק פידים שעוד לא נבדקו ומשאיר את השאר כמו שהם.
 
 ## הקטלוג
 
 <!-- catalog:start -->
-**550 פידים מאומתים ב-15 מתוך 21 קטגוריות** (עודכן 2026-09-24; 287 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**572 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-09-24; 287 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
@@ -60,7 +61,7 @@
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 23 | Funny, Memes |
-| בינה מלאכותית (Artificial Intelligence) | 0 | - |
+| בינה מלאכותית (Artificial Intelligence) | 22 | רשימה ידנית (curated.json) |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -686,4 +687,31 @@
 | [when things get too real for meirl](https://www.reddit.com/r/2meirl4meirl/.rss) | reddit.com | en | Memes |
 | [xkcd.com](https://xkcd.com/rss.xml) | xkcd.com | en | Funny |
 | [😎HAHA DAE MINIONS!!!😎](https://www.reddit.com/r/terriblefacebookmemes/.rss) | reddit.com | en | Memes |
+
+### בינה מלאכותית (Artificial Intelligence)
+
+| פיד | אתר | שפה | מקור |
+|---|---|---|---|
+| [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/feed) | magazine.sebastianraschka.com | en | Curated |
+| [AI at Meta Blog](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml) | ai.meta.com | en | Curated |
+| [Anthropic News](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | anthropic.com | en | Curated |
+| [Apple Machine Learning Research](https://machinelearning.apple.com/rss.xml) | machinelearning.apple.com | en | Curated |
+| [Berkeley AI Research (BAIR) Blog](https://bair.berkeley.edu/blog/feed.xml) | bair.berkeley.edu | en | Curated |
+| [Google AI (The Keyword)](https://blog.google/innovation-and-ai/technology/ai/rss/) | blog.google | en | Curated |
+| [Google DeepMind Blog](https://deepmind.google/blog/rss.xml) | deepmind.google | en | Curated |
+| [Google Research Blog](https://research.google/blog/rss/) | research.google | en | Curated |
+| [Hugging Face Blog](https://huggingface.co/blog/feed.xml) | huggingface.co | en | Curated |
+| [Import AI (Jack Clark)](https://importai.substack.com/feed) | importai.substack.com | en | Curated |
+| [Interconnects (Nathan Lambert)](https://www.interconnects.ai/feed) | interconnects.ai | en | Curated |
+| [Last Week in AI](https://lastweekin.ai/feed) | lastweekin.ai | en | Curated |
+| [Latent Space](https://www.latent.space/feed) | latent.space | en | Curated |
+| [Microsoft Research Blog](https://www.microsoft.com/en-us/research/feed/) | microsoft.com | en | Curated |
+| [MIT Technology Review AI](https://www.technologyreview.com/topic/artificial-intelligence/feed) | technologyreview.com | en | Curated |
+| [One Useful Thing (Ethan Mollick)](https://www.oneusefulthing.org/feed) | oneusefulthing.org | en | Curated |
+| [OpenAI News](https://openai.com/news/rss.xml) | openai.com | en | Curated |
+| [Simon Willison's Weblog](https://simonwillison.net/atom/entries/) | simonwillison.net | en | Curated |
+| [TechCrunch AI](https://techcrunch.com/category/artificial-intelligence/feed/) | techcrunch.com | en | Curated |
+| [The Decoder](https://the-decoder.com/feed/) | the-decoder.com | en | Curated |
+| [The Verge AI](https://www.theverge.com/rss/ai-artificial-intelligence/index.xml) | theverge.com | en | Curated |
+| [VentureBeat AI](https://venturebeat.com/category/ai/feed) | venturebeat.com | en | Curated |
 <!-- catalog:end -->

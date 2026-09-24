@@ -1,10 +1,10 @@
 {
   "version": 2,
   "name": "israeli-rss-feeds/world",
-  "description": "International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0), every feed verified live",
+  "description": "International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0) plus a curated list (world/curated.json), every feed verified live",
   "source": "https://github.com/plenaryapp/awesome-rss-feeds",
   "generated_at": "2026-09-24",
-  "feed_count": 550,
+  "feed_count": 572,
   "categories": [
     {
       "id": "news",
@@ -8573,7 +8573,338 @@
       "name_he": "בינה מלאכותית",
       "name_en": "Artificial Intelligence",
       "description_he": "חדשות, בלוגים ומדריכים על בינה מלאכותית",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "Ahead of AI (Sebastian Raschka)",
+          "url": "https://magazine.sebastianraschka.com/feed",
+          "site": "magazine.sebastianraschka.com",
+          "homepage": "https://magazine.sebastianraschka.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://magazine.sebastianraschka.com/feed",
+          "last_item": "2026-09-09"
+        },
+        {
+          "title": "AI at Meta Blog",
+          "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+          "site": "ai.meta.com",
+          "homepage": "https://ai.meta.com/blog/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+          "last_item": "2026-07-27"
+        },
+        {
+          "title": "Anthropic News",
+          "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+          "site": "anthropic.com",
+          "homepage": "https://www.anthropic.com/news",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Apple Machine Learning Research",
+          "url": "https://machinelearning.apple.com/rss.xml",
+          "site": "machinelearning.apple.com",
+          "homepage": "https://machinelearning.apple.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://machinelearning.apple.com/rss.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Berkeley AI Research (BAIR) Blog",
+          "url": "https://bair.berkeley.edu/blog/feed.xml",
+          "site": "bair.berkeley.edu",
+          "homepage": "https://bair.berkeley.edu/blog/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://bair.berkeley.edu/blog/feed.xml",
+          "last_item": "2026-07-29"
+        },
+        {
+          "title": "Google AI (The Keyword)",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+          "site": "blog.google",
+          "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/rss.xml",
+          "site": "deepmind.google",
+          "homepage": "https://deepmind.google/blog/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://deepmind.google/blog/rss.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Google Research Blog",
+          "url": "https://research.google/blog/rss/",
+          "site": "research.google",
+          "homepage": "https://research.google/blog/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://research.google/blog/rss/",
+          "last_item": "2026-09-18"
+        },
+        {
+          "title": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/feed.xml",
+          "site": "huggingface.co",
+          "homepage": "https://huggingface.co/blog",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://huggingface.co/blog/feed.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Import AI (Jack Clark)",
+          "url": "https://importai.substack.com/feed",
+          "site": "importai.substack.com",
+          "homepage": "https://importai.substack.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://importai.substack.com/feed",
+          "last_item": "2026-09-21"
+        },
+        {
+          "title": "Interconnects (Nathan Lambert)",
+          "url": "https://www.interconnects.ai/feed",
+          "site": "interconnects.ai",
+          "homepage": "https://www.interconnects.ai/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.interconnects.ai/feed",
+          "last_item": "2026-09-22"
+        },
+        {
+          "title": "Last Week in AI",
+          "url": "https://lastweekin.ai/feed",
+          "site": "lastweekin.ai",
+          "homepage": "https://lastweekin.ai/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://lastweekin.ai/feed",
+          "last_item": "2026-09-17"
+        },
+        {
+          "title": "Latent Space",
+          "url": "https://www.latent.space/feed",
+          "site": "latent.space",
+          "homepage": "https://www.latent.space/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.latent.space/feed",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Microsoft Research Blog",
+          "url": "https://www.microsoft.com/en-us/research/feed/",
+          "site": "microsoft.com",
+          "homepage": "https://www.microsoft.com/en-us/research/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.microsoft.com/en-us/research/feed/",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+          "site": "technologyreview.com",
+          "homepage": "https://www.technologyreview.com/topic/artificial-intelligence/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "One Useful Thing (Ethan Mollick)",
+          "url": "https://www.oneusefulthing.org/feed",
+          "site": "oneusefulthing.org",
+          "homepage": "https://www.oneusefulthing.org/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.oneusefulthing.org/feed",
+          "last_item": "2026-09-18"
+        },
+        {
+          "title": "OpenAI News",
+          "url": "https://openai.com/news/rss.xml",
+          "site": "openai.com",
+          "homepage": "https://openai.com/news",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://openai.com/news/rss.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "Simon Willison's Weblog",
+          "url": "https://simonwillison.net/atom/entries/",
+          "site": "simonwillison.net",
+          "homepage": "https://simonwillison.net/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://simonwillison.net/atom/entries/",
+          "last_item": "2026-09-22"
+        },
+        {
+          "title": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "site": "techcrunch.com",
+          "homepage": "https://techcrunch.com/category/artificial-intelligence/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "last_item": "2026-09-24"
+        },
+        {
+          "title": "The Decoder",
+          "url": "https://the-decoder.com/feed/",
+          "site": "the-decoder.com",
+          "homepage": "https://the-decoder.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://the-decoder.com/feed/",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "The Verge AI",
+          "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "site": "theverge.com",
+          "homepage": "https://www.theverge.com/ai-artificial-intelligence",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+          "last_item": "2026-09-23"
+        },
+        {
+          "title": "VentureBeat AI",
+          "url": "https://venturebeat.com/category/ai/feed",
+          "site": "venturebeat.com",
+          "homepage": "https://venturebeat.com/category/ai/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://venturebeat.com/category/ai/feed",
+          "last_item": "2026-08-27"
+        }
+      ]
     }
   ]
 }

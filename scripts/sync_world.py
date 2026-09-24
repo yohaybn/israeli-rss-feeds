@@ -4,11 +4,16 @@ plenaryapp/awesome-rss-feeds (CC0) - and verify every feed against the live site
 
     python scripts/sync_world.py            # re-sync from upstream + verify
     python scripts/sync_world.py --local DIR  # use an already-downloaded upstream checkout
+    python scripts/sync_world.py --only-new   # verify only feeds missing from status.json, keep the rest as-is
 
 Upstream publishes OPML files by topic (recommended/with_category/*.opml) and by
 country (countries/with_category/*.opml). Each upstream topic maps to one of our
 21 categories (CATEGORY_MAP); country files are general news and go to "news"
 with a "country" field.
+
+world/curated.json adds hand-picked feeds for categories upstream does not cover
+(e.g. ai). They go through the same verification; their category and language
+are fixed (no podcast re-mapping) and upstream_category is "Curated".
 
 A feed enters the catalog only if it passes verification: HTTP 200, parseable
 RSS/Atom, at least one item, newest item no older than STALE_DAYS.
@@ -142,6 +147,17 @@ def load_upstream(local=None):
             cands.append({'title': html.unescape(o.get('title') or o.get('text') or '').strip(),
                           'url': o['xmlUrl'].strip(), 'category': cat, **extra})
     return cands, unmapped
+
+def load_curated():
+    path = os.path.join(WORLD, 'curated.json')
+    if not os.path.exists(path): return []
+    out = []
+    for f in json.load(open(path, encoding='utf-8'))['feeds']:
+        assert f['category'] in {c[0] for c in CATEGORIES}, f"unknown category {f['category']} in curated.json"
+        out.append({'title': f['title'], 'url': f['url'].strip(), 'category': f['category'],
+                    'upstream_category': 'Curated', 'curated': True,
+                    'language': f.get('language'), 'homepage': f.get('homepage')})
+    return out
 
 # ---------- verification ----------
 def fetch(url, ua=UA, timeout=12, cap=40_000_000, hops=0):
@@ -312,6 +328,9 @@ def readme_block(catalog, rejected_count, unmapped):
     for k, v in CATEGORY_MAP.items(): src.setdefault(v, []).append(k)
     src.setdefault('news', []).append('כל קובצי המדינות')
     src.setdefault('podcasts', []).append('כל פיד עם פרקי אודיו, מכל נושא')
+    for f in load_curated():
+        if 'רשימה ידנית (curated.json)' not in src.get(f['category'], []):
+            src.setdefault(f['category'], []).append('רשימה ידנית (curated.json)')
     for c in cats:
         lines.append(f"| {c['name_he']} ({c['name_en']}) | {len(c['feeds'])} | {', '.join(src.get(c['id'], [])) or '-'} |")
     if unmapped:
@@ -331,7 +350,9 @@ def update_readme(block, path):
 
 def main():
     local = sys.argv[sys.argv.index('--local') + 1] if '--local' in sys.argv else None
+    only_new = '--only-new' in sys.argv
     cands, unmapped = load_upstream(local)
+    cands = load_curated() + cands  # curated first, so a curated entry wins the dedupe
     if unmapped: print('unmapped upstream categories:', unmapped)
     # dedupe by URL, first mapping wins (topic files before country files)
     seen, uniq = set(), []
@@ -345,22 +366,33 @@ def main():
         prev = json.load(open(fjson, encoding='utf-8'))
         prev_urls = {f['source_url'] for c in prev['categories'] for f in c['feeds']}
     status = json.load(open(sjson, encoding='utf-8')) if os.path.exists(sjson) else {}
+    # --only-new: feeds already in status.json keep their last result ('frozen'), only the rest are fetched
+    todo = [i for i, c in enumerate(uniq) if not (only_new and c['url'] in status)]
+    results = [('frozen', '', {})] * len(uniq)
     with ThreadPoolExecutor(96) as ex:
-        results = list(ex.map(lambda c: verify(c['url']), uniq))
+        for i, r in zip(todo, ex.map(lambda i: verify(uniq[i]['url']), todo)):
+            results[i] = r
     # second pass for network errors (timeouts, TLS, DNS) - usually transient
     retry = [i for i, r in enumerate(results) if r[0] == 'dead' and ('Error' in r[1] and 'HTTP' not in r[1])]
     with ThreadPoolExecutor(32) as ex:
         for i, r in zip(retry, ex.map(lambda i: verify(uniq[i]['url'], timeout=30), retry)):
             results[i] = r
-    failed = sum(1 for r in results if r[0] != 'ok')
-    print(f'{len(uniq)} upstream feeds, {len(uniq) - failed} passed')
-    if uniq and failed / len(uniq) > ABORT_RATIO and prev_urls:
-        print(f'{failed}/{len(uniq)} failed - looks like a network problem, not writing'); sys.exit(1)
+    failed = sum(1 for i in todo if results[i][0] != 'ok')
+    print(f'{len(uniq)} feeds, {len(todo)} verified, {len(todo) - failed} passed')
+    if todo and failed / len(todo) > ABORT_RATIO and prev_urls:
+        print(f'{failed}/{len(todo)} failed - looks like a network problem, not writing'); sys.exit(1)
     by_cat = {cid: [] for cid, *_ in CATEGORIES}
     rejected, new_status = [], {}
     for c, (st, note, info) in zip(uniq, results):
         u = c['url']
         old = status.get(u, {})
+        if st == 'frozen':
+            new_status[u] = old
+            if u in prev_urls and old.get('entry'):
+                by_cat[old.get('category', c['category'])].append(old['entry'])
+            else:
+                rejected.append((c, old.get('status', 'dead'), old.get('note', '')))
+            continue
         fails = 0 if st == 'ok' else old.get('fails', 0) + (0 if st == 'blocked' else 1)
         keep = st == 'ok' or (u in prev_urls and fails < MAX_FAILS)
         new_status[u] = {'status': st, 'note': note, 'fails': fails,
@@ -371,24 +403,26 @@ def main():
             by_cat[old.get('category', c['category'])].append(old['entry'])
             new_status[u].update(entry=old['entry'], category=old.get('category', c['category'])); continue
         url = upgrade_url(u, info.get('final_url'))
-        homepage = info.get('link') or f"{urllib.parse.urlsplit(url).scheme}://{urllib.parse.urlsplit(url).netloc}/"
+        homepage = c.get('homepage') or info.get('link') or f"{urllib.parse.urlsplit(url).scheme}://{urllib.parse.urlsplit(url).netloc}/"
         entry = {'title': c['title'] or info.get('feed_title') or site_name(url), 'url': url,
                  'site': site_name(homepage if homepage.startswith('http') else url),
-                 'homepage': homepage, 'language': norm_lang(info.get('language'), c.get('country')),
+                 'homepage': homepage, 'language': norm_lang(c.get('language') or info.get('language'), c.get('country')),
                  'popularity': {'feedly_subscribers': None, 'tranco_rank': None, 'source': []},
                  'upstream_category': c['upstream_category'], 'source_url': u}
         if c.get('country'): entry['country'] = c['country']
         if info.get('newest'): entry['last_item'] = info['newest'].date().isoformat()
+        # podcasts (audio enclosures) go to the podcasts category; upstream_category keeps the topic.
+        # curated feeds keep the category they were picked for.
+        cat = 'podcasts' if info.get('audio') and not c.get('curated') else c['category']
         new_status[u]['entry'] = entry
-        new_status[u]['category'] = 'podcasts' if info.get('audio') else c['category']
-        # podcasts (audio enclosures) go to the podcasts category; upstream_category keeps the topic
-        by_cat['podcasts' if info.get('audio') else c['category']].append(entry)
+        new_status[u]['category'] = cat
+        by_cat[cat].append(entry)
     cats = [{'id': cid, 'name_he': he, 'name_en': en, 'description_he': d,
              'feeds': sorted(by_cat[cid], key=lambda f: (f.get('country') is not None, f.get('country') or '', f['title'].lower()))}
             for cid, he, en, d in CATEGORIES]
     total = sum(len(c['feeds']) for c in cats)
     catalog = {'version': 2, 'name': 'israeli-rss-feeds/world',
-               'description': 'International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0), every feed verified live',
+               'description': 'International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0) plus a curated list (world/curated.json), every feed verified live',
                'source': f'https://github.com/{UPSTREAM}', 'generated_at': NOW.date().isoformat(),
                'feed_count': total, 'categories': cats}
     os.makedirs(os.path.join(WORLD, 'opml', 'by-category'), exist_ok=True)
@@ -399,7 +433,7 @@ def main():
     for c in cats:
         open(os.path.join(WORLD, 'opml', 'by-category', f"{c['id']}.opml"), 'w', encoding='utf-8').write(opml_doc(f"World RSS - {c['name_en']}", [c]))
     lines = [f'# World feeds status - {NOW.date().isoformat()}', '',
-             f'Upstream: {len(uniq)} unique feeds. In catalog: {total}. Rejected: {len(rejected)}.', '']
+             f'Candidates (upstream + curated): {len(uniq)} unique feeds. In catalog: {total}. Rejected: {len(rejected)}.', '']
     for st, title in (('dead', 'Dead (HTTP error, not a feed, or no items)'), ('stale', f'Stale (no item in {STALE_DAYS} days)'),
                       ('blocked', 'Blocked (401/403/429, or YouTube feeds - could not be verified from CI)')):
         rs = [r for r in rejected if r[1] == st]

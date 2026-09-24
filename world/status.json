@@ -2714,6 +2714,28 @@
   "fails": 1,
   "last_ok": null
  },
+ "https://bair.berkeley.edu/blog/feed.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Berkeley AI Research (BAIR) Blog",
+   "url": "https://bair.berkeley.edu/blog/feed.xml",
+   "site": "bair.berkeley.edu",
+   "homepage": "https://bair.berkeley.edu/blog/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://bair.berkeley.edu/blog/feed.xml",
+   "last_item": "2026-07-29"
+  },
+  "category": "ai"
+ },
  "https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true": {
   "status": "dead",
   "note": "not a valid feed: not well-formed (invalid token): line 34, column 84",
@@ -2819,6 +2841,28 @@
    "last_item": "2026-09-09"
   },
   "category": "business"
+ },
+ "https://blog.google/innovation-and-ai/technology/ai/rss/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Google AI (The Keyword)",
+   "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+   "site": "blog.google",
+   "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://blog.google/products/android/rss": {
   "status": "ok",
@@ -3319,6 +3363,28 @@
    "last_item": "2026-09-24"
   },
   "category": "culture"
+ },
+ "https://deepmind.google/blog/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Google DeepMind Blog",
+   "url": "https://deepmind.google/blog/rss.xml",
+   "site": "deepmind.google",
+   "homepage": "https://deepmind.google/blog/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://deepmind.google/blog/rss.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://design-milk.com/category/architecture/feed/": {
   "status": "ok",
@@ -5074,6 +5140,50 @@
   },
   "category": "business"
  },
+ "https://huggingface.co/blog/feed.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Hugging Face Blog",
+   "url": "https://huggingface.co/blog/feed.xml",
+   "site": "huggingface.co",
+   "homepage": "https://huggingface.co/blog",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://huggingface.co/blog/feed.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
+ },
+ "https://importai.substack.com/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Import AI (Jack Clark)",
+   "url": "https://importai.substack.com/feed",
+   "site": "importai.substack.com",
+   "homepage": "https://importai.substack.com/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://importai.substack.com/feed",
+   "last_item": "2026-09-21"
+  },
+  "category": "ai"
+ },
  "https://incrypted.net/feed/": {
   "status": "ok",
   "note": "",
@@ -5377,6 +5487,28 @@
   "fails": 1,
   "last_ok": null
  },
+ "https://lastweekin.ai/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Last Week in AI",
+   "url": "https://lastweekin.ai/feed",
+   "site": "lastweekin.ai",
+   "homepage": "https://lastweekin.ai/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://lastweekin.ai/feed",
+   "last_item": "2026-09-17"
+  },
+  "category": "ai"
+ },
  "https://lenta.ru/rss": {
   "status": "ok",
   "note": "",
@@ -5449,6 +5581,50 @@
   "note": "HTTP 403",
   "fails": 0,
   "last_ok": null
+ },
+ "https://machinelearning.apple.com/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Apple Machine Learning Research",
+   "url": "https://machinelearning.apple.com/rss.xml",
+   "site": "machinelearning.apple.com",
+   "homepage": "https://machinelearning.apple.com/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://machinelearning.apple.com/rss.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
+ },
+ "https://magazine.sebastianraschka.com/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Ahead of AI (Sebastian Raschka)",
+   "url": "https://magazine.sebastianraschka.com/feed",
+   "site": "magazine.sebastianraschka.com",
+   "homepage": "https://magazine.sebastianraschka.com/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://magazine.sebastianraschka.com/feed",
+   "last_item": "2026-09-09"
+  },
+  "category": "ai"
  },
  "https://maharashtratimes.com/rssfeedsdefault.cms": {
   "status": "dead",
@@ -5971,6 +6147,28 @@
   "fails": 1,
   "last_ok": null
  },
+ "https://openai.com/news/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "OpenAI News",
+   "url": "https://openai.com/news/rss.xml",
+   "site": "openai.com",
+   "homepage": "https://openai.com/news",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://openai.com/news/rss.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
+ },
  "https://ottawacitizen.com/feed/": {
   "status": "ok",
   "note": "",
@@ -6299,6 +6497,50 @@
   "fails": 1,
   "last_ok": null
  },
+ "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Anthropic News",
+   "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+   "site": "anthropic.com",
+   "homepage": "https://www.anthropic.com/news",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
+ },
+ "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "AI at Meta Blog",
+   "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+   "site": "ai.meta.com",
+   "homepage": "https://ai.meta.com/blog/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml",
+   "last_item": "2026-07-27"
+  },
+  "category": "ai"
+ },
  "https://readwrite.com/feed/": {
   "status": "ok",
   "note": "",
@@ -6442,6 +6684,28 @@
    "last_item": "2026-08-10"
   },
   "category": "science"
+ },
+ "https://research.google/blog/rss/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Google Research Blog",
+   "url": "https://research.google/blog/rss/",
+   "site": "research.google",
+   "homepage": "https://research.google/blog/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://research.google/blog/rss/",
+   "last_item": "2026-09-18"
+  },
+  "category": "ai"
  },
  "https://rg.ru/xml/index.xml": {
   "status": "ok",
@@ -6988,6 +7252,28 @@
   },
   "category": "podcasts"
  },
+ "https://simonwillison.net/atom/entries/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Simon Willison's Weblog",
+   "url": "https://simonwillison.net/atom/entries/",
+   "site": "simonwillison.net",
+   "homepage": "https://simonwillison.net/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://simonwillison.net/atom/entries/",
+   "last_item": "2026-09-22"
+  },
+  "category": "ai"
+ },
  "https://slack.engineering/feed": {
   "status": "ok",
   "note": "",
@@ -7189,6 +7475,28 @@
   },
   "category": "news"
  },
+ "https://techcrunch.com/category/artificial-intelligence/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "TechCrunch AI",
+   "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+   "site": "techcrunch.com",
+   "homepage": "https://techcrunch.com/category/artificial-intelligence/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+   "last_item": "2026-09-24"
+  },
+  "category": "ai"
+ },
  "https://techcrunch.com/tag/cryptocurrency/feed": {
   "status": "ok",
   "note": "",
@@ -7238,6 +7546,28 @@
   "note": "HTTP 404",
   "fails": 1,
   "last_ok": null
+ },
+ "https://the-decoder.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "The Decoder",
+   "url": "https://the-decoder.com/feed/",
+   "site": "the-decoder.com",
+   "homepage": "https://the-decoder.com/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://the-decoder.com/feed/",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://thebeautylookbook.com/feed": {
   "status": "ok",
@@ -7798,6 +8128,28 @@
    "last_item": "2026-09-24"
   },
   "category": "culture"
+ },
+ "https://venturebeat.com/category/ai/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "VentureBeat AI",
+   "url": "https://venturebeat.com/category/ai/feed",
+   "site": "venturebeat.com",
+   "homepage": "https://venturebeat.com/category/ai/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://venturebeat.com/category/ai/feed",
+   "last_item": "2026-08-27"
+  },
+  "category": "ai"
  },
  "https://vesti.ua/feeds/partners": {
   "status": "dead",
@@ -9954,6 +10306,28 @@
   },
   "category": "business"
  },
+ "https://www.interconnects.ai/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Interconnects (Nathan Lambert)",
+   "url": "https://www.interconnects.ai/feed",
+   "site": "interconnects.ai",
+   "homepage": "https://www.interconnects.ai/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.interconnects.ai/feed",
+   "last_item": "2026-09-22"
+  },
+  "category": "ai"
+ },
  "https://www.interiordesign.net/rss/": {
   "status": "dead",
   "note": "no items",
@@ -10150,6 +10524,28 @@
    "last_item": "2026-09-23"
   },
   "category": "news"
+ },
+ "https://www.latent.space/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Latent Space",
+   "url": "https://www.latent.space/feed",
+   "site": "latent.space",
+   "homepage": "https://www.latent.space/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.latent.space/feed",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://www.latimes.com/world-nation/rss2.0.xml": {
   "status": "ok",
@@ -10473,6 +10869,28 @@
   "note": "HTTP 403",
   "fails": 0,
   "last_ok": null
+ },
+ "https://www.microsoft.com/en-us/research/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "Microsoft Research Blog",
+   "url": "https://www.microsoft.com/en-us/research/feed/",
+   "site": "microsoft.com",
+   "homepage": "https://www.microsoft.com/en-us/research/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.microsoft.com/en-us/research/feed/",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://www.milannews.it/rss/": {
   "status": "ok",
@@ -10893,6 +11311,28 @@
   "note": "newest item 1342d old",
   "fails": 1,
   "last_ok": null
+ },
+ "https://www.oneusefulthing.org/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "One Useful Thing (Ethan Mollick)",
+   "url": "https://www.oneusefulthing.org/feed",
+   "site": "oneusefulthing.org",
+   "homepage": "https://www.oneusefulthing.org/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.oneusefulthing.org/feed",
+   "last_item": "2026-09-18"
+  },
+  "category": "ai"
  },
  "https://www.ouest-france.fr/rss-en-continu.xml": {
   "status": "ok",
@@ -12636,6 +13076,28 @@
   "fails": 1,
   "last_ok": null
  },
+ "https://www.technologyreview.com/topic/artificial-intelligence/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "MIT Technology Review AI",
+   "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+   "site": "technologyreview.com",
+   "homepage": "https://www.technologyreview.com/topic/artificial-intelligence/",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
+ },
  "https://www.the42.ie/feed/": {
   "status": "ok",
   "note": "",
@@ -13281,6 +13743,28 @@
    "last_item": "2026-09-23"
   },
   "category": "auto"
+ },
+ "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-09-24",
+  "entry": {
+   "title": "The Verge AI",
+   "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+   "site": "theverge.com",
+   "homepage": "https://www.theverge.com/ai-artificial-intelligence",
+   "language": "en",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+   "last_item": "2026-09-23"
+  },
+  "category": "ai"
  },
  "https://www.theverge.com/rss/index.xml": {
   "status": "ok",

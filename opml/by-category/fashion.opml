@@ -8,6 +8,12 @@
   <body>
     <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
       <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+      <outline type="rss" text="מעריב - אופנה" title="מעריב - אופנה" xmlUrl="https://www.maariv.co.il/rss/rssfeedsofna" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב - לייף סטייל" title="מעריב - לייף סטייל" xmlUrl="https://www.maariv.co.il/rss/rssfeedslayfstyle" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב TMI - אופנה" title="מעריב TMI - אופנה" xmlUrl="https://www.maariv.co.il/rss/rssfeedstmifashion" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - אופנה" title="וואלה - אופנה" xmlUrl="https://rss.walla.co.il/feed/2120" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - טרנדים" title="וואלה - טרנדים" xmlUrl="https://rss.walla.co.il/feed/2101" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - טיפוח ויופי" title="וואלה - טיפוח ויופי" xmlUrl="https://rss.walla.co.il/feed/1860" htmlUrl="https://www.walla.co.il/"/>
     </outline>
   </body>
 </opml>

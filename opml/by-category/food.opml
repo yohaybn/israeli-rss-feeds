@@ -8,6 +8,24 @@
   <body>
     <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
+      <outline type="rss" text="מעריב - אוכל" title="מעריב - אוכל" xmlUrl="https://www.maariv.co.il/rss/rssfeedsochel" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב - חדשות אוכל" title="מעריב - חדשות אוכל" xmlUrl="https://www.maariv.co.il/rss/rssfoodnews" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - אוכל" title="וואלה - אוכל" xmlUrl="https://rss.walla.co.il/feed/1132" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - חדשות האוכל" title="וואלה - חדשות האוכל" xmlUrl="https://rss.walla.co.il/feed/905" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - יין ואלכוהול" title="וואלה - יין ואלכוהול" xmlUrl="https://rss.walla.co.il/feed/902" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - אוכל" title="הארץ - אוכל" xmlUrl="https://www.haaretz.co.il/srv/%D7%90%D7%95%D7%9B%D7%9C--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Food and Recipes" title="Jerusalem Post - Food and Recipes" xmlUrl="https://www.jpost.com/rss/rssfoodandrecipes" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="בישולים מבית אסם" title="בישולים מבית אסם" xmlUrl="https://www.bishulim.co.il/rss.xml" htmlUrl="https://www.bishulim.co.il/"/>
+      <outline type="rss" text="עוגיו.נט" title="עוגיו.נט" xmlUrl="https://www.oogio.net/feed/" htmlUrl="https://www.oogio.net/"/>
+      <outline type="rss" text="קרוטית" title="קרוטית" xmlUrl="https://www.krutit.co.il/feed/" htmlUrl="https://www.krutit.co.il/"/>
+      <outline type="rss" text="המטבח של נטע" title="המטבח של נטע" xmlUrl="https://netacooks.co.il/feed/" htmlUrl="https://netacooks.co.il/"/>
+      <outline type="rss" text="רותם ליברזון - בלוג אוכל" title="רותם ליברזון - בלוג אוכל" xmlUrl="https://rotteml.com/feed/" htmlUrl="https://rotteml.com/"/>
+      <outline type="rss" text="מדע בצלחת" title="מדע בצלחת" xmlUrl="https://scienceinmyplate.com/feed/" htmlUrl="https://scienceinmyplate.com/"/>
+      <outline type="rss" text="The Kitchen Coach" title="The Kitchen Coach" xmlUrl="https://www.thekitchencoach.co.il/feed/" htmlUrl="https://www.thekitchencoach.co.il/"/>
+      <outline type="rss" text="טבעוניות נהנות יותר" title="טבעוניות נהנות יותר" xmlUrl="https://vegansontop.co.il/feed/" htmlUrl="https://vegansontop.co.il/"/>
+      <outline type="rss" text="ניקי ב - אוכל עושים באהבה" title="ניקי ב - אוכל עושים באהבה" xmlUrl="https://www.nikib.co.il/feed/" htmlUrl="https://www.nikib.co.il/"/>
+      <outline type="rss" text="קולינרטיקה" title="קולינרטיקה" xmlUrl="https://culinartica.co.il/feed/" htmlUrl="https://culinartica.co.il/"/>
+      <outline type="rss" text="יופי במטבח" title="יופי במטבח" xmlUrl="https://fromhayawithlove.com/feed/" htmlUrl="https://fromhayawithlove.com/"/>
     </outline>
   </body>
 </opml>

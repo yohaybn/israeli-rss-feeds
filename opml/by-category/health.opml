@@ -8,6 +8,14 @@
   <body>
     <outline text="בריאות ורפואה" title="בריאות ורפואה">
       <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="מעריב - בריאות" title="מעריב - בריאות" xmlUrl="https://www.maariv.co.il/rss/rssfeedsbriotveyeoz" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - פסיכולוגיה" title="וואלה - פסיכולוגיה" xmlUrl="https://rss.walla.co.il/feed/1870" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - תזונה ודיאטה" title="וואלה - תזונה ודיאטה" xmlUrl="https://rss.walla.co.il/feed/585" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - בריאות" title="הארץ - בריאות" xmlUrl="https://www.haaretz.co.il/srv/%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Health &amp; Wellness" title="Jerusalem Post - Health &amp; Wellness" xmlUrl="https://www.jpost.com/rss/rsshealth-and-wellness" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Nutrition" title="Jerusalem Post - Nutrition" xmlUrl="https://www.jpost.com/rss/rssnutrition" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="MedNews" title="MedNews" xmlUrl="https://www.mednews.co.il/feed/" htmlUrl="https://www.mednews.co.il/"/>
+      <outline type="rss" text="שוונג - ריצה, אופניים, טריאתלון" title="שוונג - ריצה, אופניים, טריאתלון" xmlUrl="https://www.shvoong.co.il/feed/" htmlUrl="https://www.shvoong.co.il/"/>
     </outline>
   </body>
 </opml>

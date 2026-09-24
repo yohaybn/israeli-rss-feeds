@@ -6,6 +6,15 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="מוזיקה" title="מוזיקה"/>
+    <outline text="מוזיקה" title="מוזיקה">
+      <outline type="rss" text="ynet - מוזיקה" title="ynet - מוזיקה" xmlUrl="https://www.ynet.co.il/Integration/StoryRss542.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="מעריב - מוזיקה" title="מעריב - מוזיקה" xmlUrl="https://www.maariv.co.il/rss/rssfeedsmozika" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - מוזיקה" title="וואלה - מוזיקה" xmlUrl="https://rss.walla.co.il/feed/272" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="יוסמיוסיק" title="יוסמיוסיק" xmlUrl="https://yosmusic.com/feed/" htmlUrl="https://yosmusic.com/"/>
+      <outline type="rss" text="בעיקר מוזיקה (עומר שומרוני)" title="בעיקר מוזיקה (עומר שומרוני)" xmlUrl="https://omershomrony.com/feed/" htmlUrl="https://omershomrony.com/"/>
+      <outline type="rss" text="עונג שבת - להתרגש ביחד ממוזיקה" title="עונג שבת - להתרגש ביחד ממוזיקה" xmlUrl="https://haoneg.substack.com/feed" htmlUrl="https://haoneg.substack.com/"/>
+      <outline type="rss" text="מוזיקאסט עם גיא ממן (פודקאסט)" title="מוזיקאסט עם גיא ממן (פודקאסט)" xmlUrl="https://www.spreaker.com/show/7249143/episodes/feed" htmlUrl="https://www.osimhistoria.com/"/>
+      <outline type="rss" text="כאן - שיר אחד (פודקאסט)" title="כאן - שיר אחד (פודקאסט)" xmlUrl="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss" htmlUrl="https://www.kan.org.il/"/>
+    </outline>
   </body>
 </opml>

@@ -6,6 +6,25 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="תרבות ופנאי" title="תרבות ופנאי"/>
+    <outline text="תרבות ופנאי" title="תרבות ופנאי">
+      <outline type="rss" text="ynet - תרבות ובידור" title="ynet - תרבות ובידור" xmlUrl="https://www.ynet.co.il/Integration/StoryRss538.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="ynet - קולנוע" title="ynet - קולנוע" xmlUrl="https://www.ynet.co.il/Integration/StoryRss540.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="מעריב - תרבות" title="מעריב - תרבות" xmlUrl="https://www.maariv.co.il/rss/rssfeedstarbot" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב - קולנוע" title="מעריב - קולנוע" xmlUrl="https://www.maariv.co.il/rss/rssfeedskolnoa" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב - אמנות ובמה" title="מעריב - אמנות ובמה" xmlUrl="https://www.maariv.co.il/rss/rssfeedsomanotvebama" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - תרבות" title="וואלה - תרבות" xmlUrl="https://rss.walla.co.il/feed/249" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - קולנוע" title="וואלה - קולנוע" xmlUrl="https://rss.walla.co.il/feed/270" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - במה" title="וואלה - במה" xmlUrl="https://rss.walla.co.il/feed/5545" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - תרבות" title="הארץ - תרבות" xmlUrl="https://www.haaretz.co.il/srv/htz---culture---rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="הארץ - ספרים" title="הארץ - ספרים" xmlUrl="https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%A8%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Culture" title="Jerusalem Post - Culture" xmlUrl="https://www.jpost.com/rss/rssfeedsculture.aspx" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="אלכסון" title="אלכסון" xmlUrl="http://feeds.feedburner.com/AlaxonAll" htmlUrl="https://www.alaxon.co.il/"/>
+      <outline type="rss" text="ערב רב" title="ערב רב" xmlUrl="https://www.erev-rav.com/feed/" htmlUrl="https://www.erev-rav.com/"/>
+      <outline type="rss" text="המקום הכי חם בגיהנום" title="המקום הכי חם בגיהנום" xmlUrl="https://www.ha-makom.co.il/feed/" htmlUrl="https://www.ha-makom.co.il/"/>
+      <outline type="rss" text="יקום תרבות" title="יקום תרבות" xmlUrl="https://www.yekum.org/feed/" htmlUrl="https://www.yekum.org/"/>
+      <outline type="rss" text="Secret Tel Aviv" title="Secret Tel Aviv" xmlUrl="https://www.secrettelaviv.com/feed" htmlUrl="https://www.secrettelaviv.com/"/>
+      <outline type="rss" text="מגזין פורטפוליו" title="מגזין פורטפוליו" xmlUrl="https://www.prtfl.co.il/feed/" htmlUrl="https://www.prtfl.co.il/"/>
+      <outline type="rss" text="ספר הקולנוע הישראלי" title="ספר הקולנוע הישראלי" xmlUrl="https://cinemaofisrael.co.il/feed/" htmlUrl="https://cinemaofisrael.co.il/"/>
+    </outline>
   </body>
 </opml>

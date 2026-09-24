@@ -9,6 +9,12 @@
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/rss" htmlUrl="https://www.one.co.il/"/>
+      <outline type="rss" text="ynet - ספורט" title="ynet - ספורט" xmlUrl="https://www.ynet.co.il/Integration/StoryRss3.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="ynet - כדורגל ישראלי" title="ynet - כדורגל ישראלי" xmlUrl="https://www.ynet.co.il/Integration/StoryRss57.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="ynet - כדורגל עולמי" title="ynet - כדורגל עולמי" xmlUrl="https://www.ynet.co.il/Integration/StoryRss56.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="וואלה - כדורגל ישראלי" title="וואלה - כדורגל ישראלי" xmlUrl="https://rss.walla.co.il/feed/156" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - כדורסל" title="וואלה - כדורסל" xmlUrl="https://rss.walla.co.il/feed/151" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - ספורט" title="הארץ - ספורט" xmlUrl="https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%95%D7%A8%D7%98--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
     </outline>
   </body>
 </opml>

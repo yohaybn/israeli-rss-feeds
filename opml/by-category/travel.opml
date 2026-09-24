@@ -6,6 +6,20 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="תיירות ופנאי" title="תיירות ופנאי"/>
+    <outline text="תיירות ופנאי" title="תיירות ופנאי">
+      <outline type="rss" text="מעריב - תיירות" title="מעריב - תיירות" xmlUrl="https://www.maariv.co.il/rss/rssfeedstayarot" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - תיירות" title="וואלה - תיירות" xmlUrl="https://rss.walla.co.il/feed/2501" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - טיולים בארץ" title="וואלה - טיולים בארץ" xmlUrl="https://rss.walla.co.il/feed/5735" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - טיולים בעולם" title="וואלה - טיולים בעולם" xmlUrl="https://rss.walla.co.il/feed/779" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - טיולים" title="הארץ - טיולים" xmlUrl="https://www.haaretz.co.il/srv/%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D---%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="גלובס - תיירות" title="גלובס - תיירות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9010" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Travel" title="Jerusalem Post - Travel" xmlUrl="https://www.jpost.com/rss/rsstravel" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="ynet - חופש" title="ynet - חופש" xmlUrl="https://www.ynet.co.il/Integration/StoryRss598.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="תיירות קום" title="תיירות קום" xmlUrl="https://www.tayarut.com/feed/" htmlUrl="https://www.tayarut.com/"/>
+      <outline type="rss" text="מטיילת מחוץ לקופסא" title="מטיילת מחוץ לקופסא" xmlUrl="https://www.trvbox.co.il/feed/" htmlUrl="https://www.trvbox.co.il/"/>
+      <outline type="rss" text="בא לי לטייל" title="בא לי לטייל" xmlUrl="https://baliletayel.co.il/feed/" htmlUrl="https://baliletayel.co.il/"/>
+      <outline type="rss" text="מטיילים בכיפה" title="מטיילים בכיפה" xmlUrl="https://metaylimbkipa.com/feed/" htmlUrl="https://metaylimbkipa.com/"/>
+      <outline type="rss" text="מטיילת" title="מטיילת" xmlUrl="https://metayelet.co.il/feed/" htmlUrl="https://metayelet.co.il/"/>
+    </outline>
   </body>
 </opml>

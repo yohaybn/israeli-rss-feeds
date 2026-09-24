@@ -1,9 +1,9 @@
 {
   "version": 2,
   "name": "israeli-rss-feeds",
-  "description": "קטלוג פידי RSS ישראלי מתוחזק ב-20 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
+  "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-24",
-  "feed_count": 53,
+  "feed_count": 248,
   "categories": [
     {
       "id": "news",
@@ -532,6 +532,126 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "ynet - דיגיטל",
+          "url": "https://www.ynet.co.il/Integration/StoryRss544.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - טכנולוגיה",
+          "url": "https://www.maariv.co.il/rss/rssfeedstechnologeya",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - חדשות טכנולוגיה",
+          "url": "https://rss.walla.co.il/feed/4000",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - TechNation",
+          "url": "https://www.themarker.com/srv/tm-technation",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Tech",
+          "url": "https://www.jpost.com/rss/rsstechandstartups",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "IT News",
+          "url": "https://www.itnews.co.il/feed/",
+          "site": "IT News",
+          "homepage": "https://www.itnews.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Techtime - אלקטרוניקה והייטק",
+          "url": "https://www.techtime.co.il/feed/",
+          "site": "Techtime",
+          "homepage": "https://www.techtime.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "HWzone",
+          "url": "https://www.hwzone.co.il/feed/",
+          "site": "HWzone",
+          "homepage": "https://www.hwzone.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Digital Whisper - גיליונות אבטחת מידע",
+          "url": "https://www.digitalwhisper.co.il/rss",
+          "site": "Digital Whisper",
+          "homepage": "https://www.digitalwhisper.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - סייבר",
+          "url": "https://rss.walla.co.il/feed/12765",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -615,6 +735,126 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "ynet - כלכלה",
+          "url": "https://www.ynet.co.il/Integration/StoryRss6.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - כלכלה",
+          "url": "https://www.maariv.co.il/rss/rssfeedsasakim",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - כלכלה בארץ",
+          "url": "https://www.maariv.co.il/rss/rssfeedskalkalabaarez",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - שוק ההון",
+          "url": "https://www.themarker.com/srv/tm-markets",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - גלובל",
+          "url": "https://www.themarker.com/srv/tm-global",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Business & Innovation",
+          "url": "https://www.jpost.com/rss/rssbusinessandinnovation",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Banking & Finance",
+          "url": "https://www.jpost.com/rss/rssbankingandfinance",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה כסף - חדשות",
+          "url": "https://rss.walla.co.il/feed/557",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה כסף - מגזין",
+          "url": "https://rss.walla.co.il/feed/12964",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Globes English",
+          "url": "https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942",
+          "site": "Globes English",
+          "homepage": "https://en.globes.co.il/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -652,6 +892,78 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "ynet - ספורט",
+          "url": "https://www.ynet.co.il/Integration/StoryRss3.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ynet - כדורגל ישראלי",
+          "url": "https://www.ynet.co.il/Integration/StoryRss57.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ynet - כדורגל עולמי",
+          "url": "https://www.ynet.co.il/Integration/StoryRss56.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - כדורגל ישראלי",
+          "url": "https://rss.walla.co.il/feed/156",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - כדורסל",
+          "url": "https://rss.walla.co.il/feed/151",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - ספורט",
+          "url": "https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%95%D7%A8%D7%98--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -660,7 +972,224 @@
       "name_he": "תרבות ופנאי",
       "name_en": "Culture & Entertainment",
       "description_he": "קולנוע, טלוויזיה, ספרות",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "ynet - תרבות ובידור",
+          "url": "https://www.ynet.co.il/Integration/StoryRss538.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ynet - קולנוע",
+          "url": "https://www.ynet.co.il/Integration/StoryRss540.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - תרבות",
+          "url": "https://www.maariv.co.il/rss/rssfeedstarbot",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - קולנוע",
+          "url": "https://www.maariv.co.il/rss/rssfeedskolnoa",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - אמנות ובמה",
+          "url": "https://www.maariv.co.il/rss/rssfeedsomanotvebama",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - תרבות",
+          "url": "https://rss.walla.co.il/feed/249",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - קולנוע",
+          "url": "https://rss.walla.co.il/feed/270",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - במה",
+          "url": "https://rss.walla.co.il/feed/5545",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - תרבות",
+          "url": "https://www.haaretz.co.il/srv/htz---culture---rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - ספרים",
+          "url": "https://www.haaretz.co.il/srv/%D7%A1%D7%A4%D7%A8%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Culture",
+          "url": "https://www.jpost.com/rss/rssfeedsculture.aspx",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "אלכסון",
+          "url": "http://feeds.feedburner.com/AlaxonAll",
+          "site": "Alaxon",
+          "homepage": "https://www.alaxon.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ערב רב",
+          "url": "https://www.erev-rav.com/feed/",
+          "site": "Erev Rav",
+          "homepage": "https://www.erev-rav.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "המקום הכי חם בגיהנום",
+          "url": "https://www.ha-makom.co.il/feed/",
+          "site": "Ha-Makom",
+          "homepage": "https://www.ha-makom.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "יקום תרבות",
+          "url": "https://www.yekum.org/feed/",
+          "site": "Yekum",
+          "homepage": "https://www.yekum.org/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Secret Tel Aviv",
+          "url": "https://www.secrettelaviv.com/feed",
+          "site": "Secret Tel Aviv",
+          "homepage": "https://www.secrettelaviv.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מגזין פורטפוליו",
+          "url": "https://www.prtfl.co.il/feed/",
+          "site": "Portfolio",
+          "homepage": "https://www.prtfl.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ספר הקולנוע הישראלי",
+          "url": "https://cinemaofisrael.co.il/feed/",
+          "site": "Cinema of Israel",
+          "homepage": "https://cinemaofisrael.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "health",
@@ -681,6 +1210,102 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "מעריב - בריאות",
+          "url": "https://www.maariv.co.il/rss/rssfeedsbriotveyeoz",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - פסיכולוגיה",
+          "url": "https://rss.walla.co.il/feed/1870",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - תזונה ודיאטה",
+          "url": "https://rss.walla.co.il/feed/585",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - בריאות",
+          "url": "https://www.haaretz.co.il/srv/%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Health & Wellness",
+          "url": "https://www.jpost.com/rss/rsshealth-and-wellness",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Nutrition",
+          "url": "https://www.jpost.com/rss/rssnutrition",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "MedNews",
+          "url": "https://www.mednews.co.il/feed/",
+          "site": "MedNews",
+          "homepage": "https://www.mednews.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "שוונג - ריצה, אופניים, טריאתלון",
+          "url": "https://www.shvoong.co.il/feed/",
+          "site": "Shvoong",
+          "homepage": "https://www.shvoong.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -689,21 +1314,420 @@
       "name_he": "מדע וסביבה",
       "name_en": "Science & Environment",
       "description_he": "תגליות, אקולוגיה, חלל",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "הארץ - מדע",
+          "url": "https://www.haaretz.co.il/srv/%D7%9E%D7%93%D7%A2--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - סביבה ואקלים",
+          "url": "https://www.haaretz.co.il/srv/%D7%A1%D7%91%D7%99%D7%91%D7%94-%D7%95%D7%90%D7%A7%D7%9C%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - איכות הסביבה",
+          "url": "https://www.maariv.co.il/rss/rssfeedsenvironment",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - מדע",
+          "url": "https://rss.walla.co.il/feed/13308",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Science",
+          "url": "https://www.jpost.com/rss/rssscience",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Archaeology",
+          "url": "https://www.jpost.com/rss/rssarchaeology",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Environment",
+          "url": "https://www.jpost.com/rss/rssenvironment",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הידען",
+          "url": "https://www.hayadan.org.il/feed",
+          "site": "Hayadan",
+          "homepage": "https://www.hayadan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "זווית - סוכנות ידיעות למדע ולסביבה",
+          "url": "https://www.zavit.org.il/feed/",
+          "site": "Zavit",
+          "homepage": "https://www.zavit.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בשער - מדע וחברה",
+          "url": "https://www.bashaar.org.il/feed/",
+          "site": "Bashaar",
+          "homepage": "https://www.bashaar.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "החברה להגנת הטבע",
+          "url": "https://www.teva.org.il/feed/",
+          "site": "SPNI",
+          "homepage": "https://www.teva.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Nature Israel",
+          "url": "https://natureisrael.org/feed/",
+          "site": "Nature Israel",
+          "homepage": "https://natureisrael.org/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "אוניברסיטת תל אביב - חדשות",
+          "url": "https://www.tau.ac.il/rss.xml",
+          "site": "Tel Aviv University",
+          "homepage": "https://www.tau.ac.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "אוניברסיטת בר-אילן - חדשות",
+          "url": "https://www.biu.ac.il/rss.xml",
+          "site": "Bar-Ilan University",
+          "homepage": "https://www.biu.ac.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "אוניברסיטת חיפה - חדשות",
+          "url": "https://www.haifa.ac.il/feed/",
+          "site": "University of Haifa",
+          "homepage": "https://www.haifa.ac.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "סוכנות החלל הישראלית",
+          "url": "https://www.space.gov.il/rss.xml",
+          "site": "Israel Space Agency",
+          "homepage": "https://www.space.gov.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "סיור מוחות",
+          "url": "https://brains-tour.com/feed/",
+          "site": "Brains Tour",
+          "homepage": "https://brains-tour.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Q-Israel - קוונטים",
+          "url": "https://www.q-israel.com/blog-feed.xml",
+          "site": "Q-Israel",
+          "homepage": "https://www.q-israel.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "פיזיקטבע",
+          "url": "https://physicateva.com/feed/",
+          "site": "Physicateva",
+          "homepage": "https://physicateva.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "חיידקים, נגיפים ושאר ירקות (ד\"ר דרור בר-ניר)",
+          "url": "https://drorbn.blogspot.com/feeds/posts/default",
+          "site": "Dror Bar-Nir",
+          "homepage": "https://drorbn.blogspot.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "music",
       "name_he": "מוזיקה",
       "name_en": "Music",
       "description_he": "עדכוני אמנים, ביקורות אלבומים",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "ynet - מוזיקה",
+          "url": "https://www.ynet.co.il/Integration/StoryRss542.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - מוזיקה",
+          "url": "https://www.maariv.co.il/rss/rssfeedsmozika",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - מוזיקה",
+          "url": "https://rss.walla.co.il/feed/272",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "יוסמיוסיק",
+          "url": "https://yosmusic.com/feed/",
+          "site": "YosMusic",
+          "homepage": "https://yosmusic.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בעיקר מוזיקה (עומר שומרוני)",
+          "url": "https://omershomrony.com/feed/",
+          "site": "Omer Shomrony",
+          "homepage": "https://omershomrony.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עונג שבת - להתרגש ביחד ממוזיקה",
+          "url": "https://haoneg.substack.com/feed",
+          "site": "Haoneg",
+          "homepage": "https://haoneg.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מוזיקאסט עם גיא ממן (פודקאסט)",
+          "url": "https://www.spreaker.com/show/7249143/episodes/feed",
+          "site": "Osim Historia",
+          "homepage": "https://www.osimhistoria.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן - שיר אחד (פודקאסט)",
+          "url": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/bd9198c9-39cc-41f7-8612-a919008d593c/podcast.rss",
+          "site": "Kan",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "gaming",
       "name_he": "גיימינג",
       "name_en": "Gaming",
       "description_he": "חדשות משחקי וידאו, קונסולות",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "ynet - משחקים",
+          "url": "https://www.ynet.co.il/Integration/StoryRss571.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Vgames",
+          "url": "https://www.vgames.co.il/rss",
+          "site": "Vgames",
+          "homepage": "https://www.vgames.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "GamePro",
+          "url": "https://gamepro.co.il/feed/",
+          "site": "GamePro",
+          "homepage": "https://gamepro.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "IGN Israel",
+          "url": "https://il.ign.com/feed.xml",
+          "site": "IGN Israel",
+          "homepage": "https://il.ign.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הפונדק - משחקי תפקידים ומשחקי קופסה",
+          "url": "https://pundak.games/feed/",
+          "site": "Pundak",
+          "homepage": "https://pundak.games/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "food",
@@ -725,6 +1749,222 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "מעריב - אוכל",
+          "url": "https://www.maariv.co.il/rss/rssfeedsochel",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - חדשות אוכל",
+          "url": "https://www.maariv.co.il/rss/rssfoodnews",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - אוכל",
+          "url": "https://rss.walla.co.il/feed/1132",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - חדשות האוכל",
+          "url": "https://rss.walla.co.il/feed/905",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - יין ואלכוהול",
+          "url": "https://rss.walla.co.il/feed/902",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - אוכל",
+          "url": "https://www.haaretz.co.il/srv/%D7%90%D7%95%D7%9B%D7%9C--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Food and Recipes",
+          "url": "https://www.jpost.com/rss/rssfoodandrecipes",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בישולים מבית אסם",
+          "url": "https://www.bishulim.co.il/rss.xml",
+          "site": "Bishulim",
+          "homepage": "https://www.bishulim.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עוגיו.נט",
+          "url": "https://www.oogio.net/feed/",
+          "site": "Oogio",
+          "homepage": "https://www.oogio.net/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קרוטית",
+          "url": "https://www.krutit.co.il/feed/",
+          "site": "Krutit",
+          "homepage": "https://www.krutit.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "המטבח של נטע",
+          "url": "https://netacooks.co.il/feed/",
+          "site": "Neta Cooks",
+          "homepage": "https://netacooks.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "רותם ליברזון - בלוג אוכל",
+          "url": "https://rotteml.com/feed/",
+          "site": "Rotem Liberzon",
+          "homepage": "https://rotteml.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מדע בצלחת",
+          "url": "https://scienceinmyplate.com/feed/",
+          "site": "Science in My Plate",
+          "homepage": "https://scienceinmyplate.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "The Kitchen Coach",
+          "url": "https://www.thekitchencoach.co.il/feed/",
+          "site": "The Kitchen Coach",
+          "homepage": "https://www.thekitchencoach.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "טבעוניות נהנות יותר",
+          "url": "https://vegansontop.co.il/feed/",
+          "site": "Vegans on Top",
+          "homepage": "https://vegansontop.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ניקי ב - אוכל עושים באהבה",
+          "url": "https://www.nikib.co.il/feed/",
+          "site": "Niki B",
+          "homepage": "https://www.nikib.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קולינרטיקה",
+          "url": "https://culinartica.co.il/feed/",
+          "site": "Culinartica",
+          "homepage": "https://culinartica.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "יופי במטבח",
+          "url": "https://fromhayawithlove.com/feed/",
+          "site": "From Haya with Love",
+          "homepage": "https://fromhayawithlove.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -733,14 +1973,292 @@
       "name_he": "תיירות ופנאי",
       "name_en": "Travel & Leisure",
       "description_he": "טיולים, חופשות, תעופה",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "מעריב - תיירות",
+          "url": "https://www.maariv.co.il/rss/rssfeedstayarot",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - תיירות",
+          "url": "https://rss.walla.co.il/feed/2501",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - טיולים בארץ",
+          "url": "https://rss.walla.co.il/feed/5735",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - טיולים בעולם",
+          "url": "https://rss.walla.co.il/feed/779",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - טיולים",
+          "url": "https://www.haaretz.co.il/srv/%D7%98%D7%99%D7%95%D7%9C%D7%99%D7%9D---%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "גלובס - תיירות",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9010",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Travel",
+          "url": "https://www.jpost.com/rss/rsstravel",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ynet - חופש",
+          "url": "https://www.ynet.co.il/Integration/StoryRss598.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "תיירות קום",
+          "url": "https://www.tayarut.com/feed/",
+          "site": "Tayarut",
+          "homepage": "https://www.tayarut.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מטיילת מחוץ לקופסא",
+          "url": "https://www.trvbox.co.il/feed/",
+          "site": "Trvbox",
+          "homepage": "https://www.trvbox.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בא לי לטייל",
+          "url": "https://baliletayel.co.il/feed/",
+          "site": "Ba Li Letayel",
+          "homepage": "https://baliletayel.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מטיילים בכיפה",
+          "url": "https://metaylimbkipa.com/feed/",
+          "site": "Metaylim Bkipa",
+          "homepage": "https://metaylimbkipa.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מטיילת",
+          "url": "https://metayelet.co.il/feed/",
+          "site": "Metayelet",
+          "homepage": "https://metayelet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "auto",
       "name_he": "רכב ותחבורה",
       "name_en": "Cars & Transportation",
       "description_he": "חדשות רכב, תחבורה ציבורית",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "ynet - רכב",
+          "url": "https://www.ynet.co.il/Integration/StoryRss550.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - רכב",
+          "url": "https://www.maariv.co.il/rss/rssfeedsrechev",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - רכב",
+          "url": "https://rss.walla.co.il/feed/4700",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - מבחני רכב",
+          "url": "https://rss.walla.co.il/feed/4701",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - דו-גלגלי",
+          "url": "https://rss.walla.co.il/feed/4739",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "גלובס - רכב ותחבורה",
+          "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3220",
+          "site": "Globes",
+          "homepage": "https://www.globes.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "אוברדרייב - רכב ואופנועים",
+          "url": "https://over-drive.co.il/feed/",
+          "site": "Over-Drive",
+          "homepage": "https://over-drive.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Wheel - חדשות רכב",
+          "url": "https://wheel.co.il/feed/",
+          "site": "Wheel",
+          "homepage": "https://wheel.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "autocom",
+          "url": "https://www.autocom.co.il/feed/",
+          "site": "Autocom",
+          "homepage": "https://www.autocom.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קארטיוב",
+          "url": "https://www.cartube.co.il/?format=feed&type=rss",
+          "site": "Cartube",
+          "homepage": "https://www.cartube.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "fashion",
@@ -761,6 +2279,78 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "מעריב - אופנה",
+          "url": "https://www.maariv.co.il/rss/rssfeedsofna",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - לייף סטייל",
+          "url": "https://www.maariv.co.il/rss/rssfeedslayfstyle",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב TMI - אופנה",
+          "url": "https://www.maariv.co.il/rss/rssfeedstmifashion",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - אופנה",
+          "url": "https://rss.walla.co.il/feed/2120",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - טרנדים",
+          "url": "https://rss.walla.co.il/feed/2101",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - טיפוח ויופי",
+          "url": "https://rss.walla.co.il/feed/1860",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]
@@ -785,6 +2375,102 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "מעריב - נדל\"ן",
+          "url": "https://www.maariv.co.il/rss/rssfeedsnadlan",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - נדל\"ן",
+          "url": "https://www.themarker.com/srv/tm-real-estate",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Real Estate",
+          "url": "https://www.jpost.com/rss/rssrealestate",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - בית ועיצוב",
+          "url": "https://rss.walla.co.il/feed/4418",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - עיצוב פנים",
+          "url": "https://rss.walla.co.il/feed/3237",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - אדריכלות",
+          "url": "https://rss.walla.co.il/feed/4410",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בניין ודיור",
+          "url": "https://www.bvd.co.il/feed/",
+          "site": "BVD",
+          "homepage": "https://www.bvd.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "WALLS - מגזין עיצוב",
+          "url": "https://wallsmag.co.il/feed/",
+          "site": "Walls",
+          "homepage": "https://wallsmag.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -793,7 +2479,68 @@
       "name_he": "הורות ומשפחה",
       "name_en": "Parenting & Family",
       "description_he": "גידול ילדים, חינוך",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "וואלה - הורות וילדים",
+          "url": "https://rss.walla.co.il/feed/594",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - הריון ולידה",
+          "url": "https://rss.walla.co.il/feed/590",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - חינוך",
+          "url": "https://www.maariv.co.il/rss/rsseducation",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - משפחה",
+          "url": "https://www.haaretz.co.il/srv/rss---%D7%9E%D7%A9%D7%A4%D7%97%D7%94",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "רון שמעוני - הורות",
+          "url": "https://www.ronshimoni.co.il/feed/",
+          "site": "Ron Shimoni",
+          "homepage": "https://www.ronshimoni.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "opinion",
@@ -859,6 +2606,78 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "ynet - דעות",
+          "url": "https://www.ynet.co.il/Integration/StoryRss194.xml",
+          "site": "Ynet",
+          "homepage": "https://www.ynet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מעריב - דעות",
+          "url": "https://www.maariv.co.il/rss/rssfeedsopinions",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הארץ - דעות",
+          "url": "https://www.haaretz.co.il/srv/rss-opinion",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - פרשנויות",
+          "url": "https://www.themarker.com/srv/tm-opinions",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Opinion",
+          "url": "https://www.jpost.com/rss/rssopinion",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה כסף - דעות",
+          "url": "https://rss.walla.co.il/feed/4997",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -867,7 +2686,272 @@
       "name_he": "פודקאסטים",
       "name_en": "Podcasts",
       "description_he": "עדכונים על פרקים חדשים",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "הארץ - פודקאסטים",
+          "url": "https://www.haaretz.co.il/srv/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "השבוע - פודקאסט הארץ",
+          "url": "https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss",
+          "site": "Haaretz",
+          "homepage": "https://www.haaretz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Podcasts",
+          "url": "https://www.jpost.com/rss/rssfeedpodcast",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "פודקאסט·ישראל - פרקים חדשים",
+          "url": "https://pod-il.co.il/feed.xml",
+          "site": "Pod-IL",
+          "homepage": "https://pod-il.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עושים היסטוריה עם רן לוי",
+          "url": "https://www.spreaker.com/show/4227531/episodes/feed",
+          "site": "Osim Historia",
+          "homepage": "https://www.osimhistoria.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עושים טכנולוגיה עם ד\"ר יובל דרור",
+          "url": "https://www.spreaker.com/show/4231127/episodes/feed",
+          "site": "Osim Historia",
+          "homepage": "https://www.osimhistoria.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עושים חשבון",
+          "url": "https://www.spreaker.com/show/4221239/episodes/feed",
+          "site": "Osim Historia",
+          "homepage": "https://www.osimhistoria.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עושים פסיכולוגיה",
+          "url": "https://www.spreaker.com/show/5277195/episodes/feed",
+          "site": "Osim Historia",
+          "homepage": "https://www.osimhistoria.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן - חיות כיס",
+          "url": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss",
+          "site": "Kan",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן דוקו - ההסכת",
+          "url": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/c40b8ac9-3853-41fc-a2bf-b02700be578d/d2f0ee29-6047-4c3b-bab9-b02700c0b25e/podcast.rss",
+          "site": "Kan",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן - ביג דיל",
+          "url": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/28750de1-4a5a-434d-8dd1-b358009ee1ee/fd0d099f-235e-4b91-b35a-b358009ee5e3/podcast.rss",
+          "site": "Kan",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן - גורי כיס",
+          "url": "https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/1a02e8c1-d119-40da-acf7-ae2f00c89258/e8990ce1-f3fa-44c6-8e39-ae2f00ca8b98/podcast.rss",
+          "site": "Kan",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עולים לרגל - פודקאסט כדורגל (ערוץ הספורט)",
+          "url": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/7050b47b-371e-469c-9d10-ae83012b5e4b/f6f3b580-aace-4226-9216-ae83012c09a2/podcast.rss",
+          "site": "Sport5",
+          "homepage": "https://www.sport5.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ספיק נ' רול - פודקאסט כדורסל (ערוץ הספורט)",
+          "url": "https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/76238410-3d22-4fe5-9071-ae83012ec9f3/a589b423-1724-4672-a3a4-ae83012f3b88/podcast.rss",
+          "site": "Sport5",
+          "homepage": "https://www.sport5.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "השקעות לעצלנים",
+          "url": "https://anchor.fm/s/ef1f5500/podcast/rss",
+          "site": "Tamir Mandovsky",
+          "homepage": "https://anchor.fm/s/ef1f5500/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "רגע לפני - פודקאסט פוליטי",
+          "url": "https://anchor.fm/s/f80c84d0/podcast/rss",
+          "site": "Rega Lifney",
+          "homepage": "https://anchor.fm/s/f80c84d0/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "היסטוריה אדומה",
+          "url": "https://feeds.redcircle.com/badd6290-0fec-4712-96c1-362df2ed4e3a",
+          "site": "Historia Aduma",
+          "homepage": "https://feeds.redcircle.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "היסטוריה אינטלקטואלית גסה",
+          "url": "https://anchor.fm/s/e3810720/podcast/rss",
+          "site": "HI Gasa",
+          "homepage": "https://anchor.fm/s/e3810720/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "תעלומות במדעטק",
+          "url": "https://anchor.fm/s/f4db785c/podcast/rss",
+          "site": "Madatech",
+          "homepage": "https://www.madatech.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קפה מדע (תל אביב 360)",
+          "url": "https://anchor.fm/s/112721f4c/podcast/rss",
+          "site": "Tel Aviv 360",
+          "homepage": "https://anchor.fm/s/112721f4c/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "פרוטוקול פתוח - פודקאסט בריאות מבוסס מדע",
+          "url": "https://rss.buzzsprout.com/2595895.rss",
+          "site": "Protocol Patuach",
+          "homepage": "https://rss.buzzsprout.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכלה מבראשית (רדיו תל אביב)",
+          "url": "https://rss.102fm.co.il/rss-feed/get-feed?category=BERESHIT",
+          "site": "102FM",
+          "homepage": "https://102fm.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "career",
@@ -888,6 +2972,42 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "וואלה - קריירה והשכלה",
+          "url": "https://rss.walla.co.il/feed/12864",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עידית כהנא - קריירה",
+          "url": "https://www.iditcahana.co.il/feed/",
+          "site": "Idit Cahana",
+          "homepage": "https://www.iditcahana.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קורות חיים - בלוג",
+          "url": "https://korotchaim.com/feed.xml",
+          "site": "Korotchaim",
+          "homepage": "https://korotchaim.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]
@@ -927,6 +3047,126 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "מעריב - צרכנות",
+          "url": "https://www.maariv.co.il/rss/rssfeedszarchanot",
+          "site": "Maariv",
+          "homepage": "https://www.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - צרכנות",
+          "url": "https://rss.walla.co.il/feed/127",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TheMarker - צרכנות",
+          "url": "https://www.themarker.com/srv/tm-consumer",
+          "site": "TheMarker",
+          "homepage": "https://www.themarker.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Jerusalem Post - Consumerism",
+          "url": "https://www.jpost.com/rss/consumerism",
+          "site": "JPost",
+          "homepage": "https://www.jpost.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קופונים",
+          "url": "https://couponim.co.il/feed/",
+          "site": "Couponim",
+          "homepage": "https://couponim.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "דיל היום",
+          "url": "https://dealhayom.co.il/feed/",
+          "site": "DealHayom",
+          "homepage": "https://dealhayom.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "דילים - סיילים ומבצעים",
+          "url": "https://dilim.co.il/feed/",
+          "site": "Dilim",
+          "homepage": "https://dilim.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "יממה - מבצעים ודילים",
+          "url": "https://yemama.co.il/feed/",
+          "site": "Yemama",
+          "homepage": "https://yemama.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "דילי",
+          "url": "https://www.deali.co.il/feed.xml",
+          "site": "Deali",
+          "homepage": "https://www.deali.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "דיל סקנר",
+          "url": "https://deal-scanner.blogspot.com/feeds/posts/default",
+          "site": "Deal Scanner",
+          "homepage": "https://deal-scanner.blogspot.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -935,7 +3175,124 @@
       "name_he": "תרבות דיגיטלית ורשת",
       "name_en": "Digital Culture & Web",
       "description_he": "ממים, טרנדים ברשתות חברתיות",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "וואלה - רשתות חברתיות",
+          "url": "https://rss.walla.co.il/feed/13019",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "וואלה - ויראלי",
+          "url": "https://rss.walla.co.il/feed/4027",
+          "site": "Walla",
+          "homepage": "https://www.walla.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name_he": "בינה מלאכותית",
+      "name_en": "Artificial Intelligence",
+      "description_he": "חדשות, בלוגים ומדריכים על בינה מלאכותית",
+      "feeds": [
+        {
+          "title": "tzedek.me - חדשות ומדריכי AI",
+          "url": "https://tzedek.me/rss.xml",
+          "site": "tzedek.me",
+          "homepage": "https://tzedek.me/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "GoAI - בינה מלאכותית בעברית",
+          "url": "https://www.goai.co.il/feed/",
+          "site": "GoAI",
+          "homepage": "https://www.goai.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "VC Cafe",
+          "url": "https://www.vccafe.com/feed/",
+          "site": "VC Cafe",
+          "homepage": "https://www.vccafe.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Machine Learning Israel",
+          "url": "https://machinelearning.co.il/feed/",
+          "site": "Machine Learning Israel",
+          "homepage": "https://machinelearning.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "YUV.AI (יובל אבידני)",
+          "url": "https://yuv.ai/rss.xml",
+          "site": "YUV.AI",
+          "homepage": "https://yuv.ai/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Israel-AI - ארגון ה-AI הישראלי",
+          "url": "https://israel-ai.org/rss.xml",
+          "site": "Israel-AI",
+          "homepage": "https://israel-ai.org/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "יפית בשבקין - AI",
+          "url": "https://www.bashevkin.co.il/blog-feed.xml",
+          "site": "Yafit Bashevkin",
+          "homepage": "https://www.bashevkin.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     }
   ]
 }

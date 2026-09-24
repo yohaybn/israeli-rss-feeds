@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - בינה מלאכותית</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="בינה מלאכותית" title="בינה מלאכותית">
+      <outline type="rss" text="tzedek.me - חדשות ומדריכי AI" title="tzedek.me - חדשות ומדריכי AI" xmlUrl="https://tzedek.me/rss.xml" htmlUrl="https://tzedek.me/"/>
+      <outline type="rss" text="GoAI - בינה מלאכותית בעברית" title="GoAI - בינה מלאכותית בעברית" xmlUrl="https://www.goai.co.il/feed/" htmlUrl="https://www.goai.co.il/"/>
+      <outline type="rss" text="VC Cafe" title="VC Cafe" xmlUrl="https://www.vccafe.com/feed/" htmlUrl="https://www.vccafe.com/"/>
+      <outline type="rss" text="Machine Learning Israel" title="Machine Learning Israel" xmlUrl="https://machinelearning.co.il/feed/" htmlUrl="https://machinelearning.co.il/"/>
+      <outline type="rss" text="YUV.AI (יובל אבידני)" title="YUV.AI (יובל אבידני)" xmlUrl="https://yuv.ai/rss.xml" htmlUrl="https://yuv.ai/"/>
+      <outline type="rss" text="Israel-AI - ארגון ה-AI הישראלי" title="Israel-AI - ארגון ה-AI הישראלי" xmlUrl="https://israel-ai.org/rss.xml" htmlUrl="https://israel-ai.org/"/>
+      <outline type="rss" text="יפית בשבקין - AI" title="יפית בשבקין - AI" xmlUrl="https://www.bashevkin.co.il/blog-feed.xml" htmlUrl="https://www.bashevkin.co.il/"/>
+    </outline>
+  </body>
+</opml>

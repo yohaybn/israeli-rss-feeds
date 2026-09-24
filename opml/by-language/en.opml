@@ -19,11 +19,49 @@
     <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="CTech" title="CTech" xmlUrl="https://feeds.feedburner.com/ctech" htmlUrl="https://www.calcalistech.com/"/>
       <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Jerusalem Post - Tech" title="Jerusalem Post - Tech" xmlUrl="https://www.jpost.com/rss/rsstechandstartups" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
+      <outline type="rss" text="Jerusalem Post - Business &amp; Innovation" title="Jerusalem Post - Business &amp; Innovation" xmlUrl="https://www.jpost.com/rss/rssbusinessandinnovation" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Banking &amp; Finance" title="Jerusalem Post - Banking &amp; Finance" xmlUrl="https://www.jpost.com/rss/rssbankingandfinance" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Globes English" title="Globes English" xmlUrl="https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942" htmlUrl="https://en.globes.co.il/"/>
+    </outline>
+    <outline text="תרבות ופנאי" title="תרבות ופנאי">
+      <outline type="rss" text="Jerusalem Post - Culture" title="Jerusalem Post - Culture" xmlUrl="https://www.jpost.com/rss/rssfeedsculture.aspx" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Secret Tel Aviv" title="Secret Tel Aviv" xmlUrl="https://www.secrettelaviv.com/feed" htmlUrl="https://www.secrettelaviv.com/"/>
+    </outline>
+    <outline text="בריאות ורפואה" title="בריאות ורפואה">
+      <outline type="rss" text="Jerusalem Post - Health &amp; Wellness" title="Jerusalem Post - Health &amp; Wellness" xmlUrl="https://www.jpost.com/rss/rsshealth-and-wellness" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Nutrition" title="Jerusalem Post - Nutrition" xmlUrl="https://www.jpost.com/rss/rssnutrition" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="מדע וסביבה" title="מדע וסביבה">
+      <outline type="rss" text="Jerusalem Post - Science" title="Jerusalem Post - Science" xmlUrl="https://www.jpost.com/rss/rssscience" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Archaeology" title="Jerusalem Post - Archaeology" xmlUrl="https://www.jpost.com/rss/rssarchaeology" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Environment" title="Jerusalem Post - Environment" xmlUrl="https://www.jpost.com/rss/rssenvironment" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
+      <outline type="rss" text="Jerusalem Post - Food and Recipes" title="Jerusalem Post - Food and Recipes" xmlUrl="https://www.jpost.com/rss/rssfoodandrecipes" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="תיירות ופנאי" title="תיירות ופנאי">
+      <outline type="rss" text="Jerusalem Post - Travel" title="Jerusalem Post - Travel" xmlUrl="https://www.jpost.com/rss/rsstravel" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
+      <outline type="rss" text="Jerusalem Post - Real Estate" title="Jerusalem Post - Real Estate" xmlUrl="https://www.jpost.com/rss/rssrealestate" htmlUrl="https://www.jpost.com/"/>
     </outline>
     <outline text="דעה וטורים אישיים" title="דעה וטורים אישיים">
       <outline type="rss" text="Israellycool" title="Israellycool" xmlUrl="https://www.israellycool.com/feed/" htmlUrl="https://www.israellycool.com/"/>
       <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
       <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+      <outline type="rss" text="Jerusalem Post - Opinion" title="Jerusalem Post - Opinion" xmlUrl="https://www.jpost.com/rss/rssopinion" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="פודקאסטים" title="פודקאסטים">
+      <outline type="rss" text="Jerusalem Post - Podcasts" title="Jerusalem Post - Podcasts" xmlUrl="https://www.jpost.com/rss/rssfeedpodcast" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="צרכנות ומבצעים" title="צרכנות ומבצעים">
+      <outline type="rss" text="Jerusalem Post - Consumerism" title="Jerusalem Post - Consumerism" xmlUrl="https://www.jpost.com/rss/consumerism" htmlUrl="https://www.jpost.com/"/>
+    </outline>
+    <outline text="בינה מלאכותית" title="בינה מלאכותית">
+      <outline type="rss" text="VC Cafe" title="VC Cafe" xmlUrl="https://www.vccafe.com/feed/" htmlUrl="https://www.vccafe.com/"/>
     </outline>
   </body>
 </opml>

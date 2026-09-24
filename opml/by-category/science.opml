@@ -6,6 +6,27 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="מדע וסביבה" title="מדע וסביבה"/>
+    <outline text="מדע וסביבה" title="מדע וסביבה">
+      <outline type="rss" text="הארץ - מדע" title="הארץ - מדע" xmlUrl="https://www.haaretz.co.il/srv/%D7%9E%D7%93%D7%A2--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="הארץ - סביבה ואקלים" title="הארץ - סביבה ואקלים" xmlUrl="https://www.haaretz.co.il/srv/%D7%A1%D7%91%D7%99%D7%91%D7%94-%D7%95%D7%90%D7%A7%D7%9C%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="מעריב - איכות הסביבה" title="מעריב - איכות הסביבה" xmlUrl="https://www.maariv.co.il/rss/rssfeedsenvironment" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - מדע" title="וואלה - מדע" xmlUrl="https://rss.walla.co.il/feed/13308" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Science" title="Jerusalem Post - Science" xmlUrl="https://www.jpost.com/rss/rssscience" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Archaeology" title="Jerusalem Post - Archaeology" xmlUrl="https://www.jpost.com/rss/rssarchaeology" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Environment" title="Jerusalem Post - Environment" xmlUrl="https://www.jpost.com/rss/rssenvironment" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="הידען" title="הידען" xmlUrl="https://www.hayadan.org.il/feed" htmlUrl="https://www.hayadan.org.il/"/>
+      <outline type="rss" text="זווית - סוכנות ידיעות למדע ולסביבה" title="זווית - סוכנות ידיעות למדע ולסביבה" xmlUrl="https://www.zavit.org.il/feed/" htmlUrl="https://www.zavit.org.il/"/>
+      <outline type="rss" text="בשער - מדע וחברה" title="בשער - מדע וחברה" xmlUrl="https://www.bashaar.org.il/feed/" htmlUrl="https://www.bashaar.org.il/"/>
+      <outline type="rss" text="החברה להגנת הטבע" title="החברה להגנת הטבע" xmlUrl="https://www.teva.org.il/feed/" htmlUrl="https://www.teva.org.il/"/>
+      <outline type="rss" text="Nature Israel" title="Nature Israel" xmlUrl="https://natureisrael.org/feed/" htmlUrl="https://natureisrael.org/"/>
+      <outline type="rss" text="אוניברסיטת תל אביב - חדשות" title="אוניברסיטת תל אביב - חדשות" xmlUrl="https://www.tau.ac.il/rss.xml" htmlUrl="https://www.tau.ac.il/"/>
+      <outline type="rss" text="אוניברסיטת בר-אילן - חדשות" title="אוניברסיטת בר-אילן - חדשות" xmlUrl="https://www.biu.ac.il/rss.xml" htmlUrl="https://www.biu.ac.il/"/>
+      <outline type="rss" text="אוניברסיטת חיפה - חדשות" title="אוניברסיטת חיפה - חדשות" xmlUrl="https://www.haifa.ac.il/feed/" htmlUrl="https://www.haifa.ac.il/"/>
+      <outline type="rss" text="סוכנות החלל הישראלית" title="סוכנות החלל הישראלית" xmlUrl="https://www.space.gov.il/rss.xml" htmlUrl="https://www.space.gov.il/"/>
+      <outline type="rss" text="סיור מוחות" title="סיור מוחות" xmlUrl="https://brains-tour.com/feed/" htmlUrl="https://brains-tour.com/"/>
+      <outline type="rss" text="Q-Israel - קוונטים" title="Q-Israel - קוונטים" xmlUrl="https://www.q-israel.com/blog-feed.xml" htmlUrl="https://www.q-israel.com/"/>
+      <outline type="rss" text="פיזיקטבע" title="פיזיקטבע" xmlUrl="https://physicateva.com/feed/" htmlUrl="https://physicateva.com/"/>
+      <outline type="rss" text="חיידקים, נגיפים ושאר ירקות (ד&quot;ר דרור בר-ניר)" title="חיידקים, נגיפים ושאר ירקות (ד&quot;ר דרור בר-ניר)" xmlUrl="https://drorbn.blogspot.com/feeds/posts/default" htmlUrl="https://drorbn.blogspot.com/"/>
+    </outline>
   </body>
 </opml>

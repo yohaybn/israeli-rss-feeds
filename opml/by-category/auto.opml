@@ -6,6 +6,17 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="רכב ותחבורה" title="רכב ותחבורה"/>
+    <outline text="רכב ותחבורה" title="רכב ותחבורה">
+      <outline type="rss" text="ynet - רכב" title="ynet - רכב" xmlUrl="https://www.ynet.co.il/Integration/StoryRss550.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="מעריב - רכב" title="מעריב - רכב" xmlUrl="https://www.maariv.co.il/rss/rssfeedsrechev" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - רכב" title="וואלה - רכב" xmlUrl="https://rss.walla.co.il/feed/4700" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - מבחני רכב" title="וואלה - מבחני רכב" xmlUrl="https://rss.walla.co.il/feed/4701" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - דו-גלגלי" title="וואלה - דו-גלגלי" xmlUrl="https://rss.walla.co.il/feed/4739" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="גלובס - רכב ותחבורה" title="גלובס - רכב ותחבורה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3220" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="אוברדרייב - רכב ואופנועים" title="אוברדרייב - רכב ואופנועים" xmlUrl="https://over-drive.co.il/feed/" htmlUrl="https://over-drive.co.il/"/>
+      <outline type="rss" text="Wheel - חדשות רכב" title="Wheel - חדשות רכב" xmlUrl="https://wheel.co.il/feed/" htmlUrl="https://wheel.co.il/"/>
+      <outline type="rss" text="autocom" title="autocom" xmlUrl="https://www.autocom.co.il/feed/" htmlUrl="https://www.autocom.co.il/"/>
+      <outline type="rss" text="קארטיוב" title="קארטיוב" xmlUrl="https://www.cartube.co.il/?format=feed&amp;type=rss" htmlUrl="https://www.cartube.co.il/"/>
+    </outline>
   </body>
 </opml>

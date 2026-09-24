@@ -8,6 +8,14 @@
   <body>
     <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
       <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="מעריב - נדל&quot;ן" title="מעריב - נדל&quot;ן" xmlUrl="https://www.maariv.co.il/rss/rssfeedsnadlan" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="TheMarker - נדל&quot;ן" title="TheMarker - נדל&quot;ן" xmlUrl="https://www.themarker.com/srv/tm-real-estate" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="Jerusalem Post - Real Estate" title="Jerusalem Post - Real Estate" xmlUrl="https://www.jpost.com/rss/rssrealestate" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="וואלה - בית ועיצוב" title="וואלה - בית ועיצוב" xmlUrl="https://rss.walla.co.il/feed/4418" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - עיצוב פנים" title="וואלה - עיצוב פנים" xmlUrl="https://rss.walla.co.il/feed/3237" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - אדריכלות" title="וואלה - אדריכלות" xmlUrl="https://rss.walla.co.il/feed/4410" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="בניין ודיור" title="בניין ודיור" xmlUrl="https://www.bvd.co.il/feed/" htmlUrl="https://www.bvd.co.il/"/>
+      <outline type="rss" text="WALLS - מגזין עיצוב" title="WALLS - מגזין עיצוב" xmlUrl="https://wallsmag.co.il/feed/" htmlUrl="https://wallsmag.co.il/"/>
     </outline>
   </body>
 </opml>

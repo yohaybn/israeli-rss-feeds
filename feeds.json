@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-20 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-24",
-  "feed_count": 53,
+  "feed_count": 55,
   "categories": [
     {
       "id": "news",
@@ -531,6 +531,30 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "TGspot",
+          "url": "https://www.tgspot.co.il/feed/",
+          "site": "TGspot",
+          "homepage": "https://www.tgspot.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הבייט הלבן - עידו גנדל",
+          "url": "https://www.idogendel.com/whitebyte/feed/",
+          "site": "הבייט הלבן",
+          "homepage": "https://www.idogendel.com/whitebyte/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]

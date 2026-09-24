@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - חדשות</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="חדשות" title="חדשות">
+      <outline type="rss" text="ynet - חדשות" title="ynet - חדשות" xmlUrl="https://www.ynet.co.il/Integration/StoryRss2.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="mako - חדשות בארץ" title="mako - חדשות בארץ" xmlUrl="https://rcs.mako.co.il/rss/news-israel.xml" htmlUrl="https://www.mako.co.il/"/>
+      <outline type="rss" text="mako - חדשות בעולם" title="mako - חדשות בעולם" xmlUrl="https://rcs.mako.co.il/rss/news-world.xml" htmlUrl="https://www.mako.co.il/"/>
+      <outline type="rss" text="mako - פוליטי וצבאי" title="mako - פוליטי וצבאי" xmlUrl="https://rcs.mako.co.il/rss/news-military.xml" htmlUrl="https://www.mako.co.il/"/>
+      <outline type="rss" text="מעריב - חדשות" title="מעריב - חדשות" xmlUrl="https://www.maariv.co.il/rss/rsschadashot" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - חדשות בעולם" title="וואלה - חדשות בעולם" xmlUrl="https://rss.walla.co.il/feed/2" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - חדשות בארץ" title="וואלה - חדשות בארץ" xmlUrl="https://rss.walla.co.il/feed/1" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - פלילים ומשפט" title="וואלה - פלילים ומשפט" xmlUrl="https://rss.walla.co.il/feed/10" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - פוליטיקה וממשל" title="וואלה - פוליטיקה וממשל" xmlUrl="https://rss.walla.co.il/feed/9" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - מזרח תיכון" title="וואלה - מזרח תיכון" xmlUrl="https://rss.walla.co.il/feed/13" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="הארץ - כל הכתבות" title="הארץ - כל הכתבות" xmlUrl="https://www.haaretz.co.il/srv/htz-all-articles" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="ערוץ 7" title="ערוץ 7" xmlUrl="https://www.inn.co.il/Rss.aspx?act=.1" htmlUrl="https://www.inn.co.il/"/>
+      <outline type="rss" text="Now 14" title="Now 14" xmlUrl="https://www.now14.co.il/feed/" htmlUrl="https://www.now14.co.il/"/>
+    </outline>
+  </body>
+</opml>

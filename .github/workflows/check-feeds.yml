@@ -1,0 +1,27 @@
+name: Weekly feed health check
+on:
+  schedule:
+    - cron: '0 5 * * 0'   # Sundays 05:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate all feeds
+        run: python scripts/check_feeds.py --print-issue || true
+      - name: Commit status report
+        run: |
+          git config user.name "feed-checker"
+          git config user.email "actions@github.com"
+          git add FEEDS-STATUS.md
+          git diff --cached --quiet || git commit -m "Feed status $(date +%Y-%m-%d)"
+          git push
+      - name: Open issue for dead feeds
+        if: hashFiles('dead-feeds-issue.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "Dead or stale feeds ($(date +%Y-%m-%d))" --body-file dead-feeds-issue.md

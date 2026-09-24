@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - טכנולוגיה</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="טכנולוגיה" title="טכנולוגיה">
+      <outline type="rss" text="גלובס - טכנולוגיה" title="גלובס - טכנולוגיה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="וואלה - טכנולוגיה" title="וואלה - טכנולוגיה" xmlUrl="https://rss.walla.co.il/feed/4" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="גיקטיים" title="גיקטיים" xmlUrl="https://www.geektime.co.il/feed/" htmlUrl="https://www.geektime.co.il/"/>
+      <outline type="rss" text="אנשים ומחשבים" title="אנשים ומחשבים" xmlUrl="https://www.pc.co.il/feed/" htmlUrl="https://www.pc.co.il/"/>
+      <outline type="rss" text="Gadgety" title="Gadgety" xmlUrl="https://www.gadgety.co.il/feed/" htmlUrl="https://www.gadgety.co.il/"/>
+      <outline type="rss" text="CTech" title="CTech" xmlUrl="https://feeds.feedburner.com/ctech" htmlUrl="https://www.calcalistech.com/"/>
+    </outline>
+  </body>
+</opml>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - כלכלה ופיננסים</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="כלכלה ופיננסים" title="כלכלה ופיננסים">
+      <outline type="rss" text="mako - צרכנות וכלכלה" title="mako - צרכנות וכלכלה" xmlUrl="https://rcs.mako.co.il/rss/news-money.xml" htmlUrl="https://www.mako.co.il/"/>
+      <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - שוק ההון והשקעות" title="גלובס - שוק ההון והשקעות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - גלובלי ושוקי עולם" title="גלובס - גלובלי ושוקי עולם" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - ראשי" title="גלובס - ראשי" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="וואלה - כסף וצרכנות" title="וואלה - כסף וצרכנות" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="TheMarker - כל הכתבות" title="TheMarker - כל הכתבות" xmlUrl="https://www.themarker.com/srv/tm-all-articles" htmlUrl="https://www.themarker.com/"/>
+    </outline>
+  </body>
+</opml>

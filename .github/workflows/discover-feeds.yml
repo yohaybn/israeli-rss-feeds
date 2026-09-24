@@ -1,0 +1,19 @@
+name: Weekly feed discovery
+on:
+  schedule:
+    - cron: '0 5 * * 3'   # Wednesdays 05:00 UTC
+  workflow_dispatch:
+permissions:
+  issues: write
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan seed sites for new feeds
+        run: python scripts/discover_feeds.py
+      - name: Open issue with candidates
+        if: hashFiles('discovery-issue.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh issue create --title "New feed candidates ($(date +%Y-%m-%d))" --body-file discovery-issue.md

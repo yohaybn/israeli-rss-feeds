@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - באנגלית</title>
+    <dateCreated>2026-09-24</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="באנגלית" title="באנגלית">
+      <outline type="rss" text="Times of Israel" title="Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com/"/>
+      <outline type="rss" text="Jerusalem Post" title="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Haaretz - Latest Headlines" title="Haaretz - Latest Headlines" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Haaretz - Israel News" title="Haaretz - Israel News" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Ynetnews" title="Ynetnews" xmlUrl="https://www.ynetnews.com/Integration/StoryRss2.xml" htmlUrl="https://www.ynetnews.com/"/>
+      <outline type="rss" text="Israel National News" title="Israel National News" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" htmlUrl="https://www.israelnationalnews.com/"/>
+      <outline type="rss" text="JNS" title="JNS" xmlUrl="https://www.jns.org/feed/" htmlUrl="https://www.jns.org/"/>
+      <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
+      <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+    </outline>
+  </body>
+</opml>

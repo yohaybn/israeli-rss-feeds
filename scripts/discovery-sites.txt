@@ -1,0 +1,49 @@
+# Seed sites for weekly feed discovery (one per line, # = comment).
+# The discovery job fetches each homepage, reads <link rel="alternate"> feed
+# tags, probes common feed paths, and reports new live feeds not yet in feeds.json.
+# Add Israeli news sites, blogs, hobby sites, forums and communities here.
+https://www.ynet.co.il/
+https://www.walla.co.il/
+https://www.mako.co.il/
+https://www.haaretz.co.il/
+https://www.themarker.com/
+https://www.maariv.co.il/
+https://www.israelhayom.co.il/
+https://www.kan.org.il/
+https://www.inn.co.il/
+https://www.now14.co.il/
+https://www.globes.co.il/
+https://www.calcalist.co.il/
+https://www.bizportal.co.il/
+https://www.ice.co.il/
+https://www.geektime.co.il/
+https://www.gadgety.co.il/
+https://www.pc.co.il/
+https://www.calcalistech.com/
+https://www.one.co.il/
+https://www.sport5.co.il/
+https://www.kikar.co.il/
+https://www.srugim.co.il/
+https://www.kipa.co.il/
+https://www.bhol.co.il/
+https://foody.co.il/
+https://www.atmag.co.il/
+https://www.saloona.co.il/
+https://www.xnet.co.il/
+https://www.0404.co.il/
+https://13tv.co.il/
+https://glz.co.il/
+https://internet-israel.com/
+https://www.israellycool.com/
+https://www.hometheater.co.il/
+https://mida.org.il/
+https://unpacked.media/
+https://www.timesofisrael.com/
+https://www.jpost.com/
+https://www.haaretz.com/
+https://www.ynetnews.com/
+https://www.israelnationalnews.com/
+https://www.jns.org/
+https://www.algemeiner.com/
+# Blogrolls / aggregators that surface personal Hebrew blogs
+http://planet.linux.org.il/

@@ -38,32 +38,48 @@ def parse_feed(data):
     tag = root.tag.lower().split('}')[-1]
     items, newest = 0, None
     def dt(v):
-        if not v: return None
-        try: return parsedate_to_datetime(v.strip())
+        if not v or not v.strip(): return None
+        try: d = parsedate_to_datetime(v.strip())
         except Exception:
-            try: return datetime.fromisoformat(v.strip().replace('Z', '+00:00'))
+            try: d = datetime.fromisoformat(v.strip().replace('Z', '+00:00'))
             except Exception: return None
+        # naive dates (e.g. "-0000" offsets) would crash comparisons with aware ones
+        return d.replace(tzinfo=timezone.utc) if d.tzinfo is None else d
+    def text_of(it, paths, ns):
+        # Compare with None explicitly: an ElementTree element with no children
+        # is falsy, so `it.find(a) or it.find(b)` silently drops every date.
+        for p in paths:
+            e = it.find(p, ns)
+            if e is not None and e.text and e.text.strip():
+                return e.text
+        return None
     if tag in ('rss', 'rdf'):
         chan = root.find('channel') if tag == 'rss' else root
         its = (chan.findall('item') if chan is not None else []) or root.findall('item')
         items = len(its)
         for it in its[:15]:
-            e = it.find('pubDate') or it.find('{http://purl.org/dc/elements/1.1/}date')
-            d = dt(e.text if e is not None else None)
+            d = dt(text_of(it, ('pubDate', '{http://purl.org/dc/elements/1.1/}date'), {}))
             if d and (newest is None or d > newest): newest = d
     elif tag == 'feed':
         ns = {'a': 'http://www.w3.org/2005/Atom'}
         ents = root.findall('a:entry', ns) or root.findall('entry')
         items = len(ents)
         for it in ents[:15]:
-            for p in ('a:updated', 'a:published', 'updated', 'published'):
-                e = it.find(p, ns if p.startswith('a:') else {})
-                d = dt(e.text if e is not None else None)
-                if d: break
+            d = dt(text_of(it, ('a:updated', 'a:published', 'updated', 'published'), ns))
             if d and (newest is None or d > newest): newest = d
     else:
         raise ValueError(f"root <{tag}> is not a feed")
     return items, newest
+
+def age_days(newest):
+    """Days since the newest item, or None when the feed has no usable dates."""
+    if newest is None:
+        return None
+    return (NOW - newest).total_seconds() / 86400
+
+def is_stale(newest):
+    age = age_days(newest)
+    return age is not None and age > STALE_DAYS
 
 def check(feed):
     url = feed['url']
@@ -72,11 +88,9 @@ def check(feed):
         items, newest = parse_feed(body)
         if items == 0:
             return feed, 'dead', 'no items'
-        if newest:
-            if newest.tzinfo is None: newest = newest.replace(tzinfo=timezone.utc)
-            age = (NOW - newest).total_seconds() / 86400
-            if age > STALE_DAYS:
-                return feed, 'stale', f'newest item {int(age)}d old'
+        age = age_days(newest)
+        if age is not None and age > STALE_DAYS:
+            return feed, 'stale', f'newest item {int(age)}d old'
         return feed, 'ok', ''
     except urllib.error.HTTPError as e:
         if e.code in (401, 403, 429):

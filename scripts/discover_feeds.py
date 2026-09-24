@@ -12,7 +12,7 @@ real browser to verify). Stdlib only.
 import json, re, sys, os, urllib.parse
 from concurrent.futures import ThreadPoolExecutor, as_completed
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from check_feeds import fetch, parse_feed  # noqa: E402
+from check_feeds import fetch, parse_feed, is_stale  # noqa: E402
 
 LINK_RE = re.compile(r'<link[^>]+type=["\'](?:application/(?:rss|atom)\+xml)["\'][^>]*>', re.I)
 HREF_RE = re.compile(r'href=["\']([^"\']+)["\']', re.I)
@@ -55,7 +55,7 @@ def validate(u):
     try:
         _st, body = fetch(u)
         items, newest = parse_feed(body)
-        return items > 0
+        return items > 0 and not is_stale(newest)
     except Exception:
         return False
 

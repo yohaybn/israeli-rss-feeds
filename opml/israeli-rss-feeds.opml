@@ -6,7 +6,7 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="חדשות" title="חדשות">
+    <outline text="חדשות ואקטואליה" title="חדשות ואקטואליה">
       <outline type="rss" text="ynet - חדשות" title="ynet - חדשות" xmlUrl="https://www.ynet.co.il/Integration/StoryRss2.xml" htmlUrl="https://www.ynet.co.il/"/>
       <outline type="rss" text="mako - חדשות בארץ" title="mako - חדשות בארץ" xmlUrl="https://rcs.mako.co.il/rss/news-israel.xml" htmlUrl="https://www.mako.co.il/"/>
       <outline type="rss" text="mako - חדשות בעולם" title="mako - חדשות בעולם" xmlUrl="https://rcs.mako.co.il/rss/news-world.xml" htmlUrl="https://www.mako.co.il/"/>
@@ -17,63 +17,78 @@
       <outline type="rss" text="וואלה - פלילים ומשפט" title="וואלה - פלילים ומשפט" xmlUrl="https://rss.walla.co.il/feed/10" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="וואלה - פוליטיקה וממשל" title="וואלה - פוליטיקה וממשל" xmlUrl="https://rss.walla.co.il/feed/9" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="וואלה - מזרח תיכון" title="וואלה - מזרח תיכון" xmlUrl="https://rss.walla.co.il/feed/13" htmlUrl="https://www.walla.co.il/"/>
-      <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="הארץ - כל הכתבות" title="הארץ - כל הכתבות" xmlUrl="https://www.haaretz.co.il/srv/htz-all-articles" htmlUrl="https://www.haaretz.co.il/"/>
       <outline type="rss" text="ערוץ 7" title="ערוץ 7" xmlUrl="https://www.inn.co.il/Rss.aspx?act=.1" htmlUrl="https://www.inn.co.il/"/>
       <outline type="rss" text="Now 14" title="Now 14" xmlUrl="https://www.now14.co.il/feed/" htmlUrl="https://www.now14.co.il/"/>
+      <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://www.kikar.co.il/feed" htmlUrl="https://www.kikar.co.il/"/>
+      <outline type="rss" text="בחדרי חרדים" title="בחדרי חרדים" xmlUrl="https://www.bhol.co.il/feed/" htmlUrl="https://www.bhol.co.il/"/>
+      <outline type="rss" text="סרוגים" title="סרוגים" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il/"/>
+      <outline type="rss" text="כיפה" title="כיפה" xmlUrl="https://www.kipa.co.il/rss.xml" htmlUrl="https://www.kipa.co.il/"/>
+      <outline type="rss" text="Times of Israel" title="Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com/"/>
+      <outline type="rss" text="Jerusalem Post" title="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Haaretz - Latest Headlines" title="Haaretz - Latest Headlines" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Haaretz - Israel News" title="Haaretz - Israel News" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Ynetnews" title="Ynetnews" xmlUrl="https://www.ynetnews.com/Integration/StoryRss2.xml" htmlUrl="https://www.ynetnews.com/"/>
+      <outline type="rss" text="Israel National News" title="Israel National News" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" htmlUrl="https://www.israelnationalnews.com/"/>
+      <outline type="rss" text="JNS" title="JNS" xmlUrl="https://www.jns.org/feed/" htmlUrl="https://www.jns.org/"/>
+      <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
     </outline>
-    <outline text="כלכלה ופיננסים" title="כלכלה ופיננסים">
-      <outline type="rss" text="mako - צרכנות וכלכלה" title="mako - צרכנות וכלכלה" xmlUrl="https://rcs.mako.co.il/rss/news-money.xml" htmlUrl="https://www.mako.co.il/"/>
-      <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="גלובס - שוק ההון והשקעות" title="גלובס - שוק ההון והשקעות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="גלובס - גלובלי ושוקי עולם" title="גלובס - גלובלי ושוקי עולם" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="גלובס - ראשי" title="גלובס - ראשי" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="וואלה - כסף וצרכנות" title="וואלה - כסף וצרכנות" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://www.walla.co.il/"/>
-      <outline type="rss" text="TheMarker - כל הכתבות" title="TheMarker - כל הכתבות" xmlUrl="https://www.themarker.com/srv/tm-all-articles" htmlUrl="https://www.themarker.com/"/>
-    </outline>
-    <outline text="טכנולוגיה" title="טכנולוגיה">
+    <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="גלובס - טכנולוגיה" title="גלובס - טכנולוגיה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="וואלה - טכנולוגיה" title="וואלה - טכנולוגיה" xmlUrl="https://rss.walla.co.il/feed/4" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="גיקטיים" title="גיקטיים" xmlUrl="https://www.geektime.co.il/feed/" htmlUrl="https://www.geektime.co.il/"/>
       <outline type="rss" text="אנשים ומחשבים" title="אנשים ומחשבים" xmlUrl="https://www.pc.co.il/feed/" htmlUrl="https://www.pc.co.il/"/>
       <outline type="rss" text="Gadgety" title="Gadgety" xmlUrl="https://www.gadgety.co.il/feed/" htmlUrl="https://www.gadgety.co.il/"/>
       <outline type="rss" text="CTech" title="CTech" xmlUrl="https://feeds.feedburner.com/ctech" htmlUrl="https://www.calcalistech.com/"/>
+      <outline type="rss" text="פלאנט תוכנה חופשית בישראל" title="פלאנט תוכנה חופשית בישראל" xmlUrl="http://planet.linux.org.il/rss20.xml" htmlUrl="http://planet.linux.org.il/"/>
+      <outline type="rss" text="אינטרנט ישראל (רן בר-זיק)" title="אינטרנט ישראל (רן בר-זיק)" xmlUrl="https://internet-israel.com/feed/" htmlUrl="https://internet-israel.com/"/>
+      <outline type="rss" text="מגזין HT (הום ת&#x27;יאטר)" title="מגזין HT (הום ת&#x27;יאטר)" xmlUrl="https://www.hometheater.co.il/feed/" htmlUrl="https://www.hometheater.co.il/"/>
+      <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
+    </outline>
+    <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
+      <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - שוק ההון והשקעות" title="גלובס - שוק ההון והשקעות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - גלובלי ושוקי עולם" title="גלובס - גלובלי ושוקי עולם" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="גלובס - ראשי" title="גלובס - ראשי" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="TheMarker - כל הכתבות" title="TheMarker - כל הכתבות" xmlUrl="https://www.themarker.com/srv/tm-all-articles" htmlUrl="https://www.themarker.com/"/>
     </outline>
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/rss" htmlUrl="https://www.one.co.il/"/>
     </outline>
-    <outline text="יהדות" title="יהדות">
-      <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://www.kikar.co.il/feed" htmlUrl="https://www.kikar.co.il/"/>
-      <outline type="rss" text="בחדרי חרדים" title="בחדרי חרדים" xmlUrl="https://www.bhol.co.il/feed/" htmlUrl="https://www.bhol.co.il/"/>
-      <outline type="rss" text="סרוגים" title="סרוגים" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il/"/>
-      <outline type="rss" text="כיפה" title="כיפה" xmlUrl="https://www.kipa.co.il/rss.xml" htmlUrl="https://www.kipa.co.il/"/>
+    <outline text="תרבות ופנאי" title="תרבות ופנאי"/>
+    <outline text="בריאות ורפואה" title="בריאות ורפואה">
+      <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
     </outline>
-    <outline text="לייףסטייל" title="לייףסטייל">
-      <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+    <outline text="מדע וסביבה" title="מדע וסביבה"/>
+    <outline text="מוזיקה" title="מוזיקה"/>
+    <outline text="גיימינג" title="גיימינג"/>
+    <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
     </outline>
-    <outline text="בלוגים וקהילות" title="בלוגים וקהילות">
+    <outline text="תיירות ופנאי" title="תיירות ופנאי"/>
+    <outline text="רכב ותחבורה" title="רכב ותחבורה"/>
+    <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
+      <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+    </outline>
+    <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
+      <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
+    </outline>
+    <outline text="הורות ומשפחה" title="הורות ומשפחה"/>
+    <outline text="דעה וטורים אישיים" title="דעה וטורים אישיים">
       <outline type="rss" text="Israellycool" title="Israellycool" xmlUrl="https://www.israellycool.com/feed/" htmlUrl="https://www.israellycool.com/"/>
       <outline type="rss" text="מידה" title="מידה" xmlUrl="https://mida.org.il/feed/" htmlUrl="https://mida.org.il/"/>
-      <outline type="rss" text="פלאנט תוכנה חופשית בישראל" title="פלאנט תוכנה חופשית בישראל" xmlUrl="http://planet.linux.org.il/rss20.xml" htmlUrl="http://planet.linux.org.il/"/>
-      <outline type="rss" text="אינטרנט ישראל (רן בר-זיק)" title="אינטרנט ישראל (רן בר-זיק)" xmlUrl="https://internet-israel.com/feed/" htmlUrl="https://internet-israel.com/"/>
       <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
-      <outline type="rss" text="מגזין HT (הום ת&#x27;יאטר)" title="מגזין HT (הום ת&#x27;יאטר)" xmlUrl="https://www.hometheater.co.il/feed/" htmlUrl="https://www.hometheater.co.il/"/>
-    </outline>
-    <outline text="באנגלית" title="באנגלית">
-      <outline type="rss" text="Times of Israel" title="Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com/"/>
-      <outline type="rss" text="Jerusalem Post" title="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" htmlUrl="https://www.jpost.com/"/>
-      <outline type="rss" text="Haaretz - Latest Headlines" title="Haaretz - Latest Headlines" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" htmlUrl="https://www.haaretz.com/"/>
-      <outline type="rss" text="Haaretz - Israel News" title="Haaretz - Israel News" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" htmlUrl="https://www.haaretz.com/"/>
-      <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
-      <outline type="rss" text="Ynetnews" title="Ynetnews" xmlUrl="https://www.ynetnews.com/Integration/StoryRss2.xml" htmlUrl="https://www.ynetnews.com/"/>
-      <outline type="rss" text="Israel National News" title="Israel National News" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" htmlUrl="https://www.israelnationalnews.com/"/>
-      <outline type="rss" text="JNS" title="JNS" xmlUrl="https://www.jns.org/feed/" htmlUrl="https://www.jns.org/"/>
-      <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
       <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
     </outline>
+    <outline text="פודקאסטים" title="פודקאסטים"/>
+    <outline text="קריירה ועבודה" title="קריירה ועבודה">
+      <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+    </outline>
+    <outline text="צרכנות ומבצעים" title="צרכנות ומבצעים">
+      <outline type="rss" text="mako - צרכנות וכלכלה" title="mako - צרכנות וכלכלה" xmlUrl="https://rcs.mako.co.il/rss/news-money.xml" htmlUrl="https://www.mako.co.il/"/>
+      <outline type="rss" text="וואלה - כסף וצרכנות" title="וואלה - כסף וצרכנות" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://www.walla.co.il/"/>
+    </outline>
+    <outline text="תרבות דיגיטלית ורשת" title="תרבות דיגיטלית ורשת"/>
   </body>
 </opml>

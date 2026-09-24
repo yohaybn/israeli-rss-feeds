@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Israeli RSS - לייףסטייל</title>
+    <title>Israeli RSS - אוכל וקולינריה</title>
     <dateCreated>2026-09-24</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="לייףסטייל" title="לייףסטייל">
-      <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+    <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
     </outline>
   </body>

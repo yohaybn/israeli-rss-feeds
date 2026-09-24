@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Israeli RSS - טכנולוגיה</title>
+    <title>Israeli RSS - טכנולוגיה וגאדג&#x27;טים</title>
     <dateCreated>2026-09-24</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="טכנולוגיה" title="טכנולוגיה">
+    <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="גלובס - טכנולוגיה" title="גלובס - טכנולוגיה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="וואלה - טכנולוגיה" title="וואלה - טכנולוגיה" xmlUrl="https://rss.walla.co.il/feed/4" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="גיקטיים" title="גיקטיים" xmlUrl="https://www.geektime.co.il/feed/" htmlUrl="https://www.geektime.co.il/"/>
       <outline type="rss" text="אנשים ומחשבים" title="אנשים ומחשבים" xmlUrl="https://www.pc.co.il/feed/" htmlUrl="https://www.pc.co.il/"/>
       <outline type="rss" text="Gadgety" title="Gadgety" xmlUrl="https://www.gadgety.co.il/feed/" htmlUrl="https://www.gadgety.co.il/"/>
       <outline type="rss" text="CTech" title="CTech" xmlUrl="https://feeds.feedburner.com/ctech" htmlUrl="https://www.calcalistech.com/"/>
+      <outline type="rss" text="פלאנט תוכנה חופשית בישראל" title="פלאנט תוכנה חופשית בישראל" xmlUrl="http://planet.linux.org.il/rss20.xml" htmlUrl="http://planet.linux.org.il/"/>
+      <outline type="rss" text="אינטרנט ישראל (רן בר-זיק)" title="אינטרנט ישראל (רן בר-זיק)" xmlUrl="https://internet-israel.com/feed/" htmlUrl="https://internet-israel.com/"/>
+      <outline type="rss" text="מגזין HT (הום ת&#x27;יאטר)" title="מגזין HT (הום ת&#x27;יאטר)" xmlUrl="https://www.hometheater.co.il/feed/" htmlUrl="https://www.hometheater.co.il/"/>
+      <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
     </outline>
   </body>
 </opml>

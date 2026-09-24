@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>Israeli RSS - חדשות</title>
+    <title>Israeli RSS - חדשות ואקטואליה</title>
     <dateCreated>2026-09-24</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="חדשות" title="חדשות">
+    <outline text="חדשות ואקטואליה" title="חדשות ואקטואליה">
       <outline type="rss" text="ynet - חדשות" title="ynet - חדשות" xmlUrl="https://www.ynet.co.il/Integration/StoryRss2.xml" htmlUrl="https://www.ynet.co.il/"/>
       <outline type="rss" text="mako - חדשות בארץ" title="mako - חדשות בארץ" xmlUrl="https://rcs.mako.co.il/rss/news-israel.xml" htmlUrl="https://www.mako.co.il/"/>
       <outline type="rss" text="mako - חדשות בעולם" title="mako - חדשות בעולם" xmlUrl="https://rcs.mako.co.il/rss/news-world.xml" htmlUrl="https://www.mako.co.il/"/>
@@ -17,10 +17,21 @@
       <outline type="rss" text="וואלה - פלילים ומשפט" title="וואלה - פלילים ומשפט" xmlUrl="https://rss.walla.co.il/feed/10" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="וואלה - פוליטיקה וממשל" title="וואלה - פוליטיקה וממשל" xmlUrl="https://rss.walla.co.il/feed/9" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="וואלה - מזרח תיכון" title="וואלה - מזרח תיכון" xmlUrl="https://rss.walla.co.il/feed/13" htmlUrl="https://www.walla.co.il/"/>
-      <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="הארץ - כל הכתבות" title="הארץ - כל הכתבות" xmlUrl="https://www.haaretz.co.il/srv/htz-all-articles" htmlUrl="https://www.haaretz.co.il/"/>
       <outline type="rss" text="ערוץ 7" title="ערוץ 7" xmlUrl="https://www.inn.co.il/Rss.aspx?act=.1" htmlUrl="https://www.inn.co.il/"/>
       <outline type="rss" text="Now 14" title="Now 14" xmlUrl="https://www.now14.co.il/feed/" htmlUrl="https://www.now14.co.il/"/>
+      <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://www.kikar.co.il/feed" htmlUrl="https://www.kikar.co.il/"/>
+      <outline type="rss" text="בחדרי חרדים" title="בחדרי חרדים" xmlUrl="https://www.bhol.co.il/feed/" htmlUrl="https://www.bhol.co.il/"/>
+      <outline type="rss" text="סרוגים" title="סרוגים" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il/"/>
+      <outline type="rss" text="כיפה" title="כיפה" xmlUrl="https://www.kipa.co.il/rss.xml" htmlUrl="https://www.kipa.co.il/"/>
+      <outline type="rss" text="Times of Israel" title="Times of Israel" xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com/"/>
+      <outline type="rss" text="Jerusalem Post" title="Jerusalem Post" xmlUrl="https://rss.jpost.com/rss/rssfeedsfrontpage.aspx" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Haaretz - Latest Headlines" title="Haaretz - Latest Headlines" xmlUrl="https://www.haaretz.com/srv/haaretz-latest-headlines" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Haaretz - Israel News" title="Haaretz - Israel News" xmlUrl="https://www.haaretz.com/srv/israel-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="Ynetnews" title="Ynetnews" xmlUrl="https://www.ynetnews.com/Integration/StoryRss2.xml" htmlUrl="https://www.ynetnews.com/"/>
+      <outline type="rss" text="Israel National News" title="Israel National News" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" htmlUrl="https://www.israelnationalnews.com/"/>
+      <outline type="rss" text="JNS" title="JNS" xmlUrl="https://www.jns.org/feed/" htmlUrl="https://www.jns.org/"/>
+      <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
     </outline>
   </body>
 </opml>

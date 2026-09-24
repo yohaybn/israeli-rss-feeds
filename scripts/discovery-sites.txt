@@ -1,43 +1,27 @@
-# Seed sites for weekly feed discovery (one per line, # = comment).
-# The discovery job fetches each homepage, reads <link rel="alternate"> feed
-# tags, probes common feed paths, and reports new live feeds not yet in feeds.json.
-# Add Israeli news sites, blogs, hobby sites, forums and communities here.
+# Seed sites for weekly feed discovery, grouped by category.
+# A line "[id]" starts a category section (ids match feeds.json); each following
+# line is one site. # = comment. The discovery job fetches each homepage, reads
+# <link rel="alternate"> feed tags, probes common feed paths, and reports new live
+# feeds not yet in feeds.json, suggested under the section's category.
+# Empty or thin categories need seeds most - add Israeli sites, blogs and communities.
+
+[news]  # חדשות ואקטואליה
 https://www.ynet.co.il/
 https://www.walla.co.il/
 https://www.mako.co.il/
 https://www.haaretz.co.il/
-https://www.themarker.com/
 https://www.maariv.co.il/
 https://www.israelhayom.co.il/
 https://www.kan.org.il/
 https://www.inn.co.il/
 https://www.now14.co.il/
-https://www.globes.co.il/
-https://www.calcalist.co.il/
-https://www.bizportal.co.il/
-https://www.ice.co.il/
-https://www.geektime.co.il/
-https://www.gadgety.co.il/
-https://www.pc.co.il/
-https://www.calcalistech.com/
-https://www.one.co.il/
-https://www.sport5.co.il/
+https://www.0404.co.il/
+https://13tv.co.il/
+https://glz.co.il/
 https://www.kikar.co.il/
 https://www.srugim.co.il/
 https://www.kipa.co.il/
 https://www.bhol.co.il/
-https://foody.co.il/
-https://www.atmag.co.il/
-https://www.saloona.co.il/
-https://www.xnet.co.il/
-https://www.0404.co.il/
-https://13tv.co.il/
-https://glz.co.il/
-https://internet-israel.com/
-https://www.israellycool.com/
-https://www.hometheater.co.il/
-https://mida.org.il/
-https://unpacked.media/
 https://www.timesofisrael.com/
 https://www.jpost.com/
 https://www.haaretz.com/
@@ -45,5 +29,97 @@ https://www.ynetnews.com/
 https://www.israelnationalnews.com/
 https://www.jns.org/
 https://www.algemeiner.com/
-# Blogrolls / aggregators that surface personal Hebrew blogs
+
+[tech]  # טכנולוגיה וגאדג'טים
+https://www.geektime.co.il/
+https://www.gadgety.co.il/
+https://www.pc.co.il/
+https://www.calcalistech.com/
+https://www.newsgeek.co.il/
+https://internet-israel.com/
+https://www.hometheater.co.il/
 http://planet.linux.org.il/
+
+[business]  # כלכלה ועסקים
+https://www.themarker.com/
+https://www.globes.co.il/
+https://www.calcalist.co.il/
+https://www.bizportal.co.il/
+https://www.ice.co.il/
+
+[sports]  # ספורט
+https://www.one.co.il/
+https://www.sport5.co.il/
+
+[culture]  # תרבות ופנאי
+https://www.ynet.co.il/entertainment
+https://www.maariv.co.il/culture
+https://www.haaretz.co.il/gallery
+https://www.seret.co.il/
+https://www.e-mago.co.il/
+
+[health]  # בריאות ורפואה
+https://www.ynet.co.il/health
+https://www.infomed.co.il/
+https://www.doctors.co.il/
+
+[science]  # מדע וסביבה
+https://www.hayadan.org.il/
+https://www.zavit.org.il/
+https://www.greenpeace.org/israel/
+
+[music]  # מוזיקה
+
+[gaming]  # גיימינג
+https://www.vgames.co.il/
+https://www.gamepro.co.il/
+
+[food]  # אוכל וקולינריה
+https://foody.co.il/
+https://www.ynet.co.il/food
+https://www.10dakot.co.il/
+https://www.bishulim.co.il/
+
+[travel]  # תיירות ופנאי
+https://www.ynet.co.il/vacation
+https://www.tayarut.com/
+
+[auto]  # רכב ותחבורה
+https://www.ynet.co.il/wheels
+https://www.auto.co.il/
+https://www.icar.co.il/
+
+[fashion]  # אופנה ולייף סטייל
+https://www.atmag.co.il/
+https://www.saloona.co.il/
+https://www.xnet.co.il/
+https://www.onlife.co.il/
+
+[real-estate]  # נדל"ן ועיצוב הבית
+https://www.ynet.co.il/home
+https://www.madlan.co.il/blog/
+https://www.nadlancenter.co.il/
+
+[parenting]  # הורות ומשפחה
+https://www.ynet.co.il/parents
+https://www.mamy.co.il/
+
+[opinion]  # דעה וטורים אישיים
+https://www.israellycool.com/
+https://mida.org.il/
+https://unpacked.media/
+
+[podcasts]  # פודקאסטים
+https://www.osimhistoria.com/
+https://www.ranlevi.com/
+
+[career]  # קריירה ועבודה
+https://www.alljobs.co.il/
+https://www.drushim.co.il/
+
+[consumer]  # צרכנות ומבצעים
+https://www.zap.co.il/
+
+[digital-culture]  # תרבות דיגיטלית ורשת
+https://www.ynet.co.il/digital
+https://www.shavuz.co.il/

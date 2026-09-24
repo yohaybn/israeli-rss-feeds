@@ -44,6 +44,8 @@
       <outline type="rss" text="אינטרנט ישראל (רן בר-זיק)" title="אינטרנט ישראל (רן בר-זיק)" xmlUrl="https://internet-israel.com/feed/" htmlUrl="https://internet-israel.com/"/>
       <outline type="rss" text="מגזין HT (הום ת&#x27;יאטר)" title="מגזין HT (הום ת&#x27;יאטר)" xmlUrl="https://www.hometheater.co.il/feed/" htmlUrl="https://www.hometheater.co.il/"/>
       <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="TGspot" title="TGspot" xmlUrl="https://www.tgspot.co.il/feed/" htmlUrl="https://www.tgspot.co.il/"/>
+      <outline type="rss" text="הבייט הלבן - עידו גנדל" title="הבייט הלבן - עידו גנדל" xmlUrl="https://www.idogendel.com/whitebyte/feed/" htmlUrl="https://www.idogendel.com/whitebyte/"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>

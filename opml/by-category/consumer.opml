@@ -9,6 +9,16 @@
     <outline text="צרכנות ומבצעים" title="צרכנות ומבצעים">
       <outline type="rss" text="mako - צרכנות וכלכלה" title="mako - צרכנות וכלכלה" xmlUrl="https://rcs.mako.co.il/rss/news-money.xml" htmlUrl="https://www.mako.co.il/"/>
       <outline type="rss" text="וואלה - כסף וצרכנות" title="וואלה - כסף וצרכנות" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="מעריב - צרכנות" title="מעריב - צרכנות" xmlUrl="https://www.maariv.co.il/rss/rssfeedszarchanot" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="וואלה - צרכנות" title="וואלה - צרכנות" xmlUrl="https://rss.walla.co.il/feed/127" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="TheMarker - צרכנות" title="TheMarker - צרכנות" xmlUrl="https://www.themarker.com/srv/tm-consumer" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="Jerusalem Post - Consumerism" title="Jerusalem Post - Consumerism" xmlUrl="https://www.jpost.com/rss/consumerism" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="קופונים" title="קופונים" xmlUrl="https://couponim.co.il/feed/" htmlUrl="https://couponim.co.il/"/>
+      <outline type="rss" text="דיל היום" title="דיל היום" xmlUrl="https://dealhayom.co.il/feed/" htmlUrl="https://dealhayom.co.il/"/>
+      <outline type="rss" text="דילים - סיילים ומבצעים" title="דילים - סיילים ומבצעים" xmlUrl="https://dilim.co.il/feed/" htmlUrl="https://dilim.co.il/"/>
+      <outline type="rss" text="יממה - מבצעים ודילים" title="יממה - מבצעים ודילים" xmlUrl="https://yemama.co.il/feed/" htmlUrl="https://yemama.co.il/"/>
+      <outline type="rss" text="דילי" title="דילי" xmlUrl="https://www.deali.co.il/feed.xml" htmlUrl="https://www.deali.co.il/"/>
+      <outline type="rss" text="דיל סקנר" title="דיל סקנר" xmlUrl="https://deal-scanner.blogspot.com/feeds/posts/default" htmlUrl="https://deal-scanner.blogspot.com/"/>
     </outline>
   </body>
 </opml>

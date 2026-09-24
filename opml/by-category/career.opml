@@ -8,6 +8,9 @@
   <body>
     <outline text="קריירה ועבודה" title="קריירה ועבודה">
       <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="וואלה - קריירה והשכלה" title="וואלה - קריירה והשכלה" xmlUrl="https://rss.walla.co.il/feed/12864" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="עידית כהנא - קריירה" title="עידית כהנא - קריירה" xmlUrl="https://www.iditcahana.co.il/feed/" htmlUrl="https://www.iditcahana.co.il/"/>
+      <outline type="rss" text="קורות חיים - בלוג" title="קורות חיים - בלוג" xmlUrl="https://korotchaim.com/feed.xml" htmlUrl="https://korotchaim.com/"/>
     </outline>
   </body>
 </opml>

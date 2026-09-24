@@ -6,6 +6,12 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="הורות ומשפחה" title="הורות ומשפחה"/>
+    <outline text="הורות ומשפחה" title="הורות ומשפחה">
+      <outline type="rss" text="וואלה - הורות וילדים" title="וואלה - הורות וילדים" xmlUrl="https://rss.walla.co.il/feed/594" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה - הריון ולידה" title="וואלה - הריון ולידה" xmlUrl="https://rss.walla.co.il/feed/590" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="מעריב - חינוך" title="מעריב - חינוך" xmlUrl="https://www.maariv.co.il/rss/rsseducation" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="הארץ - משפחה" title="הארץ - משפחה" xmlUrl="https://www.haaretz.co.il/srv/rss---%D7%9E%D7%A9%D7%A4%D7%97%D7%94" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="רון שמעוני - הורות" title="רון שמעוני - הורות" xmlUrl="https://www.ronshimoni.co.il/feed/" htmlUrl="https://www.ronshimoni.co.il/"/>
+    </outline>
   </body>
 </opml>

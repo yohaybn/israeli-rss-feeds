@@ -12,6 +12,16 @@
       <outline type="rss" text="גלובס - גלובלי ושוקי עולם" title="גלובס - גלובלי ושוקי עולם" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="גלובס - ראשי" title="גלובס - ראשי" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="TheMarker - כל הכתבות" title="TheMarker - כל הכתבות" xmlUrl="https://www.themarker.com/srv/tm-all-articles" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="ynet - כלכלה" title="ynet - כלכלה" xmlUrl="https://www.ynet.co.il/Integration/StoryRss6.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="מעריב - כלכלה" title="מעריב - כלכלה" xmlUrl="https://www.maariv.co.il/rss/rssfeedsasakim" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="מעריב - כלכלה בארץ" title="מעריב - כלכלה בארץ" xmlUrl="https://www.maariv.co.il/rss/rssfeedskalkalabaarez" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="TheMarker - שוק ההון" title="TheMarker - שוק ההון" xmlUrl="https://www.themarker.com/srv/tm-markets" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="TheMarker - גלובל" title="TheMarker - גלובל" xmlUrl="https://www.themarker.com/srv/tm-global" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="Jerusalem Post - Business &amp; Innovation" title="Jerusalem Post - Business &amp; Innovation" xmlUrl="https://www.jpost.com/rss/rssbusinessandinnovation" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="Jerusalem Post - Banking &amp; Finance" title="Jerusalem Post - Banking &amp; Finance" xmlUrl="https://www.jpost.com/rss/rssbankingandfinance" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="וואלה כסף - חדשות" title="וואלה כסף - חדשות" xmlUrl="https://rss.walla.co.il/feed/557" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="וואלה כסף - מגזין" title="וואלה כסף - מגזין" xmlUrl="https://rss.walla.co.il/feed/12964" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="Globes English" title="Globes English" xmlUrl="https://en.globes.co.il/WebService/Rss/RssFeeder.asmx/FeederNode?iID=942" htmlUrl="https://en.globes.co.il/"/>
     </outline>
   </body>
 </opml>

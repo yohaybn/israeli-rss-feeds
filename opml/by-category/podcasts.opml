@@ -6,6 +6,29 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="פודקאסטים" title="פודקאסטים"/>
+    <outline text="פודקאסטים" title="פודקאסטים">
+      <outline type="rss" text="הארץ - פודקאסטים" title="הארץ - פודקאסטים" xmlUrl="https://www.haaretz.co.il/srv/%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98%D7%99%D7%9D--%D7%94%D7%90%D7%A8%D7%A5-rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="השבוע - פודקאסט הארץ" title="השבוע - פודקאסט הארץ" xmlUrl="https://www.omnycontent.com/d/playlist/397b9456-4f75-4509-acff-ac0600b4a6a4/fdef9415-eb17-45d7-85fd-ac08009235b2/4c9f1a8f-8a0e-4f10-b01f-ac08009235b7/podcast.rss" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="Jerusalem Post - Podcasts" title="Jerusalem Post - Podcasts" xmlUrl="https://www.jpost.com/rss/rssfeedpodcast" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="פודקאסט·ישראל - פרקים חדשים" title="פודקאסט·ישראל - פרקים חדשים" xmlUrl="https://pod-il.co.il/feed.xml" htmlUrl="https://pod-il.co.il/"/>
+      <outline type="rss" text="עושים היסטוריה עם רן לוי" title="עושים היסטוריה עם רן לוי" xmlUrl="https://www.spreaker.com/show/4227531/episodes/feed" htmlUrl="https://www.osimhistoria.com/"/>
+      <outline type="rss" text="עושים טכנולוגיה עם ד&quot;ר יובל דרור" title="עושים טכנולוגיה עם ד&quot;ר יובל דרור" xmlUrl="https://www.spreaker.com/show/4231127/episodes/feed" htmlUrl="https://www.osimhistoria.com/"/>
+      <outline type="rss" text="עושים חשבון" title="עושים חשבון" xmlUrl="https://www.spreaker.com/show/4221239/episodes/feed" htmlUrl="https://www.osimhistoria.com/"/>
+      <outline type="rss" text="עושים פסיכולוגיה" title="עושים פסיכולוגיה" xmlUrl="https://www.spreaker.com/show/5277195/episodes/feed" htmlUrl="https://www.osimhistoria.com/"/>
+      <outline type="rss" text="כאן - חיות כיס" title="כאן - חיות כיס" xmlUrl="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/1ea69f94-8d46-4ff2-aaca-a919008d58b8/podcast.rss" htmlUrl="https://www.kan.org.il/"/>
+      <outline type="rss" text="כאן דוקו - ההסכת" title="כאן דוקו - ההסכת" xmlUrl="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/c40b8ac9-3853-41fc-a2bf-b02700be578d/d2f0ee29-6047-4c3b-bab9-b02700c0b25e/podcast.rss" htmlUrl="https://www.kan.org.il/"/>
+      <outline type="rss" text="כאן - ביג דיל" title="כאן - ביג דיל" xmlUrl="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/28750de1-4a5a-434d-8dd1-b358009ee1ee/fd0d099f-235e-4b91-b35a-b358009ee5e3/podcast.rss" htmlUrl="https://www.kan.org.il/"/>
+      <outline type="rss" text="כאן - גורי כיס" title="כאן - גורי כיס" xmlUrl="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/1a02e8c1-d119-40da-acf7-ae2f00c89258/e8990ce1-f3fa-44c6-8e39-ae2f00ca8b98/podcast.rss" htmlUrl="https://www.kan.org.il/"/>
+      <outline type="rss" text="עולים לרגל - פודקאסט כדורגל (ערוץ הספורט)" title="עולים לרגל - פודקאסט כדורגל (ערוץ הספורט)" xmlUrl="https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/7050b47b-371e-469c-9d10-ae83012b5e4b/f6f3b580-aace-4226-9216-ae83012c09a2/podcast.rss" htmlUrl="https://www.sport5.co.il/"/>
+      <outline type="rss" text="ספיק נ&#x27; רול - פודקאסט כדורסל (ערוץ הספורט)" title="ספיק נ&#x27; רול - פודקאסט כדורסל (ערוץ הספורט)" xmlUrl="https://www.omnycontent.com/d/playlist/178d72a7-a889-4132-8008-a5cc014ed109/76238410-3d22-4fe5-9071-ae83012ec9f3/a589b423-1724-4672-a3a4-ae83012f3b88/podcast.rss" htmlUrl="https://www.sport5.co.il/"/>
+      <outline type="rss" text="השקעות לעצלנים" title="השקעות לעצלנים" xmlUrl="https://anchor.fm/s/ef1f5500/podcast/rss" htmlUrl="https://anchor.fm/s/ef1f5500/"/>
+      <outline type="rss" text="רגע לפני - פודקאסט פוליטי" title="רגע לפני - פודקאסט פוליטי" xmlUrl="https://anchor.fm/s/f80c84d0/podcast/rss" htmlUrl="https://anchor.fm/s/f80c84d0/"/>
+      <outline type="rss" text="היסטוריה אדומה" title="היסטוריה אדומה" xmlUrl="https://feeds.redcircle.com/badd6290-0fec-4712-96c1-362df2ed4e3a" htmlUrl="https://feeds.redcircle.com/"/>
+      <outline type="rss" text="היסטוריה אינטלקטואלית גסה" title="היסטוריה אינטלקטואלית גסה" xmlUrl="https://anchor.fm/s/e3810720/podcast/rss" htmlUrl="https://anchor.fm/s/e3810720/"/>
+      <outline type="rss" text="תעלומות במדעטק" title="תעלומות במדעטק" xmlUrl="https://anchor.fm/s/f4db785c/podcast/rss" htmlUrl="https://www.madatech.org.il/"/>
+      <outline type="rss" text="קפה מדע (תל אביב 360)" title="קפה מדע (תל אביב 360)" xmlUrl="https://anchor.fm/s/112721f4c/podcast/rss" htmlUrl="https://anchor.fm/s/112721f4c/"/>
+      <outline type="rss" text="פרוטוקול פתוח - פודקאסט בריאות מבוסס מדע" title="פרוטוקול פתוח - פודקאסט בריאות מבוסס מדע" xmlUrl="https://rss.buzzsprout.com/2595895.rss" htmlUrl="https://rss.buzzsprout.com/"/>
+      <outline type="rss" text="כלכלה מבראשית (רדיו תל אביב)" title="כלכלה מבראשית (רדיו תל אביב)" xmlUrl="https://rss.102fm.co.il/rss-feed/get-feed?category=BERESHIT" htmlUrl="https://102fm.co.il/"/>
+    </outline>
   </body>
 </opml>

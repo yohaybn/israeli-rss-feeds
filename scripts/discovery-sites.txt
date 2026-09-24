@@ -123,3 +123,10 @@ https://www.zap.co.il/
 [digital-culture]  # תרבות דיגיטלית ורשת
 https://www.ynet.co.il/digital
 https://www.shavuz.co.il/
+
+[ai]  # בינה מלאכותית
+https://tzedek.me/
+https://www.goai.co.il/
+https://machinelearning.co.il/
+https://letsai.co.il/
+https://netanelai.co.il/

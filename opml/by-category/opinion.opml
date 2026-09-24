@@ -11,6 +11,12 @@
       <outline type="rss" text="מידה" title="מידה" xmlUrl="https://mida.org.il/feed/" htmlUrl="https://mida.org.il/"/>
       <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
       <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+      <outline type="rss" text="ynet - דעות" title="ynet - דעות" xmlUrl="https://www.ynet.co.il/Integration/StoryRss194.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="מעריב - דעות" title="מעריב - דעות" xmlUrl="https://www.maariv.co.il/rss/rssfeedsopinions" htmlUrl="https://www.maariv.co.il/"/>
+      <outline type="rss" text="הארץ - דעות" title="הארץ - דעות" xmlUrl="https://www.haaretz.co.il/srv/rss-opinion" htmlUrl="https://www.haaretz.co.il/"/>
+      <outline type="rss" text="TheMarker - פרשנויות" title="TheMarker - פרשנויות" xmlUrl="https://www.themarker.com/srv/tm-opinions" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="Jerusalem Post - Opinion" title="Jerusalem Post - Opinion" xmlUrl="https://www.jpost.com/rss/rssopinion" htmlUrl="https://www.jpost.com/"/>
+      <outline type="rss" text="וואלה כסף - דעות" title="וואלה כסף - דעות" xmlUrl="https://rss.walla.co.il/feed/4997" htmlUrl="https://www.walla.co.il/"/>
     </outline>
   </body>
 </opml>

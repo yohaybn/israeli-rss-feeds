@@ -6,6 +6,12 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="גיימינג" title="גיימינג"/>
+    <outline text="גיימינג" title="גיימינג">
+      <outline type="rss" text="ynet - משחקים" title="ynet - משחקים" xmlUrl="https://www.ynet.co.il/Integration/StoryRss571.xml" htmlUrl="https://www.ynet.co.il/"/>
+      <outline type="rss" text="Vgames" title="Vgames" xmlUrl="https://www.vgames.co.il/rss" htmlUrl="https://www.vgames.co.il/"/>
+      <outline type="rss" text="GamePro" title="GamePro" xmlUrl="https://gamepro.co.il/feed/" htmlUrl="https://gamepro.co.il/"/>
+      <outline type="rss" text="IGN Israel" title="IGN Israel" xmlUrl="https://il.ign.com/feed.xml" htmlUrl="https://il.ign.com/"/>
+      <outline type="rss" text="הפונדק - משחקי תפקידים ומשחקי קופסה" title="הפונדק - משחקי תפקידים ומשחקי קופסה" xmlUrl="https://pundak.games/feed/" htmlUrl="https://pundak.games/"/>
+    </outline>
   </body>
 </opml>

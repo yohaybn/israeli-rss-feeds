@@ -2,10 +2,15 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - תרבות ופנאי</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="תרבות ופנאי" title="תרבות ופנאי"/>
+    <outline text="תרבות ופנאי" title="תרבות ופנאי">
+      <outline type="rss" text="צ&#x27;יקי בדרכים Chicky On Air" title="צ&#x27;יקי בדרכים Chicky On Air" xmlUrl="https://chicky99.substack.com/feed" htmlUrl="https://chicky99.substack.com/"/>
+      <outline type="rss" text="מחסן מילים" title="מחסן מילים" xmlUrl="https://kerensheffi.substack.com/feed" htmlUrl="https://kerensheffi.substack.com/"/>
+      <outline type="rss" text="הקופסה" title="הקופסה" xmlUrl="https://hakufsah.substack.com/feed" htmlUrl="https://hakufsah.substack.com/"/>
+      <outline type="rss" text="בין הכסאות | לירון לביא טורקניץ׳" title="בין הכסאות | לירון לביא טורקניץ׳" xmlUrl="https://lironlavitur.substack.com/feed" htmlUrl="https://lironlavitur.substack.com/"/>
+    </outline>
   </body>
 </opml>

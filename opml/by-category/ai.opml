@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Israeli RSS - בינה מלאכותית</title>
+    <dateCreated>2026-09-25</dateCreated>
+    <ownerName>israeli-rss-feeds</ownerName>
+  </head>
+  <body>
+    <outline text="בינה מלאכותית" title="בינה מלאכותית">
+      <outline type="rss" text="AI THINKERS" title="AI THINKERS" xmlUrl="https://aithinkers.substack.com/feed" htmlUrl="https://aithinkers.substack.com/"/>
+      <outline type="rss" text="Elevate your AI" title="Elevate your AI" xmlUrl="https://elevatorai.substack.com/feed" htmlUrl="https://elevatorai.substack.com/"/>
+      <outline type="rss" text="Human Intelligence" title="Human Intelligence" xmlUrl="https://itamarshahar.substack.com/feed" htmlUrl="https://itamarshahar.substack.com/"/>
+      <outline type="rss" text="LangTalks Newsletter" title="LangTalks Newsletter" xmlUrl="https://langtalks.substack.com/feed" htmlUrl="https://langtalks.substack.com/"/>
+    </outline>
+  </body>
+</opml>

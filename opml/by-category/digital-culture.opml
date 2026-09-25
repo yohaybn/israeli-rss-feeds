@@ -2,10 +2,14 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - תרבות דיגיטלית ורשת</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="תרבות דיגיטלית ורשת" title="תרבות דיגיטלית ורשת"/>
+    <outline text="תרבות דיגיטלית ורשת" title="תרבות דיגיטלית ורשת">
+      <outline type="rss" text="Touch Grass" title="Touch Grass" xmlUrl="https://thisistouchgrass.substack.com/feed" htmlUrl="https://thisistouchgrass.substack.com/"/>
+      <outline type="rss" text="נדב לווריד" title="נדב לווריד" xmlUrl="https://nadavloveread.substack.com/feed" htmlUrl="https://nadavloveread.substack.com/"/>
+      <outline type="rss" text="Rotem’s Newsletter" title="Rotem’s Newsletter" xmlUrl="https://rotemlebzelter.substack.com/feed" htmlUrl="https://rotemlebzelter.substack.com/"/>
+    </outline>
   </body>
 </opml>

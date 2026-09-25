@@ -15,6 +15,8 @@
       <outline type="rss" text="Capital Artichoke" title="Capital Artichoke" xmlUrl="https://capitalartichoke.substack.com/feed" htmlUrl="https://capitalartichoke.substack.com/"/>
       <outline type="rss" text="קרן הגידור שלי" title="קרן הגידור שלי" xmlUrl="https://onthevix.substack.com/feed" htmlUrl="https://onthevix.substack.com/"/>
       <outline type="rss" text="Dragon Value Perspective | מחשבות לעצמי" title="Dragon Value Perspective | מחשבות לעצמי" xmlUrl="https://ankyst.substack.com/feed" htmlUrl="https://ankyst.substack.com/"/>
+      <outline type="rss" text="כלכליסט" title="כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml" htmlUrl="https://www.calcalist.co.il/"/>
+      <outline type="rss" text="ביזפורטל" title="ביזפורטל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml" htmlUrl="https://www.bizportal.co.il/"/>
     </outline>
   </body>
 </opml>

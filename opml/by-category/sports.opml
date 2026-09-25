@@ -9,6 +9,8 @@
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/rss" htmlUrl="https://www.one.co.il/"/>
+      <outline type="rss" text="Sport5" title="Sport5" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml" htmlUrl="https://www.sport5.co.il/"/>
+      <outline type="rss" text="עמותת הכדורסל" title="עמותת הכדורסל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml" htmlUrl="https://basket.co.il/"/>
     </outline>
   </body>
 </opml>

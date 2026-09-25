@@ -34,6 +34,17 @@
       <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
       <outline type="rss" text="המרכז למדיניות ישראל-סין" title="המרכז למדיניות ישראל-סין" xmlUrl="https://israelchinapolicy.substack.com/feed" htmlUrl="https://israelchinapolicy.substack.com/"/>
       <outline type="rss" text="Yotam’s Newsletter" title="Yotam’s Newsletter" xmlUrl="https://yotam.substack.com/feed" htmlUrl="https://yotam.substack.com/"/>
+      <outline type="rss" text="רשת 13" title="רשת 13" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/reshet13.xml" htmlUrl="https://13tv.co.il/"/>
+      <outline type="rss" text="כאן 11" title="כאן 11" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/kan11.xml" htmlUrl="https://www.kan.org.il/"/>
+      <outline type="rss" text="i24NEWS" title="i24NEWS" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/i24.xml" htmlUrl="https://www.i24news.tv/he"/>
+      <outline type="rss" text="News1" title="News1" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/news1.xml" htmlUrl="https://www.news1.co.il/"/>
+      <outline type="rss" text="החמל" title="החמל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/hamal.xml" htmlUrl="https://hamal.co.il/"/>
+      <outline type="rss" text="מקור ראשון" title="מקור ראשון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/makorrishon.xml" htmlUrl="https://www.makorrishon.co.il/"/>
+      <outline type="rss" text="عرب 48" title="عرب 48" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml" htmlUrl="https://www.arab48.com/"/>
+      <outline type="rss" text="גלי צה&quot;ל" title="גלי צה&quot;ל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/glz.xml" htmlUrl="https://glz.co.il/"/>
+      <outline type="rss" text="רדיו 103FM" title="רדיו 103FM" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml" htmlUrl="https://103fm.maariv.co.il/"/>
+      <outline type="rss" text="ישיבה" title="ישיבה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml" htmlUrl="https://www.yeshiva.org.il/"/>
+      <outline type="rss" text="Israel Defense" title="Israel Defense" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml" htmlUrl="https://www.israeldefense.co.il/"/>
     </outline>
     <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="גלובס - טכנולוגיה" title="גלובס - טכנולוגיה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594" htmlUrl="https://www.globes.co.il/"/>
@@ -59,10 +70,14 @@
       <outline type="rss" text="Capital Artichoke" title="Capital Artichoke" xmlUrl="https://capitalartichoke.substack.com/feed" htmlUrl="https://capitalartichoke.substack.com/"/>
       <outline type="rss" text="קרן הגידור שלי" title="קרן הגידור שלי" xmlUrl="https://onthevix.substack.com/feed" htmlUrl="https://onthevix.substack.com/"/>
       <outline type="rss" text="Dragon Value Perspective | מחשבות לעצמי" title="Dragon Value Perspective | מחשבות לעצמי" xmlUrl="https://ankyst.substack.com/feed" htmlUrl="https://ankyst.substack.com/"/>
+      <outline type="rss" text="כלכליסט" title="כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml" htmlUrl="https://www.calcalist.co.il/"/>
+      <outline type="rss" text="ביזפורטל" title="ביזפורטל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml" htmlUrl="https://www.bizportal.co.il/"/>
     </outline>
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/rss" htmlUrl="https://www.one.co.il/"/>
+      <outline type="rss" text="Sport5" title="Sport5" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml" htmlUrl="https://www.sport5.co.il/"/>
+      <outline type="rss" text="עמותת הכדורסל" title="עמותת הכדורסל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml" htmlUrl="https://basket.co.il/"/>
     </outline>
     <outline text="תרבות ופנאי" title="תרבות ופנאי">
       <outline type="rss" text="צ&#x27;יקי בדרכים Chicky On Air" title="צ&#x27;יקי בדרכים Chicky On Air" xmlUrl="https://chicky99.substack.com/feed" htmlUrl="https://chicky99.substack.com/"/>

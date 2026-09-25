@@ -40,14 +40,14 @@
 | `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**81 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**96 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
-| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 27 |
+| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 38 |
 | טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 13 |
-| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 8 |
-| ספורט | חדשות ספורט, תוצאות, פרשנויות | 2 |
+| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 10 |
+| ספורט | חדשות ספורט, תוצאות, פרשנויות | 4 |
 | תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 4 |
 | בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 2 |
 | מדע וסביבה | תגליות, אקולוגיה, חלל | 0 |
@@ -97,6 +97,17 @@
 | [Algemeiner](https://www.algemeiner.com/feed/) | Algemeiner | en | 7 | 59,625 |
 | [המרכז למדיניות ישראל-סין](https://israelchinapolicy.substack.com/feed) | Substack | he | - | - |
 | [Yotam’s Newsletter](https://yotam.substack.com/feed) | Substack | he | - | - |
+| [רשת 13](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/reshet13.xml) | רשת 13 | he | - | - |
+| [כאן 11](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/kan11.xml) | כאן 11 | he | - | - |
+| [i24NEWS](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/i24.xml) | i24NEWS | he | - | - |
+| [News1](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/news1.xml) | News1 | he | - | - |
+| [החמל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/hamal.xml) | החמל | he | - | - |
+| [מקור ראשון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/makorrishon.xml) | מקור ראשון | he | - | - |
+| [عرب 48](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml) | عرب 48 | ar | - | - |
+| [גלי צה"ל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/glz.xml) | גלי צה"ל | he | - | - |
+| [רדיו 103FM](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml) | רדיו 103FM | he | - | - |
+| [ישיבה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml) | ישיבה | he | - | - |
+| [Israel Defense](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml) | Israel Defense | he | - | - |
 
 ### טכנולוגיה וגאדג'טים (Technology & Gadgets)
 
@@ -128,6 +139,8 @@
 | [Capital Artichoke](https://capitalartichoke.substack.com/feed) | Substack | he | - | - |
 | [קרן הגידור שלי](https://onthevix.substack.com/feed) | Substack | he | - | - |
 | [Dragon Value Perspective | מחשבות לעצמי](https://ankyst.substack.com/feed) | Substack | he | - | - |
+| [כלכליסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml) | כלכליסט | he | - | - |
+| [ביזפורטל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml) | ביזפורטל | he | - | - |
 
 ### ספורט (Sports)
 
@@ -135,6 +148,8 @@
 |---|---|---|---|---|
 | [וואלה - ספורט](https://rss.walla.co.il/feed/7) | Walla | he | - | 13,743 |
 | [ONE](https://www.one.co.il/rss) | ONE | he | 2 | 46,456 |
+| [Sport5](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml) | Sport5 | he | - | - |
+| [עמותת הכדורסל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml) | עמותת הכדורסל | he | - | - |
 
 ### תרבות ופנאי (Culture & Entertainment)
 

@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-25",
-  "feed_count": 81,
+  "feed_count": 96,
   "categories": [
     {
       "id": "news",
@@ -405,6 +405,138 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "רשת 13",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/reshet13.xml",
+          "site": "רשת 13",
+          "homepage": "https://13tv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כאן 11",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/kan11.xml",
+          "site": "כאן 11",
+          "homepage": "https://www.kan.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "i24NEWS",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/i24.xml",
+          "site": "i24NEWS",
+          "homepage": "https://www.i24news.tv/he",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "News1",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/news1.xml",
+          "site": "News1",
+          "homepage": "https://www.news1.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "החמל",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/hamal.xml",
+          "site": "החמל",
+          "homepage": "https://hamal.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מקור ראשון",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/makorrishon.xml",
+          "site": "מקור ראשון",
+          "homepage": "https://www.makorrishon.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "عرب 48",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml",
+          "site": "عرب 48",
+          "homepage": "https://www.arab48.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "גלי צה\"ל",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/glz.xml",
+          "site": "גלי צה\"ל",
+          "homepage": "https://glz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "רדיו 103FM",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml",
+          "site": "רדיו 103FM",
+          "homepage": "https://103fm.maariv.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ישיבה",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml",
+          "site": "ישיבה",
+          "homepage": "https://www.yeshiva.org.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Israel Defense",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml",
+          "site": "Israel Defense",
+          "homepage": "https://www.israeldefense.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -711,6 +843,30 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כלכליסט",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml",
+          "site": "כלכליסט",
+          "homepage": "https://www.calcalist.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "ביזפורטל",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml",
+          "site": "ביזפורטל",
+          "homepage": "https://www.bizportal.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -747,6 +903,30 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "Sport5",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml",
+          "site": "Sport5",
+          "homepage": "https://www.sport5.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "עמותת הכדורסל",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml",
+          "site": "עמותת הכדורסל",
+          "homepage": "https://basket.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]

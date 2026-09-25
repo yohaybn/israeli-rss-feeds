@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - דעה וטורים אישיים</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -11,6 +11,11 @@
       <outline type="rss" text="מידה" title="מידה" xmlUrl="https://mida.org.il/feed/" htmlUrl="https://mida.org.il/"/>
       <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
       <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+      <outline type="rss" text="תחשוב טעים, יהיה טעים" title="תחשוב טעים, יהיה טעים" xmlUrl="https://amsterdamski.substack.com/feed" htmlUrl="https://amsterdamski.substack.com/"/>
+      <outline type="rss" text="Gershon Baskin" title="Gershon Baskin" xmlUrl="https://gershonbaskin.substack.com/feed" htmlUrl="https://gershonbaskin.substack.com/"/>
+      <outline type="rss" text="Cat&#x27;s Pajamas פיג&#x27;מת החתול" title="Cat&#x27;s Pajamas פיג&#x27;מת החתול" xmlUrl="https://efilifshitz.substack.com/feed" htmlUrl="https://efilifshitz.substack.com/"/>
+      <outline type="rss" text="גְּדַלְיָה מייל. הניוזלטר השבועי" title="גְּדַלְיָה מייל. הניוזלטר השבועי" xmlUrl="https://ngedalia.substack.com/feed" htmlUrl="https://ngedalia.substack.com/"/>
+      <outline type="rss" text="Sara&#x27;s Substack" title="Sara&#x27;s Substack" xmlUrl="https://sararegensberg.substack.com/feed" htmlUrl="https://sararegensberg.substack.com/"/>
     </outline>
   </body>
 </opml>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS Feeds - קטלוג פידים ישראלי</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -32,6 +32,8 @@
       <outline type="rss" text="Israel National News" title="Israel National News" xmlUrl="https://www.israelnationalnews.com/Rss.aspx?act=.1" htmlUrl="https://www.israelnationalnews.com/"/>
       <outline type="rss" text="JNS" title="JNS" xmlUrl="https://www.jns.org/feed/" htmlUrl="https://www.jns.org/"/>
       <outline type="rss" text="Algemeiner" title="Algemeiner" xmlUrl="https://www.algemeiner.com/feed/" htmlUrl="https://www.algemeiner.com/"/>
+      <outline type="rss" text="המרכז למדיניות ישראל-סין" title="המרכז למדיניות ישראל-סין" xmlUrl="https://israelchinapolicy.substack.com/feed" htmlUrl="https://israelchinapolicy.substack.com/"/>
+      <outline type="rss" text="Yotam’s Newsletter" title="Yotam’s Newsletter" xmlUrl="https://yotam.substack.com/feed" htmlUrl="https://yotam.substack.com/"/>
     </outline>
     <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="גלובס - טכנולוגיה" title="גלובס - טכנולוגיה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=594" htmlUrl="https://www.globes.co.il/"/>
@@ -46,6 +48,7 @@
       <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
       <outline type="rss" text="TGspot" title="TGspot" xmlUrl="https://www.tgspot.co.il/feed/" htmlUrl="https://www.tgspot.co.il/"/>
       <outline type="rss" text="הבייט הלבן - עידו גנדל" title="הבייט הלבן - עידו גנדל" xmlUrl="https://www.idogendel.com/whitebyte/feed/" htmlUrl="https://www.idogendel.com/whitebyte/"/>
+      <outline type="rss" text="כותב כדי לחשוב" title="כותב כדי לחשוב" xmlUrl="https://writingtothink.substack.com/feed" htmlUrl="https://writingtothink.substack.com/"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
@@ -53,14 +56,23 @@
       <outline type="rss" text="גלובס - גלובלי ושוקי עולם" title="גלובס - גלובלי ושוקי עולם" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="גלובס - ראשי" title="גלובס - ראשי" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="TheMarker - כל הכתבות" title="TheMarker - כל הכתבות" xmlUrl="https://www.themarker.com/srv/tm-all-articles" htmlUrl="https://www.themarker.com/"/>
+      <outline type="rss" text="Capital Artichoke" title="Capital Artichoke" xmlUrl="https://capitalartichoke.substack.com/feed" htmlUrl="https://capitalartichoke.substack.com/"/>
+      <outline type="rss" text="קרן הגידור שלי" title="קרן הגידור שלי" xmlUrl="https://onthevix.substack.com/feed" htmlUrl="https://onthevix.substack.com/"/>
+      <outline type="rss" text="Dragon Value Perspective | מחשבות לעצמי" title="Dragon Value Perspective | מחשבות לעצמי" xmlUrl="https://ankyst.substack.com/feed" htmlUrl="https://ankyst.substack.com/"/>
     </outline>
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="ONE" title="ONE" xmlUrl="https://www.one.co.il/rss" htmlUrl="https://www.one.co.il/"/>
     </outline>
-    <outline text="תרבות ופנאי" title="תרבות ופנאי"/>
+    <outline text="תרבות ופנאי" title="תרבות ופנאי">
+      <outline type="rss" text="צ&#x27;יקי בדרכים Chicky On Air" title="צ&#x27;יקי בדרכים Chicky On Air" xmlUrl="https://chicky99.substack.com/feed" htmlUrl="https://chicky99.substack.com/"/>
+      <outline type="rss" text="מחסן מילים" title="מחסן מילים" xmlUrl="https://kerensheffi.substack.com/feed" htmlUrl="https://kerensheffi.substack.com/"/>
+      <outline type="rss" text="הקופסה" title="הקופסה" xmlUrl="https://hakufsah.substack.com/feed" htmlUrl="https://hakufsah.substack.com/"/>
+      <outline type="rss" text="בין הכסאות | לירון לביא טורקניץ׳" title="בין הכסאות | לירון לביא טורקניץ׳" xmlUrl="https://lironlavitur.substack.com/feed" htmlUrl="https://lironlavitur.substack.com/"/>
+    </outline>
     <outline text="בריאות ורפואה" title="בריאות ורפואה">
       <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
+      <outline type="rss" text="מהתיאוריה לצלחת" title="מהתיאוריה לצלחת" xmlUrl="https://dietmaya.substack.com/feed" htmlUrl="https://dietmaya.substack.com/"/>
     </outline>
     <outline text="מדע וסביבה" title="מדע וסביבה"/>
     <outline text="מוזיקה" title="מוזיקה"/>
@@ -68,10 +80,13 @@
     <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
     </outline>
-    <outline text="תיירות ופנאי" title="תיירות ופנאי"/>
+    <outline text="תיירות ופנאי" title="תיירות ופנאי">
+      <outline type="rss" text="My Daily Journeys עברית" title="My Daily Journeys עברית" xmlUrl="https://mydailyjourneyshebrew.substack.com/feed" htmlUrl="https://mydailyjourneyshebrew.substack.com/"/>
+    </outline>
     <outline text="רכב ותחבורה" title="רכב ותחבורה"/>
     <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
       <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
+      <outline type="rss" text="HaNaivit" title="HaNaivit" xmlUrl="https://anahiraveh.substack.com/feed" htmlUrl="https://anahiraveh.substack.com/"/>
     </outline>
     <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
       <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
@@ -82,15 +97,31 @@
       <outline type="rss" text="מידה" title="מידה" xmlUrl="https://mida.org.il/feed/" htmlUrl="https://mida.org.il/"/>
       <outline type="rss" text="Elder of Ziyon" title="Elder of Ziyon" xmlUrl="https://elderofziyon.blogspot.com/feeds/posts/default" htmlUrl="https://elderofziyon.blogspot.com/"/>
       <outline type="rss" text="Unpacked (ISRAEL21c)" title="Unpacked (ISRAEL21c)" xmlUrl="https://unpacked.media/feed/" htmlUrl="https://unpacked.media/"/>
+      <outline type="rss" text="תחשוב טעים, יהיה טעים" title="תחשוב טעים, יהיה טעים" xmlUrl="https://amsterdamski.substack.com/feed" htmlUrl="https://amsterdamski.substack.com/"/>
+      <outline type="rss" text="Gershon Baskin" title="Gershon Baskin" xmlUrl="https://gershonbaskin.substack.com/feed" htmlUrl="https://gershonbaskin.substack.com/"/>
+      <outline type="rss" text="Cat&#x27;s Pajamas פיג&#x27;מת החתול" title="Cat&#x27;s Pajamas פיג&#x27;מת החתול" xmlUrl="https://efilifshitz.substack.com/feed" htmlUrl="https://efilifshitz.substack.com/"/>
+      <outline type="rss" text="גְּדַלְיָה מייל. הניוזלטר השבועי" title="גְּדַלְיָה מייל. הניוזלטר השבועי" xmlUrl="https://ngedalia.substack.com/feed" htmlUrl="https://ngedalia.substack.com/"/>
+      <outline type="rss" text="Sara&#x27;s Substack" title="Sara&#x27;s Substack" xmlUrl="https://sararegensberg.substack.com/feed" htmlUrl="https://sararegensberg.substack.com/"/>
     </outline>
     <outline text="פודקאסטים" title="פודקאסטים"/>
     <outline text="קריירה ועבודה" title="קריירה ועבודה">
       <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="Rethink by Naama Zalzman" title="Rethink by Naama Zalzman" xmlUrl="https://naamazalzman.substack.com/feed" htmlUrl="https://naamazalzman.substack.com/"/>
     </outline>
     <outline text="צרכנות ומבצעים" title="צרכנות ומבצעים">
       <outline type="rss" text="mako - צרכנות וכלכלה" title="mako - צרכנות וכלכלה" xmlUrl="https://rcs.mako.co.il/rss/news-money.xml" htmlUrl="https://www.mako.co.il/"/>
       <outline type="rss" text="וואלה - כסף וצרכנות" title="וואלה - כסף וצרכנות" xmlUrl="https://rss.walla.co.il/feed/3" htmlUrl="https://www.walla.co.il/"/>
     </outline>
-    <outline text="תרבות דיגיטלית ורשת" title="תרבות דיגיטלית ורשת"/>
+    <outline text="תרבות דיגיטלית ורשת" title="תרבות דיגיטלית ורשת">
+      <outline type="rss" text="Touch Grass" title="Touch Grass" xmlUrl="https://thisistouchgrass.substack.com/feed" htmlUrl="https://thisistouchgrass.substack.com/"/>
+      <outline type="rss" text="נדב לווריד" title="נדב לווריד" xmlUrl="https://nadavloveread.substack.com/feed" htmlUrl="https://nadavloveread.substack.com/"/>
+      <outline type="rss" text="Rotem’s Newsletter" title="Rotem’s Newsletter" xmlUrl="https://rotemlebzelter.substack.com/feed" htmlUrl="https://rotemlebzelter.substack.com/"/>
+    </outline>
+    <outline text="בינה מלאכותית" title="בינה מלאכותית">
+      <outline type="rss" text="AI THINKERS" title="AI THINKERS" xmlUrl="https://aithinkers.substack.com/feed" htmlUrl="https://aithinkers.substack.com/"/>
+      <outline type="rss" text="Elevate your AI" title="Elevate your AI" xmlUrl="https://elevatorai.substack.com/feed" htmlUrl="https://elevatorai.substack.com/"/>
+      <outline type="rss" text="Human Intelligence" title="Human Intelligence" xmlUrl="https://itamarshahar.substack.com/feed" htmlUrl="https://itamarshahar.substack.com/"/>
+      <outline type="rss" text="LangTalks Newsletter" title="LangTalks Newsletter" xmlUrl="https://langtalks.substack.com/feed" htmlUrl="https://langtalks.substack.com/"/>
+    </outline>
   </body>
 </opml>

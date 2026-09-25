@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - קריירה ועבודה</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="קריירה ועבודה" title="קריירה ועבודה">
       <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
+      <outline type="rss" text="Rethink by Naama Zalzman" title="Rethink by Naama Zalzman" xmlUrl="https://naamazalzman.substack.com/feed" htmlUrl="https://naamazalzman.substack.com/"/>
     </outline>
   </body>
 </opml>

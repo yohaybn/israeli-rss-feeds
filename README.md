@@ -1,6 +1,6 @@
 # israeli-rss-feeds
 
-קטלוג פידי RSS ישראלי מתוחזק, מסודר ב-20 קטגוריות: חדשות, טכנולוגיה, כלכלה, ספורט, תרבות, בריאות, מדע, מוזיקה, גיימינג, אוכל, תיירות, רכב, אופנה, נדל"ן, הורות, דעה, פודקאסטים, קריירה, צרכנות ותרבות דיגיטלית.
+קטלוג פידי RSS ישראלי מתוחזק, מסודר ב-21 קטגוריות: חדשות, טכנולוגיה, כלכלה, ספורט, תרבות, בריאות, מדע, מוזיקה, גיימינג, אוכל, תיירות, רכב, אופנה, נדל"ן, הורות, דעה, פודקאסטים, קריירה, צרכנות, תרבות דיגיטלית ובינה מלאכותית.
 
 כל פיד בקטלוג אומת מול האתר החי (תשובת HTTP תקינה, XML שמתפעל, ופריטים עדכניים) לפני שהוא נכנס, ונבדק מחדש אוטומטית כל שבוע. חלק מהקטגוריות עדיין דלילות או ריקות - הגילוי השבועי מחפש להן מקורות.
 
@@ -37,32 +37,34 @@
 | `career` | קריירה ועבודה |
 | `consumer` | צרכנות ומבצעים |
 | `digital-culture` | תרבות דיגיטלית ורשת |
+| `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**55 פידים ב-20 קטגוריות** (11 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**81 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
-| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 25 |
-| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 12 |
-| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 5 |
+| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 27 |
+| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 13 |
+| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 8 |
 | ספורט | חדשות ספורט, תוצאות, פרשנויות | 2 |
-| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 0 |
-| בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 1 |
+| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 4 |
+| בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 2 |
 | מדע וסביבה | תגליות, אקולוגיה, חלל | 0 |
 | מוזיקה | עדכוני אמנים, ביקורות אלבומים | 0 |
 | גיימינג | חדשות משחקי וידאו, קונסולות | 0 |
 | אוכל וקולינריה | מתכונים, מסעדות | 1 |
-| תיירות ופנאי | טיולים, חופשות, תעופה | 0 |
+| תיירות ופנאי | טיולים, חופשות, תעופה | 1 |
 | רכב ותחבורה | חדשות רכב, תחבורה ציבורית | 0 |
-| אופנה ולייף סטייל | טרנדים, טיפוח | 1 |
+| אופנה ולייף סטייל | טרנדים, טיפוח | 2 |
 | נדל"ן ועיצוב הבית | שוק הדיור, עיצוב פנים | 1 |
 | הורות ומשפחה | גידול ילדים, חינוך | 0 |
-| דעה וטורים אישיים | מאמרי דעה, בלוגים כלליים | 4 |
+| דעה וטורים אישיים | מאמרי דעה, בלוגים כלליים | 9 |
 | פודקאסטים | עדכונים על פרקים חדשים | 0 |
-| קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 1 |
+| קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 2 |
 | צרכנות ומבצעים | חדשות צרכנות, דילים | 2 |
-| תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 0 |
+| תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 3 |
+| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 4 |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -93,6 +95,8 @@
 | [Israel National News](https://www.israelnationalnews.com/Rss.aspx?act=.1) | INN English | en | 3 | 21,149 |
 | [JNS](https://www.jns.org/feed/) | JNS | en | 522 | 36,674 |
 | [Algemeiner](https://www.algemeiner.com/feed/) | Algemeiner | en | 7 | 59,625 |
+| [המרכז למדיניות ישראל-סין](https://israelchinapolicy.substack.com/feed) | Substack | he | - | - |
+| [Yotam’s Newsletter](https://yotam.substack.com/feed) | Substack | he | - | - |
 
 ### טכנולוגיה וגאדג'טים (Technology & Gadgets)
 
@@ -110,6 +114,7 @@
 | [Haaretz - Tech](https://www.haaretz.com/srv/technology-news-rss) | Haaretz English | en | 14 | 5,979 |
 | [TGspot](https://www.tgspot.co.il/feed/) | TGspot | he | - | - |
 | [הבייט הלבן - עידו גנדל](https://www.idogendel.com/whitebyte/feed/) | הבייט הלבן | he | - | - |
+| [כותב כדי לחשוב](https://writingtothink.substack.com/feed) | Substack | he | - | - |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -120,6 +125,9 @@
 | [גלובס - גלובלי ושוקי עולם](https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1225) | Globes | he | 28 | 12,406 |
 | [גלובס - ראשי](https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=1725) | Globes | he | 4 | 12,406 |
 | [TheMarker - כל הכתבות](https://www.themarker.com/srv/tm-all-articles) | TheMarker | he | 18 | 36,286 |
+| [Capital Artichoke](https://capitalartichoke.substack.com/feed) | Substack | he | - | - |
+| [קרן הגידור שלי](https://onthevix.substack.com/feed) | Substack | he | - | - |
+| [Dragon Value Perspective | מחשבות לעצמי](https://ankyst.substack.com/feed) | Substack | he | - | - |
 
 ### ספורט (Sports)
 
@@ -130,13 +138,19 @@
 
 ### תרבות ופנאי (Culture & Entertainment)
 
-_אין עדיין פידים בקטגוריה הזו._
+| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
+|---|---|---|---|---|
+| [צ'יקי בדרכים Chicky On Air](https://chicky99.substack.com/feed) | Substack | he | - | - |
+| [מחסן מילים](https://kerensheffi.substack.com/feed) | Substack | he | - | - |
+| [הקופסה](https://hakufsah.substack.com/feed) | Substack | he | - | - |
+| [בין הכסאות | לירון לביא טורקניץ׳](https://lironlavitur.substack.com/feed) | Substack | he | - | - |
 
 ### בריאות ורפואה (Health & Medicine)
 
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [וואלה - בריאות](https://rss.walla.co.il/feed/18) | Walla | he | - | 13,743 |
+| [מהתיאוריה לצלחת](https://dietmaya.substack.com/feed) | Substack | he | - | - |
 
 ### מדע וסביבה (Science & Environment)
 
@@ -158,7 +172,9 @@ _אין עדיין פידים בקטגוריה הזו._
 
 ### תיירות ופנאי (Travel & Leisure)
 
-_אין עדיין פידים בקטגוריה הזו._
+| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
+|---|---|---|---|---|
+| [My Daily Journeys עברית](https://mydailyjourneyshebrew.substack.com/feed) | Substack | he | - | - |
 
 ### רכב ותחבורה (Cars & Transportation)
 
@@ -169,6 +185,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [את - מגזין את](https://www.atmag.co.il/feed/) | At Magazine | he | 8 | 429,306 |
+| [HaNaivit](https://anahiraveh.substack.com/feed) | Substack | he | - | - |
 
 ### נדל"ן ועיצוב הבית (Real Estate & Home Design)
 
@@ -188,6 +205,11 @@ _אין עדיין פידים בקטגוריה הזו._
 | [מידה](https://mida.org.il/feed/) | Mida | he | 12 | 623,959 |
 | [Elder of Ziyon](https://elderofziyon.blogspot.com/feeds/posts/default) | Elder of Ziyon | en | 1 | - |
 | [Unpacked (ISRAEL21c)](https://unpacked.media/feed/) | Unpacked | en | 0 | 326,223 |
+| [תחשוב טעים, יהיה טעים](https://amsterdamski.substack.com/feed) | Substack | he | - | - |
+| [Gershon Baskin](https://gershonbaskin.substack.com/feed) | Substack | he | - | - |
+| [Cat's Pajamas פיג'מת החתול](https://efilifshitz.substack.com/feed) | Substack | he | - | - |
+| [גְּדַלְיָה מייל. הניוזלטר השבועי](https://ngedalia.substack.com/feed) | Substack | he | - | - |
+| [Sara's Substack](https://sararegensberg.substack.com/feed) | Substack | he | - | - |
 
 ### פודקאסטים (Podcasts)
 
@@ -198,6 +220,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [גלובס - ניהול וקריירה](https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266) | Globes | he | 8 | 12,406 |
+| [Rethink by Naama Zalzman](https://naamazalzman.substack.com/feed) | Substack | he | - | - |
 
 ### צרכנות ומבצעים (Consumer & Deals)
 
@@ -208,7 +231,20 @@ _אין עדיין פידים בקטגוריה הזו._
 
 ### תרבות דיגיטלית ורשת (Digital Culture & Web)
 
-_אין עדיין פידים בקטגוריה הזו._
+| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
+|---|---|---|---|---|
+| [Touch Grass](https://thisistouchgrass.substack.com/feed) | Substack | he | - | - |
+| [נדב לווריד](https://nadavloveread.substack.com/feed) | Substack | he | - | - |
+| [Rotem’s Newsletter](https://rotemlebzelter.substack.com/feed) | Substack | he | - | - |
+
+### בינה מלאכותית (Artificial Intelligence)
+
+| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
+|---|---|---|---|---|
+| [AI THINKERS](https://aithinkers.substack.com/feed) | Substack | he | - | - |
+| [Elevate your AI](https://elevatorai.substack.com/feed) | Substack | he | - | - |
+| [Human Intelligence](https://itamarshahar.substack.com/feed) | Substack | he | - | - |
+| [LangTalks Newsletter](https://langtalks.substack.com/feed) | Substack | he | - | - |
 <!-- catalog:end -->
 
 ## פופולריות

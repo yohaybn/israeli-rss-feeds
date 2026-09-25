@@ -2,10 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - תיירות ופנאי</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="תיירות ופנאי" title="תיירות ופנאי"/>
+    <outline text="תיירות ופנאי" title="תיירות ופנאי">
+      <outline type="rss" text="My Daily Journeys עברית" title="My Daily Journeys עברית" xmlUrl="https://mydailyjourneyshebrew.substack.com/feed" htmlUrl="https://mydailyjourneyshebrew.substack.com/"/>
+    </outline>
   </body>
 </opml>

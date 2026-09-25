@@ -1,9 +1,9 @@
 {
   "version": 2,
   "name": "israeli-rss-feeds",
-  "description": "קטלוג פידי RSS ישראלי מתוחזק ב-20 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
-  "generated_at": "2026-09-24",
-  "feed_count": 55,
+  "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
+  "generated_at": "2026-09-25",
+  "feed_count": 81,
   "categories": [
     {
       "id": "news",
@@ -381,6 +381,30 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "המרכז למדיניות ישראל-סין",
+          "url": "https://israelchinapolicy.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://israelchinapolicy.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Yotam’s Newsletter",
+          "url": "https://yotam.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://yotam.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -556,6 +580,18 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כותב כדי לחשוב",
+          "url": "https://writingtothink.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://writingtothink.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -639,6 +675,42 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "Capital Artichoke",
+          "url": "https://capitalartichoke.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://capitalartichoke.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "קרן הגידור שלי",
+          "url": "https://onthevix.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://onthevix.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Dragon Value Perspective | מחשבות לעצמי",
+          "url": "https://ankyst.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://ankyst.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -684,7 +756,56 @@
       "name_he": "תרבות ופנאי",
       "name_en": "Culture & Entertainment",
       "description_he": "קולנוע, טלוויזיה, ספרות",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "צ'יקי בדרכים Chicky On Air",
+          "url": "https://chicky99.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://chicky99.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "מחסן מילים",
+          "url": "https://kerensheffi.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://kerensheffi.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הקופסה",
+          "url": "https://hakufsah.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://hakufsah.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "בין הכסאות | לירון לביא טורקניץ׳",
+          "url": "https://lironlavitur.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://lironlavitur.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "health",
@@ -704,6 +825,18 @@
             "source": [
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "מהתיאוריה לצלחת",
+          "url": "https://dietmaya.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://dietmaya.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]
@@ -757,7 +890,20 @@
       "name_he": "תיירות ופנאי",
       "name_en": "Travel & Leisure",
       "description_he": "טיולים, חופשות, תעופה",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "My Daily Journeys עברית",
+          "url": "https://mydailyjourneyshebrew.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://mydailyjourneyshebrew.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "auto",
@@ -785,6 +931,18 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "HaNaivit",
+          "url": "https://anahiraveh.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://anahiraveh.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]
@@ -883,6 +1041,66 @@
               "tranco"
             ]
           }
+        },
+        {
+          "title": "תחשוב טעים, יהיה טעים",
+          "url": "https://amsterdamski.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://amsterdamski.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Gershon Baskin",
+          "url": "https://gershonbaskin.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://gershonbaskin.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Cat's Pajamas פיג'מת החתול",
+          "url": "https://efilifshitz.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://efilifshitz.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "גְּדַלְיָה מייל. הניוזלטר השבועי",
+          "url": "https://ngedalia.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://ngedalia.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Sara's Substack",
+          "url": "https://sararegensberg.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://sararegensberg.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -912,6 +1130,18 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "Rethink by Naama Zalzman",
+          "url": "https://naamazalzman.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://naamazalzman.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]
@@ -959,7 +1189,100 @@
       "name_he": "תרבות דיגיטלית ורשת",
       "name_en": "Digital Culture & Web",
       "description_he": "ממים, טרנדים ברשתות חברתיות",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "Touch Grass",
+          "url": "https://thisistouchgrass.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://thisistouchgrass.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "נדב לווריד",
+          "url": "https://nadavloveread.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://nadavloveread.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Rotem’s Newsletter",
+          "url": "https://rotemlebzelter.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://rotemlebzelter.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "name_he": "בינה מלאכותית",
+      "name_en": "Artificial Intelligence",
+      "description_he": "חדשות, בלוגים ומדריכים על בינה מלאכותית",
+      "feeds": [
+        {
+          "title": "AI THINKERS",
+          "url": "https://aithinkers.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://aithinkers.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Elevate your AI",
+          "url": "https://elevatorai.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://elevatorai.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Human Intelligence",
+          "url": "https://itamarshahar.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://itamarshahar.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "LangTalks Newsletter",
+          "url": "https://langtalks.substack.com/feed",
+          "site": "Substack",
+          "homepage": "https://langtalks.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     }
   ]
 }

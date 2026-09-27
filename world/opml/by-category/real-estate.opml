@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Real Estate &amp; Home Design</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-27</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -10,6 +10,7 @@
       <outline type="rss" text="A Beautiful Mess" title="A Beautiful Mess" xmlUrl="https://abeautifulmess.com/feed/" htmlUrl="https://abeautifulmess.com/"/>
       <outline type="rss" text="ArchDaily Global" title="ArchDaily Global" xmlUrl="http://feeds.feedburner.com/Archdaily" htmlUrl="https://www.archdaily.com/"/>
       <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.architecturaldigest.com/feed/rss" htmlUrl="https://www.architecturaldigest.com"/>
+      <outline type="rss" text="Architectural Digest" title="Architectural Digest" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest" htmlUrl="https://www.youtube.com/channel/UC0k238zFx-Z8xFH0sxCrPJg"/>
       <outline type="rss" text="Architecture" title="Architecture" xmlUrl="https://www.reddit.com/r/architecture/.rss" htmlUrl="https://www.reddit.com/r/architecture/"/>
       <outline type="rss" text="architecture archives | designboom | architecture &amp; design magazine" title="architecture archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/architecture/feed/" htmlUrl="https://www.designboom.com/architecture/"/>
       <outline type="rss" text="Architecture news and projects | Dezeen" title="Architecture news and projects | Dezeen" xmlUrl="https://www.dezeen.com/architecture/feed/" htmlUrl="https://www.dezeen.com/architecture/"/>
@@ -27,6 +28,7 @@
       <outline type="rss" text="Interior Design Ideas" title="Interior Design Ideas" xmlUrl="https://www.home-designing.com/feed" htmlUrl="https://www.home-designing.com"/>
       <outline type="rss" text="Interior design | Dezeen" title="Interior design | Dezeen" xmlUrl="https://www.dezeen.com/interiors/feed/" htmlUrl="https://www.dezeen.com/interiors/"/>
       <outline type="rss" text="Latest from Ideal Home in News" title="Latest from Ideal Home in News" xmlUrl="https://www.idealhome.co.uk/feed" htmlUrl="https://www.idealhome.co.uk/feed"/>
+      <outline type="rss" text="Living Big In A Tiny House" title="Living Big In A Tiny House" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse" htmlUrl="https://www.youtube.com/channel/UCoNTMWgGuXtGPLv9UeJZwBw"/>
       <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com"/>
       <outline type="rss" text="The Inspired Room" title="The Inspired Room" xmlUrl="https://theinspiredroom.net/feed/" htmlUrl="https://theinspiredroom.net"/>
       <outline type="rss" text="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" title="Thrifty Decor Chick | Thrifty DIY, Decor and Organizing" xmlUrl="http://feeds.feedburner.com/blogspot/ZBcZ" htmlUrl="https://www.thriftydecorchick.com/"/>

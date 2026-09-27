@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Technology &amp; Gadgets</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-27</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -13,14 +13,20 @@
       <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products-and-platforms/platforms/android/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://www.reddit.com/r/android/.rss" htmlUrl="https://www.reddit.com/r/android/"/>
       <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.androidauthority.com/feed/" htmlUrl="https://www.androidauthority.com/"/>
+      <outline type="rss" text="Android Authority" title="Android Authority" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority" htmlUrl="https://www.youtube.com/channel/UCgyqtNWZmIxTx3b6OxTSALw"/>
+      <outline type="rss" text="Android Developers" title="Android Developers" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=androiddevelopers" htmlUrl="https://www.youtube.com/channel/UCVHFbqXqoYvEWM1Ddxl0QDg"/>
       <outline type="rss" text="Android Developers Blog" title="Android Developers Blog" xmlUrl="http://feeds.feedburner.com/blogspot/hsDu" htmlUrl="http://android-developers.googleblog.com/"/>
+      <outline type="rss" text="Apple" title="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" htmlUrl="https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"/>
       <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/"/>
       <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/rss/news"/>
       <outline type="rss" text="Ars Technica - All content" title="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
       <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" htmlUrl="https://www.smashingmagazine.com/"/>
       <outline type="rss" text="Blackhat Library: Hacking techniques and research" title="Blackhat Library: Hacking techniques and research" xmlUrl="https://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/"/>
+      <outline type="rss" text="Bruno Rocha" title="Bruno Rocha" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl="https://swiftrocks.com"/>
       <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/news/" htmlUrl="https://www.cnet.com"/>
+      <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" htmlUrl="https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg"/>
       <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
+      <outline type="rss" text="Company | The JetBrains Blog" title="Company | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed/" htmlUrl="https://blog.jetbrains.com"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"/>
       <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed" htmlUrl="https://www.cultofmac.com/"/>
       <outline type="rss" text="Cyanogen Mods" title="Cyanogen Mods" xmlUrl="https://cyanogenmods.org/feed/" htmlUrl="https://cyanogenmods.org"/>
@@ -48,8 +54,11 @@
       <outline type="rss" text="Latest news" title="Latest news" xmlUrl="https://www.zdnet.com/topic/security/rss.xml" htmlUrl="https://www.zdnet.com"/>
       <outline type="rss" text="Latest News - Apple Developer" title="Latest News - Apple Developer" xmlUrl="https://developer.apple.com/news/rss/news.rss" htmlUrl="https://developer.apple.com/news/"/>
       <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="https://lifehacker.com/rss" htmlUrl="https://lifehacker.com/feed/rss"/>
+      <outline type="rss" text="Linus Tech Tips" title="Linus Tech Tips" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LinusTechTips" htmlUrl="https://www.youtube.com/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+      <outline type="rss" text="MacRumors" title="MacRumors" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=macrumors" htmlUrl="https://www.youtube.com/channel/UCaFGDBmGK_jw66u3av2Ysjw"/>
       <outline type="rss" text="Macworld" title="Macworld" xmlUrl="https://www.macworld.com/index.rss" htmlUrl="https://www.macworld.com"/>
       <outline type="rss" text="Marco.org" title="Marco.org" xmlUrl="https://marco.org/rss" htmlUrl="https://marco.org/"/>
+      <outline type="rss" text="Marques Brownlee" title="Marques Brownlee" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee" htmlUrl="https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ"/>
       <outline type="rss" text="Martin Fowler" title="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com"/>
       <outline type="rss" text="Mashable" title="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com"/>
       <outline type="rss" text="Mobile A11y" title="Mobile A11y" xmlUrl="https://mobilea11y.com/index.xml" htmlUrl="https://mobilea11y.com/"/>
@@ -58,6 +67,7 @@
       <outline type="rss" text="OS X Daily" title="OS X Daily" xmlUrl="http://feeds.feedburner.com/osxdaily" htmlUrl="https://osxdaily.com/"/>
       <outline type="rss" text="overreacted — A blog by Dan Abramov" title="overreacted — A blog by Dan Abramov" xmlUrl="https://overreacted.io/rss.xml" htmlUrl="https://overreacted.io/"/>
       <outline type="rss" text="ProAndroidDev - Medium" title="ProAndroidDev - Medium" xmlUrl="https://proandroiddev.com/feed" htmlUrl="https://proandroiddev.com?source=rss----c72404660798---4"/>
+      <outline type="rss" text="programming" title="programming" xmlUrl="https://www.reddit.com/r/programming/.rss" htmlUrl="https://www.reddit.com/r/programming/"/>
       <outline type="rss" text="Public Object" title="Public Object" xmlUrl="https://publicobject.com/rss/" htmlUrl="https://publicobject.com/"/>
       <outline type="rss" text="r/Apple: Unofficial Apple Community" title="r/Apple: Unofficial Apple Community" xmlUrl="https://www.reddit.com/r/apple/.rss" htmlUrl="https://www.reddit.com/r/apple/"/>
       <outline type="rss" text="r/iPhone" title="r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" htmlUrl="https://www.reddit.com/r/iphone/"/>
@@ -78,11 +88,14 @@
       <outline type="rss" text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
       <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
       <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="http://thehackernews.com/feeds/posts/default" htmlUrl="https://thehackernews.com"/>
+      <outline type="rss" text="The JetBrains Blog" title="The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/feed/" htmlUrl="https://blog.jetbrains.com"/>
       <outline type="rss" text="The Keyword" title="The Keyword" xmlUrl="https://blog.google/rss/" htmlUrl="https://blog.google/"/>
       <outline type="rss" text="The Loop" title="The Loop" xmlUrl="https://loopinsight.com/feed/" htmlUrl="https://loopinsight.com"/>
       <outline type="rss" text="The Next Web" title="The Next Web" xmlUrl="https://thenextweb.com/feed" htmlUrl="https://thenextweb.com"/>
       <outline type="rss" text="The One And Only Blog Of Joe Fabisevich" title="The One And Only Blog Of Joe Fabisevich" xmlUrl="https://fabisevi.ch/feed.xml" htmlUrl="https://fabisevi.ch"/>
       <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml" htmlUrl="https://www.theverge.com"/>
+      <outline type="rss" text="The Verge" title="The Verge" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheVerge" htmlUrl="https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ"/>
+      <outline type="rss" text="Unbox Therapy" title="Unbox Therapy" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=unboxtherapy" htmlUrl="https://www.youtube.com/channel/UCsTcErHg8oDvUnTzoqsYeNw"/>
       <outline type="rss" text="User Experience" title="User Experience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" htmlUrl="https://www.reddit.com/r/userexperience/"/>
       <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc?source=rss----138adf9c44c---4"/>
       <outline type="rss" text="www.theregister.com - Articles" title="www.theregister.com - Articles" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com"/>

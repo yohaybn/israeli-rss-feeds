@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-27</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -52,6 +52,7 @@
       <outline type="rss" text="Portada // expansion" title="Portada // expansion" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml" htmlUrl="http://www.expansion.com"/>
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl="https://feeds.thelocal.com/"/>
       <outline type="rss" text="france24.com" title="france24.com" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
+      <outline type="rss" text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/"/>
       <outline type="rss" text="L&#x27;Obs - A la une" title="L&#x27;Obs - A la une" xmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml" htmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml"/>
       <outline type="rss" text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" xmlUrl="https://www.ladepeche.fr/rss.xml" htmlUrl="https://www.ladepeche.fr/"/>
       <outline type="rss" text="Le Huffington Post" title="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.fr/rss/all_headline.xml"/>
@@ -78,6 +79,7 @@
       <outline type="rss" text="Free Press Journal" title="Free Press Journal" xmlUrl="https://www.freepressjournal.in/stories.rss" htmlUrl="https://www.freepressjournal.in"/>
       <outline type="rss" text="Home Page" title="Home Page" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss" htmlUrl="https://www.business-standard.com"/>
       <outline type="rss" text="India News" title="India News" xmlUrl="https://www.dnaindia.com/feeds/india.xml" htmlUrl="https://www.dnaindia.com/"/>
+      <outline type="rss" text="India Today | Latest Stories" title="India Today | Latest Stories" xmlUrl="https://www.indiatoday.in/rss/home" htmlUrl="https://www.indiatoday.in/?utm_source=rss"/>
       <outline type="rss" text="India | The Guardian" title="India | The Guardian" xmlUrl="https://www.theguardian.com/world/india/rss" htmlUrl="https://www.theguardian.com/world/india"/>
       <outline type="rss" text="Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala" title="Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala" xmlUrl="https://www.amarujala.com/rss/breaking-news.xml" htmlUrl="https://www.amarujala.com"/>
       <outline type="rss" text="NDTV News -   Topstories" title="NDTV News -   Topstories" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories" htmlUrl="https://www.ndtv.com/"/>
@@ -89,6 +91,12 @@
       <outline type="rss" text="Times of India" title="Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms" htmlUrl="https://timesofindia.indiatimes.com"/>
       <outline type="rss" text="देश | दैनिक भास्कर" title="देश | दैनिक भास्कर" xmlUrl="https://www.bhaskar.com/rss-feed/1061/" htmlUrl="https://www.bhaskar.com/national/"/>
       <outline type="rss" text="ઈન્ડિયા | દિવ્ય ભાસ્કર" title="ઈન્ડિયા | દિવ્ય ભાસ્કર" xmlUrl="https://www.divyabhaskar.co.in/rss-feed/1037/" htmlUrl="https://www.divyabhaskar.co.in/national/"/>
+      <outline type="rss" text="تابناک | TABNAK" title="تابناک | TABNAK" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" htmlUrl="https://www.tabnak.ir"/>
+      <outline type="rss" text="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" title="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" xmlUrl="https://www.isna.ir/rss" htmlUrl="https://www.isna.ir/rss"/>
+      <outline type="rss" text="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" title="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" xmlUrl="https://www.yjc.ir/fa/rss/allnews" htmlUrl="https://www.yjc.ir"/>
+      <outline type="rss" text="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" title="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" xmlUrl="https://www.khabaronline.ir/rss" htmlUrl="https://www.khabaronline.ir/rss"/>
+      <outline type="rss" text="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" title="خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency" xmlUrl="https://www.mehrnews.com/rss" htmlUrl="https://www.mehrnews.com/rss"/>
+      <outline type="rss" text="عصر ايران" title="عصر ايران" xmlUrl="https://www.asriran.com/fa/rss/allnews" htmlUrl="https://www.asriran.com"/>
       <outline type="rss" text="Adnkronos - ultimoratop" title="Adnkronos - ultimoratop" xmlUrl="http://rss.adnkronos.com/RSS_PrimaPagina.xml" htmlUrl="https://www.adnkronos.com"/>
       <outline type="rss" text="Il Mattino Web" title="Il Mattino Web" xmlUrl="https://www.ilmattino.it/?sez=XML&amp;args&amp;p=search&amp;args[box]=Home&amp;limit=20&amp;layout=rss" htmlUrl="https://www.ilmattino.it"/>
       <outline type="rss" text="Internazionale" title="Internazionale" xmlUrl="https://www.internazionale.it/sitemaps/rss.xml" htmlUrl="https://www.internazionale.it/"/>
@@ -122,6 +130,7 @@
       <outline type="rss" text="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." title="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." xmlUrl="http://feeds.feedburner.com/Nigerianeye" htmlUrl="https://www.nigerianeye.com/"/>
       <outline type="rss" text="Premium Times Nigeria" title="Premium Times Nigeria" xmlUrl="https://www.premiumtimesng.com/feed" htmlUrl="https://premiumtimesng.com"/>
       <outline type="rss" text="Tribune Online" title="Tribune Online" xmlUrl="https://tribuneonlineng.com/feed/" htmlUrl="https://tribuneonlineng.com/"/>
+      <outline type="rss" text="Abante Tonite" title="Abante Tonite" xmlUrl="https://tonite.abante.com.ph/feed/" htmlUrl="https://tonite.abante.com.ph"/>
       <outline type="rss" text="BusinessWorld" title="BusinessWorld" xmlUrl="https://bworldonline.com/feed/" htmlUrl="https://bworldonline.com/"/>
       <outline type="rss" text="Current PH" title="Current PH" xmlUrl="https://currentph.com/feed/" htmlUrl="https://currentph.com"/>
       <outline type="rss" text="GMA News Online / News" title="GMA News Online / News" xmlUrl="https://data.gmanews.tv/gno/rss/news/feed.xml" htmlUrl="http://www.gmanetwork.com/news/news/"/>
@@ -154,6 +163,7 @@
       <outline type="rss" text="Газета &quot;Коммерсантъ&quot;. Главное" title="Газета &quot;Коммерсантъ&quot;. Главное" xmlUrl="https://www.kommersant.ru/RSS/main.xml" htmlUrl="https://www.kommersant.ru/main"/>
       <outline type="rss" text="Газета.Ru - Первая полоса" title="Газета.Ru - Первая полоса" xmlUrl="https://www.gazeta.ru/export/rss/first.xml" htmlUrl="http://www.gazeta.ru/"/>
       <outline type="rss" text="Российская Газета" title="Российская Газета" xmlUrl="https://rg.ru/xml/index.xml" htmlUrl="https://rg.ru"/>
+      <outline type="rss" text="Gazeta.ua" title="Gazeta.ua" xmlUrl="https://gazeta.ua/rss" htmlUrl="https://gazeta.ua/"/>
       <outline type="rss" text="Гордон - Самые популярные материалы" title="Гордон - Самые популярные материалы" xmlUrl="https://gordonua.com/xml/rss_category/top.html" htmlUrl="https://gordonua.com/rus/"/>
       <outline type="rss" text="Еспресо - український погляд на світ!" title="Еспресо - український погляд на світ!" xmlUrl="https://espreso.tv/rss" htmlUrl="https://espreso.tv/"/>
       <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl="https://www.unian.net"/>

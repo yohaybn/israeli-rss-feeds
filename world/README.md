@@ -37,27 +37,27 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**572 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-09-24; 287 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**631 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-09-27; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 166 | News, כל קובצי המדינות |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 81 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security |
-| כלכלה ועסקים (Economy & Business) | 45 | Business & Economy, Startups, Personal finance, Cryptocurrency |
-| ספורט (Sports) | 25 | Sports, Football, Cricket, Tennis |
+| חדשות ואקטואליה (News & Current Affairs) | 176 | News, כל קובצי המדינות |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 94 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security |
+| כלכלה ועסקים (Economy & Business) | 52 | Business & Economy, Startups, Personal finance, Cryptocurrency |
+| ספורט (Sports) | 31 | Sports, Football, Cricket, Tennis |
 | תרבות ופנאי (Culture & Entertainment) | 22 | Movies, Television, Books, History, Photography |
 | בריאות ורפואה (Health & Medicine) | 0 | - |
-| מדע וסביבה (Science & Environment) | 32 | Science, Space, Environment, Nature, Animal & Wildlife |
+| מדע וסביבה (Science & Environment) | 42 | Science, Space, Environment, Nature, Animal & Wildlife |
 | מוזיקה (Music) | 3 | Music |
-| גיימינג (Gaming) | 21 | Gaming, Chess |
-| אוכל וקולינריה (Food & Cooking) | 9 | Food |
-| תיירות ופנאי (Travel & Leisure) | 8 | Travel |
+| גיימינג (Gaming) | 26 | Gaming, Chess |
+| אוכל וקולינריה (Food & Cooking) | 12 | Food |
+| תיירות ופנאי (Travel & Leisure) | 9 | Travel |
 | רכב ותחבורה (Cars & Transportation) | 9 | Cars |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 13 | Fashion, Beauty |
-| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 27 | Interior design, Architecture, DIY |
+| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 29 | Interior design, Architecture, DIY |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 0 | - |
-| פודקאסטים (Podcasts) | 66 | כל פיד עם פרקי אודיו, מכל נושא |
+| פודקאסטים (Podcasts) | 68 | כל פיד עם פרקי אודיו, מכל נושא |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 23 | Funny, Memes |
@@ -112,6 +112,7 @@
 | [Portada // expansion](https://e00-expansion.uecdn.es/rss/portada.xml) | expansion.com | es | Country: Spain |
 | [The Local](https://feeds.thelocal.com/rss/es) | feeds.thelocal.com | en | Country: Spain |
 | [france24.com](https://www.france24.com/en/rss) | france24.com | en | Country: France |
+| [Franceinfo - Les Titres](https://www.francetvinfo.fr/titres.rss) | franceinfo.fr | fr | Country: France |
 | [L'Obs - A la une](https://www.nouvelobs.com/a-la-une/rss.xml) | nouvelobs.com | fr | Country: France |
 | [La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr](https://www.ladepeche.fr/rss.xml) | ladepeche.fr | fr | Country: France |
 | [Le Huffington Post](https://www.huffingtonpost.fr/feeds/index.xml) | huffingtonpost.fr | fr | Country: France |
@@ -138,6 +139,7 @@
 | [Free Press Journal](https://www.freepressjournal.in/stories.rss) | freepressjournal.in | en | Country: India |
 | [Home Page](https://www.business-standard.com/rss/home_page_top_stories.rss) | business-standard.com | en | Country: India |
 | [India News](https://www.dnaindia.com/feeds/india.xml) | dnaindia.com | en | Country: India |
+| [India Today \| Latest Stories](https://www.indiatoday.in/rss/home) | indiatoday.in | en | Country: India |
 | [India \| The Guardian](https://www.theguardian.com/world/india/rss) | theguardian.com | en | Country: India |
 | [Latest And Breaking Hindi News Headlines, News In Hindi \| अमर उजाला हिंदी न्यूज़ \| - Amar Ujala](https://www.amarujala.com/rss/breaking-news.xml) | amarujala.com | hi | Country: India |
 | [NDTV News -   Topstories](https://feeds.feedburner.com/ndtvnews-top-stories) | ndtv.com | en | Country: India |
@@ -149,6 +151,12 @@
 | [Times of India](https://timesofindia.indiatimes.com/rssfeedstopstories.cms) | timesofindia.indiatimes.com | en | Country: India |
 | [देश \| दैनिक भास्कर](https://www.bhaskar.com/rss-feed/1061/) | bhaskar.com | hi | Country: India |
 | [ઈન્ડિયા \| દિવ્ય ભાસ્કર](https://www.divyabhaskar.co.in/rss-feed/1037/) | divyabhaskar.co.in | gu | Country: India |
+| [تابناک \| TABNAK](https://www.tabnak.ir/fa/rss/allnews) | tabnak.ir | fa | Country: Iran |
+| [خبرگزاری ایسنا \| صفحه اصلی \|  ISNA News Agency](https://www.isna.ir/rss) | isna.ir | fa | Country: Iran |
+| [خبرگزاری باشگاه خبرنگاران \| آخرین اخبار ایران و جهان \| YJC](https://www.yjc.ir/fa/rss/allnews) | yjc.ir | fa | Country: Iran |
+| [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان \| Khabaronline](https://www.khabaronline.ir/rss) | khabaronline.ir | fa | Country: Iran |
+| [خبرگزاری مهر \| اخبار ایران و جهان \| Mehr News Agency](https://www.mehrnews.com/rss) | mehrnews.com | fa | Country: Iran |
+| [عصر ايران](https://www.asriran.com/fa/rss/allnews) | asriran.com | fa | Country: Iran |
 | [Adnkronos - ultimoratop](http://rss.adnkronos.com/RSS_PrimaPagina.xml) | adnkronos.com | it | Country: Italy |
 | [Il Mattino Web](https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss) | ilmattino.it | it | Country: Italy |
 | [Internazionale](https://www.internazionale.it/sitemaps/rss.xml) | internazionale.it | it | Country: Italy |
@@ -182,6 +190,7 @@
 | [Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.](http://feeds.feedburner.com/Nigerianeye) | nigerianeye.com | en | Country: Nigeria |
 | [Premium Times Nigeria](https://www.premiumtimesng.com/feed) | premiumtimesng.com | en | Country: Nigeria |
 | [Tribune Online](https://tribuneonlineng.com/feed/) | tribuneonlineng.com | en | Country: Nigeria |
+| [Abante Tonite](https://tonite.abante.com.ph/feed/) | tonite.abante.com.ph | en | Country: Philippines |
 | [BusinessWorld](https://bworldonline.com/feed/) | bworldonline.com | en | Country: Philippines |
 | [Current PH](https://currentph.com/feed/) | currentph.com | en | Country: Philippines |
 | [GMA News Online / News](https://data.gmanews.tv/gno/rss/news/feed.xml) | gmanetwork.com | en | Country: Philippines |
@@ -214,6 +223,7 @@
 | [Газета "Коммерсантъ". Главное](https://www.kommersant.ru/RSS/main.xml) | kommersant.ru | ru | Country: Russia |
 | [Газета.Ru - Первая полоса](https://www.gazeta.ru/export/rss/first.xml) | gazeta.ru | ru | Country: Russia |
 | [Российская Газета](https://rg.ru/xml/index.xml) | rg.ru | ru | Country: Russia |
+| [Gazeta.ua](https://gazeta.ua/rss) | gazeta.ua | uk | Country: Ukraine |
 | [Гордон - Самые популярные материалы](https://gordonua.com/xml/rss_category/top.html) | gordonua.com | ru | Country: Ukraine |
 | [Еспресо - український погляд на світ!](https://espreso.tv/rss) | espreso.tv | uk | Country: Ukraine |
 | [Информационное агентство УНИАН](https://rss.unian.net/site/news_rus.rss) | unian.net | uk | Country: Ukraine |
@@ -244,14 +254,20 @@
 | [Android](https://blog.google/products/android/rss) | blog.google | en | Android |
 | [Android](https://www.reddit.com/r/android/.rss) | reddit.com | en | Android |
 | [Android Authority](https://www.androidauthority.com/feed/) | androidauthority.com | en | Android |
+| [Android Authority](https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority) | youtube.com | en | Android |
+| [Android Developers](https://www.youtube.com/feeds/videos.xml?user=androiddevelopers) | youtube.com | en | Android Development |
 | [Android Developers Blog](http://feeds.feedburner.com/blogspot/hsDu) | android-developers.googleblog.com | en | Android Development |
+| [Apple](https://www.youtube.com/feeds/videos.xml?user=Apple) | youtube.com | en | Apple |
 | [Apple Newsroom](https://www.apple.com/newsroom/rss-feed.rss) | apple.com | en | Apple |
 | [AppleInsider News](https://appleinsider.com/rss/news/) | appleinsider.com | en | Apple |
 | [Ars Technica - All content](http://feeds.arstechnica.com/arstechnica/index) | arstechnica.com | en | Tech |
 | [Articles on Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/feed) | smashingmagazine.com | en | UI - UX |
 | [Blackhat Library: Hacking techniques and research](https://www.reddit.com/r/blackhat/.rss) | reddit.com | en | Cyber security |
+| [Bruno Rocha](https://swiftrocks.com/rss.xml) | swiftrocks.com | en | iOS Development |
 | [CNET](https://www.cnet.com/rss/news/) | cnet.com | en | Tech |
+| [CNET](https://www.youtube.com/feeds/videos.xml?user=CNETTV) | youtube.com | en | Tech |
 | [Coding Horror](https://feeds.feedburner.com/codinghorror) | blog.codinghorror.com | en | Programming |
+| [Company \| The JetBrains Blog](https://blog.jetbrains.com/blog/feed/) | blog.jetbrains.com | en | Android Development |
 | [CSS-Tricks](https://css-tricks.com/feed/) | css-tricks.com | en | Web Development |
 | [Cult of Mac](https://www.cultofmac.com/feed) | cultofmac.com | en | Apple |
 | [Cyanogen Mods](https://cyanogenmods.org/feed/) | cyanogenmods.org | en | Android |
@@ -279,8 +295,11 @@
 | [Latest news](https://www.zdnet.com/topic/security/rss.xml) | zdnet.com | en | Cyber security |
 | [Latest News - Apple Developer](https://developer.apple.com/news/rss/news.rss) | developer.apple.com | en | iOS Development |
 | [Lifehacker](https://lifehacker.com/rss) | lifehacker.com | en | Tech |
+| [Linus Tech Tips](https://www.youtube.com/feeds/videos.xml?user=LinusTechTips) | youtube.com | en | Tech |
+| [MacRumors](https://www.youtube.com/feeds/videos.xml?user=macrumors) | youtube.com | en | Apple |
 | [Macworld](https://www.macworld.com/index.rss) | macworld.com | en | Apple |
 | [Marco.org](https://marco.org/rss) | marco.org | en | Apple |
+| [Marques Brownlee](https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee) | youtube.com | en | Tech |
 | [Martin Fowler](https://martinfowler.com/feed.atom) | martinfowler.com | en | Programming |
 | [Mashable](http://feeds.mashable.com/Mashable) | mashable.com | en | Tech |
 | [Mobile A11y](https://mobilea11y.com/index.xml) | mobilea11y.com | en | iOS Development |
@@ -289,6 +308,7 @@
 | [OS X Daily](http://feeds.feedburner.com/osxdaily) | osxdaily.com | en | Apple |
 | [overreacted — A blog by Dan Abramov](https://overreacted.io/rss.xml) | overreacted.io | en | Programming |
 | [ProAndroidDev - Medium](https://proandroiddev.com/feed) | proandroiddev.com | en | Android Development |
+| [programming](https://www.reddit.com/r/programming/.rss) | reddit.com | en | Programming |
 | [Public Object](https://publicobject.com/rss/) | publicobject.com | en | Android Development |
 | [r/Apple: Unofficial Apple Community](https://www.reddit.com/r/apple/.rss) | reddit.com | en | Apple |
 | [r/iPhone](https://www.reddit.com/r/iphone/.rss) | reddit.com | en | Apple |
@@ -309,11 +329,14 @@
 | [The Airbnb Tech Blog - Medium](https://medium.com/feed/airbnb-engineering) | medium.com | en | Programming |
 | [The GitHub Blog](https://github.blog/feed/) | github.blog | en | Programming |
 | [The Hacker News](http://thehackernews.com/feeds/posts/default) | thehackernews.com | en | Cyber security |
+| [The JetBrains Blog](https://blog.jetbrains.com/feed/) | blog.jetbrains.com | en | Programming |
 | [The Keyword](https://blog.google/rss/) | blog.google | en | Tech |
 | [The Loop](https://loopinsight.com/feed/) | loopinsight.com | en | Apple |
 | [The Next Web](https://thenextweb.com/feed) | thenextweb.com | en | Tech |
 | [The One And Only Blog Of Joe Fabisevich](https://fabisevi.ch/feed.xml) | fabisevi.ch | en | iOS Development |
 | [The Verge](https://www.theverge.com/rss/index.xml) | theverge.com | en | Tech |
+| [The Verge](https://www.youtube.com/feeds/videos.xml?user=TheVerge) | youtube.com | en | Tech |
+| [Unbox Therapy](https://www.youtube.com/feeds/videos.xml?user=unboxtherapy) | youtube.com | en | Tech |
 | [User Experience](https://www.reddit.com/r/userexperience/.rss) | reddit.com | en | UI - UX |
 | [UX Collective - Medium](https://uxdesign.cc/feed) | uxdesign.cc | en | UI - UX |
 | [www.theregister.com - Articles](http://www.theregister.co.uk/security/headlines.atom) | theregister.com | en | Cyber security |
@@ -327,8 +350,10 @@
 | [All News](https://www.investing.com/rss/news.rss) | investing.com | en | Business & Economy |
 | [Bitcoin - The Currency of the Internet](https://www.reddit.com/r/Bitcoin/.rss) | reddit.com | en | Cryptocurrency |
 | [Bitcoin News](https://news.bitcoin.com/feed/) | news.bitcoin.com | en | Cryptocurrency |
+| [Bloomberg Originals](https://www.youtube.com/feeds/videos.xml?user=Bloomberg) | youtube.com | en | Business & Economy |
 | [Breaking News on Seeking Alpha](https://seekingalpha.com/market_currents.xml) | seekingalpha.com | en | Business & Economy |
 | [Budgets Are Sexy](https://feeds2.feedburner.com/budgetsaresexy) | budgetsaresexy.com | en | Personal finance |
+| [Business Insider](https://www.youtube.com/feeds/videos.xml?user=businessinsider) | youtube.com | en | Business & Economy |
 | [Cointelegraph.com News](https://cointelegraph.com/rss) | cointelegraph.com | en | Cryptocurrency |
 | [Cryptocurrency News & Discussion](https://www.reddit.com/r/CryptoCurrency/.rss) | reddit.com | en | Cryptocurrency |
 | [cryptocurrency \| TechCrunch](https://techcrunch.com/tag/cryptocurrency/feed/) | techcrunch.com | en | Cryptocurrency |
@@ -337,18 +362,20 @@
 | [CryptoPotato](https://cryptopotato.com/feed/) | cryptopotato.com | en | Cryptocurrency |
 | [DailyCoin](https://dailycoin.com/feed/) | dailycoin.com | en | Cryptocurrency |
 | [Economic Times](https://economictimes.indiatimes.com/rssfeedsdefault.cms) | economictimes.indiatimes.com | en | Business & Economy |
-| [Entrepreneur – Latest](http://feeds.feedburner.com/entrepreneur/latest) | entrepreneur.comrss-feed | en | Startups |
+| [Entrepreneur – Latest](http://feeds.feedburner.com/entrepreneur/latest) | entrepreneur.com | en | Startups |
 | [Ethereum](https://www.reddit.com/r/ethereum/.rss) | reddit.com | en | Cryptocurrency |
 | [Ethereum Foundation Blog](https://blog.ethereum.org/feed.xml) | blog.ethereum.org | en | Cryptocurrency |
 | [Feld Thoughts](https://feld.com/feed) | feld.com | en | Startups |
 | [Financial Samurai](https://www.financialsamurai.com/feed/) | financialsamurai.com | en | Personal finance |
 | [Forbes - Business](https://www.forbes.com/business/feed/) | forbes.com | en | Business & Economy |
 | [Fortune \| FORTUNE](https://fortune.com/feed) | fortune.com | en | Business & Economy |
+| [GaryVee](https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk) | youtube.com | en | Startups |
 | [Hacker News: Front Page](https://hnrss.org/frontpage) | news.ycombinator.com | en | Startups |
 | [Inc.com](https://www.inc.com/rss/) | inc.com | en | Startups |
 | [INCRYPTED](https://incrypted.net/feed/) | incrypted.com | ru | Cryptocurrency |
 | [Kraken Blog](https://blog.kraken.com/feed) | blog.kraken.com | en | Cryptocurrency |
 | [Making Sense Of Cents](https://www.makingsenseofcents.com/feed) | makingsenseofcents.com | en | Personal finance |
+| [Marie Forleo](https://www.youtube.com/feeds/videos.xml?user=marieforleo) | youtube.com | en | Startups |
 | [Money Crashers](https://www.moneycrashers.com/feed/) | moneycrashers.com | en | Personal finance |
 | [Money Saving Mom®](https://moneysavingmom.com/feed/) | moneysavingmom.com | en | Personal finance |
 | [Money Under 30](https://www.moneyunder30.com/feed/) | moneyunder30.com | en | Personal finance |
@@ -356,10 +383,13 @@
 | [NerdWallet](https://www.nerdwallet.com/blog/feed/) | nerdwallet.com | en | Personal finance |
 | [News - Cryptonews](https://cryptonews.com/news/feed/) | cryptonews.com | en | Cryptocurrency |
 | [NewsBTC](https://www.newsbtc.com/feed/) | newsbtc.com | en | Cryptocurrency |
+| [Oblivious Investor](https://obliviousinvestor.com/feed/) | obliviousinvestor.com | en | Personal finance |
+| [Personal Finance](https://www.reddit.com/r/personalfinance/.rss) | reddit.com | en | Personal finance |
 | [Product Hunt — The best new products, every day](https://www.producthunt.com/feed) | producthunt.com | en | Startups |
 | [SavingAdvice.com Blog](https://www.savingadvice.com/feed/) | savingadvice.com | en | Personal finance |
 | [Small Business Trends](https://feeds2.feedburner.com/SmallBusinessTrends) | smallbiztrends.com | en | Startups |
 | [Steve Blank](https://steveblank.com/feed/) | steveblank.com | en | Startups |
+| [The Bad Crypto Podcast](https://badcryptopodcast.com/feed/) | badcryptopodcast.com | en | Cryptocurrency |
 | [The College Investor](https://thecollegeinvestor.com/feed/) | thecollegeinvestor.com | en | Personal finance |
 | [The Intercom Blog](https://www.intercom.com/blog/feed/) | intercom.com | en | Startups |
 | [The Market's Compass Technical View](https://themarketscompass.substack.com/feed) | themarketscompass.substack.com | en | Cryptocurrency |
@@ -378,24 +408,30 @@
 | [BBC Sport](https://feeds.bbci.co.uk/sport/football/rss.xml) | bbc.co.uk | en | Football |
 | [BBC Sport](https://feeds.bbci.co.uk/sport/rss.xml) | bbc.co.uk | en | Sports |
 | [BBC Sport](https://feeds.bbci.co.uk/sport/tennis/rss.xml) | bbc.co.uk | en | Tennis |
+| [Cricbuzz](https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw) | youtube.com | en | Cricket |
 | [Cricket](https://www.reddit.com/r/Cricket/.rss) | reddit.com | en | Cricket |
 | [Cricket news from ESPN Cricinfo.com](http://www.espncricinfo.com/rss/content/story/feeds/0.xml) | cricinfo.com | en | Cricket |
 | [Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches \| Times of India](https://timesofindia.indiatimes.com/rssfeeds/54829575.cms) | timesofindia.indiatimes.com | en | Cricket |
 | [Cricket News: Stories, Features, Interviews, Opinion, Reports \| Wisden](https://www.wisden.com/feed) | wisden.com | en | Cricket |
 | [Cricket \| The Guardian](https://www.theguardian.com/sport/cricket/rss) | theguardian.com | en | Cricket |
+| [cricket.com.au](https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv) | youtube.com | en | Cricket |
 | [EFL Championship](https://www.reddit.com/r/Championship/.rss?format=xml) | reddit.com | en | Football |
+| [England & Wales Cricket Board](https://www.youtube.com/feeds/videos.xml?user=ecbcricket) | youtube.com | en | Cricket |
 | [Football - The People's Sport](https://www.reddit.com/r/football/.rss?format=xml) | reddit.com | en | Football |
 | [Football News, Football Scores, Premier League, La Liga, ISL \| The Hindu](https://www.thehindu.com/sport/football/feeder/default.rss) | thehindu.com | en | Football |
 | [Football \| The Guardian](https://www.theguardian.com/football/rss) | theguardian.com | en | Football |
 | [NDTV News Search Records Found 1000](http://feeds.feedburner.com/ndtvsports-cricket) | ndtv.com | en | Cricket |
 | [NYT > Sports > Soccer](https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml) | nytimes.com | en | Football |
 | [NYT > Sports > Tennis](https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml) | nytimes.com | en | Tennis |
+| [Pakistan Cricket](https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw) | youtube.com | en | Cricket |
 | [Perfect Tennis](https://www.perfect-tennis.com/feed/) | perfect-tennis.com | en | Tennis |
+| [Reddit Sports](https://www.reddit.com/r/sports.rss) | reddit.com | en | Sports |
 | [Soccer News](https://www.soccernews.com/feed/) | soccernews.com | en | Football |
 | [Sport \| The Guardian](https://www.theguardian.com/uk/sport/rss) | theguardian.com | en | Sports |
 | [Sports News - Latest Sports and Football News \| Sky News](https://feeds.skynews.com/feeds/rss/sports.xml) | news.sky.com | en | Sports |
 | [Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More](https://timesofindia.indiatimes.com/rssfeeds/4719148.cms) | timesofindia.indiatimes.com | en | Sports |
 | [sports.yahoo.com](https://sports.yahoo.com/rss/) | sports.yahoo.com | en | Sports |
+| [Sri Lanka Cricket](https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC) | youtube.com | en | Cricket |
 | [Tennis News & Discussion](https://www.reddit.com/r/tennis/.rss) | reddit.com | en | Tennis |
 | [Tennis News, Updates, Tennis Scores, ATP, WTA, Grand Slams \| The Hindu](https://www.thehindu.com/sport/tennis/feeder/default.rss) | thehindu.com | en | Tennis |
 | [Tennis \| The Guardian](https://www.theguardian.com/sport/tennis/rss) | theguardian.com | en | Tennis |
@@ -431,9 +467,12 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [/r/space: news, articles and discussion](https://www.reddit.com/r/space/.rss?format=xml) | reddit.com | en | Space |
+| [BBC Earth](https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg) | youtube.com | en | Nature |
 | [BBC News](https://feeds.bbci.co.uk/news/science_and_environment/rss.xml) | bbc.co.uk | en | Science |
 | [BLOG POSTS – Mark Avery](https://markavery.info/blog/feed/) | markavery.info | en | Nature |
 | [Blog \| Nature \| PBS](https://www.pbs.org/wnet/nature/blog/feed/) | pbs.org | en | Nature |
+| [Conservation International](https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg) | youtube.com | en | Environment |
 | [EarthPorn: Amazing images of light and landscape](https://www.reddit.com/r/EarthPorn/.rss) | reddit.com | en | Nature |
 | [Environment](https://www.reddit.com/r/environment/.rss) | reddit.com | en | Environment |
 | [Environment + Energy – The Conversation](https://theconversation.com/au/environment/articles.atom) | theconversation.com | en | Environment |
@@ -442,11 +481,15 @@
 | [FlowingData](https://flowingdata.com/feed) | flowingdata.com | en | Science |
 | [Good Good Good](https://www.goodgoodgood.co/articles/rss.xml) | goodgoodgood.co | en | Environment |
 | [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) | sciencedaily.com | en | Science |
+| [Love Nature](https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg) | youtube.com | en | Animal & Wildlife |
 | [NASA](https://www.nasa.gov/rss/dyn/breaking_news.rss) | nasa.gov | en | Space |
+| [National Geographic](https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A) | youtube.com | en | Nature |
 | [Nature](http://feeds.nature.com/nature/rss/current?x=1) | feeds.nature.com | en | Nature |
 | [Nature](https://www.reddit.com/r/nature/.rss) | reddit.com | en | Nature |
 | [Nature](https://www.nature.com/nature.rss) | feeds.nature.com | en | Science |
 | [Nature Gifs](https://www.reddit.com/r/NatureGifs/.rss) | reddit.com | en | Nature |
+| [Nature on PBS](https://www.youtube.com/feeds/videos.xml?channel_id=UCcBp_9YPyma4c3HTadmRJ3Q) | youtube.com | en | Nature |
+| [nature video](https://www.youtube.com/feeds/videos.xml?channel_id=UC7c8mE90qCtu11z47U0KErg) | youtube.com | en | Nature |
 | [New Scientist - Space](https://www.newscientist.com/subject/space/feed/) | newscientist.com | en | Space |
 | [NPR Topics: Environment](https://feeds.npr.org/1025/rss.xml) | npr.org | en | Environment |
 | [NYT > Climate and Environment](https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml) | nytimes.com | en | Environment |
@@ -454,11 +497,14 @@
 | [Phys.org - latest science and technology news stories](https://phys.org/rss-feed/) | phys.org | en | Science |
 | [Popular Science](https://www.popsci.com/arcio/rss/) | popsci.com | en | Science |
 | [Prakati India](https://prakati.in/feed/) | prakati.in | en | Environment |
+| [Real Wild](https://www.youtube.com/feeds/videos.xml?channel_id=UCbq-4OJxnziD3awH-aTezeA) | youtube.com | en | Animal & Wildlife |
+| [Reddit Science](https://www.reddit.com/r/science/.rss) | reddit.com | en | Science |
 | [Reflections of the Natural World](https://reflectionsofthenaturalworld.com/feed/) | reflectionsofthenaturalworld.com | en | Nature |
 | [Science](https://gizmodo.com/tag/science/rss) | gizmodo.com | en | Science |
 | [Science Latest](https://www.wired.com/feed/category/science/latest/rss) | wired.com | en | Science |
 | [Scientific American Content: Global](http://rss.sciam.com/ScientificAmerican-Global) | scientificamerican.com | en | Science |
 | [Space \| The Guardian](https://www.theguardian.com/science/space/rss) | theguardian.com | en | Space |
+| [SpaceX](https://www.youtube.com/feeds/videos.xml?user=spacexchannel) | youtube.com | en | Space |
 | [Stories Archives - Nature Canada](https://naturecanada.ca/category/news/blog/feed/) | naturecanada.ca | en | Nature |
 | [Wildlife Photography: Gear, Photos & Discussion](https://www.reddit.com/r/wildlifephotography/.rss) | reddit.com | en | Animal & Wildlife |
 | [Wildlife \| The Guardian](https://www.theguardian.com/environment/wildlife/rss) | theguardian.com | en | Animal & Wildlife |
@@ -476,11 +522,16 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [agadmator's Chess Channel](https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA) | youtube.com | en | Chess |
 | [Better Chess](https://betterchess.net/feed/) | betterchess.net | en | Chess |
 | [Chess News](https://en.chessbase.com/feed) | en.chessbase.com | en | Chess |
+| [Chess Talk](https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA) | youtube.com | en | Chess |
 | [Chess \| The Guardian](https://www.theguardian.com/sport/chess/rss) | theguardian.com | en | Chess |
+| [Chess.com](https://www.youtube.com/feeds/videos.xml?user=wwwChesscom) | youtube.com | en | Chess |
 | [Chess.com News](https://www.chess.com/rss/news) | chess.com | en | Chess |
+| [chess24](https://www.youtube.com/feeds/videos.xml?user=chess24media) | youtube.com | en | Chess |
 | [Chessable Blog](https://www.chessable.com/blog/feed/) | chessable.com | en | Chess |
+| [ChessBase India](https://www.youtube.com/feeds/videos.xml?channel_id=UCIsEhwBMPkRHsEgqYAPQHsA) | youtube.com | en | Chess |
 | [Eurogamer.net Latest Articles Feed](https://www.eurogamer.net/?format=rss) | eurogamer.net | en | Gaming |
 | [For the budding patzer](https://www.reddit.com/r/chessbeginners/.rss) | reddit.com | en | Chess |
 | [GameSpot - All Content](https://www.gamespot.com/feeds/mashup/) | gamespot.com | en | Gaming |
@@ -488,11 +539,11 @@
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
-| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Polygon.com](https://www.polygon.com/rss/index.xml) | polygon.com | en | Gaming |
 | [r/Chess](https://www.reddit.com/r/chess/.rss) | reddit.com | en | Chess |
 | [r/gaming](https://www.reddit.com/r/gaming.rss) | reddit.com | en | Gaming |
 | [Rock, Paper, Shotgun](http://feeds.feedburner.com/RockPaperShotgun) | rockpapershotgun.com | en | Gaming |
+| [Steam RSS News Feed](https://store.steampowered.com/feeds/news.xml) | steampowered.com | en | Gaming |
 | [The Ancient Gaming Noob](http://feeds.feedburner.com/TheAncientGamingNoob) | tagn.wordpress.com | en | Gaming |
 | [The Escapist](https://www.escapistmagazine.com/v2/feed/) | escapistmagazine.com | en | Gaming |
 | [The Week in Chess](https://theweekinchess.com/twic-rss-feed) | theweekinchess.com | en | Chess |
@@ -502,10 +553,13 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Binging with Babish](https://www.youtube.com/feeds/videos.xml?user=bgfilms) | youtube.com | en | Food |
+| [Bon Appétit](https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom) | youtube.com | en | Food |
 | [Budget Bytes](http://budgetbytes.blogspot.com/feeds/posts/default) | budgetbytes.com | en | Food |
 | [David Lebovitz](https://www.davidlebovitz.com/feed/) | davidlebovitz.com | en | Food |
 | [How Sweet Eats](https://www.howsweeteats.com/feed/) | howsweeteats.com | en | Food |
 | [Kitchn \| Inspiring cooks, nourishing homes](https://www.thekitchn.com/main.rss) | thekitchn.com | en | Food |
+| [Laura in the Kitchen](https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen) | youtube.com | en | Food |
 | [Love and Lemons](https://www.loveandlemons.com/feed/) | loveandlemons.com | en | Food |
 | [Love and Olive Oil](https://www.loveandoliveoil.com/feed) | loveandoliveoil.com | en | Food |
 | [NYT > Food](https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml) | nytimes.com | en | Food |
@@ -520,6 +574,7 @@
 | [Atlas Obscura - Latest Articles and Places](https://www.atlasobscura.com/feeds/latest) | atlasobscura.com | en | Travel |
 | [Everything Everywhere](http://feeds2.feedburner.com/EverythingEverywhere/) | everything-everywhere.com | en | Travel |
 | [NYT > Travel](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml) | nytimes.com | en | Travel |
+| [TFIL (Traveling to EVERY COUNTRY in A-Z Order)](https://www.youtube.com/feeds/videos.xml?user=ECastee) | youtube.com | en | Travel |
 | [The Points Guy Articles](http://feeds.feedburner.com/thepointsguy) | thepointsguy.com | en | Travel |
 | [Travel Blog -](https://www.nomadicmatt.com/travel-blog/feed/) | nomadicmatt.com | en | Travel |
 | [Travel Dudes](https://traveldudes.com/feed/) | traveldudes.com | en | Travel |
@@ -564,6 +619,7 @@
 | [A Beautiful Mess](https://abeautifulmess.com/feed/) | abeautifulmess.com | en | DIY |
 | [ArchDaily Global](http://feeds.feedburner.com/Archdaily) | archdaily.com | en | Architecture |
 | [Architectural Digest](https://www.architecturaldigest.com/feed/rss) | architecturaldigest.com | en | Architecture |
+| [Architectural Digest](https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest) | youtube.com | en | Architecture |
 | [Architecture](https://www.reddit.com/r/architecture/.rss) | reddit.com | en | Architecture |
 | [architecture archives \| designboom \| architecture & design magazine](https://www.designboom.com/architecture/feed/) | designboom.com | en | Architecture |
 | [Architecture news and projects \| Dezeen](https://www.dezeen.com/architecture/feed/) | dezeen.com | en | Architecture |
@@ -581,6 +637,7 @@
 | [Interior Design Ideas](https://www.home-designing.com/feed) | home-designing.com | en | Interior design |
 | [Interior design \| Dezeen](https://www.dezeen.com/interiors/feed/) | dezeen.com | en | Interior design |
 | [Latest from Ideal Home in News](https://www.idealhome.co.uk/feed) | idealhome.co.uk | en | Interior design |
+| [Living Big In A Tiny House](https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse) | youtube.com | en | Architecture |
 | [MakeUseOf](https://www.makeuseof.com/feed/) | makeuseof.com | en | DIY |
 | [The Inspired Room](https://theinspiredroom.net/feed/) | theinspiredroom.net | en | Interior design |
 | [Thrifty Decor Chick \| Thrifty DIY, Decor and Organizing](http://feeds.feedburner.com/blogspot/ZBcZ) | thriftydecorchick.com | en | Interior design |
@@ -598,6 +655,7 @@
 | [Accidental Tech Podcast](https://atp.fm/rss) | atp.fm | en | Tech |
 | [Analog(ue)](https://relay.fm/analogue/feed) | relay.fm | en | Tech |
 | [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) | androidbackstage.blogspot.com | en | Android Development |
+| [Bionic Planet: Reversing Climate Change by Restoring Nature](https://bionicplanet.libsyn.com/rss) | bionic-planet.com | en | Environment |
 | [Bitcoin Audible](https://bitcoinaudible.com/feed/) | bitcoinaudible.com | en | Cryptocurrency |
 | [Blind Android Users Podcast](https://anchor.fm/s/4495abac/podcast/rss) | blindandroidusers.com | en | Android |
 | [Clockwise](https://relay.fm/clockwise/feed) | relay.fm | en | Tech |
@@ -626,6 +684,7 @@
 | [Nerd's Eye View \| Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) | kitces.com | en | Personal finance |
 | [Perpetual Chess Podcast](https://feeds.megaphone.fm/BLU4811105299) | perpetualchesspod.com | en | Chess |
 | [Planet Money](https://feeds.npr.org/510289/podcast.xml) | npr.org | en | Business & Economy |
+| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Podcast Archives - Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) | softwareengineeringdaily.com | en | Programming |
 | [Probably Science](https://probablyscience.libsyn.com/rss) | probablyscience.com | en | Science |
 | [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) | programmingthrowdown.com | en | Programming |

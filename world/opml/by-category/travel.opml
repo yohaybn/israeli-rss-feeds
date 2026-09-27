@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Travel &amp; Leisure</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-27</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -11,6 +11,7 @@
       <outline type="rss" text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com"/>
       <outline type="rss" text="Everything Everywhere" title="Everything Everywhere" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" htmlUrl="https://everything-everywhere.com"/>
       <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl="https://www.nytimes.com/section/travel"/>
+      <outline type="rss" text="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" title="TFIL (Traveling to EVERY COUNTRY in A-Z Order)" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=ECastee" htmlUrl="https://www.youtube.com/channel/UCXqXeWMN4HiWAiclD_3I8mQ"/>
       <outline type="rss" text="The Points Guy Articles" title="The Points Guy Articles" xmlUrl="http://feeds.feedburner.com/thepointsguy" htmlUrl="https://thepointsguy.com/feeds/the-points-guy"/>
       <outline type="rss" text="Travel Blog -" title="Travel Blog -" xmlUrl="https://www.nomadicmatt.com/travel-blog/feed/" htmlUrl="https://www.nomadicmatt.com/travel-blog/"/>
       <outline type="rss" text="Travel Dudes" title="Travel Dudes" xmlUrl="https://traveldudes.com/feed/" htmlUrl="https://traveldudes.com"/>

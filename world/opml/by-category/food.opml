@@ -2,15 +2,18 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Food &amp; Cooking</title>
-    <dateCreated>2026-09-24</dateCreated>
+    <dateCreated>2026-09-27</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Food &amp; Cooking" title="Food &amp; Cooking">
+      <outline type="rss" text="Binging with Babish" title="Binging with Babish" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw"/>
+      <outline type="rss" text="Bon Appétit" title="Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" htmlUrl="https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w"/>
       <outline type="rss" text="Budget Bytes" title="Budget Bytes" xmlUrl="http://budgetbytes.blogspot.com/feeds/posts/default" htmlUrl="https://www.budgetbytes.com/"/>
       <outline type="rss" text="David Lebovitz" title="David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" htmlUrl="https://www.davidlebovitz.com/"/>
       <outline type="rss" text="How Sweet Eats" title="How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" htmlUrl="https://www.howsweeteats.com/"/>
       <outline type="rss" text="Kitchn | Inspiring cooks, nourishing homes" title="Kitchn | Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" htmlUrl="https://www.thekitchn.com"/>
+      <outline type="rss" text="Laura in the Kitchen" title="Laura in the Kitchen" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen" htmlUrl="https://www.youtube.com/channel/UCNbngWUqL2eqRw12yAwcICg"/>
       <outline type="rss" text="Love and Lemons" title="Love and Lemons" xmlUrl="https://www.loveandlemons.com/feed/" htmlUrl="https://www.loveandlemons.com/"/>
       <outline type="rss" text="Love and Olive Oil" title="Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" htmlUrl="https://www.loveandoliveoil.com"/>
       <outline type="rss" text="NYT &gt; Food" title="NYT &gt; Food" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" htmlUrl="https://www.nytimes.com/section/food"/>

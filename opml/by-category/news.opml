@@ -45,6 +45,10 @@
       <outline type="rss" text="רדיו 103FM" title="רדיו 103FM" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml" htmlUrl="https://103fm.maariv.co.il/"/>
       <outline type="rss" text="ישיבה" title="ישיבה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml" htmlUrl="https://www.yeshiva.org.il/"/>
       <outline type="rss" text="Israel Defense" title="Israel Defense" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml" htmlUrl="https://www.israeldefense.co.il/"/>
+      <outline type="rss" text="Newsgeek" title="Newsgeek" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml" htmlUrl="https://newsgeek.co.il/"/>
+      <outline type="rss" text="כלכליסט - בארץ" title="כלכליסט - בארץ" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml" htmlUrl="https://www.calcalist.co.il/local_news"/>
+      <outline type="rss" text="כלכליסט - עולם" title="כלכליסט - עולם" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml" htmlUrl="https://www.calcalist.co.il/world_news"/>
+      <outline type="rss" text="כלכליסט - 24/7" title="כלכליסט - 24/7" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml" htmlUrl="https://www.calcalist.co.il/allnews"/>
     </outline>
   </body>
 </opml>

@@ -40,31 +40,31 @@
 | `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**99 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**116 פידים ב-21 קטגוריות** (16 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
-| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 38 |
-| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 14 |
-| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 10 |
+| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 42 |
+| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 17 |
+| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 15 |
 | ספורט | חדשות ספורט, תוצאות, פרשנויות | 4 |
-| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 4 |
+| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 6 |
 | בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 2 |
 | מדע וסביבה | תגליות, אקולוגיה, חלל | 0 |
 | מוזיקה | עדכוני אמנים, ביקורות אלבומים | 0 |
 | גיימינג | חדשות משחקי וידאו, קונסולות | 0 |
 | אוכל וקולינריה | מתכונים, מסעדות | 1 |
 | תיירות ופנאי | טיולים, חופשות, תעופה | 1 |
-| רכב ותחבורה | חדשות רכב, תחבורה ציבורית | 0 |
+| רכב ותחבורה | חדשות רכב, תחבורה ציבורית | 1 |
 | אופנה ולייף סטייל | טרנדים, טיפוח | 2 |
-| נדל"ן ועיצוב הבית | שוק הדיור, עיצוב פנים | 1 |
+| נדל"ן ועיצוב הבית | שוק הדיור, עיצוב פנים | 2 |
 | הורות ומשפחה | גידול ילדים, חינוך | 0 |
 | דעה וטורים אישיים | מאמרי דעה, בלוגים כלליים | 9 |
 | פודקאסטים | עדכונים על פרקים חדשים | 0 |
 | קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 2 |
 | צרכנות ומבצעים | חדשות צרכנות, דילים | 2 |
 | תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 3 |
-| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 6 |
+| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 7 |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -108,6 +108,10 @@
 | [רדיו 103FM](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml) | רדיו 103FM | he | - | - |
 | [ישיבה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml) | ישיבה | he | - | - |
 | [Israel Defense](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml) | Israel Defense | he | - | - |
+| [Newsgeek](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml) | Newsgeek | he | - | - |
+| [כלכליסט - בארץ](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml) | Calcalist | he | - | - |
+| [כלכליסט - עולם](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml) | Calcalist | he | - | - |
+| [כלכליסט - 24/7](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml) | Calcalist | he | - | - |
 
 ### טכנולוגיה וגאדג'טים (Technology & Gadgets)
 
@@ -126,6 +130,9 @@
 | [TGspot](https://www.tgspot.co.il/feed/) | TGspot | he | - | - |
 | [הבייט הלבן - עידו גנדל](https://www.idogendel.com/whitebyte/feed/) | הבייט הלבן | he | - | - |
 | [כותב כדי לחשוב](https://writingtothink.substack.com/feed) | Substack | he | - | - |
+| [The Verifier](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml) | The Verifier | he | - | - |
+| [Tech-il](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml) | Tech-il | he | - | - |
+| [כלכליסט - כלכליסט-טק](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml) | Calcalist | he | - | - |
 | [Chiportal - תעשיית השבבים](https://chiportal.co.il/feed/) | Chiportal | he | - | - |
 
 ### כלכלה ועסקים (Economy & Business)
@@ -142,6 +149,11 @@
 | [Dragon Value Perspective | מחשבות לעצמי](https://ankyst.substack.com/feed) | Substack | he | - | - |
 | [כלכליסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml) | כלכליסט | he | - | - |
 | [ביזפורטל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml) | ביזפורטל | he | - | - |
+| [כלכליסט - שוק ההון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml) | Calcalist | he | - | - |
+| [כלכליסט - משפט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml) | Calcalist | he | - | - |
+| [כלכליסט - Duns 100](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml) | Calcalist | he | - | - |
+| [כלכליסט - דף הבית](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml) | Calcalist | he | - | - |
+| [כלכליסט - באזז](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml) | Calcalist | he | - | - |
 
 ### ספורט (Sports)
 
@@ -160,6 +172,8 @@
 | [מחסן מילים](https://kerensheffi.substack.com/feed) | Substack | he | - | - |
 | [הקופסה](https://hakufsah.substack.com/feed) | Substack | he | - | - |
 | [בין הכסאות | לירון לביא טורקניץ׳](https://lironlavitur.substack.com/feed) | Substack | he | - | - |
+| [כלכליסט - פנאי](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml) | Calcalist | he | - | - |
+| [כלכליסט - מוסף](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml) | Calcalist | he | - | - |
 
 ### בריאות ורפואה (Health & Medicine)
 
@@ -194,7 +208,9 @@ _אין עדיין פידים בקטגוריה הזו._
 
 ### רכב ותחבורה (Cars & Transportation)
 
-_אין עדיין פידים בקטגוריה הזו._
+| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
+|---|---|---|---|---|
+| [כלכליסט - רכב](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml) | Calcalist | he | - | - |
 
 ### אופנה ולייף סטייל (Fashion & Lifestyle)
 
@@ -208,6 +224,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [גלובס - נדל"ן ותשתיות](https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607) | Globes | he | 14 | 12,406 |
+| [כלכליסט - נדלניסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml) | Calcalist | he | - | - |
 
 ### הורות ומשפחה (Parenting & Family)
 
@@ -261,6 +278,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | [Elevate your AI](https://elevatorai.substack.com/feed) | Substack | he | - | - |
 | [Human Intelligence](https://itamarshahar.substack.com/feed) | Substack | he | - | - |
 | [LangTalks Newsletter](https://langtalks.substack.com/feed) | Substack | he | - | - |
+| [Let's AI - להבין את הבינה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml) | Let's AI | he | - | - |
 | [AI24 - חדשות AI בעברית](https://ai24.co.il/rss.xml) | AI24 | he | - | - |
 | [AINet - בינה מלאכותית וחדשנות](https://ainet.co.il/feed/) | AINet | he | - | - |
 <!-- catalog:end -->

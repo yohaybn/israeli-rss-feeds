@@ -40,12 +40,12 @@
 | `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**96 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**99 פידים ב-21 קטגוריות** (15 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
-| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 38 |
-| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 13 |
+| חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 39 |
+| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 14 |
 | כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 10 |
 | ספורט | חדשות ספורט, תוצאות, פרשנויות | 4 |
 | תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 4 |
@@ -64,7 +64,7 @@
 | קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 2 |
 | צרכנות ומבצעים | חדשות צרכנות, דילים | 2 |
 | תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 3 |
-| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 4 |
+| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 5 |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -108,6 +108,7 @@
 | [רדיו 103FM](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml) | רדיו 103FM | he | - | - |
 | [ישיבה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml) | ישיבה | he | - | - |
 | [Israel Defense](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml) | Israel Defense | he | - | - |
+| [Newsgeek](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml) | Newsgeek | he | - | - |
 
 ### טכנולוגיה וגאדג'טים (Technology & Gadgets)
 
@@ -126,6 +127,7 @@
 | [TGspot](https://www.tgspot.co.il/feed/) | TGspot | he | - | - |
 | [הבייט הלבן - עידו גנדל](https://www.idogendel.com/whitebyte/feed/) | הבייט הלבן | he | - | - |
 | [כותב כדי לחשוב](https://writingtothink.substack.com/feed) | Substack | he | - | - |
+| [The Verifier](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml) | The Verifier | he | - | - |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -260,6 +262,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | [Elevate your AI](https://elevatorai.substack.com/feed) | Substack | he | - | - |
 | [Human Intelligence](https://itamarshahar.substack.com/feed) | Substack | he | - | - |
 | [LangTalks Newsletter](https://langtalks.substack.com/feed) | Substack | he | - | - |
+| [Let's AI - להבין את הבינה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml) | Let's AI | he | - | - |
 <!-- catalog:end -->
 
 ## פופולריות

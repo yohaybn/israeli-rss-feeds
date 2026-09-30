@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - חדשות ואקטואליה</title>
-    <dateCreated>2026-09-25</dateCreated>
+    <dateCreated>2026-09-30</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -45,6 +45,7 @@
       <outline type="rss" text="רדיו 103FM" title="רדיו 103FM" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml" htmlUrl="https://103fm.maariv.co.il/"/>
       <outline type="rss" text="ישיבה" title="ישיבה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml" htmlUrl="https://www.yeshiva.org.il/"/>
       <outline type="rss" text="Israel Defense" title="Israel Defense" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml" htmlUrl="https://www.israeldefense.co.il/"/>
+      <outline type="rss" text="Newsgeek" title="Newsgeek" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml" htmlUrl="https://newsgeek.co.il/"/>
     </outline>
   </body>
 </opml>

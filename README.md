@@ -332,3 +332,18 @@ _אין עדיין פידים בקטגוריה הזו._
 בתיקייה [`world/`](world/) יש קטלוג פידים בינלאומי באותה סכמה ובאותן קטגוריות, שמומר מ-[plenaryapp/awesome-rss-feeds](https://github.com/plenaryapp/awesome-rss-feeds) וכל פיד בו אומת מול האתר החי. מסתנכרן ומאומת מחדש כל שבוע. כתובת גלם לאפליקציות:
 
 `https://raw.githubusercontent.com/yohaybn/israeli-rss-feeds/main/world/feeds.json`
+
+## Generated feeds / פידים מגונרטים
+
+The generator for sites without usable native RSS is now maintained under
+[`generated/`](generated/README.md), with its own sites, scripts, tests and narrow
+TECH-IL relay. Native feeds still win. The app's catalog endpoints are unchanged.
+
+Migration is staged: merge this source/workflow import first, enable GitHub Pages
+with **GitHub Actions**, then run **Generate and publish feeds** manually and
+verify the public output. Catalog/OPML URL cutover and the 30-minute schedule are
+separate follow-up changes after live verification. Old generation remains
+active until cutover. The old repository is archived only after the owner's
+manual re-subscription check; there will be no compatibility mirror or app ID
+migration. Re-importing OPML does not preserve article/read history or remove
+old subscriptions automatically.

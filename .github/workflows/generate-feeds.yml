@@ -1,0 +1,76 @@
+name: Generate and publish feeds
+# Manual until public verification and the owner-approved schedule cutover.
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: generated-feeds-publication
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+      - name: Install parsers
+        run: |
+          gem install html2rss --no-document
+          python -m pip install beautifulsoup4==4.14.3
+      - name: Restore last-good output or seed from old publication
+        run: |
+          set -euo pipefail
+          if git ls-remote --exit-code --heads "https://github.com/${GITHUB_REPOSITORY}.git" gh-pages >/dev/null; then
+            git clone --depth 1 --branch gh-pages "https://github.com/${GITHUB_REPOSITORY}.git" previous
+          else
+            git clone --depth 1 --branch gh-pages https://github.com/yohaybn/israeli-no-rss-feeds.git previous
+          fi
+          mkdir -p generated/out
+          cp -a previous/. generated/out/
+          rm -rf generated/out/.git
+          python generated/scripts/rebase_publication.py generated/out/feeds
+      - name: Generate and validate
+        env:
+          FEEDS_BASE_URL: https://yohaybn.github.io/israeli-rss-feeds
+          TECH_IL_WORKER_URL: ${{ vars.TECH_IL_WORKER_URL }}
+        run: |
+          python generated/scripts/generate_feeds.py
+          python generated/scripts/validate_feeds.py --feeds-dir generated/out/feeds
+          touch generated/out/.nojekyll
+      - name: Preserve output for next run
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          cd generated/out
+          git init -q -b gh-pages
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -q -m "Generated feeds $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: generated/out
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy generated feeds
+        id: deployment
+        uses: actions/deploy-pages@v4

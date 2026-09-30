@@ -1,6 +1,6 @@
 # Feed status - 2026-09-30
 
-Checked 116 feeds: 98 OK, 1 stale, 4 blocked (bot protection), 13 dead.
+Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 
 ## Valid feeds
 
@@ -164,6 +164,32 @@ Checked 116 feeds: 98 OK, 1 stale, 4 blocked (bot protection), 13 dead.
   `https://www.kipa.co.il/rss.xml`
 - **כלכליסט** (כלכליסט)  
   `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml`
+- **כלכליסט - 24/7** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml`
+- **כלכליסט - Duns 100** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml`
+- **כלכליסט - באזז** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml`
+- **כלכליסט - בארץ** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml`
+- **כלכליסט - דף הבית** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml`
+- **כלכליסט - כלכליסט-טק** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml`
+- **כלכליסט - מוסף** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml`
+- **כלכליסט - משפט** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml`
+- **כלכליסט - נדלניסט** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml`
+- **כלכליסט - עולם** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml`
+- **כלכליסט - פנאי** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml`
+- **כלכליסט - רכב** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml`
+- **כלכליסט - שוק ההון** (Calcalist)  
+  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml`
 - **מגזין HT (הום ת'יאטר)** (HomeTheater)  
   `https://www.hometheater.co.il/feed/`
 - **מהתיאוריה לצלחת** (Substack)  
@@ -200,35 +226,6 @@ Checked 116 feeds: 98 OK, 1 stale, 4 blocked (bot protection), 13 dead.
   `https://amsterdamski.substack.com/feed`
 - **عرب 48** (عرب 48)  
   `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml`
-
-## Dead feeds
-
-- **כלכליסט - 24/7** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml`
-- **כלכליסט - Duns 100** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml`
-- **כלכליסט - באזז** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml`
-- **כלכליסט - בארץ** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml`
-- **כלכליסט - דף הבית** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml`
-- **כלכליסט - כלכליסט-טק** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml`
-- **כלכליסט - מוסף** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml`
-- **כלכליסט - משפט** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml`
-- **כלכליסט - נדלניסט** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml`
-- **כלכליסט - עולם** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml`
-- **כלכליסט - פנאי** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml`
-- **כלכליסט - רכב** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml`
-- **כלכליסט - שוק ההון** (Calcalist) - HTTP 404  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml`
 
 ## Stale (no item in 90 days)
 

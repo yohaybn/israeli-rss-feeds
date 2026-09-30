@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS Feeds - קטלוג פידים ישראלי</title>
-    <dateCreated>2026-09-25</dateCreated>
+    <dateCreated>2026-09-30</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -60,6 +60,7 @@
       <outline type="rss" text="TGspot" title="TGspot" xmlUrl="https://www.tgspot.co.il/feed/" htmlUrl="https://www.tgspot.co.il/"/>
       <outline type="rss" text="הבייט הלבן - עידו גנדל" title="הבייט הלבן - עידו גנדל" xmlUrl="https://www.idogendel.com/whitebyte/feed/" htmlUrl="https://www.idogendel.com/whitebyte/"/>
       <outline type="rss" text="כותב כדי לחשוב" title="כותב כדי לחשוב" xmlUrl="https://writingtothink.substack.com/feed" htmlUrl="https://writingtothink.substack.com/"/>
+      <outline type="rss" text="Chiportal - תעשיית השבבים" title="Chiportal - תעשיית השבבים" xmlUrl="https://chiportal.co.il/feed/" htmlUrl="https://chiportal.co.il/"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
@@ -137,6 +138,8 @@
       <outline type="rss" text="Elevate your AI" title="Elevate your AI" xmlUrl="https://elevatorai.substack.com/feed" htmlUrl="https://elevatorai.substack.com/"/>
       <outline type="rss" text="Human Intelligence" title="Human Intelligence" xmlUrl="https://itamarshahar.substack.com/feed" htmlUrl="https://itamarshahar.substack.com/"/>
       <outline type="rss" text="LangTalks Newsletter" title="LangTalks Newsletter" xmlUrl="https://langtalks.substack.com/feed" htmlUrl="https://langtalks.substack.com/"/>
+      <outline type="rss" text="AI24 - חדשות AI בעברית" title="AI24 - חדשות AI בעברית" xmlUrl="https://ai24.co.il/rss.xml" htmlUrl="https://ai24.co.il/"/>
+      <outline type="rss" text="AINet - בינה מלאכותית וחדשנות" title="AINet - בינה מלאכותית וחדשנות" xmlUrl="https://ainet.co.il/feed/" htmlUrl="https://ainet.co.il/"/>
     </outline>
   </body>
 </opml>

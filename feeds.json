@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-25",
-  "feed_count": 99,
+  "feed_count": 100,
   "categories": [
     {
       "id": "news",
@@ -742,6 +742,18 @@
           "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml",
           "site": "The Verifier",
           "homepage": "https://theverifier.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Tech-il",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml",
+          "site": "Tech-il",
+          "homepage": "https://tech-il.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,

@@ -62,6 +62,7 @@
       <outline type="rss" text="הבייט הלבן - עידו גנדל" title="הבייט הלבן - עידו גנדל" xmlUrl="https://www.idogendel.com/whitebyte/feed/" htmlUrl="https://www.idogendel.com/whitebyte/"/>
       <outline type="rss" text="כותב כדי לחשוב" title="כותב כדי לחשוב" xmlUrl="https://writingtothink.substack.com/feed" htmlUrl="https://writingtothink.substack.com/"/>
       <outline type="rss" text="The Verifier" title="The Verifier" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml" htmlUrl="https://theverifier.co.il/"/>
+      <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>

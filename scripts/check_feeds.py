@@ -11,6 +11,7 @@ dead - many Israeli sites block datacenter IPs while serving readers fine.
 Stdlib only, no pip installs.
 """
 import json, re, sys, urllib.request, urllib.error, urllib.parse
+from pathlib import Path
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from email.utils import parsedate_to_datetime
@@ -91,7 +92,7 @@ def check(feed):
         age = age_days(newest)
         if age is not None and age > STALE_DAYS:
             return feed, 'stale', f'newest item {int(age)}d old'
-        return feed, 'ok', ''
+        return feed, 'ok', 'valid XML; no publication dates' if newest is None else ''
     except urllib.error.HTTPError as e:
         if e.code in (401, 403, 429):
             return feed, 'blocked', f'HTTP {e.code} (bot protection?)'
@@ -100,7 +101,7 @@ def check(feed):
         return feed, 'dead', f'{type(e).__name__}: {str(e)[:80]}'
 
 def main():
-    catalog = json.load(open('feeds.json'))
+    catalog = json.loads(Path('feeds.json').read_text())
     flat = [(c['name_he'], f) for c in catalog['categories'] for f in c['feeds']]
     results = {'ok': [], 'stale': [], 'blocked': [], 'dead': []}
     with ThreadPoolExecutor(12) as ex:
@@ -112,15 +113,32 @@ def main():
     lines = [f'# Feed status - {date}', '',
              f"Checked {len(flat)} feeds: {len(results['ok'])} OK, {len(results['stale'])} stale, "
              f"{len(results['blocked'])} blocked (bot protection), {len(results['dead'])} dead.", '']
-    for status, he in (('dead', 'Dead feeds'), ('stale', f'Stale (no item in {STALE_DAYS} days)'),
+    for status, he in (('ok', 'Valid feeds'), ('dead', 'Dead feeds'), ('stale', f'Stale (no item in {STALE_DAYS} days)'),
                        ('blocked', 'Blocked from CI (verify manually)')):
         if results[status]:
             lines += [f'## {he}', '']
             for feed, note in sorted(results[status], key=lambda x: x[0]['title']):
-                lines.append(f"- **{feed['title']}** ({feed['site']}) - {note}  ")
+                lines.append(f"- **{feed['title']}** ({feed['site']})" + (f" - {note}" if note else '') + '  ')
                 lines.append(f"  `{feed['url']}`")
             lines.append('')
-    open('FEEDS-STATUS.md', 'w').write('\n'.join(lines) + '\n')
+    Path('FEEDS-STATUS.md').write_text('\n'.join(lines) + '\n')
+    # Keep README health current whenever the scheduled/local check runs.
+    import os
+    if os.path.exists('README.md'):
+        text = Path('README.md').read_text()
+        start, end = '<!-- health:start -->', '<!-- health:end -->'
+        if start in text and end in text:
+            undated = sum('no publication dates' in note for _, note in results['ok'])
+            summary = (f"בדיקה אחרונה: {NOW.strftime('%Y-%m-%d %H:%M UTC')}. נבדקו {len(flat)} פידים.\n\n"
+                       f"| תוצאה | פידים |\n|---|---:|\n"
+                       f"| XML תקין עם פריטים | {len(results['ok'])} |\n"
+                       f"| ללא פריט חדש מעל {STALE_DAYS} יום | {len(results['stale'])} |\n"
+                       f"| חסומים לבדיקה (401/403/429) | {len(results['blocked'])} |\n"
+                       f"| שגיאת HTTP/XML או פיד ריק | {len(results['dead'])} |\n\n"
+                       f"מתוך הפידים התקינים, {undated} ללא תאריכי פרסום שאפשר לבדוק.\n")
+            before, rest = text.split(start, 1)
+            _, after = rest.split(end, 1)
+            Path('README.md').write_text(before + start + '\n' + summary + end + after)
     print('\n'.join(lines[:4]))
     dead = results['dead'] + results['stale']
     if '--print-issue' in sys.argv and dead:

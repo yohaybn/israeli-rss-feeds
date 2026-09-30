@@ -6,25 +6,6 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="פודקאסטים" title="פודקאסטים">
-      <outline type="rss" text="כלכליסט - פודקאסטים" title="כלכליסט - פודקאסטים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-podcast.xml" htmlUrl="https://www.calcalist.co.il/podcast"/>
-      <outline type="rss" text="כלכליסט - ארכיון" title="כלכליסט - ארכיון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36422.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36422"/>
-      <outline type="rss" text="כלכליסט - שיחות עם כלכליסטים" title="כלכליסט - שיחות עם כלכליסטים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41722.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/41722"/>
-      <outline type="rss" text="כלכליסט - שיחות עומק עם בכירי Meta" title="כלכליסט - שיחות עומק עם בכירי Meta" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44773.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44773"/>
-      <outline type="rss" text="כלכליסט - ישראלים פורצי דרך מציגים: פתרונות במקום תלונות" title="כלכליסט - ישראלים פורצי דרך מציגים: פתרונות במקום תלונות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44582.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44582"/>
-      <outline type="rss" text="כלכליסט - מדברים הייטק עם אביב פרנקל" title="כלכליסט - מדברים הייטק עם אביב פרנקל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36382.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36382"/>
-      <outline type="rss" text="כלכליסט - פודקאסט כלכליסט עם שי סלינס ואורי גרינפלד" title="כלכליסט - פודקאסט כלכליסט עם שי סלינס ואורי גרינפלד" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36388.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36388"/>
-      <outline type="rss" text="כלכליסט - פודקאסט הרכב של תומר הדר ומאור סויסה" title="כלכליסט - פודקאסט הרכב של תומר הדר ומאור סויסה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40442.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/40442"/>
-      <outline type="rss" text="כלכליסט - מסע מרתק אל עולם ההשקעות" title="כלכליסט - מסע מרתק אל עולם ההשקעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43182.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/43182"/>
-      <outline type="rss" text="כלכליסט - שיחות על הכלכלה שמניעה את המזרח התיכון" title="כלכליסט - שיחות על הכלכלה שמניעה את המזרח התיכון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43662.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/43662"/>
-      <outline type="rss" text="כלכליסט - מאחורי הקלעים המנטליים של א.נשים באקו-סיסטם היזמי" title="כלכליסט - מאחורי הקלעים המנטליים של א.נשים באקו-סיסטם היזמי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36394.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36394"/>
-      <outline type="rss" text="כלכליסט - סמנכ&quot;לי השיווק הגלובליים G-CMO מדברים" title="כלכליסט - סמנכ&quot;לי השיווק הגלובליים G-CMO מדברים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-37382.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/37382"/>
-      <outline type="rss" text="כלכליסט - מסע בין תחנות ההשקעה בארץ ובעולם" title="כלכליסט - מסע בין תחנות ההשקעה בארץ ובעולם" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40546.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/40546"/>
-      <outline type="rss" text="כלכליסט - הפודקאסט שהופך שיחות על טכנולוגיה לפתרונות שעובדים באמת" title="כלכליסט - הפודקאסט שהופך שיחות על טכנולוגיה לפתרונות שעובדים באמת" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44826.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44826"/>
-      <outline type="rss" text="כלכליסט - מסטארטאפ ניישן לסקייל אפ ניישן עם מנכ״לי הביג טק של ישראל" title="כלכליסט - מסטארטאפ ניישן לסקייל אפ ניישן עם מנכ״לי הביג טק של ישראל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41888.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/41888"/>
-      <outline type="rss" text="כלכליסט - האנשים שיוצרים את מציאות הנדל״ן וההשקעות" title="כלכליסט - האנשים שיוצרים את מציאות הנדל״ן וההשקעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44774.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44774"/>
-      <outline type="rss" text="כלכליסט - איך בונים קריירה בעולם החדש" title="כלכליסט - איך בונים קריירה בעולם החדש" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42064.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/42064"/>
-      <outline type="rss" text="כלכליסט - המרוץ האנושי אל העושר עם משה פרל" title="כלכליסט - המרוץ האנושי אל העושר עם משה פרל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36390.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36390"/>
-    </outline>
+    <outline text="פודקאסטים" title="פודקאסטים"/>
   </body>
 </opml>

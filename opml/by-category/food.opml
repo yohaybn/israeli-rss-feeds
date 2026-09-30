@@ -8,8 +8,6 @@
   <body>
     <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
-      <outline type="rss" text="כלכליסט - אוכל" title="כלכליסט - אוכל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3835.xml" htmlUrl="https://www.calcalist.co.il/style/category/3835"/>
-      <outline type="rss" text="כלכליסט - מתכוניסט" title="כלכליסט - מתכוניסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42782.xml" htmlUrl="https://www.calcalist.co.il/style/category/42782"/>
     </outline>
   </body>
 </opml>

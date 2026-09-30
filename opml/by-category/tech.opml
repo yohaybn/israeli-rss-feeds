@@ -23,12 +23,6 @@
       <outline type="rss" text="The Verifier" title="The Verifier" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml" htmlUrl="https://theverifier.co.il/"/>
       <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
       <outline type="rss" text="כלכליסט - כלכליסט-טק" title="כלכליסט - כלכליסט-טק" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml" htmlUrl="https://www.calcalist.co.il/calcalistech"/>
-      <outline type="rss" text="כלכליסט - קניין רוחני" title="כלכליסט - קניין רוחני" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5631.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/5631"/>
-      <outline type="rss" text="כלכליסט - הייטק והון סיכון" title="כלכליסט - הייטק והון סיכון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3928.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/3928"/>
-      <outline type="rss" text="כלכליסט - Tech@Work" title="כלכליסט - Tech@Work" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31922.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/31922"/>
-      <outline type="rss" text="כלכליסט - הקברניט" title="כלכליסט - הקברניט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5203.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/5203"/>
-      <outline type="rss" text="כלכליסט - מכשירים ומדריכים" title="כלכליסט - מכשירים ומדריכים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3777.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/3777"/>
-      <outline type="rss" text="כלכליסט - כלכליסט &gt;" title="כלכליסט - כלכליסט &gt;" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32042.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/32042"/>
     </outline>
   </body>
 </opml>

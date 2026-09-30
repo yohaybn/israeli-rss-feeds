@@ -67,12 +67,6 @@
       <outline type="rss" text="The Verifier" title="The Verifier" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml" htmlUrl="https://theverifier.co.il/"/>
       <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
       <outline type="rss" text="כלכליסט - כלכליסט-טק" title="כלכליסט - כלכליסט-טק" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml" htmlUrl="https://www.calcalist.co.il/calcalistech"/>
-      <outline type="rss" text="כלכליסט - קניין רוחני" title="כלכליסט - קניין רוחני" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5631.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/5631"/>
-      <outline type="rss" text="כלכליסט - הייטק והון סיכון" title="כלכליסט - הייטק והון סיכון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3928.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/3928"/>
-      <outline type="rss" text="כלכליסט - Tech@Work" title="כלכליסט - Tech@Work" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31922.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/31922"/>
-      <outline type="rss" text="כלכליסט - הקברניט" title="כלכליסט - הקברניט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5203.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/5203"/>
-      <outline type="rss" text="כלכליסט - מכשירים ומדריכים" title="כלכליסט - מכשירים ומדריכים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3777.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/3777"/>
-      <outline type="rss" text="כלכליסט - כלכליסט &gt;" title="כלכליסט - כלכליסט &gt;" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32042.xml" htmlUrl="https://www.calcalist.co.il/calcalistech/category/32042"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
@@ -88,44 +82,8 @@
       <outline type="rss" text="כלכליסט - שוק ההון" title="כלכליסט - שוק ההון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml" htmlUrl="https://www.calcalist.co.il/market"/>
       <outline type="rss" text="כלכליסט - משפט" title="כלכליסט - משפט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3772"/>
       <outline type="rss" text="כלכליסט - Duns 100" title="כלכליסט - Duns 100" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/5494"/>
-      <outline type="rss" text="כלכליסט - ועידות כלכליסט" title="כלכליסט - ועידות כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-conferences.xml" htmlUrl="https://www.calcalist.co.il/conferences"/>
-      <outline type="rss" text="כלכליסט - פרסום ושיווק" title="כלכליסט - פרסום ושיווק" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-shopping.xml" htmlUrl="https://www.calcalist.co.il/shopping"/>
-      <outline type="rss" text="כלכליסט - חידוניסט" title="כלכליסט - חידוניסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-quiz.xml" htmlUrl="https://www.calcalist.co.il/local_news/quiz"/>
-      <outline type="rss" text="כלכליסט - שיווקיסט" title="כלכליסט - שיווקיסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-30862.xml" htmlUrl="https://www.calcalist.co.il/shopping/category/30862"/>
-      <outline type="rss" text="כלכליסט - פרויקטים" title="כלכליסט - פרויקטים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3847.xml" htmlUrl="https://www.calcalist.co.il/category/3847"/>
-      <outline type="rss" text="כלכליסט - שורת הרווח" title="כלכליסט - שורת הרווח" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-24188.xml" htmlUrl="https://www.calcalist.co.il/category/24188"/>
-      <outline type="rss" text="כלכליסט - שיחת מסדרון" title="כלכליסט - שיחת מסדרון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44002.xml" htmlUrl="https://www.calcalist.co.il/category/44002"/>
-      <outline type="rss" text="כלכליסט - My Future" title="כלכליסט - My Future" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43922.xml" htmlUrl="https://www.calcalist.co.il/category/43922"/>
-      <outline type="rss" text="כלכליסט - רכבת ההשקעות" title="כלכליסט - רכבת ההשקעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40782.xml" htmlUrl="https://www.calcalist.co.il/category/40782"/>
-      <outline type="rss" text="כלכליסט - C-AI Forward" title="כלכליסט - C-AI Forward" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44062.xml" htmlUrl="https://www.calcalist.co.il/category/44062"/>
-      <outline type="rss" text="כלכליסט - Corporate" title="כלכליסט - Corporate" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36622.xml" htmlUrl="https://www.calcalist.co.il/category/36622"/>
-      <outline type="rss" text="כלכליסט - בין הון לבטון" title="כלכליסט - בין הון לבטון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44342.xml" htmlUrl="https://www.calcalist.co.il/category/44342"/>
-      <outline type="rss" text="כלכליסט - מכרז zone" title="כלכליסט - מכרז zone" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5065.xml" htmlUrl="https://www.calcalist.co.il/category/5065"/>
-      <outline type="rss" text="כלכליסט - Superbrands" title="כלכליסט - Superbrands" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-33122.xml" htmlUrl="https://www.calcalist.co.il/category/33122"/>
-      <outline type="rss" text="כלכליסט - XimusNXT" title="כלכליסט - XimusNXT" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44442.xml" htmlUrl="https://www.calcalist.co.il/category/44442"/>
-      <outline type="rss" text="כלכליסט - מצטייני BRAVO" title="כלכליסט - מצטייני BRAVO" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-35642.xml" htmlUrl="https://www.calcalist.co.il/category/35642"/>
-      <outline type="rss" text="כלכליסט - Multiply" title="כלכליסט - Multiply" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43822.xml" htmlUrl="https://www.calcalist.co.il/category/43822"/>
-      <outline type="rss" text="כלכליסט - Duns Medical" title="כלכליסט - Duns Medical" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-34742.xml" htmlUrl="https://www.calcalist.co.il/category/34742"/>
-      <outline type="rss" text="כלכליסט - Fold Ultra Factors" title="כלכליסט - Fold Ultra Factors" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44811.xml" htmlUrl="https://www.calcalist.co.il/category/44811"/>
-      <outline type="rss" text="כלכליסט - FINQ" title="כלכליסט - FINQ" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44823.xml" htmlUrl="https://www.calcalist.co.il/category/44823"/>
-      <outline type="rss" text="כלכליסט - Walk the Tech" title="כלכליסט - Walk the Tech" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44809.xml" htmlUrl="https://www.calcalist.co.il/category/44809"/>
       <outline type="rss" text="כלכליסט - דף הבית" title="כלכליסט - דף הבית" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml" htmlUrl="https://www.calcalist.co.il/"/>
-      <outline type="rss" text="כלכליסט - דיווחים שוטפים" title="כלכליסט - דיווחים שוטפים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42262.xml" htmlUrl="https://www.calcalist.co.il/market/category/42262"/>
-      <outline type="rss" text="כלכליסט - ת&quot;א" title="כלכליסט - ת&quot;א" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3768.xml" htmlUrl="https://www.calcalist.co.il/market/category/3768"/>
-      <outline type="rss" text="כלכליסט - חו&quot;ל" title="כלכליסט - חו&quot;ל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3874.xml" htmlUrl="https://www.calcalist.co.il/market/category/3874"/>
-      <outline type="rss" text="כלכליסט - סקירת שוקי חו&quot;ל" title="כלכליסט - סקירת שוקי חו&quot;ל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32802.xml" htmlUrl="https://www.calcalist.co.il/market/category/32802"/>
-      <outline type="rss" text="כלכליסט - מט&quot;ח וסחורות" title="כלכליסט - מט&quot;ח וסחורות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3769.xml" htmlUrl="https://www.calcalist.co.il/market/category/3769"/>
-      <outline type="rss" text="כלכליסט - זירת המדדים" title="כלכליסט - זירת המדדים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32642.xml" htmlUrl="https://www.calcalist.co.il/market/category/32642"/>
-      <outline type="rss" text="כלכליסט - קריפטו" title="כלכליסט - קריפטו" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31822.xml" htmlUrl="https://www.calcalist.co.il/market/category/31822"/>
-      <outline type="rss" text="כלכליסט - ScaleUp Nation" title="כלכליסט - ScaleUp Nation" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41942.xml" htmlUrl="https://www.calcalist.co.il/category/41942"/>
-      <outline type="rss" text="כלכליסט - פרשנויות" title="כלכליסט - פרשנויות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-34462.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/34462"/>
-      <outline type="rss" text="כלכליסט - תקשורת" title="כלכליסט - תקשורת" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31962.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/31962"/>
-      <outline type="rss" text="כלכליסט - משבר האקלים" title="כלכליסט - משבר האקלים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5687.xml" htmlUrl="https://www.calcalist.co.il/world_news/category/5687"/>
-      <outline type="rss" text="כלכליסט - כושר" title="כלכליסט - כושר" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3898.xml" htmlUrl="https://www.calcalist.co.il/style/category/3898"/>
-      <outline type="rss" text="כלכליסט - חמש הכי" title="כלכליסט - חמש הכי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-39929.xml" htmlUrl="https://www.calcalist.co.il/style/category/39929"/>
-      <outline type="rss" text="כלכליסט - קריקטוריסט" title="כלכליסט - קריקטוריסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3837.xml" htmlUrl="https://www.calcalist.co.il/category/3837"/>
       <outline type="rss" text="כלכליסט - באזז" title="כלכליסט - באזז" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml" htmlUrl="https://www.calcalist.co.il/buzz"/>
-      <outline type="rss" text="כלכליסט - כלכליסט TV" title="כלכליסט - כלכליסט TV" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-tv.xml" htmlUrl="https://www.calcalist.co.il/tv"/>
     </outline>
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
@@ -140,30 +98,19 @@
       <outline type="rss" text="בין הכסאות | לירון לביא טורקניץ׳" title="בין הכסאות | לירון לביא טורקניץ׳" xmlUrl="https://lironlavitur.substack.com/feed" htmlUrl="https://lironlavitur.substack.com/"/>
       <outline type="rss" text="כלכליסט - פנאי" title="כלכליסט - פנאי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml" htmlUrl="https://www.calcalist.co.il/style"/>
       <outline type="rss" text="כלכליסט - מוסף" title="כלכליסט - מוסף" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml" htmlUrl="https://www.calcalist.co.il/supplement"/>
-      <outline type="rss" text="כלכליסט - פוטו כלכליסט" title="כלכליסט - פוטו כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-photo.xml" htmlUrl="https://www.calcalist.co.il/photo"/>
-      <outline type="rss" text="כלכליסט - במה" title="כלכליסט - במה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5048.xml" htmlUrl="https://www.calcalist.co.il/style/category/5048"/>
-      <outline type="rss" text="כלכליסט - קולנוע וטלוויזיה" title="כלכליסט - קולנוע וטלוויזיה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5051.xml" htmlUrl="https://www.calcalist.co.il/style/category/5051"/>
-      <outline type="rss" text="כלכליסט - ספרות" title="כלכליסט - ספרות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5050.xml" htmlUrl="https://www.calcalist.co.il/style/category/5050"/>
-      <outline type="rss" text="כלכליסט - אמנות ועיצוב" title="כלכליסט - אמנות ועיצוב" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3833.xml" htmlUrl="https://www.calcalist.co.il/style/category/3833"/>
-      <outline type="rss" text="כלכליסט - המלצות לסופ&quot;ש" title="כלכליסט - המלצות לסופ&quot;ש" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5052.xml" htmlUrl="https://www.calcalist.co.il/style/category/5052"/>
     </outline>
     <outline text="בריאות ורפואה" title="בריאות ורפואה">
       <outline type="rss" text="וואלה - בריאות" title="וואלה - בריאות" xmlUrl="https://rss.walla.co.il/feed/18" htmlUrl="https://www.walla.co.il/"/>
       <outline type="rss" text="מהתיאוריה לצלחת" title="מהתיאוריה לצלחת" xmlUrl="https://dietmaya.substack.com/feed" htmlUrl="https://dietmaya.substack.com/"/>
     </outline>
     <outline text="מדע וסביבה" title="מדע וסביבה"/>
-    <outline text="מוזיקה" title="מוזיקה">
-      <outline type="rss" text="כלכליסט - מוזיקה" title="כלכליסט - מוזיקה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5049.xml" htmlUrl="https://www.calcalist.co.il/style/category/5049"/>
-    </outline>
+    <outline text="מוזיקה" title="מוזיקה"/>
     <outline text="גיימינג" title="גיימינג"/>
     <outline text="אוכל וקולינריה" title="אוכל וקולינריה">
       <outline type="rss" text="פודי" title="פודי" xmlUrl="https://foody.co.il/feed/" htmlUrl="https://foody.co.il/"/>
-      <outline type="rss" text="כלכליסט - אוכל" title="כלכליסט - אוכל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3835.xml" htmlUrl="https://www.calcalist.co.il/style/category/3835"/>
-      <outline type="rss" text="כלכליסט - מתכוניסט" title="כלכליסט - מתכוניסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42782.xml" htmlUrl="https://www.calcalist.co.il/style/category/42782"/>
     </outline>
     <outline text="תיירות ופנאי" title="תיירות ופנאי">
       <outline type="rss" text="My Daily Journeys עברית" title="My Daily Journeys עברית" xmlUrl="https://mydailyjourneyshebrew.substack.com/feed" htmlUrl="https://mydailyjourneyshebrew.substack.com/"/>
-      <outline type="rss" text="כלכליסט - תיירות ותעופה" title="כלכליסט - תיירות ותעופה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3784.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3784"/>
     </outline>
     <outline text="רכב ותחבורה" title="רכב ותחבורה">
       <outline type="rss" text="כלכליסט - רכב" title="כלכליסט - רכב" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml" htmlUrl="https://www.calcalist.co.il/local_news/car"/>
@@ -171,13 +118,10 @@
     <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
       <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
       <outline type="rss" text="HaNaivit" title="HaNaivit" xmlUrl="https://anahiraveh.substack.com/feed" htmlUrl="https://anahiraveh.substack.com/"/>
-      <outline type="rss" text="כלכליסט - אופנה" title="כלכליסט - אופנה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3832.xml" htmlUrl="https://www.calcalist.co.il/style/category/3832"/>
     </outline>
     <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
       <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="כלכליסט - נדלניסט" title="כלכליסט - נדלניסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml" htmlUrl="https://www.calcalist.co.il/real-estate"/>
-      <outline type="rss" text="כלכליסט - חדשות נדל&quot;ן" title="כלכליסט - חדשות נדל&quot;ן" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-4440.xml" htmlUrl="https://www.calcalist.co.il/real-estate/category/4440"/>
-      <outline type="rss" text="כלכליסט - נדל&quot;ן עולמי" title="כלכליסט - נדל&quot;ן עולמי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-4444.xml" htmlUrl="https://www.calcalist.co.il/real-estate/category/4444"/>
     </outline>
     <outline text="הורות ומשפחה" title="הורות ומשפחה"/>
     <outline text="דעה וטורים אישיים" title="דעה וטורים אישיים">
@@ -190,28 +134,8 @@
       <outline type="rss" text="Cat&#x27;s Pajamas פיג&#x27;מת החתול" title="Cat&#x27;s Pajamas פיג&#x27;מת החתול" xmlUrl="https://efilifshitz.substack.com/feed" htmlUrl="https://efilifshitz.substack.com/"/>
       <outline type="rss" text="גְּדַלְיָה מייל. הניוזלטר השבועי" title="גְּדַלְיָה מייל. הניוזלטר השבועי" xmlUrl="https://ngedalia.substack.com/feed" htmlUrl="https://ngedalia.substack.com/"/>
       <outline type="rss" text="Sara&#x27;s Substack" title="Sara&#x27;s Substack" xmlUrl="https://sararegensberg.substack.com/feed" htmlUrl="https://sararegensberg.substack.com/"/>
-      <outline type="rss" text="כלכליסט - דעות" title="כלכליסט - דעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3791.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3791"/>
     </outline>
-    <outline text="פודקאסטים" title="פודקאסטים">
-      <outline type="rss" text="כלכליסט - פודקאסטים" title="כלכליסט - פודקאסטים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-podcast.xml" htmlUrl="https://www.calcalist.co.il/podcast"/>
-      <outline type="rss" text="כלכליסט - ארכיון" title="כלכליסט - ארכיון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36422.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36422"/>
-      <outline type="rss" text="כלכליסט - שיחות עם כלכליסטים" title="כלכליסט - שיחות עם כלכליסטים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41722.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/41722"/>
-      <outline type="rss" text="כלכליסט - שיחות עומק עם בכירי Meta" title="כלכליסט - שיחות עומק עם בכירי Meta" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44773.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44773"/>
-      <outline type="rss" text="כלכליסט - ישראלים פורצי דרך מציגים: פתרונות במקום תלונות" title="כלכליסט - ישראלים פורצי דרך מציגים: פתרונות במקום תלונות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44582.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44582"/>
-      <outline type="rss" text="כלכליסט - מדברים הייטק עם אביב פרנקל" title="כלכליסט - מדברים הייטק עם אביב פרנקל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36382.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36382"/>
-      <outline type="rss" text="כלכליסט - פודקאסט כלכליסט עם שי סלינס ואורי גרינפלד" title="כלכליסט - פודקאסט כלכליסט עם שי סלינס ואורי גרינפלד" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36388.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36388"/>
-      <outline type="rss" text="כלכליסט - פודקאסט הרכב של תומר הדר ומאור סויסה" title="כלכליסט - פודקאסט הרכב של תומר הדר ומאור סויסה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40442.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/40442"/>
-      <outline type="rss" text="כלכליסט - מסע מרתק אל עולם ההשקעות" title="כלכליסט - מסע מרתק אל עולם ההשקעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43182.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/43182"/>
-      <outline type="rss" text="כלכליסט - שיחות על הכלכלה שמניעה את המזרח התיכון" title="כלכליסט - שיחות על הכלכלה שמניעה את המזרח התיכון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43662.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/43662"/>
-      <outline type="rss" text="כלכליסט - מאחורי הקלעים המנטליים של א.נשים באקו-סיסטם היזמי" title="כלכליסט - מאחורי הקלעים המנטליים של א.נשים באקו-סיסטם היזמי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36394.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36394"/>
-      <outline type="rss" text="כלכליסט - סמנכ&quot;לי השיווק הגלובליים G-CMO מדברים" title="כלכליסט - סמנכ&quot;לי השיווק הגלובליים G-CMO מדברים" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-37382.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/37382"/>
-      <outline type="rss" text="כלכליסט - מסע בין תחנות ההשקעה בארץ ובעולם" title="כלכליסט - מסע בין תחנות ההשקעה בארץ ובעולם" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40546.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/40546"/>
-      <outline type="rss" text="כלכליסט - הפודקאסט שהופך שיחות על טכנולוגיה לפתרונות שעובדים באמת" title="כלכליסט - הפודקאסט שהופך שיחות על טכנולוגיה לפתרונות שעובדים באמת" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44826.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44826"/>
-      <outline type="rss" text="כלכליסט - מסטארטאפ ניישן לסקייל אפ ניישן עם מנכ״לי הביג טק של ישראל" title="כלכליסט - מסטארטאפ ניישן לסקייל אפ ניישן עם מנכ״לי הביג טק של ישראל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41888.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/41888"/>
-      <outline type="rss" text="כלכליסט - האנשים שיוצרים את מציאות הנדל״ן וההשקעות" title="כלכליסט - האנשים שיוצרים את מציאות הנדל״ן וההשקעות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44774.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/44774"/>
-      <outline type="rss" text="כלכליסט - איך בונים קריירה בעולם החדש" title="כלכליסט - איך בונים קריירה בעולם החדש" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42064.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/42064"/>
-      <outline type="rss" text="כלכליסט - המרוץ האנושי אל העושר עם משה פרל" title="כלכליסט - המרוץ האנושי אל העושר עם משה פרל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36390.xml" htmlUrl="https://www.calcalist.co.il/podcast/category/36390"/>
-    </outline>
+    <outline text="פודקאסטים" title="פודקאסטים"/>
     <outline text="קריירה ועבודה" title="קריירה ועבודה">
       <outline type="rss" text="גלובס - ניהול וקריירה" title="גלובס - ניהול וקריירה" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=3266" htmlUrl="https://www.globes.co.il/"/>
       <outline type="rss" text="Rethink by Naama Zalzman" title="Rethink by Naama Zalzman" xmlUrl="https://naamazalzman.substack.com/feed" htmlUrl="https://naamazalzman.substack.com/"/>

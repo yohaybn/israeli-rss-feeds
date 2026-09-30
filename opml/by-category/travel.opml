@@ -8,7 +8,6 @@
   <body>
     <outline text="תיירות ופנאי" title="תיירות ופנאי">
       <outline type="rss" text="My Daily Journeys עברית" title="My Daily Journeys עברית" xmlUrl="https://mydailyjourneyshebrew.substack.com/feed" htmlUrl="https://mydailyjourneyshebrew.substack.com/"/>
-      <outline type="rss" text="כלכליסט - תיירות ותעופה" title="כלכליסט - תיירות ותעופה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3784.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3784"/>
     </outline>
   </body>
 </opml>

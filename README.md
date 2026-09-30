@@ -40,27 +40,27 @@
 | `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**187 פידים ב-21 קטגוריות** (18 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**113 פידים ב-21 קטגוריות** (16 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
 | חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 42 |
-| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 22 |
-| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 51 |
+| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 16 |
+| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 15 |
 | ספורט | חדשות ספורט, תוצאות, פרשנויות | 4 |
-| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 12 |
+| תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 6 |
 | בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 2 |
 | מדע וסביבה | תגליות, אקולוגיה, חלל | 0 |
-| מוזיקה | עדכוני אמנים, ביקורות אלבומים | 1 |
+| מוזיקה | עדכוני אמנים, ביקורות אלבומים | 0 |
 | גיימינג | חדשות משחקי וידאו, קונסולות | 0 |
-| אוכל וקולינריה | מתכונים, מסעדות | 3 |
-| תיירות ופנאי | טיולים, חופשות, תעופה | 2 |
+| אוכל וקולינריה | מתכונים, מסעדות | 1 |
+| תיירות ופנאי | טיולים, חופשות, תעופה | 1 |
 | רכב ותחבורה | חדשות רכב, תחבורה ציבורית | 1 |
-| אופנה ולייף סטייל | טרנדים, טיפוח | 3 |
-| נדל"ן ועיצוב הבית | שוק הדיור, עיצוב פנים | 4 |
+| אופנה ולייף סטייל | טרנדים, טיפוח | 2 |
+| נדל"ן ועיצוב הבית | שוק הדיור, עיצוב פנים | 2 |
 | הורות ומשפחה | גידול ילדים, חינוך | 0 |
-| דעה וטורים אישיים | מאמרי דעה, בלוגים כלליים | 10 |
-| פודקאסטים | עדכונים על פרקים חדשים | 18 |
+| דעה וטורים אישיים | מאמרי דעה, בלוגים כלליים | 9 |
+| פודקאסטים | עדכונים על פרקים חדשים | 0 |
 | קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 2 |
 | צרכנות ומבצעים | חדשות צרכנות, דילים | 2 |
 | תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 3 |
@@ -133,12 +133,6 @@
 | [The Verifier](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml) | The Verifier | he | - | - |
 | [Tech-il](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml) | Tech-il | he | - | - |
 | [כלכליסט - כלכליסט-טק](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml) | Calcalist | he | - | - |
-| [כלכליסט - קניין רוחני](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5631.xml) | Calcalist | he | - | - |
-| [כלכליסט - הייטק והון סיכון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3928.xml) | Calcalist | he | - | - |
-| [כלכליסט - Tech@Work](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31922.xml) | Calcalist | he | - | - |
-| [כלכליסט - הקברניט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5203.xml) | Calcalist | he | - | - |
-| [כלכליסט - מכשירים ומדריכים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3777.xml) | Calcalist | he | - | - |
-| [כלכליסט - כלכליסט >](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32042.xml) | Calcalist | he | - | - |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -157,44 +151,8 @@
 | [כלכליסט - שוק ההון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml) | Calcalist | he | - | - |
 | [כלכליסט - משפט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml) | Calcalist | he | - | - |
 | [כלכליסט - Duns 100](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml) | Calcalist | he | - | - |
-| [כלכליסט - ועידות כלכליסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-conferences.xml) | Calcalist | he | - | - |
-| [כלכליסט - פרסום ושיווק](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-shopping.xml) | Calcalist | he | - | - |
-| [כלכליסט - חידוניסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-quiz.xml) | Calcalist | he | - | - |
-| [כלכליסט - שיווקיסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-30862.xml) | Calcalist | he | - | - |
-| [כלכליסט - פרויקטים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3847.xml) | Calcalist | he | - | - |
-| [כלכליסט - שורת הרווח](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-24188.xml) | Calcalist | he | - | - |
-| [כלכליסט - שיחת מסדרון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44002.xml) | Calcalist | he | - | - |
-| [כלכליסט - My Future](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43922.xml) | Calcalist | he | - | - |
-| [כלכליסט - רכבת ההשקעות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40782.xml) | Calcalist | he | - | - |
-| [כלכליסט - C-AI Forward](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44062.xml) | Calcalist | he | - | - |
-| [כלכליסט - Corporate](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36622.xml) | Calcalist | he | - | - |
-| [כלכליסט - בין הון לבטון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44342.xml) | Calcalist | he | - | - |
-| [כלכליסט - מכרז zone](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5065.xml) | Calcalist | he | - | - |
-| [כלכליסט - Superbrands](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-33122.xml) | Calcalist | he | - | - |
-| [כלכליסט - XimusNXT](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44442.xml) | Calcalist | he | - | - |
-| [כלכליסט - מצטייני BRAVO](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-35642.xml) | Calcalist | he | - | - |
-| [כלכליסט - Multiply](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43822.xml) | Calcalist | he | - | - |
-| [כלכליסט - Duns Medical](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-34742.xml) | Calcalist | he | - | - |
-| [כלכליסט - Fold Ultra Factors](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44811.xml) | Calcalist | he | - | - |
-| [כלכליסט - FINQ](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44823.xml) | Calcalist | he | - | - |
-| [כלכליסט - Walk the Tech](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44809.xml) | Calcalist | he | - | - |
 | [כלכליסט - דף הבית](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml) | Calcalist | he | - | - |
-| [כלכליסט - דיווחים שוטפים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42262.xml) | Calcalist | he | - | - |
-| [כלכליסט - ת"א](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3768.xml) | Calcalist | he | - | - |
-| [כלכליסט - חו"ל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3874.xml) | Calcalist | he | - | - |
-| [כלכליסט - סקירת שוקי חו"ל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32802.xml) | Calcalist | he | - | - |
-| [כלכליסט - מט"ח וסחורות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3769.xml) | Calcalist | he | - | - |
-| [כלכליסט - זירת המדדים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-32642.xml) | Calcalist | he | - | - |
-| [כלכליסט - קריפטו](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31822.xml) | Calcalist | he | - | - |
-| [כלכליסט - ScaleUp Nation](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41942.xml) | Calcalist | he | - | - |
-| [כלכליסט - פרשנויות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-34462.xml) | Calcalist | he | - | - |
-| [כלכליסט - תקשורת](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-31962.xml) | Calcalist | he | - | - |
-| [כלכליסט - משבר האקלים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5687.xml) | Calcalist | he | - | - |
-| [כלכליסט - כושר](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3898.xml) | Calcalist | he | - | - |
-| [כלכליסט - חמש הכי](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-39929.xml) | Calcalist | he | - | - |
-| [כלכליסט - קריקטוריסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3837.xml) | Calcalist | he | - | - |
 | [כלכליסט - באזז](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml) | Calcalist | he | - | - |
-| [כלכליסט - כלכליסט TV](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-tv.xml) | Calcalist | he | - | - |
 
 ### ספורט (Sports)
 
@@ -215,12 +173,6 @@
 | [בין הכסאות | לירון לביא טורקניץ׳](https://lironlavitur.substack.com/feed) | Substack | he | - | - |
 | [כלכליסט - פנאי](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml) | Calcalist | he | - | - |
 | [כלכליסט - מוסף](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml) | Calcalist | he | - | - |
-| [כלכליסט - פוטו כלכליסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-photo.xml) | Calcalist | he | - | - |
-| [כלכליסט - במה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5048.xml) | Calcalist | he | - | - |
-| [כלכליסט - קולנוע וטלוויזיה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5051.xml) | Calcalist | he | - | - |
-| [כלכליסט - ספרות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5050.xml) | Calcalist | he | - | - |
-| [כלכליסט - אמנות ועיצוב](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3833.xml) | Calcalist | he | - | - |
-| [כלכליסט - המלצות לסופ"ש](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5052.xml) | Calcalist | he | - | - |
 
 ### בריאות ורפואה (Health & Medicine)
 
@@ -235,9 +187,7 @@ _אין עדיין פידים בקטגוריה הזו._
 
 ### מוזיקה (Music)
 
-| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
-|---|---|---|---|---|
-| [כלכליסט - מוזיקה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5049.xml) | Calcalist | he | - | - |
+_אין עדיין פידים בקטגוריה הזו._
 
 ### גיימינג (Gaming)
 
@@ -248,15 +198,12 @@ _אין עדיין פידים בקטגוריה הזו._
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [פודי](https://foody.co.il/feed/) | Foody | he | 0 | 682,324 |
-| [כלכליסט - אוכל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3835.xml) | Calcalist | he | - | - |
-| [כלכליסט - מתכוניסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42782.xml) | Calcalist | he | - | - |
 
 ### תיירות ופנאי (Travel & Leisure)
 
 | פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
 |---|---|---|---|---|
 | [My Daily Journeys עברית](https://mydailyjourneyshebrew.substack.com/feed) | Substack | he | - | - |
-| [כלכליסט - תיירות ותעופה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3784.xml) | Calcalist | he | - | - |
 
 ### רכב ותחבורה (Cars & Transportation)
 
@@ -270,7 +217,6 @@ _אין עדיין פידים בקטגוריה הזו._
 |---|---|---|---|---|
 | [את - מגזין את](https://www.atmag.co.il/feed/) | At Magazine | he | 8 | 429,306 |
 | [HaNaivit](https://anahiraveh.substack.com/feed) | Substack | he | - | - |
-| [כלכליסט - אופנה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3832.xml) | Calcalist | he | - | - |
 
 ### נדל"ן ועיצוב הבית (Real Estate & Home Design)
 
@@ -278,8 +224,6 @@ _אין עדיין פידים בקטגוריה הזו._
 |---|---|---|---|---|
 | [גלובס - נדל"ן ותשתיות](https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607) | Globes | he | 14 | 12,406 |
 | [כלכליסט - נדלניסט](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml) | Calcalist | he | - | - |
-| [כלכליסט - חדשות נדל"ן](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-4440.xml) | Calcalist | he | - | - |
-| [כלכליסט - נדל"ן עולמי](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-4444.xml) | Calcalist | he | - | - |
 
 ### הורות ומשפחה (Parenting & Family)
 
@@ -298,30 +242,10 @@ _אין עדיין פידים בקטגוריה הזו._
 | [Cat's Pajamas פיג'מת החתול](https://efilifshitz.substack.com/feed) | Substack | he | - | - |
 | [גְּדַלְיָה מייל. הניוזלטר השבועי](https://ngedalia.substack.com/feed) | Substack | he | - | - |
 | [Sara's Substack](https://sararegensberg.substack.com/feed) | Substack | he | - | - |
-| [כלכליסט - דעות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3791.xml) | Calcalist | he | - | - |
 
 ### פודקאסטים (Podcasts)
 
-| פיד | אתר | שפה | עוקבים ב-Feedly | דירוג Tranco |
-|---|---|---|---|---|
-| [כלכליסט - פודקאסטים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-podcast.xml) | Calcalist | he | - | - |
-| [כלכליסט - ארכיון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36422.xml) | Calcalist | he | - | - |
-| [כלכליסט - שיחות עם כלכליסטים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41722.xml) | Calcalist | he | - | - |
-| [כלכליסט - שיחות עומק עם בכירי Meta](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44773.xml) | Calcalist | he | - | - |
-| [כלכליסט - ישראלים פורצי דרך מציגים: פתרונות במקום תלונות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44582.xml) | Calcalist | he | - | - |
-| [כלכליסט - מדברים הייטק עם אביב פרנקל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36382.xml) | Calcalist | he | - | - |
-| [כלכליסט - פודקאסט כלכליסט עם שי סלינס ואורי גרינפלד](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36388.xml) | Calcalist | he | - | - |
-| [כלכליסט - פודקאסט הרכב של תומר הדר ומאור סויסה](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40442.xml) | Calcalist | he | - | - |
-| [כלכליסט - מסע מרתק אל עולם ההשקעות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43182.xml) | Calcalist | he | - | - |
-| [כלכליסט - שיחות על הכלכלה שמניעה את המזרח התיכון](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-43662.xml) | Calcalist | he | - | - |
-| [כלכליסט - מאחורי הקלעים המנטליים של א.נשים באקו-סיסטם היזמי](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36394.xml) | Calcalist | he | - | - |
-| [כלכליסט - סמנכ"לי השיווק הגלובליים G-CMO מדברים](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-37382.xml) | Calcalist | he | - | - |
-| [כלכליסט - מסע בין תחנות ההשקעה בארץ ובעולם](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-40546.xml) | Calcalist | he | - | - |
-| [כלכליסט - הפודקאסט שהופך שיחות על טכנולוגיה לפתרונות שעובדים באמת](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44826.xml) | Calcalist | he | - | - |
-| [כלכליסט - מסטארטאפ ניישן לסקייל אפ ניישן עם מנכ״לי הביג טק של ישראל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-41888.xml) | Calcalist | he | - | - |
-| [כלכליסט - האנשים שיוצרים את מציאות הנדל״ן וההשקעות](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-44774.xml) | Calcalist | he | - | - |
-| [כלכליסט - איך בונים קריירה בעולם החדש](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-42064.xml) | Calcalist | he | - | - |
-| [כלכליסט - המרוץ האנושי אל העושר עם משה פרל](https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-36390.xml) | Calcalist | he | - | - |
+_אין עדיין פידים בקטגוריה הזו._
 
 ### קריירה ועבודה (Career & Work)
 

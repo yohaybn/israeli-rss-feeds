@@ -28,14 +28,14 @@ https://yohaybn.github.io/israeli-rss-feeds/feeds/<slug>.xml
 אם GitHub Pages לא זמין, אותם קבצים נגישים גם ישירות:
 
 ```
-https://raw.githubusercontent.com/yohaybn/israeli-no-rss-feeds/gh-pages/feeds/<slug>.xml
+https://raw.githubusercontent.com/yohaybn/israeli-rss-feeds/gh-pages/feeds/<slug>.xml
 ```
 
 ## בקשת פיד חדש (שירות עצמי)
 
 רוצים פיד לאתר שלא ברשימה? [פתחו בקשת פיד](https://github.com/yohaybn/israeli-rss-feeds/issues/new?template=feed-request.yml) עם שם האתר וה-URL. GitHub Actions מריץ html2rss auto-source על הכתובת: אם נמצאו פריטים נפתח PR אוטומטי עם ההגדרה (אחרי מיזוג הפיד באוויר תוך ~30 דקות); אם לא - מתקבלת תגובה ב-issue שהאתר דורש הגדרה ידנית.
 
-**מיזוג אוטומטי:** בקשות שנפתחות על ידי בעל הריפו (@yohaybn) מתמזגות אוטומטית אם עוברות את בדיקות האימות (כתובת https, מינימום 3 פריטים, קישורי הפריטים נשארים באותו דומיין). בקשות של כל אחד אחר נשארות PR פתוח לסקירה ידנית - מיגון מול ספאם.
+**סקירה ידנית:** כל בקשה פותחת PR לסקירת בעל הריפו. אין מיזוג אוטומטי.
 
 ## האתרים ברשימה הראשונית
 
@@ -80,7 +80,7 @@ MIT. תודה לפרויקט [html2rss](https://github.com/html2rss/html2rss) ש
 
 RSS feeds for leading Israeli sites that don't have one - without a per-site scraper.
 
-**Request a new feed (self-service):** [open a feed request](https://github.com/yohaybn/israeli-rss-feeds/issues/new?template=feed-request.yml) with the site name and URL. A GitHub Actions job runs html2rss auto-source on it: if items are found it opens a PR automatically (live ~30 min after merge); otherwise it comments on the issue that a hand-written config is needed. Requests opened by the repo owner auto-merge when validation gates pass (https only, >=3 items, item links stay on the submitted domain); everyone else's PRs wait for manual review (spam protection).
+**Request a new feed:** [open a feed request](https://github.com/yohaybn/israeli-rss-feeds/issues/new?template=feed-request.yml). The workflow probes the URL and opens a PR when it finds items. Every PR waits for owner review and merge.
 
 **How:** a single config list (`sites.json`) + a GitHub Actions job (every 30 min) that runs the [html2rss](https://github.com/html2rss/html2rss) gem in auto-source mode over the list, normalizes each feed to **title + link + a short plain-text teaser (≤500 chars) + an image enclosure when the listing exposes one** (real publish dates where the listing exposes them, scrape time otherwise), and publishes the result to the `gh-pages` branch, served by GitHub Pages at `https://yohaybn.github.io/israeli-rss-feeds/feeds/<slug>.xml` (raw-URL fallback available). Live status page and machine-readable `status.json` at the same URL.
 

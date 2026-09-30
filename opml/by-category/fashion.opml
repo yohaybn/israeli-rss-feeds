@@ -9,6 +9,7 @@
     <outline text="אופנה ולייף סטייל" title="אופנה ולייף סטייל">
       <outline type="rss" text="את - מגזין את" title="את - מגזין את" xmlUrl="https://www.atmag.co.il/feed/" htmlUrl="https://www.atmag.co.il/"/>
       <outline type="rss" text="HaNaivit" title="HaNaivit" xmlUrl="https://anahiraveh.substack.com/feed" htmlUrl="https://anahiraveh.substack.com/"/>
+      <outline type="rss" text="כלכליסט - אופנה" title="כלכליסט - אופנה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3832.xml" htmlUrl="https://www.calcalist.co.il/style/category/3832"/>
     </outline>
   </body>
 </opml>

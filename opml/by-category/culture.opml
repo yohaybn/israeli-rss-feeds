@@ -11,6 +11,14 @@
       <outline type="rss" text="מחסן מילים" title="מחסן מילים" xmlUrl="https://kerensheffi.substack.com/feed" htmlUrl="https://kerensheffi.substack.com/"/>
       <outline type="rss" text="הקופסה" title="הקופסה" xmlUrl="https://hakufsah.substack.com/feed" htmlUrl="https://hakufsah.substack.com/"/>
       <outline type="rss" text="בין הכסאות | לירון לביא טורקניץ׳" title="בין הכסאות | לירון לביא טורקניץ׳" xmlUrl="https://lironlavitur.substack.com/feed" htmlUrl="https://lironlavitur.substack.com/"/>
+      <outline type="rss" text="כלכליסט - פנאי" title="כלכליסט - פנאי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml" htmlUrl="https://www.calcalist.co.il/style"/>
+      <outline type="rss" text="כלכליסט - מוסף" title="כלכליסט - מוסף" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml" htmlUrl="https://www.calcalist.co.il/supplement"/>
+      <outline type="rss" text="כלכליסט - פוטו כלכליסט" title="כלכליסט - פוטו כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-photo.xml" htmlUrl="https://www.calcalist.co.il/photo"/>
+      <outline type="rss" text="כלכליסט - במה" title="כלכליסט - במה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5048.xml" htmlUrl="https://www.calcalist.co.il/style/category/5048"/>
+      <outline type="rss" text="כלכליסט - קולנוע וטלוויזיה" title="כלכליסט - קולנוע וטלוויזיה" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5051.xml" htmlUrl="https://www.calcalist.co.il/style/category/5051"/>
+      <outline type="rss" text="כלכליסט - ספרות" title="כלכליסט - ספרות" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5050.xml" htmlUrl="https://www.calcalist.co.il/style/category/5050"/>
+      <outline type="rss" text="כלכליסט - אמנות ועיצוב" title="כלכליסט - אמנות ועיצוב" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3833.xml" htmlUrl="https://www.calcalist.co.il/style/category/3833"/>
+      <outline type="rss" text="כלכליסט - המלצות לסופ&quot;ש" title="כלכליסט - המלצות לסופ&quot;ש" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5052.xml" htmlUrl="https://www.calcalist.co.il/style/category/5052"/>
     </outline>
   </body>
 </opml>

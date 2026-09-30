@@ -2,8 +2,8 @@
   "version": 2,
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
-  "generated_at": "2026-09-25",
-  "feed_count": 116,
+  "generated_at": "2026-10-01",
+  "feed_count": 117,
   "categories": [
     {
       "id": "news",
@@ -1604,6 +1604,18 @@
           "url": "https://rotemlebzelter.substack.com/feed",
           "site": "Substack",
           "homepage": "https://rotemlebzelter.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "משלוח אורגני - מעין אלכסנדר",
+          "url": "https://maayanale.substack.com/feed",
+          "site": "משלוח אורגני | מעין אלכסנדר",
+          "homepage": "https://maayanale.substack.com/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,

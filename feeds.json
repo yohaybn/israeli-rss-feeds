@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-25",
-  "feed_count": 113,
+  "feed_count": 116,
   "categories": [
     {
       "id": "news",
@@ -802,6 +802,18 @@
           "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/calcalistech",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Chiportal - תעשיית השבבים",
+          "url": "https://chiportal.co.il/feed/",
+          "site": "Chiportal",
+          "homepage": "https://chiportal.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,
@@ -1660,6 +1672,30 @@
           "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml",
           "site": "Let's AI",
           "homepage": "https://letsai.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "AI24 - חדשות AI בעברית",
+          "url": "https://ai24.co.il/rss.xml",
+          "site": "AI24",
+          "homepage": "https://ai24.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "AINet - בינה מלאכותית וחדשנות",
+          "url": "https://ainet.co.il/feed/",
+          "site": "AINet",
+          "homepage": "https://ainet.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,

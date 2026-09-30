@@ -63,3 +63,22 @@ class ParseFeedDates(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+class HealthReport(unittest.TestCase):
+    def test_report_updates_readme_and_lists_valid_feeds(self):
+        import tempfile,json
+        from unittest.mock import patch
+        old=os.getcwd()
+        with tempfile.TemporaryDirectory() as path:
+            try:
+                os.chdir(path)
+                with open('feeds.json','w') as f:json.dump({'categories':[{'name_he':'Test','feeds':[{'title':'Example','url':'https://example.test/feed','site':'Example'}]}]},f)
+                with open('README.md','w') as f:f.write('Before\n<!-- health:start -->old<!-- health:end -->\nAfter')
+                feed={'title':'Example','url':'https://example.test/feed','site':'Example'}
+                with patch('check_feeds.check',return_value=(feed,'ok','valid XML; no publication dates')), self.assertRaises(SystemExit) as exit:
+                    check_feeds.main()
+                self.assertEqual(exit.exception.code,0)
+                with open('README.md') as f:text=f.read()
+                self.assertIn('Before',text);self.assertIn('After',text);self.assertIn('XML תקין',text);self.assertIn('1 ללא תאריכי',text)
+                with open('FEEDS-STATUS.md') as f:self.assertIn('Valid feeds',f.read())
+            finally:os.chdir(old)

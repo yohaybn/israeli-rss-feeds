@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-25",
-  "feed_count": 100,
+  "feed_count": 113,
   "categories": [
     {
       "id": "news",
@@ -549,6 +549,42 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כלכליסט - בארץ",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/local_news",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - עולם",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/world_news",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - 24/7",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/allnews",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -760,6 +796,18 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כלכליסט - כלכליסט-טק",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/calcalistech",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -903,6 +951,66 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כלכליסט - שוק ההון",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/market",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - משפט",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/local_news/category/3772",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - Duns 100",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/local_news/category/5494",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - דף הבית",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - באזז",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/buzz",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -1020,6 +1128,30 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "כלכליסט - פנאי",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/style",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "כלכליסט - מוסף",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/supplement",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -1126,7 +1258,20 @@
       "name_he": "רכב ותחבורה",
       "name_en": "Cars & Transportation",
       "description_he": "חדשות רכב, תחבורה ציבורית",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "כלכליסט - רכב",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/local_news/car",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        }
+      ]
     },
     {
       "id": "fashion",
@@ -1182,6 +1327,18 @@
               "feedly",
               "tranco"
             ]
+          }
+        },
+        {
+          "title": "כלכליסט - נדלניסט",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml",
+          "site": "Calcalist",
+          "homepage": "https://www.calcalist.co.il/real-estate",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
           }
         }
       ]

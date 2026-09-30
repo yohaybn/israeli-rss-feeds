@@ -11,6 +11,8 @@
       <outline type="rss" text="מחסן מילים" title="מחסן מילים" xmlUrl="https://kerensheffi.substack.com/feed" htmlUrl="https://kerensheffi.substack.com/"/>
       <outline type="rss" text="הקופסה" title="הקופסה" xmlUrl="https://hakufsah.substack.com/feed" htmlUrl="https://hakufsah.substack.com/"/>
       <outline type="rss" text="בין הכסאות | לירון לביא טורקניץ׳" title="בין הכסאות | לירון לביא טורקניץ׳" xmlUrl="https://lironlavitur.substack.com/feed" htmlUrl="https://lironlavitur.substack.com/"/>
+      <outline type="rss" text="כלכליסט - פנאי" title="כלכליסט - פנאי" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml" htmlUrl="https://www.calcalist.co.il/style"/>
+      <outline type="rss" text="כלכליסט - מוסף" title="כלכליסט - מוסף" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml" htmlUrl="https://www.calcalist.co.il/supplement"/>
     </outline>
   </body>
 </opml>

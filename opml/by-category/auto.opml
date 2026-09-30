@@ -6,6 +6,8 @@
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="רכב ותחבורה" title="רכב ותחבורה"/>
+    <outline text="רכב ותחבורה" title="רכב ותחבורה">
+      <outline type="rss" text="כלכליסט - רכב" title="כלכליסט - רכב" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml" htmlUrl="https://www.calcalist.co.il/local_news/car"/>
+    </outline>
   </body>
 </opml>

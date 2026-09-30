@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-09-25",
-  "feed_count": 96,
+  "feed_count": 100,
   "categories": [
     {
       "id": "news",
@@ -537,6 +537,18 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "Newsgeek",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml",
+          "site": "Newsgeek",
+          "homepage": "https://newsgeek.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -718,6 +730,30 @@
           "url": "https://writingtothink.substack.com/feed",
           "site": "Substack",
           "homepage": "https://writingtothink.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "The Verifier",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml",
+          "site": "The Verifier",
+          "homepage": "https://theverifier.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Tech-il",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml",
+          "site": "Tech-il",
+          "homepage": "https://tech-il.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,
@@ -1455,6 +1491,18 @@
           "url": "https://langtalks.substack.com/feed",
           "site": "Substack",
           "homepage": "https://langtalks.substack.com/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Let's AI - להבין את הבינה",
+          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml",
+          "site": "Let's AI",
+          "homepage": "https://letsai.co.il/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,

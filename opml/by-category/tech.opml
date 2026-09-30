@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - טכנולוגיה וגאדג&#x27;טים</title>
-    <dateCreated>2026-09-25</dateCreated>
+    <dateCreated>2026-09-30</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -20,6 +20,8 @@
       <outline type="rss" text="TGspot" title="TGspot" xmlUrl="https://www.tgspot.co.il/feed/" htmlUrl="https://www.tgspot.co.il/"/>
       <outline type="rss" text="הבייט הלבן - עידו גנדל" title="הבייט הלבן - עידו גנדל" xmlUrl="https://www.idogendel.com/whitebyte/feed/" htmlUrl="https://www.idogendel.com/whitebyte/"/>
       <outline type="rss" text="כותב כדי לחשוב" title="כותב כדי לחשוב" xmlUrl="https://writingtothink.substack.com/feed" htmlUrl="https://writingtothink.substack.com/"/>
+      <outline type="rss" text="The Verifier" title="The Verifier" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml" htmlUrl="https://theverifier.co.il/"/>
+      <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
     </outline>
   </body>
 </opml>

@@ -2,12 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - רכב ותחבורה</title>
-    <dateCreated>2026-09-30</dateCreated>
+    <dateCreated>2026-10-02</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="רכב ותחבורה" title="רכב ותחבורה">
-      <outline type="rss" text="כלכליסט - רכב" title="כלכליסט - רכב" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml" htmlUrl="https://www.calcalist.co.il/local_news/car"/>
+      <outline type="rss" text="כלכליסט - רכב" title="כלכליסט - רכב" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-car.xml" htmlUrl="https://www.calcalist.co.il/local_news/car"/>
     </outline>
   </body>
 </opml>

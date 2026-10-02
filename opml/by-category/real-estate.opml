@@ -2,13 +2,13 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - נדל&quot;ן ועיצוב הבית</title>
-    <dateCreated>2026-09-30</dateCreated>
+    <dateCreated>2026-10-02</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="נדל&quot;ן ועיצוב הבית" title="נדל&quot;ן ועיצוב הבית">
       <outline type="rss" text="גלובס - נדל&quot;ן ותשתיות" title="גלובס - נדל&quot;ן ותשתיות" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=607" htmlUrl="https://www.globes.co.il/"/>
-      <outline type="rss" text="כלכליסט - נדלניסט" title="כלכליסט - נדלניסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml" htmlUrl="https://www.calcalist.co.il/real-estate"/>
+      <outline type="rss" text="כלכליסט - נדלניסט" title="כלכליסט - נדלניסט" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-real-estate.xml" htmlUrl="https://www.calcalist.co.il/real-estate"/>
     </outline>
   </body>
 </opml>

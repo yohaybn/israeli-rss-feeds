@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - כלכלה ועסקים</title>
-    <dateCreated>2026-09-30</dateCreated>
+    <dateCreated>2026-10-02</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -15,13 +15,12 @@
       <outline type="rss" text="Capital Artichoke" title="Capital Artichoke" xmlUrl="https://capitalartichoke.substack.com/feed" htmlUrl="https://capitalartichoke.substack.com/"/>
       <outline type="rss" text="קרן הגידור שלי" title="קרן הגידור שלי" xmlUrl="https://onthevix.substack.com/feed" htmlUrl="https://onthevix.substack.com/"/>
       <outline type="rss" text="Dragon Value Perspective | מחשבות לעצמי" title="Dragon Value Perspective | מחשבות לעצמי" xmlUrl="https://ankyst.substack.com/feed" htmlUrl="https://ankyst.substack.com/"/>
-      <outline type="rss" text="כלכליסט" title="כלכליסט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml" htmlUrl="https://www.calcalist.co.il/"/>
-      <outline type="rss" text="ביזפורטל" title="ביזפורטל" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml" htmlUrl="https://www.bizportal.co.il/"/>
-      <outline type="rss" text="כלכליסט - שוק ההון" title="כלכליסט - שוק ההון" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml" htmlUrl="https://www.calcalist.co.il/market"/>
-      <outline type="rss" text="כלכליסט - משפט" title="כלכליסט - משפט" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3772"/>
-      <outline type="rss" text="כלכליסט - Duns 100" title="כלכליסט - Duns 100" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/5494"/>
-      <outline type="rss" text="כלכליסט - דף הבית" title="כלכליסט - דף הבית" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml" htmlUrl="https://www.calcalist.co.il/"/>
-      <outline type="rss" text="כלכליסט - באזז" title="כלכליסט - באזז" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml" htmlUrl="https://www.calcalist.co.il/buzz"/>
+      <outline type="rss" text="ביזפורטל" title="ביזפורטל" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/bizportal.xml" htmlUrl="https://www.bizportal.co.il/"/>
+      <outline type="rss" text="כלכליסט - שוק ההון" title="כלכליסט - שוק ההון" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-market.xml" htmlUrl="https://www.calcalist.co.il/market"/>
+      <outline type="rss" text="כלכליסט - משפט" title="כלכליסט - משפט" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-3772.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/3772"/>
+      <outline type="rss" text="כלכליסט - Duns 100" title="כלכליסט - Duns 100" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/5494"/>
+      <outline type="rss" text="כלכליסט - דף הבית" title="כלכליסט - דף הבית" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml" htmlUrl="https://www.calcalist.co.il/"/>
+      <outline type="rss" text="כלכליסט - באזז" title="כלכליסט - באזז" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml" htmlUrl="https://www.calcalist.co.il/buzz"/>
     </outline>
   </body>
 </opml>

@@ -2,12 +2,12 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - ar</title>
-    <dateCreated>2026-09-30</dateCreated>
+    <dateCreated>2026-10-02</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="חדשות ואקטואליה" title="חדשות ואקטואליה">
-      <outline type="rss" text="عرب 48" title="عرب 48" xmlUrl="https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml" htmlUrl="https://www.arab48.com/"/>
+      <outline type="rss" text="عرب 48" title="عرب 48" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/arab48.xml" htmlUrl="https://www.arab48.com/"/>
     </outline>
   </body>
 </opml>

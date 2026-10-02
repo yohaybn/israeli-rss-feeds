@@ -39,7 +39,7 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **Human Intelligence** (Substack)  
   `https://itamarshahar.substack.com/feed`
 - **Israel Defense** (Israel Defense)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/israeldefense.xml`
 - **Israel National News** (INN English)  
   `https://www.israelnationalnews.com/Rss.aspx?act=.1`
 - **Israellycool** (Israellycool)  
@@ -51,13 +51,13 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **LangTalks Newsletter** (Substack)  
   `https://langtalks.substack.com/feed`
 - **Let's AI - להבין את הבינה** (Let's AI)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml`
 - **My Daily Journeys עברית** (Substack)  
   `https://mydailyjourneyshebrew.substack.com/feed`
 - **News1** (News1)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/news1.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/news1.xml`
 - **Newsgeek** (Newsgeek)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/newsgeek.xml`
 - **ONE** (ONE)  
   `https://www.one.co.il/rss`
 - **Rethink by Naama Zalzman** (Substack)  
@@ -67,13 +67,13 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **Sara's Substack** (Substack)  
   `https://sararegensberg.substack.com/feed`
 - **Sport5** (Sport5)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/sport5.xml`
 - **TGspot** (TGspot)  
   `https://www.tgspot.co.il/feed/`
 - **Tech-il** (Tech-il)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml`
 - **The Verifier** (The Verifier)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/theverifier.xml`
 - **TheMarker - כל הכתבות** (TheMarker)  
   `https://www.themarker.com/srv/tm-all-articles`
 - **Touch Grass** (Substack)  
@@ -85,7 +85,7 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **Yotam’s Newsletter** (Substack)  
   `https://yotam.substack.com/feed`
 - **i24NEWS** (i24NEWS)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/i24.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/i24.xml`
 - **mako - חדשות בארץ** (Mako (N12))  
   `https://rcs.mako.co.il/rss/news-israel.xml`
 - **mako - חדשות בעולם** (Mako (N12))  
@@ -101,7 +101,7 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **אנשים ומחשבים** (PC)  
   `https://www.pc.co.il/feed/`
 - **ביזפורטל** (ביזפורטל)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/bizportal.xml`
 - **בין הכסאות | לירון לביא טורקניץ׳** (Substack)  
   `https://lironlavitur.substack.com/feed`
 - **גְּדַלְיָה מייל. הניוזלטר השבועי** (Substack)  
@@ -123,13 +123,13 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **גלובס - שוק ההון והשקעות** (Globes)  
   `https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=585`
 - **גלי צה"ל** (גלי צה"ל)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/glz.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/glz.xml`
 - **הארץ - כל הכתבות** (Haaretz)  
   `https://www.haaretz.co.il/srv/htz-all-articles`
 - **הבייט הלבן - עידו גנדל** (הבייט הלבן)  
   `https://www.idogendel.com/whitebyte/feed/`
 - **החמל** (החמל)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/hamal.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/hamal.xml`
 - **המרכז למדיניות ישראל-סין** (Substack)  
   `https://israelchinapolicy.substack.com/feed`
 - **הקופסה** (Substack)  
@@ -153,9 +153,9 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **וואלה - פלילים ומשפט** (Walla)  
   `https://rss.walla.co.il/feed/10`
 - **ישיבה** (ישיבה)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/yeshiva.xml`
 - **כאן 11** (כאן 11)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/kan11.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/kan11.xml`
 - **כותב כדי לחשוב** (Substack)  
   `https://writingtothink.substack.com/feed`
 - **כיכר השבת** (Kikar Hashabbat)  
@@ -163,33 +163,33 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **כיפה** (Kipa)  
   `https://www.kipa.co.il/rss.xml`
 - **כלכליסט** (כלכליסט)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist.xml`
 - **כלכליסט - 24/7** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-allnews.xml`
 - **כלכליסט - Duns 100** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml`
 - **כלכליסט - באזז** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml`
 - **כלכליסט - בארץ** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-local-news.xml`
 - **כלכליסט - דף הבית** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml`
 - **כלכליסט - כלכליסט-טק** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml`
 - **כלכליסט - מוסף** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-supplement.xml`
 - **כלכליסט - משפט** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-3772.xml`
 - **כלכליסט - נדלניסט** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-real-estate.xml`
 - **כלכליסט - עולם** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-world-news.xml`
 - **כלכליסט - פנאי** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-style.xml`
 - **כלכליסט - רכב** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-car.xml`
 - **כלכליסט - שוק ההון** (Calcalist)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-market.xml`
 - **מגזין HT (הום ת'יאטר)** (HomeTheater)  
   `https://www.hometheater.co.il/feed/`
 - **מהתיאוריה לצלחת** (Substack)  
@@ -201,13 +201,13 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **מעריב - חדשות** (Maariv)  
   `https://www.maariv.co.il/rss/rsschadashot`
 - **מקור ראשון** (מקור ראשון)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/makorrishon.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/makorrishon.xml`
 - **נדב לווריד** (Substack)  
   `https://nadavloveread.substack.com/feed`
 - **סרוגים** (Srugim)  
   `https://www.srugim.co.il/feed`
 - **עמותת הכדורסל** (עמותת הכדורסל)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/basket.xml`
 - **ערוץ 7** (INN)  
   `https://www.inn.co.il/Rss.aspx?act=.1`
 - **פודי** (Foody)  
@@ -219,13 +219,13 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **קרן הגידור שלי** (Substack)  
   `https://onthevix.substack.com/feed`
 - **רדיו 103FM** (רדיו 103FM)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/fm103.xml`
 - **רשת 13** (רשת 13)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/reshet13.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/reshet13.xml`
 - **תחשוב טעים, יהיה טעים** (Substack)  
   `https://amsterdamski.substack.com/feed`
 - **عرب 48** (عرب 48)  
-  `https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/arab48.xml`
 
 ## Stale (no item in 90 days)
 

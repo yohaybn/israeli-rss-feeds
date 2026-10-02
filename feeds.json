@@ -408,7 +408,7 @@
         },
         {
           "title": "רשת 13",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/reshet13.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/reshet13.xml",
           "site": "רשת 13",
           "homepage": "https://13tv.co.il/",
           "language": "he",
@@ -420,7 +420,7 @@
         },
         {
           "title": "כאן 11",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/kan11.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/kan11.xml",
           "site": "כאן 11",
           "homepage": "https://www.kan.org.il/",
           "language": "he",
@@ -432,7 +432,7 @@
         },
         {
           "title": "i24NEWS",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/i24.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/i24.xml",
           "site": "i24NEWS",
           "homepage": "https://www.i24news.tv/he",
           "language": "he",
@@ -444,7 +444,7 @@
         },
         {
           "title": "News1",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/news1.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/news1.xml",
           "site": "News1",
           "homepage": "https://www.news1.co.il/",
           "language": "he",
@@ -456,7 +456,7 @@
         },
         {
           "title": "החמל",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/hamal.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/hamal.xml",
           "site": "החמל",
           "homepage": "https://hamal.co.il/",
           "language": "he",
@@ -468,7 +468,7 @@
         },
         {
           "title": "מקור ראשון",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/makorrishon.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/makorrishon.xml",
           "site": "מקור ראשון",
           "homepage": "https://www.makorrishon.co.il/",
           "language": "he",
@@ -480,7 +480,7 @@
         },
         {
           "title": "عرب 48",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/arab48.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/arab48.xml",
           "site": "عرب 48",
           "homepage": "https://www.arab48.com/",
           "language": "ar",
@@ -492,7 +492,7 @@
         },
         {
           "title": "גלי צה\"ל",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/glz.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/glz.xml",
           "site": "גלי צה\"ל",
           "homepage": "https://glz.co.il/",
           "language": "he",
@@ -504,7 +504,7 @@
         },
         {
           "title": "רדיו 103FM",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/fm103.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/fm103.xml",
           "site": "רדיו 103FM",
           "homepage": "https://103fm.maariv.co.il/",
           "language": "he",
@@ -516,7 +516,7 @@
         },
         {
           "title": "ישיבה",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/yeshiva.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/yeshiva.xml",
           "site": "ישיבה",
           "homepage": "https://www.yeshiva.org.il/",
           "language": "he",
@@ -528,7 +528,7 @@
         },
         {
           "title": "Israel Defense",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/israeldefense.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/israeldefense.xml",
           "site": "Israel Defense",
           "homepage": "https://www.israeldefense.co.il/",
           "language": "he",
@@ -540,7 +540,7 @@
         },
         {
           "title": "Newsgeek",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/newsgeek.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/newsgeek.xml",
           "site": "Newsgeek",
           "homepage": "https://newsgeek.co.il/",
           "language": "he",
@@ -552,7 +552,7 @@
         },
         {
           "title": "כלכליסט - בארץ",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-local-news.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-local-news.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/local_news",
           "language": "he",
@@ -564,7 +564,7 @@
         },
         {
           "title": "כלכליסט - עולם",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-world-news.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-world-news.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/world_news",
           "language": "he",
@@ -576,7 +576,7 @@
         },
         {
           "title": "כלכליסט - 24/7",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-allnews.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-allnews.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/allnews",
           "language": "he",
@@ -775,7 +775,7 @@
         },
         {
           "title": "The Verifier",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/theverifier.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/theverifier.xml",
           "site": "The Verifier",
           "homepage": "https://theverifier.co.il/",
           "language": "he",
@@ -787,7 +787,7 @@
         },
         {
           "title": "Tech-il",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/tech-il.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml",
           "site": "Tech-il",
           "homepage": "https://tech-il.co.il/",
           "language": "he",
@@ -799,7 +799,7 @@
         },
         {
           "title": "כלכליסט - כלכליסט-טק",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-calcalistech.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/calcalistech",
           "language": "he",
@@ -941,20 +941,8 @@
           }
         },
         {
-          "title": "כלכליסט",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist.xml",
-          "site": "כלכליסט",
-          "homepage": "https://www.calcalist.co.il/",
-          "language": "he",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": null,
-            "source": []
-          }
-        },
-        {
           "title": "ביזפורטל",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/bizportal.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/bizportal.xml",
           "site": "ביזפורטל",
           "homepage": "https://www.bizportal.co.il/",
           "language": "he",
@@ -966,7 +954,7 @@
         },
         {
           "title": "כלכליסט - שוק ההון",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-market.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-market.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/market",
           "language": "he",
@@ -978,7 +966,7 @@
         },
         {
           "title": "כלכליסט - משפט",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-3772.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-3772.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/local_news/category/3772",
           "language": "he",
@@ -990,7 +978,7 @@
         },
         {
           "title": "כלכליסט - Duns 100",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-5494.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/local_news/category/5494",
           "language": "he",
@@ -1002,7 +990,7 @@
         },
         {
           "title": "כלכליסט - דף הבית",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-home.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/",
           "language": "he",
@@ -1014,7 +1002,7 @@
         },
         {
           "title": "כלכליסט - באזז",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-buzz.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/buzz",
           "language": "he",
@@ -1063,7 +1051,7 @@
         },
         {
           "title": "Sport5",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/sport5.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/sport5.xml",
           "site": "Sport5",
           "homepage": "https://www.sport5.co.il/",
           "language": "he",
@@ -1075,7 +1063,7 @@
         },
         {
           "title": "עמותת הכדורסל",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/basket.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/basket.xml",
           "site": "עמותת הכדורסל",
           "homepage": "https://basket.co.il/",
           "language": "he",
@@ -1143,7 +1131,7 @@
         },
         {
           "title": "כלכליסט - פנאי",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-style.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-style.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/style",
           "language": "he",
@@ -1155,7 +1143,7 @@
         },
         {
           "title": "כלכליסט - מוסף",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-supplement.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-supplement.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/supplement",
           "language": "he",
@@ -1273,7 +1261,7 @@
       "feeds": [
         {
           "title": "כלכליסט - רכב",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-car.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-car.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/local_news/car",
           "language": "he",
@@ -1343,7 +1331,7 @@
         },
         {
           "title": "כלכליסט - נדלניסט",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/calcalist-real-estate.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-real-estate.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/real-estate",
           "language": "he",
@@ -1681,7 +1669,7 @@
         },
         {
           "title": "Let's AI - להבין את הבינה",
-          "url": "https://yohaybn.github.io/israeli-no-rss-feeds/feeds/letsai.xml",
+          "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml",
           "site": "Let's AI",
           "homepage": "https://letsai.co.il/",
           "language": "he",

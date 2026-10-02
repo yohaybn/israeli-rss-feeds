@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "comment": "Leading Israeli sites with no discoverable RSS/Atom feed. html2rss auto-source discovers a native feed first, so a site that later adds RSS is served from its own feed automatically.",
+  "sites": [
+    {
+      "slug": "0404",
+      "name": "0404",
+      "url": "https://www.0404.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "reshet13",
+      "name": "רשת 13",
+      "url": "https://13tv.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "kan11",
+      "name": "כאן 11",
+      "url": "https://www.kan.org.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "i24",
+      "name": "i24NEWS",
+      "url": "https://www.i24news.tv/he",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "news1",
+      "name": "News1",
+      "url": "https://www.news1.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "nfc",
+      "name": "nfc",
+      "url": "https://www.nfc.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "hamal",
+      "name": "החמל",
+      "url": "https://hamal.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "makorrishon",
+      "name": "מקור ראשון",
+      "url": "https://www.makorrishon.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "israelhayom",
+      "name": "ישראל היום",
+      "url": "https://www.israelhayom.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "zman",
+      "name": "זמן ישראל",
+      "url": "https://www.zman.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "haipo",
+      "name": "חי פה - חדשות חיפה",
+      "url": "https://haipo.co.il",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "arab48",
+      "name": "عرب 48",
+      "url": "https://www.arab48.com",
+      "lang": "ar",
+      "category": "news"
+    },
+    {
+      "slug": "panet",
+      "name": "بانيت / פאנט",
+      "url": "https://www.panet.co.il",
+      "lang": "ar",
+      "category": "news"
+    },
+    {
+      "slug": "sport5",
+      "name": "Sport5",
+      "url": "https://www.sport5.co.il",
+      "lang": "he",
+      "category": "sports"
+    },
+    {
+      "slug": "basket",
+      "name": "עמותת הכדורסל",
+      "url": "https://basket.co.il",
+      "lang": "he",
+      "category": "sports"
+    },
+    {
+      "slug": "bizportal",
+      "name": "ביזפורטל",
+      "url": "https://www.bizportal.co.il",
+      "lang": "he",
+      "category": "finance"
+    },
+    {
+      "slug": "actualic",
+      "name": "עקטואליק",
+      "url": "https://actualic.co.il",
+      "lang": "he",
+      "category": "haredi"
+    },
+    {
+      "slug": "bizzem",
+      "name": "ביזם",
+      "url": "https://bizzem.co.il",
+      "lang": "he",
+      "category": "haredi"
+    },
+    {
+      "slug": "ladaat",
+      "name": "לעדת",
+      "url": "https://www.ladaat.info",
+      "lang": "he",
+      "category": "haredi"
+    },
+    {
+      "slug": "shturem",
+      "name": "שטורעם",
+      "url": "https://www.shturem.net",
+      "lang": "he",
+      "category": "haredi"
+    },
+    {
+      "slug": "yeshiva",
+      "name": "ישיבה",
+      "url": "https://www.yeshiva.org.il",
+      "lang": "he",
+      "category": "religion"
+    },
+    {
+      "slug": "hidabroot",
+      "name": "הידברות",
+      "url": "https://www.hidabroot.co.il",
+      "lang": "he",
+      "category": "religion"
+    },
+    {
+      "slug": "passportnews",
+      "name": "PassportNews",
+      "url": "https://passportnews.co.il",
+      "lang": "he",
+      "category": "travel"
+    },
+    {
+      "slug": "israeldefense",
+      "name": "Israel Defense",
+      "url": "https://www.israeldefense.co.il",
+      "lang": "he",
+      "category": "defense"
+    },
+    {
+      "slug": "glz",
+      "name": "גלי צה\"ל",
+      "url": "https://glz.co.il",
+      "lang": "he",
+      "category": "radio"
+    },
+    {
+      "slug": "fm103",
+      "name": "רדיו 103FM",
+      "url": "https://103fm.maariv.co.il",
+      "lang": "he",
+      "category": "radio"
+    },
+    {
+      "slug": "letsai",
+      "name": "Let's AI - להבין את הבינה",
+      "url": "https://letsai.co.il/",
+      "lang": "he",
+      "category": "ai",
+      "generator": "wordpress"
+    },
+    {
+      "slug": "theverifier",
+      "name": "The Verifier",
+      "url": "https://theverifier.co.il/",
+      "generator": "wordpress",
+      "lang": "he",
+      "category": "tech"
+    },
+    {
+      "slug": "tech-il",
+      "name": "Tech-il",
+      "url": "https://tech-il.co.il/",
+      "generator": "wordpress",
+      "lang": "he",
+      "category": "tech"
+    },
+    {
+      "slug": "newsgeek",
+      "name": "Newsgeek - מגזין חדשות וצרכנות",
+      "url": "https://newsgeek.co.il/",
+      "generator": "wordpress",
+      "lang": "he",
+      "category": "news"
+    },
+    {
+      "slug": "calcalist-market",
+      "name": "כלכליסט - שוק ההון",
+      "url": "https://www.calcalist.co.il/market",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-calcalistech",
+      "name": "כלכליסט - כלכליסט-טק",
+      "url": "https://www.calcalist.co.il/calcalistech",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-local-news",
+      "name": "כלכליסט - בארץ",
+      "url": "https://www.calcalist.co.il/local_news",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-real-estate",
+      "name": "כלכליסט - נדלניסט",
+      "url": "https://www.calcalist.co.il/real-estate",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-world-news",
+      "name": "כלכליסט - עולם",
+      "url": "https://www.calcalist.co.il/world_news",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-3772",
+      "name": "כלכליסט - משפט",
+      "url": "https://www.calcalist.co.il/local_news/category/3772",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-car",
+      "name": "כלכליסט - רכב",
+      "url": "https://www.calcalist.co.il/local_news/car",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-style",
+      "name": "כלכליסט - פנאי",
+      "url": "https://www.calcalist.co.il/style",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-supplement",
+      "name": "כלכליסט - מוסף",
+      "url": "https://www.calcalist.co.il/supplement",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-5494",
+      "name": "כלכליסט - Duns 100",
+      "url": "https://www.calcalist.co.il/local_news/category/5494",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-home",
+      "name": "כלכליסט - דף הבית",
+      "url": "https://www.calcalist.co.il/",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist"
+    },
+    {
+      "slug": "calcalist-allnews",
+      "name": "כלכליסט - 24/7",
+      "url": "https://www.calcalist.co.il/allnews",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist",
+      "calcalist_listing": "allnews"
+    },
+    {
+      "slug": "calcalist-buzz",
+      "name": "כלכליסט - באזז",
+      "url": "https://www.calcalist.co.il/buzz",
+      "lang": "he",
+      "category": "economy",
+      "generator": "calcalist",
+      "calcalist_listing": "buzz"
+    }
+  ]
+}

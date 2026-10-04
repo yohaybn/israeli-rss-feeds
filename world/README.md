@@ -37,15 +37,15 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**631 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-09-27; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**631 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-10-04; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 176 | News, כל קובצי המדינות |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 94 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security |
+| חדשות ואקטואליה (News & Current Affairs) | 178 | News, כל קובצי המדינות |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 92 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security |
 | כלכלה ועסקים (Economy & Business) | 52 | Business & Economy, Startups, Personal finance, Cryptocurrency |
 | ספורט (Sports) | 31 | Sports, Football, Cricket, Tennis |
-| תרבות ופנאי (Culture & Entertainment) | 22 | Movies, Television, Books, History, Photography |
+| תרבות ופנאי (Culture & Entertainment) | 21 | Movies, Television, Books, History, Photography |
 | בריאות ורפואה (Health & Medicine) | 0 | - |
 | מדע וסביבה (Science & Environment) | 42 | Science, Space, Environment, Nature, Animal & Wildlife |
 | מוזיקה (Music) | 3 | Music |
@@ -54,7 +54,7 @@
 | תיירות ופנאי (Travel & Leisure) | 9 | Travel |
 | רכב ותחבורה (Cars & Transportation) | 9 | Cars |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 13 | Fashion, Beauty |
-| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 29 | Interior design, Architecture, DIY |
+| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 30 | Interior design, Architecture, DIY |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 0 | - |
 | פודקאסטים (Podcasts) | 68 | כל פיד עם פרקי אודיו, מכל נושא |
@@ -113,6 +113,7 @@
 | [The Local](https://feeds.thelocal.com/rss/es) | feeds.thelocal.com | en | Country: Spain |
 | [france24.com](https://www.france24.com/en/rss) | france24.com | en | Country: France |
 | [Franceinfo - Les Titres](https://www.francetvinfo.fr/titres.rss) | franceinfo.fr | fr | Country: France |
+| [L'essentiel](https://www.sudouest.fr/essentiel/rss.xml) | sudouest.fr | fr | Country: France |
 | [L'Obs - A la une](https://www.nouvelobs.com/a-la-une/rss.xml) | nouvelobs.com | fr | Country: France |
 | [La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr](https://www.ladepeche.fr/rss.xml) | ladepeche.fr | fr | Country: France |
 | [Le Huffington Post](https://www.huffingtonpost.fr/feeds/index.xml) | huffingtonpost.fr | fr | Country: France |
@@ -229,6 +230,7 @@
 | [Информационное агентство УНИАН](https://rss.unian.net/site/news_rus.rss) | unian.net | uk | Country: Ukraine |
 | [НВ](https://nv.ua/rss/all.xml) | nv.ua | ru | Country: Ukraine |
 | [Новини на tsn.ua](https://tsn.ua/rss/full.rss) | tsn.ua | uk | Country: Ukraine |
+| [Последние новости на сайте korrespondent.net](http://k.img.com.ua/rss/ru/all_news2.0.xml) | korrespondent.net | ru | Country: Ukraine |
 | [Українська правда](https://www.pravda.com.ua/rss/) | pravda.com.ua | uk | Country: Ukraine |
 | [Цензор.НЕТ - Новости](https://censor.net.ua/includes/news_ru.xml) | censor.net | ru | Country: Ukraine |
 | [FOX News](http://feeds.foxnews.com/foxnews/latest) | foxnews.com | en | Country: United States |
@@ -314,7 +316,6 @@
 | [r/iPhone](https://www.reddit.com/r/iphone/.rss) | reddit.com | en | Apple |
 | [ReadWrite](https://readwrite.com/feed/) | readwrite.com | en | Tech |
 | [Schneier on Security](http://www.schneier.com/blog/index.rdf) | schneier.com | en | Cyber security |
-| [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman) | hanselman.com | en | Programming |
 | [Scripting News](http://scripting.com/rss.xml) | scripting.com | en | Programming |
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
 | [Sink In - Tech Learnings](https://gosink.in/rss/) | gosink.in | en | Web Development |
@@ -341,7 +342,6 @@
 | [UX Collective - Medium](https://uxdesign.cc/feed) | uxdesign.cc | en | UI - UX |
 | [www.theregister.com - Articles](http://www.theregister.co.uk/security/headlines.atom) | theregister.com | en | Cyber security |
 | [www.theregister.com - Articles](https://www.theregister.com/headlines.rss) | theregister.com | en | Tech |
-| [Zac Sweers](https://www.zacsweers.dev/rss/) | zacsweers.dev | en | Android Development |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -458,7 +458,6 @@
 | [PetaPixel](https://petapixel.com/feed/) | petapixel.com | en | Photography |
 | [So many books, so little time](https://www.reddit.com/r/books/.rss) | reddit.com | en | Books |
 | [Strobist](http://feeds.feedburner.com/blogspot/WOBq) | strobist.blogspot.com | en | Photography |
-| [TV Fanatic](https://www.tvfanatic.com/rss.xml) | tvfanatic.com | en | Television |
 | [TVLine - All TV. No Interference. TV News & Spoilers by TVLine](https://www.tvline.com/feed/) | tvline.com | en | Television |
 | [Variety](https://variety.com/feed/) | variety.com | en | Movies |
 | [📺Television News and Discussion](https://www.reddit.com/r/television/.rss) | reddit.com | en | Television |
@@ -625,6 +624,7 @@
 | [Architecture news and projects \| Dezeen](https://www.dezeen.com/architecture/feed/) | dezeen.com | en | Architecture |
 | [BLOG - decor8](https://www.decor8blog.com/blog?format=rss) | decor8blog.com | en | Interior design |
 | [Blog – Hackaday](https://hackaday.com/blog/feed/) | hackaday.com | en | DIY |
+| [Centsational Style](https://centsationalstyle.com/feed/) | centsationalstyle.com | en | DIY |
 | [Core77](http://feeds.feedburner.com/core77/blog) | core77.com | en | Interior design |
 | [design archives \| designboom \| architecture & design magazine](https://www.designboom.com/design/feed/) | designboom.com | en | Interior design |
 | [Design MilkArchitecture, Architectural Designs, and House Designs \| Design Milk](https://design-milk.com/category/architecture/feed/) | design-milk.com | en | Architecture |

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Real Estate &amp; Home Design</title>
-    <dateCreated>2026-09-27</dateCreated>
+    <dateCreated>2026-10-04</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -16,6 +16,7 @@
       <outline type="rss" text="Architecture news and projects | Dezeen" title="Architecture news and projects | Dezeen" xmlUrl="https://www.dezeen.com/architecture/feed/" htmlUrl="https://www.dezeen.com/architecture/"/>
       <outline type="rss" text="BLOG - decor8" title="BLOG - decor8" xmlUrl="https://www.decor8blog.com/blog?format=rss" htmlUrl="https://www.decor8blog.com/blog/"/>
       <outline type="rss" text="Blog – Hackaday" title="Blog – Hackaday" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com"/>
+      <outline type="rss" text="Centsational Style" title="Centsational Style" xmlUrl="https://centsationalstyle.com/feed/" htmlUrl="https://centsationalstyle.com"/>
       <outline type="rss" text="Core77" title="Core77" xmlUrl="http://feeds.feedburner.com/core77/blog" htmlUrl="http://core77.com/home/rss"/>
       <outline type="rss" text="design archives | designboom | architecture &amp; design magazine" title="design archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/design/feed/" htmlUrl="https://www.designboom.com/design/"/>
       <outline type="rss" text="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" title="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" xmlUrl="https://design-milk.com/category/architecture/feed/" htmlUrl="https://design-milk.com/category/architecture/"/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-09-27</dateCreated>
+    <dateCreated>2026-10-04</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -53,6 +53,7 @@
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl="https://feeds.thelocal.com/"/>
       <outline type="rss" text="france24.com" title="france24.com" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
       <outline type="rss" text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/"/>
+      <outline type="rss" text="L&#x27;essentiel" title="L&#x27;essentiel" xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" htmlUrl="https://www.sudouest.fr/essentiel/"/>
       <outline type="rss" text="L&#x27;Obs - A la une" title="L&#x27;Obs - A la une" xmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml" htmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml"/>
       <outline type="rss" text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" xmlUrl="https://www.ladepeche.fr/rss.xml" htmlUrl="https://www.ladepeche.fr/"/>
       <outline type="rss" text="Le Huffington Post" title="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.fr/rss/all_headline.xml"/>
@@ -169,6 +170,7 @@
       <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl="https://www.unian.net"/>
       <outline type="rss" text="НВ" title="НВ" xmlUrl="https://nv.ua/rss/all.xml" htmlUrl="https://nv.ua/"/>
       <outline type="rss" text="Новини на tsn.ua" title="Новини на tsn.ua" xmlUrl="https://tsn.ua/rss/full.rss" htmlUrl="https://tsn.ua"/>
+      <outline type="rss" text="Последние новости на сайте korrespondent.net" title="Последние новости на сайте korrespondent.net" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" htmlUrl="https://korrespondent.net/"/>
       <outline type="rss" text="Українська правда" title="Українська правда" xmlUrl="https://www.pravda.com.ua/rss/" htmlUrl="https://www.pravda.com.ua"/>
       <outline type="rss" text="Цензор.НЕТ - Новости" title="Цензор.НЕТ - Новости" xmlUrl="https://censor.net.ua/includes/news_ru.xml" htmlUrl="https://censor.net/ru"/>
       <outline type="rss" text="FOX News" title="FOX News" xmlUrl="http://feeds.foxnews.com/foxnews/latest" htmlUrl="https://www.foxnews.com/"/>

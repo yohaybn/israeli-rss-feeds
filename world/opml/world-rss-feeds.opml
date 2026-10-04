@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS Feeds (verified, from plenaryapp/awesome-rss-feeds)</title>
-    <dateCreated>2026-09-27</dateCreated>
+    <dateCreated>2026-10-04</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -53,6 +53,7 @@
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl="https://feeds.thelocal.com/"/>
       <outline type="rss" text="france24.com" title="france24.com" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
       <outline type="rss" text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/"/>
+      <outline type="rss" text="L&#x27;essentiel" title="L&#x27;essentiel" xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" htmlUrl="https://www.sudouest.fr/essentiel/"/>
       <outline type="rss" text="L&#x27;Obs - A la une" title="L&#x27;Obs - A la une" xmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml" htmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml"/>
       <outline type="rss" text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" xmlUrl="https://www.ladepeche.fr/rss.xml" htmlUrl="https://www.ladepeche.fr/"/>
       <outline type="rss" text="Le Huffington Post" title="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.fr/rss/all_headline.xml"/>
@@ -169,6 +170,7 @@
       <outline type="rss" text="Информационное агентство УНИАН" title="Информационное агентство УНИАН" xmlUrl="https://rss.unian.net/site/news_rus.rss" htmlUrl="https://www.unian.net"/>
       <outline type="rss" text="НВ" title="НВ" xmlUrl="https://nv.ua/rss/all.xml" htmlUrl="https://nv.ua/"/>
       <outline type="rss" text="Новини на tsn.ua" title="Новини на tsn.ua" xmlUrl="https://tsn.ua/rss/full.rss" htmlUrl="https://tsn.ua"/>
+      <outline type="rss" text="Последние новости на сайте korrespondent.net" title="Последние новости на сайте korrespondent.net" xmlUrl="http://k.img.com.ua/rss/ru/all_news2.0.xml" htmlUrl="https://korrespondent.net/"/>
       <outline type="rss" text="Українська правда" title="Українська правда" xmlUrl="https://www.pravda.com.ua/rss/" htmlUrl="https://www.pravda.com.ua"/>
       <outline type="rss" text="Цензор.НЕТ - Новости" title="Цензор.НЕТ - Новости" xmlUrl="https://censor.net.ua/includes/news_ru.xml" htmlUrl="https://censor.net/ru"/>
       <outline type="rss" text="FOX News" title="FOX News" xmlUrl="http://feeds.foxnews.com/foxnews/latest" htmlUrl="https://www.foxnews.com/"/>
@@ -251,7 +253,6 @@
       <outline type="rss" text="r/iPhone" title="r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" htmlUrl="https://www.reddit.com/r/iphone/"/>
       <outline type="rss" text="ReadWrite" title="ReadWrite" xmlUrl="https://readwrite.com/feed/" htmlUrl="https://readwrite.com/"/>
       <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/"/>
-      <outline type="rss" text="Scott Hanselman&#x27;s Blog" title="Scott Hanselman&#x27;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
       <outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
       <outline type="rss" text="Security Affairs" title="Security Affairs" xmlUrl="http://securityaffairs.co/wordpress/feed" htmlUrl="https://securityaffairs.com/"/>
       <outline type="rss" text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" xmlUrl="https://gosink.in/rss/" htmlUrl="https://gosink.in/"/>
@@ -278,7 +279,6 @@
       <outline type="rss" text="UX Collective - Medium" title="UX Collective - Medium" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc?source=rss----138adf9c44c---4"/>
       <outline type="rss" text="www.theregister.com - Articles" title="www.theregister.com - Articles" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="https://www.theregister.com"/>
       <outline type="rss" text="www.theregister.com - Articles" title="www.theregister.com - Articles" xmlUrl="https://www.theregister.com/headlines.rss" htmlUrl="https://www.theregister.com"/>
-      <outline type="rss" text="Zac Sweers" title="Zac Sweers" xmlUrl="https://www.zacsweers.dev/rss/" htmlUrl="https://www.zacsweers.dev/"/>
     </outline>
     <outline text="Economy &amp; Business" title="Economy &amp; Business">
       <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl="https://www.investing.com"/>
@@ -386,7 +386,6 @@
       <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl="https://petapixel.com/"/>
       <outline type="rss" text="So many books, so little time" title="So many books, so little time" xmlUrl="https://www.reddit.com/r/books/.rss" htmlUrl="https://www.reddit.com/r/books/"/>
       <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl="http://strobist.blogspot.com/"/>
-      <outline type="rss" text="TV Fanatic" title="TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" htmlUrl="https://www.tvfanatic.com/"/>
       <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://www.tvline.com/feed/" htmlUrl="https://www.tvline.com/"/>
       <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com"/>
       <outline type="rss" text="📺Television News and Discussion" title="📺Television News and Discussion" xmlUrl="https://www.reddit.com/r/television/.rss" htmlUrl="https://www.reddit.com/r/television/"/>
@@ -530,6 +529,7 @@
       <outline type="rss" text="Architecture news and projects | Dezeen" title="Architecture news and projects | Dezeen" xmlUrl="https://www.dezeen.com/architecture/feed/" htmlUrl="https://www.dezeen.com/architecture/"/>
       <outline type="rss" text="BLOG - decor8" title="BLOG - decor8" xmlUrl="https://www.decor8blog.com/blog?format=rss" htmlUrl="https://www.decor8blog.com/blog/"/>
       <outline type="rss" text="Blog – Hackaday" title="Blog – Hackaday" xmlUrl="https://hackaday.com/blog/feed/" htmlUrl="https://hackaday.com"/>
+      <outline type="rss" text="Centsational Style" title="Centsational Style" xmlUrl="https://centsationalstyle.com/feed/" htmlUrl="https://centsationalstyle.com"/>
       <outline type="rss" text="Core77" title="Core77" xmlUrl="http://feeds.feedburner.com/core77/blog" htmlUrl="http://core77.com/home/rss"/>
       <outline type="rss" text="design archives | designboom | architecture &amp; design magazine" title="design archives | designboom | architecture &amp; design magazine" xmlUrl="https://www.designboom.com/design/feed/" htmlUrl="https://www.designboom.com/design/"/>
       <outline type="rss" text="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" title="Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk" xmlUrl="https://design-milk.com/category/architecture/feed/" htmlUrl="https://design-milk.com/category/architecture/"/>

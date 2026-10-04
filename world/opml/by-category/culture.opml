@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Culture &amp; Entertainment</title>
-    <dateCreated>2026-09-27</dateCreated>
+    <dateCreated>2026-10-04</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -25,7 +25,6 @@
       <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl="https://petapixel.com/"/>
       <outline type="rss" text="So many books, so little time" title="So many books, so little time" xmlUrl="https://www.reddit.com/r/books/.rss" htmlUrl="https://www.reddit.com/r/books/"/>
       <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl="http://strobist.blogspot.com/"/>
-      <outline type="rss" text="TV Fanatic" title="TV Fanatic" xmlUrl="https://www.tvfanatic.com/rss.xml" htmlUrl="https://www.tvfanatic.com/"/>
       <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://www.tvline.com/feed/" htmlUrl="https://www.tvline.com/"/>
       <outline type="rss" text="Variety" title="Variety" xmlUrl="https://variety.com/feed/" htmlUrl="https://variety.com"/>
       <outline type="rss" text="📺Television News and Discussion" title="📺Television News and Discussion" xmlUrl="https://www.reddit.com/r/television/.rss" htmlUrl="https://www.reddit.com/r/television/"/>

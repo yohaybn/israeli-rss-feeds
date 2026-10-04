@@ -26,7 +26,7 @@ from datetime import datetime, timezone
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wordpress_feed import endpoint as wordpress_endpoint, posts_to_rss
 from article_dates import correct_batch_dates  # noqa: E402
-from article_meta import enrich_batch, prune_cache, MAX_FETCH_PER_RUN  # noqa: E402
+from article_meta import add_media_and_guid, enrich_batch, prune_cache, MAX_FETCH_PER_RUN  # noqa: E402
 from feedlib import jsonfeed_to_rss, preserve_item_dates, strip_item_content, validate_feed_bytes  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -289,6 +289,10 @@ def main():
                     print(f'   metadata enrichment skipped: {exc}', flush=True)
                 live_links.update((i.findtext('link') or '').strip()
                                   for i in ET.fromstring(xml_bytes).findall('./channel/item'))
+            try:
+                xml_bytes, _ = add_media_and_guid(xml_bytes)
+            except Exception as exc:  # cosmetic extras must never break a feed
+                print(f'   media/guid step skipped: {exc}', flush=True)
             with open(feed_path, 'wb') as f:
                 f.write(xml_bytes)
             entry['feed'] = f'{base_url}/feeds/{site["slug"]}.xml'

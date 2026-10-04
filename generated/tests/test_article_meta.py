@@ -1,7 +1,7 @@
 import os, sys, unittest, xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'scripts'))
-from article_meta import parse_article_meta, enrich_batch, prune_cache
+from article_meta import parse_article_meta, enrich_batch, prune_cache, add_media_and_guid, stable_guid, MEDIA_NS
 
 NOW = datetime(2026, 10, 4, 12, 0, tzinfo=timezone.utc)
 PAGE = '''<html><head>
@@ -83,6 +83,24 @@ class EnrichTest(unittest.TestCase):
         cache = {'a': {}, 'b': {}}
         prune_cache(cache, {'a'})
         self.assertEqual(list(cache), ['a'])
+
+
+class MediaGuidTest(unittest.TestCase):
+    def test_thumbnail_and_guid_added_only_when_missing(self):
+        xml = feed('<item><title>a</title><link>https://x.co.il/a?utm_source=t&amp;id=3#top</link>'
+                   '<enclosure url="https://c/i.jpg" type="image/jpeg" length="0"/></item>'
+                   '<item><title>b</title><link>https://x.co.il/b</link><guid>keep-me</guid></item>')
+        out, n = add_media_and_guid(xml)
+        a, b = ET.fromstring(out).findall('./channel/item')
+        self.assertEqual(a.find('{%s}thumbnail' % MEDIA_NS).get('url'), 'https://c/i.jpg')
+        self.assertEqual(a.findtext('guid'), 'https://x.co.il/a?id=3')
+        self.assertEqual(b.findtext('guid'), 'keep-me')
+        self.assertIsNone(b.find('{%s}thumbnail' % MEDIA_NS))
+        again, n2 = add_media_and_guid(out)
+        self.assertEqual(n2, 0)
+
+    def test_stable_guid(self):
+        self.assertEqual(stable_guid('https://x/y?fbclid=1&a=2#f'), 'https://x/y?a=2')
 
 
 if __name__ == '__main__':

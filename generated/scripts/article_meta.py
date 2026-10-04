@@ -82,6 +82,9 @@ def parse_article_meta(page, base_url=''):
         if name == 'article:tag':
             tags.append(content)
     out = {}
+    title = metas.get('og:title') or metas.get('twitter:title')
+    if title:
+        out['title'] = _clean(title)[:300]
     image = metas.get('og:image') or metas.get('twitter:image') or metas.get('image')
     desc = metas.get('og:description') or metas.get('description') or metas.get('twitter:description')
     author = metas.get('author') or metas.get('article:author')
@@ -114,6 +117,8 @@ def parse_article_meta(page, base_url=''):
 
 def _missing(item):
     gaps = set()
+    if not (item.findtext('title') or '').strip():
+        gaps.add('title')
     if item.find('enclosure') is None:
         gaps.add('image')
     if not (item.findtext('description') or '').strip():
@@ -128,6 +133,12 @@ def _missing(item):
 def _apply(item, meta, gaps):
     """Add only the fields in `gaps`. Returns how many fields were added."""
     added = 0
+    if 'title' in gaps and meta.get('title'):
+        t = item.find('title')
+        if t is None:
+            t = ET.SubElement(item, 'title')
+        t.text = meta['title']
+        added += 1
     if 'image' in gaps and meta.get('image'):
         enc = ET.SubElement(item, 'enclosure')
         enc.set('url', meta['image'])
@@ -167,8 +178,8 @@ def enrich_batch(xml_bytes, fetch, cache, budget, now=None):
             if entry['meta'] or fresh:
                 added += _apply(item, entry['meta'], gaps)
                 continue
-        if not gaps & {'image', 'description'}:
-            continue  # only items missing their image or summary justify a page fetch
+        if not gaps & {'title', 'image', 'description'}:
+            continue  # only items missing their title, image or summary justify a page fetch
         if budget[0] <= 0:
             continue
         budget[0] -= 1

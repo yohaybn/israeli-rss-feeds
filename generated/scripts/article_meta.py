@@ -173,9 +173,9 @@ def enrich_batch(xml_bytes, fetch, cache, budget, now=None):
             page = fetch(link)
         except Exception:
             page = None
-        if page is None:
-            continue  # blocked or failed: try again next run, do not cache
-        meta = parse_article_meta(page, link)
+        # A blocked or failing page is cached as "nothing found" too, so it is retried only after
+        # RETRY_NONE_DAYS instead of eating the fetch budget on every run.
+        meta = parse_article_meta(page, link) if page else {}
         cache[link] = {'meta': meta, 'at': now.isoformat()}
         added += _apply(item, meta, gaps)
     if not added:

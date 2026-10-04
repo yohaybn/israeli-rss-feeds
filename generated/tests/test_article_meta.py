@@ -70,10 +70,14 @@ class EnrichTest(unittest.TestCase):
         _, _, calls3, _ = self.run_enrich(feed(item()), {}, budget=0)
         self.assertEqual(calls3, [])
 
-    def test_failed_fetch_is_not_cached(self):
+    def test_failed_fetch_is_cached_as_nothing_and_not_retried_at_once(self):
         cache = {}
         out, n = enrich_batch(feed(item()), lambda u: None, cache, [5], NOW)
-        self.assertEqual((n, cache), (0, {}))
+        self.assertEqual(n, 0)
+        self.assertEqual(cache['https://x.co.il/1']['meta'], {})
+        calls = []
+        enrich_batch(feed(item()), lambda u: calls.append(u), cache, [5], NOW)
+        self.assertEqual(calls, [])
 
     def test_prune(self):
         cache = {'a': {}, 'b': {}}

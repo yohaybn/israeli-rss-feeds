@@ -19,12 +19,14 @@ import sys
 import time
 import urllib.request
 import urllib.robotparser
+import xml.etree.ElementTree as ET
 from urllib.parse import urlsplit, urlencode
 from datetime import datetime, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wordpress_feed import endpoint as wordpress_endpoint, posts_to_rss
 from article_dates import correct_batch_dates  # noqa: E402
+from article_meta import enrich_batch, prune_cache, MAX_FETCH_PER_RUN  # noqa: E402
 from feedlib import jsonfeed_to_rss, preserve_item_dates, strip_item_content, validate_feed_bytes  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -255,6 +257,14 @@ def main():
     status = {'generated_at': datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),
               'base_url': base_url, 'sites': []}
     ok_count = 0
+    cache_path = os.path.join(OUT, 'meta-cache.json')
+    try:
+        with open(cache_path, encoding='utf-8') as f:
+            meta_cache = json.load(f)
+    except (OSError, ValueError):
+        meta_cache = {}
+    meta_budget = [MAX_FETCH_PER_RUN]
+    live_links = set()
 
     for site in sites:
         print(f"== {site['slug']}: {site['url']}", flush=True)
@@ -271,6 +281,14 @@ def main():
                 xml_bytes, corrected = correct_batch_dates(xml_bytes, fetch_article)
                 if corrected:
                     print(f'   corrected {corrected} scan-time dates from article pages', flush=True)
+                try:
+                    xml_bytes, filled = enrich_batch(xml_bytes, fetch_article, meta_cache, meta_budget)
+                    if filled:
+                        print(f'   filled {filled} missing fields from article pages', flush=True)
+                except Exception as exc:  # enrichment must never break a feed
+                    print(f'   metadata enrichment skipped: {exc}', flush=True)
+                live_links.update((i.findtext('link') or '').strip()
+                                  for i in ET.fromstring(xml_bytes).findall('./channel/item'))
             with open(feed_path, 'wb') as f:
                 f.write(xml_bytes)
             entry['feed'] = f'{base_url}/feeds/{site["slug"]}.xml'
@@ -280,6 +298,10 @@ def main():
             print(f"   {res['status']}: {res.get('reason', '')[:120]}", flush=True)
         status['sites'].append(entry)
         time.sleep(POLITENESS_DELAY)
+
+    prune_cache(meta_cache, live_links)
+    with open(cache_path, 'w', encoding='utf-8') as f:
+        json.dump(meta_cache, f, ensure_ascii=False, sort_keys=True)
 
     status['ok_count'] = ok_count
     status['total'] = len(sites)

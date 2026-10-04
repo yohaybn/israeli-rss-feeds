@@ -31,6 +31,9 @@ RSS שבור כרגע; אם המפרסם יתקן אותו, חוזרים לפי�
 21 מזהי קטגוריות קבועים (id לכל קטגוריה), שדה שפה, ושדות פופולריות למיון
 (עוקבים ב-Feedly, דירוג Tranco). שינוי סכמה דורש תאום מול האפליקציה.
 
+## 9. הרחבת מטא-דאטה מדף הכתבה (2026-10-04)
+רק כשחסר בפיד המקורי, בלי לדרוס: תמונה (קישור בלבד, hotlink), תקציר עד 500 תווים, יוצר (dc:creator) וקטגוריות. הרחבה מאושרת של הקו החוקי (סעיף 2): מטא-דאטה קלה בלי גוף כתבה. מטמון meta-cache.json מתפרסם ב-Pages (מאושר).
+
 ---
 
 # English
@@ -122,3 +125,4 @@ UTC, קישור, כותרת, תקציר), לעולם לא גוף מלא. API כ�
 6. WordPress: generic `generator: "wordpress"` with the endpoint derived from the domain; latest 25 posts, metadata only, never full bodies; broken APIs are skipped with a clear reason and last-good XML stays. (2026-09)
 7. TECH-IL relay is a narrow Worker (robots.txt + the fixed listing only), not an open proxy: no header forwarding, 15-minute cache, free plan only, token only in GitHub secrets. (2026-09-30)
 8. Publishing: gh-pages is force-pushed each run; temporary failures keep the last working feed live and flag the site on the status page. (2026-09)
+9. Article-page metadata, only when missing from the source item and never overwriting: image (URL only, hotlink), teaser <=500 chars, author (dc:creator) and categories. Owner-approved extension of the legal line in item 2 (light metadata, no article body); meta-cache.json is published on Pages (approved). (2026-10-04)

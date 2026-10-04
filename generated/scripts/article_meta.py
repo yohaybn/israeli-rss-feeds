@@ -10,7 +10,7 @@ import json
 import re
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from urllib.parse import urljoin
+from urllib.parse import parse_qsl, urlencode, urljoin, urlsplit, urlunsplit
 
 from feedlib import DESCRIPTION_MAX, _image_type
 
@@ -22,7 +22,10 @@ _META = re.compile(r'<meta\b[^>]*>', re.I)
 _ATTR = re.compile(r'([a-zA-Z_:-]+)\s*=\s*("([^"]*)"|\'([^\']*)\')')
 _JSONLD = re.compile(r'<script[^>]+application/ld\+json[^>]*>(.*?)</script>', re.I | re.S)
 
+MEDIA_NS = 'http://search.yahoo.com/mrss/'
 ET.register_namespace('dc', DC_NS)
+ET.register_namespace('media', MEDIA_NS)
+_TRACKING = re.compile(r'^(utm_[a-z]+|fbclid|gclid|mc_cid|mc_eid|igshid|ref|ref_src)$', re.I)
 
 
 def _attrs(tag):
@@ -79,6 +82,9 @@ def parse_article_meta(page, base_url=''):
         if name == 'article:tag':
             tags.append(content)
     out = {}
+    title = metas.get('og:title') or metas.get('twitter:title')
+    if title:
+        out['title'] = _clean(title)[:300]
     image = metas.get('og:image') or metas.get('twitter:image') or metas.get('image')
     desc = metas.get('og:description') or metas.get('description') or metas.get('twitter:description')
     author = metas.get('author') or metas.get('article:author')
@@ -111,6 +117,8 @@ def parse_article_meta(page, base_url=''):
 
 def _missing(item):
     gaps = set()
+    if not (item.findtext('title') or '').strip():
+        gaps.add('title')
     if item.find('enclosure') is None:
         gaps.add('image')
     if not (item.findtext('description') or '').strip():
@@ -125,6 +133,12 @@ def _missing(item):
 def _apply(item, meta, gaps):
     """Add only the fields in `gaps`. Returns how many fields were added."""
     added = 0
+    if 'title' in gaps and meta.get('title'):
+        t = item.find('title')
+        if t is None:
+            t = ET.SubElement(item, 'title')
+        t.text = meta['title']
+        added += 1
     if 'image' in gaps and meta.get('image'):
         enc = ET.SubElement(item, 'enclosure')
         enc.set('url', meta['image'])
@@ -164,8 +178,8 @@ def enrich_batch(xml_bytes, fetch, cache, budget, now=None):
             if entry['meta'] or fresh:
                 added += _apply(item, entry['meta'], gaps)
                 continue
-        if not gaps & {'image', 'description'}:
-            continue  # only items missing their image or summary justify a page fetch
+        if not gaps & {'title', 'image', 'description'}:
+            continue  # only items missing their title, image or summary justify a page fetch
         if budget[0] <= 0:
             continue
         budget[0] -= 1
@@ -186,3 +200,35 @@ def enrich_batch(xml_bytes, fetch, cache, budget, now=None):
 def prune_cache(cache, live_links):
     for link in [k for k in cache if k not in live_links]:
         del cache[link]
+
+
+def stable_guid(link):
+    """The link without tracking parameters and fragment: the same article keeps the same id."""
+    parts = urlsplit(link.strip())
+    query = urlencode([(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+                       if not _TRACKING.match(k)])
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, query, ''))
+
+
+def add_media_and_guid(xml_bytes):
+    """For every item: media:thumbnail next to an image enclosure, and a guid when the source
+    gave none. Existing elements are never changed. Returns (xml_bytes, changes)."""
+    root = ET.fromstring(xml_bytes)
+    changes = 0
+    for item in root.findall('./channel/item'):
+        for enc in item.findall('enclosure'):
+            url = enc.get('url')
+            if url and (enc.get('type') or '').startswith('image/') \
+                    and item.find('{%s}thumbnail' % MEDIA_NS) is None:
+                ET.SubElement(item, '{%s}thumbnail' % MEDIA_NS).set('url', url)
+                changes += 1
+                break
+        link = (item.findtext('link') or '').strip()
+        if item.find('guid') is None and re.match(r'https?://', link):
+            guid = ET.SubElement(item, 'guid')
+            guid.set('isPermaLink', 'true')
+            guid.text = stable_guid(link)
+            changes += 1
+    if not changes:
+        return xml_bytes, 0
+    return ET.tostring(root, encoding='UTF-8', xml_declaration=True), changes

@@ -18,6 +18,11 @@ def widget_data(payload, widget):
     raise ValueError('Required public listing widget missing')
 
 
+def usable_image(url):
+    """Calcalist listings give a size placeholder (_xxx) that answers 404; _x-large serves the picture."""
+    return re.sub(r'_xxx(\.\w+)$', r'_x-large\1', url)
+
+
 def json_listing_html(data):
     """Normalize public JSON listing metadata into the same parser, no article body."""
     articles = []
@@ -67,7 +72,7 @@ def listing_to_rss(payload, site, feed_url=None):
                 pass
         image = (article.get('promotionImageDetails') or {}).get('publishedLink', '')
         if image.startswith('https://pic1.calcalist.co.il/'):
-            item['image'] = image
+            item['image'] = usable_image(image)
         items.append(item)
     for slot in soup.select('.slotView, .slot-view'):
         if len(items) >= 25:
@@ -101,7 +106,7 @@ def listing_to_rss(payload, site, feed_url=None):
         if image:
             src = urljoin(site['url'], image['src'])
             if urlsplit(src).hostname == 'pic1.calcalist.co.il' and src.startswith('https://'):
-                item['image'] = src
+                item['image'] = usable_image(src)
         items.append(item)
         if len(items) == 25:
             break

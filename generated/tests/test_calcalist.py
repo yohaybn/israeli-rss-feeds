@@ -24,3 +24,16 @@ class CalcalistTest(unittest.TestCase):
   self.assertEqual(n,1);self.assertEqual(validate_feed_bytes(rss),[])
  def test_legacy_articles_supported(self):
   rss,n=listing_to_rss(page([dict(ARTICLE,publishedLink='https://www.calcalist.co.il/articles/0,7340,L-3949191,00.html')]),SITE);self.assertEqual(n,1)
+
+from calcalist_feed import usable_image
+class CalcalistImageTest(unittest.TestCase):
+ def test_size_placeholder_is_replaced(self):
+  self.assertEqual(usable_image('https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/04/A/A_0_0_800_450_0_xxx.jpg'),
+                   'https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/04/A/A_0_0_800_450_0_x-large.jpg')
+ def test_other_sizes_untouched(self):
+  u='https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/04/A/A_0_0_800_450_0_medium.jpg'
+  self.assertEqual(usable_image(u),u)
+ def test_listing_uses_working_size(self):
+  a=dict(ARTICLE,promotionImageDetails={'publishedLink':'https://pic1.calcalist.co.il/picserver3/crop_images/2026/10/04/A/A_0_0_800_450_0_xxx.jpg'})
+  rss,n=listing_to_rss(page([a]),SITE)
+  self.assertIn(b'_x-large.jpg',rss);self.assertNotIn(b'_xxx',rss)

@@ -57,13 +57,13 @@
 | `ai` | בינה מלאכותית |
 
 <!-- catalog:start -->
-**116 פידים ב-21 קטגוריות** (16 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
+**123 פידים ב-21 קטגוריות** (16 מהן עם פידים כרגע; השאר ריקות עד שהגילוי השבועי ימצא מקורות מתאימים).
 
 | קטגוריה | תחום | פידים |
 |---|---|---|
 | חדשות ואקטואליה | חדשות בארץ ובעולם, מבזקים | 42 |
-| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 17 |
-| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 14 |
+| טכנולוגיה וגאדג'טים | חדשות הייטק, מוצרי צריכה | 22 |
+| כלכלה ועסקים | שוק ההון, פיננסים, יזמות | 15 |
 | ספורט | חדשות ספורט, תוצאות, פרשנויות | 4 |
 | תרבות ופנאי | קולנוע, טלוויזיה, ספרות | 6 |
 | בריאות ורפואה | חדשות רפואיות, בריאות הציבור | 2 |
@@ -81,7 +81,7 @@
 | קריירה ועבודה | חיפוש עבודה, ניהול, התפתחות מקצועית | 2 |
 | צרכנות ומבצעים | חדשות צרכנות, דילים | 2 |
 | תרבות דיגיטלית ורשת | ממים, טרנדים ברשתות חברתיות | 4 |
-| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 7 |
+| בינה מלאכותית | חדשות, בלוגים ומדריכים על בינה מלאכותית | 8 |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -151,6 +151,11 @@
 | [Tech-il](https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml) | Tech-il | he | - | - |
 | [כלכליסט - כלכליסט-טק](https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml) | Calcalist | he | - | - |
 | [Chiportal - תעשיית השבבים](https://chiportal.co.il/feed/) | Chiportal | he | - | - |
+| [tocode - פשוט לתכנת טוב יותר](https://www.tocode.co.il/feed.atom) | tocode | he | - | - |
+| [Ori Mesilaty](https://mesilaty.co.il/feed/) | אורי מסילתי | he | - | - |
+| [החתול הטכני](https://www.technocat.co.il/feed/) | החתול הטכני | he | - | - |
+| [TechZ - חדשות טכנולוגיה ובינה מלאכותית](https://techz.co.il/feed/) | TechZ | he | - | - |
+| [YuWeiss.dev (Home Assistant, בית חכם)](https://yuweiss.dev/feed/) | YuWeiss.dev | en | - | - |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -170,6 +175,7 @@
 | [כלכליסט - Duns 100](https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml) | Calcalist | he | - | - |
 | [כלכליסט - דף הבית](https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml) | Calcalist | he | - | - |
 | [כלכליסט - באזז](https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml) | Calcalist | he | - | - |
+| [תועלת שולית](https://shulit.com/feed/) | תועלת שולית | he | - | - |
 
 ### ספורט (Sports)
 
@@ -298,6 +304,7 @@ _אין עדיין פידים בקטגוריה הזו._
 | [Let's AI - להבין את הבינה](https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml) | Let's AI | he | - | - |
 | [AI24 - חדשות AI בעברית](https://ai24.co.il/rss.xml) | AI24 | he | - | - |
 | [AINet - בינה מלאכותית וחדשנות](https://ainet.co.il/feed/) | AINet | he | - | - |
+| [איילון גרופר - בינה מלאכותית](https://eilon.co/feed/) | איילון גרופר | he | - | - |
 <!-- catalog:end -->
 
 ## פידים שנוצרים אוטומטית

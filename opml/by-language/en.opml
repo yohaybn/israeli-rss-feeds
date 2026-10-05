@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - en</title>
-    <dateCreated>2026-10-02</dateCreated>
+    <dateCreated>2026-10-05</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -19,6 +19,7 @@
     <outline text="טכנולוגיה וגאדג&#x27;טים" title="טכנולוגיה וגאדג&#x27;טים">
       <outline type="rss" text="CTech" title="CTech" xmlUrl="https://feeds.feedburner.com/ctech" htmlUrl="https://www.calcalistech.com/"/>
       <outline type="rss" text="Haaretz - Tech" title="Haaretz - Tech" xmlUrl="https://www.haaretz.com/srv/technology-news-rss" htmlUrl="https://www.haaretz.com/"/>
+      <outline type="rss" text="YuWeiss.dev (Home Assistant, בית חכם)" title="YuWeiss.dev (Home Assistant, בית חכם)" xmlUrl="https://yuweiss.dev/feed/" htmlUrl="https://yuweiss.dev/"/>
     </outline>
     <outline text="דעה וטורים אישיים" title="דעה וטורים אישיים">
       <outline type="rss" text="Israellycool" title="Israellycool" xmlUrl="https://www.israellycool.com/feed/" htmlUrl="https://www.israellycool.com/"/>

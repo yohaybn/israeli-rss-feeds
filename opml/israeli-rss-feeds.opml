@@ -68,6 +68,11 @@
       <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
       <outline type="rss" text="כלכליסט - כלכליסט-טק" title="כלכליסט - כלכליסט-טק" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml" htmlUrl="https://www.calcalist.co.il/calcalistech"/>
       <outline type="rss" text="Chiportal - תעשיית השבבים" title="Chiportal - תעשיית השבבים" xmlUrl="https://chiportal.co.il/feed/" htmlUrl="https://chiportal.co.il/"/>
+      <outline type="rss" text="tocode - פשוט לתכנת טוב יותר" title="tocode - פשוט לתכנת טוב יותר" xmlUrl="https://www.tocode.co.il/feed.atom" htmlUrl="https://www.tocode.co.il/"/>
+      <outline type="rss" text="Ori Mesilaty" title="Ori Mesilaty" xmlUrl="https://mesilaty.co.il/feed/" htmlUrl="https://mesilaty.co.il/"/>
+      <outline type="rss" text="החתול הטכני" title="החתול הטכני" xmlUrl="https://www.technocat.co.il/feed/" htmlUrl="https://www.technocat.co.il/"/>
+      <outline type="rss" text="TechZ - חדשות טכנולוגיה ובינה מלאכותית" title="TechZ - חדשות טכנולוגיה ובינה מלאכותית" xmlUrl="https://techz.co.il/feed/" htmlUrl="https://techz.co.il/"/>
+      <outline type="rss" text="YuWeiss.dev (Home Assistant, בית חכם)" title="YuWeiss.dev (Home Assistant, בית חכם)" xmlUrl="https://yuweiss.dev/feed/" htmlUrl="https://yuweiss.dev/"/>
     </outline>
     <outline text="כלכלה ועסקים" title="כלכלה ועסקים">
       <outline type="rss" text="גלובס - בארץ" title="גלובס - בארץ" xmlUrl="https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=9917" htmlUrl="https://www.globes.co.il/"/>
@@ -84,6 +89,7 @@
       <outline type="rss" text="כלכליסט - Duns 100" title="כלכליסט - Duns 100" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml" htmlUrl="https://www.calcalist.co.il/local_news/category/5494"/>
       <outline type="rss" text="כלכליסט - דף הבית" title="כלכליסט - דף הבית" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml" htmlUrl="https://www.calcalist.co.il/"/>
       <outline type="rss" text="כלכליסט - באזז" title="כלכליסט - באזז" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml" htmlUrl="https://www.calcalist.co.il/buzz"/>
+      <outline type="rss" text="תועלת שולית" title="תועלת שולית" xmlUrl="https://shulit.com/feed/" htmlUrl="https://shulit.com/"/>
     </outline>
     <outline text="ספורט" title="ספורט">
       <outline type="rss" text="וואלה - ספורט" title="וואלה - ספורט" xmlUrl="https://rss.walla.co.il/feed/7" htmlUrl="https://www.walla.co.il/"/>
@@ -158,6 +164,7 @@
       <outline type="rss" text="Let&#x27;s AI - להבין את הבינה" title="Let&#x27;s AI - להבין את הבינה" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml" htmlUrl="https://letsai.co.il/"/>
       <outline type="rss" text="AI24 - חדשות AI בעברית" title="AI24 - חדשות AI בעברית" xmlUrl="https://ai24.co.il/rss.xml" htmlUrl="https://ai24.co.il/"/>
       <outline type="rss" text="AINet - בינה מלאכותית וחדשנות" title="AINet - בינה מלאכותית וחדשנות" xmlUrl="https://ainet.co.il/feed/" htmlUrl="https://ainet.co.il/"/>
+      <outline type="rss" text="איילון גרופר - בינה מלאכותית" title="איילון גרופר - בינה מלאכותית" xmlUrl="https://eilon.co/feed/" htmlUrl="https://eilon.co/"/>
     </outline>
   </body>
 </opml>

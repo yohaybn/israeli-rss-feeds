@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - בינה מלאכותית</title>
-    <dateCreated>2026-10-02</dateCreated>
+    <dateCreated>2026-10-05</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -14,6 +14,7 @@
       <outline type="rss" text="Let&#x27;s AI - להבין את הבינה" title="Let&#x27;s AI - להבין את הבינה" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml" htmlUrl="https://letsai.co.il/"/>
       <outline type="rss" text="AI24 - חדשות AI בעברית" title="AI24 - חדשות AI בעברית" xmlUrl="https://ai24.co.il/rss.xml" htmlUrl="https://ai24.co.il/"/>
       <outline type="rss" text="AINet - בינה מלאכותית וחדשנות" title="AINet - בינה מלאכותית וחדשנות" xmlUrl="https://ainet.co.il/feed/" htmlUrl="https://ainet.co.il/"/>
+      <outline type="rss" text="איילון גרופר - בינה מלאכותית" title="איילון גרופר - בינה מלאכותית" xmlUrl="https://eilon.co/feed/" htmlUrl="https://eilon.co/"/>
     </outline>
   </body>
 </opml>

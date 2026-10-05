@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-10-01",
-  "feed_count": 122,
+  "feed_count": 123,
   "categories": [
     {
       "id": "news",
@@ -866,6 +866,18 @@
           "site": "TechZ",
           "homepage": "https://techz.co.il/",
           "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "YuWeiss.dev (Home Assistant, בית חכם)",
+          "url": "https://yuweiss.dev/feed/",
+          "site": "YuWeiss.dev",
+          "homepage": "https://yuweiss.dev/",
+          "language": "en",
           "popularity": {
             "feedly_subscribers": null,
             "tranco_rank": null,

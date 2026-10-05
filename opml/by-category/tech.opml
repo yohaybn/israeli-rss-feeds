@@ -28,6 +28,7 @@
       <outline type="rss" text="Ori Mesilaty" title="Ori Mesilaty" xmlUrl="https://mesilaty.co.il/feed/" htmlUrl="https://mesilaty.co.il/"/>
       <outline type="rss" text="החתול הטכני" title="החתול הטכני" xmlUrl="https://www.technocat.co.il/feed/" htmlUrl="https://www.technocat.co.il/"/>
       <outline type="rss" text="TechZ - חדשות טכנולוגיה ובינה מלאכותית" title="TechZ - חדשות טכנולוגיה ובינה מלאכותית" xmlUrl="https://techz.co.il/feed/" htmlUrl="https://techz.co.il/"/>
+      <outline type="rss" text="YuWeiss.dev (Home Assistant, בית חכם)" title="YuWeiss.dev (Home Assistant, בית חכם)" xmlUrl="https://yuweiss.dev/feed/" htmlUrl="https://yuweiss.dev/"/>
     </outline>
   </body>
 </opml>

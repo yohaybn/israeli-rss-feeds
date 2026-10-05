@@ -209,6 +209,9 @@
           "site": "Kikar Hashabbat",
           "homepage": "https://www.kikar.co.il/",
           "language": "he",
+          "replaces": [
+            "https://www.kikar.co.il/feed"
+          ],
           "popularity": {
             "feedly_subscribers": 0,
             "tranco_rank": 53481,

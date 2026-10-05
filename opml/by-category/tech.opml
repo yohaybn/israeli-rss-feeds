@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - טכנולוגיה וגאדג&#x27;טים</title>
-    <dateCreated>2026-10-02</dateCreated>
+    <dateCreated>2026-10-05</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -24,6 +24,10 @@
       <outline type="rss" text="Tech-il" title="Tech-il" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml" htmlUrl="https://tech-il.co.il/"/>
       <outline type="rss" text="כלכליסט - כלכליסט-טק" title="כלכליסט - כלכליסט-טק" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml" htmlUrl="https://www.calcalist.co.il/calcalistech"/>
       <outline type="rss" text="Chiportal - תעשיית השבבים" title="Chiportal - תעשיית השבבים" xmlUrl="https://chiportal.co.il/feed/" htmlUrl="https://chiportal.co.il/"/>
+      <outline type="rss" text="tocode - פשוט לתכנת טוב יותר" title="tocode - פשוט לתכנת טוב יותר" xmlUrl="https://www.tocode.co.il/feed.atom" htmlUrl="https://www.tocode.co.il/"/>
+      <outline type="rss" text="Ori Mesilaty" title="Ori Mesilaty" xmlUrl="https://mesilaty.co.il/feed/" htmlUrl="https://mesilaty.co.il/"/>
+      <outline type="rss" text="החתול הטכני" title="החתול הטכני" xmlUrl="https://www.technocat.co.il/feed/" htmlUrl="https://www.technocat.co.il/"/>
+      <outline type="rss" text="TechZ - חדשות טכנולוגיה ובינה מלאכותית" title="TechZ - חדשות טכנולוגיה ובינה מלאכותית" xmlUrl="https://techz.co.il/feed/" htmlUrl="https://techz.co.il/"/>
     </outline>
   </body>
 </opml>

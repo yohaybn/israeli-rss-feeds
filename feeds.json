@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-10-01",
-  "feed_count": 117,
+  "feed_count": 122,
   "categories": [
     {
       "id": "news",
@@ -823,6 +823,54 @@
             "tranco_rank": null,
             "source": []
           }
+        },
+        {
+          "title": "tocode - פשוט לתכנת טוב יותר",
+          "url": "https://www.tocode.co.il/feed.atom",
+          "site": "tocode",
+          "homepage": "https://www.tocode.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "Ori Mesilaty",
+          "url": "https://mesilaty.co.il/feed/",
+          "site": "אורי מסילתי",
+          "homepage": "https://mesilaty.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "החתול הטכני",
+          "url": "https://www.technocat.co.il/feed/",
+          "site": "החתול הטכני",
+          "homepage": "https://www.technocat.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "TechZ - חדשות טכנולוגיה ובינה מלאכותית",
+          "url": "https://techz.co.il/feed/",
+          "site": "TechZ",
+          "homepage": "https://techz.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
         }
       ]
     },
@@ -1008,6 +1056,18 @@
           "url": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml",
           "site": "Calcalist",
           "homepage": "https://www.calcalist.co.il/buzz",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "תועלת שולית",
+          "url": "https://shulit.com/feed/",
+          "site": "תועלת שולית",
+          "homepage": "https://shulit.com/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,
@@ -1699,6 +1759,18 @@
           "url": "https://ainet.co.il/feed/",
           "site": "AINet",
           "homepage": "https://ainet.co.il/",
+          "language": "he",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "איילון גרופר - בינה מלאכותית",
+          "url": "https://eilon.co/feed/",
+          "site": "איילון גרופר",
+          "homepage": "https://eilon.co/",
           "language": "he",
           "popularity": {
             "feedly_subscribers": null,

@@ -1752,7 +1752,10 @@
             "feedly_subscribers": null,
             "tranco_rank": null,
             "source": []
-          }
+          },
+          "replaces": [
+            "https://letsai.co.il/feed/"
+          ]
         },
         {
           "title": "AI24 - חדשות AI בעברית",

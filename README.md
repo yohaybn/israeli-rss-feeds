@@ -100,7 +100,7 @@
 | [הארץ - כל הכתבות](https://www.haaretz.co.il/srv/htz-all-articles) | Haaretz | he | - | 15,069 |
 | [ערוץ 7](https://www.inn.co.il/Rss.aspx?act=.1) | INN | he | 2 | 49,922 |
 | [Now 14](https://www.now14.co.il/feed/) | Now 14 | he | 5 | 681,642 |
-| [כיכר השבת](https://www.kikar.co.il/feed) | Kikar Hashabbat | he | 0 | 53,481 |
+| [כיכר השבת](https://yohaybn.github.io/israeli-rss-feeds/feeds/kikar.xml) | Kikar Hashabbat | he | 0 | 53,481 |
 | [בחדרי חרדים](https://www.bhol.co.il/feed/) | Bhol | he | - | 55,370 |
 | [סרוגים](https://www.srugim.co.il/feed) | Srugim | he | 2 | 58,451 |
 | [כיפה](https://www.kipa.co.il/rss.xml) | Kipa | he | 1 | 65,752 |

@@ -42,10 +42,16 @@ def validate_sites(path):
         url = s.get('url', '')
         if not url.startswith('https://'):
             problems.append(f'sites[{i}] ({slug}): url must start with https://')
-        if s.get('generator') not in (None, 'wordpress', 'calcalist'):
+        if s.get('generator') not in (None, 'wordpress', 'calcalist', 'newssitemap'):
             problems.append(f'sites[{i}] ({slug}): unknown generator')
         if s.get('generator') == 'calcalist' and not url.startswith('https://www.calcalist.co.il/'):
             problems.append(f'sites[{i}] ({slug}): Calcalist generator requires publisher hostname')
+        if s.get('generator') == 'newssitemap':
+            from urllib.parse import urlsplit
+            host = urlsplit(url).hostname or ''
+            maps = list(s.get('sitemaps') or []) + ([s['sitemap_index']] if s.get('sitemap_index') else [])
+            if not maps or not all(m.startswith('https://') and (urlsplit(m).hostname or '').endswith(host.removeprefix('www.')) for m in maps):
+                problems.append(f'sites[{i}] ({slug}): newssitemap needs https sitemaps on the publisher domain')
         if s.get('generator') == 'wordpress' or s.get('wordpress_api'):
             from wordpress_feed import endpoint
             try:

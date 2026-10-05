@@ -321,6 +321,18 @@
       "category": "economy",
       "generator": "calcalist",
       "calcalist_listing": "buzz"
+    },
+    {
+      "slug": "kikar",
+      "name": "כיכר השבת",
+      "url": "https://www.kikar.co.il/",
+      "lang": "he",
+      "category": "news",
+      "generator": "newssitemap",
+      "sitemaps": [
+        "https://a.kikar.co.il/v1/sitemap/scoop-news-fresh"
+      ],
+      "sitemap_index": "https://a.kikar.co.il/v1/sitemap/articles"
     }
   ]
 }

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>Israeli RSS - חדשות ואקטואליה</title>
-    <dateCreated>2026-10-02</dateCreated>
+    <dateCreated>2026-10-05</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -20,7 +20,7 @@
       <outline type="rss" text="הארץ - כל הכתבות" title="הארץ - כל הכתבות" xmlUrl="https://www.haaretz.co.il/srv/htz-all-articles" htmlUrl="https://www.haaretz.co.il/"/>
       <outline type="rss" text="ערוץ 7" title="ערוץ 7" xmlUrl="https://www.inn.co.il/Rss.aspx?act=.1" htmlUrl="https://www.inn.co.il/"/>
       <outline type="rss" text="Now 14" title="Now 14" xmlUrl="https://www.now14.co.il/feed/" htmlUrl="https://www.now14.co.il/"/>
-      <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://www.kikar.co.il/feed" htmlUrl="https://www.kikar.co.il/"/>
+      <outline type="rss" text="כיכר השבת" title="כיכר השבת" xmlUrl="https://yohaybn.github.io/israeli-rss-feeds/feeds/kikar.xml" htmlUrl="https://www.kikar.co.il/"/>
       <outline type="rss" text="בחדרי חרדים" title="בחדרי חרדים" xmlUrl="https://www.bhol.co.il/feed/" htmlUrl="https://www.bhol.co.il/"/>
       <outline type="rss" text="סרוגים" title="סרוגים" xmlUrl="https://www.srugim.co.il/feed" htmlUrl="https://www.srugim.co.il/"/>
       <outline type="rss" text="כיפה" title="כיפה" xmlUrl="https://www.kipa.co.il/rss.xml" htmlUrl="https://www.kipa.co.il/"/>

@@ -47,6 +47,14 @@ def source_request(url):
     return urllib.request.Request(url, headers={'User-Agent': UA})
 
 
+def fetch_public(url):
+    """GET a public https URL (sitemaps), 30 s timeout."""
+    if not url.startswith('https://'):
+        raise ValueError('Sitemap must be HTTPS')
+    with urllib.request.urlopen(source_request(url), timeout=30) as response:
+        return response.read()
+
+
 def robots_allows(url):
     """Check robots.txt for the page URL. Unreachable robots.txt means allowed."""
     from urllib.parse import urlparse
@@ -132,6 +140,28 @@ def generate_site(site, feed_url=None):
             return {'status': 'ok', 'items': count}, cleaned
         except Exception as error:
             return {'status': 'failed', 'reason': 'Calcalist listing unavailable/invalid: ' + str(error)[:250]}, None
+    if site.get('generator') == 'newssitemap':
+        try:
+            from newssitemap_feed import sitemap_locs, sitemap_items, sitemaps_to_rss
+            host = urlsplit(url).hostname
+            sources = list(site['sitemaps'])
+            if site.get('sitemap_index'):
+                # Newest chunks of a chunked archive index; the last one is the current one.
+                index = fetch_public(site['sitemap_index'])
+                sources += sitemap_locs(index)[-2:]
+            items = []
+            for source in sources:
+                allowed, reason = robots_allows(source)
+                if not allowed:
+                    return {'status': 'skipped', 'reason': reason}, None
+                items += sitemap_items(fetch_public(source), host)
+            cleaned, count = sitemaps_to_rss(items, site, feed_url)
+            problems = validate_feed_bytes(cleaned)
+            if problems:
+                raise ValueError('; '.join(problems[:3]))
+            return {'status': 'ok', 'items': count}, cleaned
+        except Exception as error:
+            return {'status': 'failed', 'reason': 'News sitemap unavailable/invalid: ' + str(error)[:250]}, None
     if site.get('generator') == 'wordpress' or site.get('wordpress_api'):
         try:
             api = wordpress_endpoint(site)

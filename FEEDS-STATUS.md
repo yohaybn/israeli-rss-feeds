@@ -159,7 +159,7 @@ Checked 116 feeds: 111 OK, 1 stale, 4 blocked (bot protection), 0 dead.
 - **כותב כדי לחשוב** (Substack)  
   `https://writingtothink.substack.com/feed`
 - **כיכר השבת** (Kikar Hashabbat)  
-  `https://www.kikar.co.il/feed`
+  `https://yohaybn.github.io/israeli-rss-feeds/feeds/kikar.xml`
 - **כיפה** (Kipa)  
   `https://www.kipa.co.il/rss.xml`
 - **כלכליסט** (כלכליסט)  

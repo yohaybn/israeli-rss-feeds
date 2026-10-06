@@ -93,6 +93,56 @@ def _item_key(url):
     return urlunsplit((parts.scheme.lower(), parts.netloc.lower(), parts.path.rstrip('/') or '/', parts.query, ''))
 
 
+def _same_article_key(url):
+    """Article identity for dropping repeats inside one feed: scheme, www./m. prefix, fragment, trailing slash
+    and utm_* parameters do not make a different article."""
+    if not url:
+        return ''
+    parts = urlsplit(url.strip())
+    if parts.scheme not in ('http', 'https') or not parts.netloc:
+        return ''
+    host = parts.netloc.lower()
+    for prefix in ('www.', 'm.'):
+        if host.startswith(prefix):
+            host = host[len(prefix):]
+    query = '&'.join(q for q in parts.query.split('&') if q and not q.lower().startswith('utm_'))
+    return host + (parts.path.rstrip('/') or '/') + ('?' + query if query else '')
+
+
+def dedupe_items(xml_bytes):
+    """Drop items that repeat an article already in the feed (the same address up to www., http/https, trailing
+    slash, fragment, utm_*). The copy with the earliest pubDate stays, so the real publish time wins; on a tie the
+    first one in the feed stays. Returns (xml_bytes, removed_count)."""
+    root = ET.fromstring(xml_bytes)
+    channel = root.find('channel')
+    if channel is None:
+        return xml_bytes, 0
+    best = {}
+    before = len(channel.findall('item'))
+    for item in channel.findall('item'):
+        key = _same_article_key(item.findtext('link') or '')
+        if not key:
+            continue
+        stamp = None
+        try:
+            from email.utils import parsedate_to_datetime
+            stamp = parsedate_to_datetime((item.findtext('pubDate') or '').strip())
+        except Exception:
+            stamp = None
+        kept = best.get(key)
+        if kept is None:
+            best[key] = (item, stamp)
+        elif stamp is not None and (kept[1] is None or stamp < kept[1]):
+            channel.remove(kept[0])
+            best[key] = (item, stamp)
+        else:
+            channel.remove(item)
+    removed = before - len(channel.findall('item'))
+    if not removed:
+        return xml_bytes, 0
+    return ET.tostring(root, encoding='UTF-8', xml_declaration=True), removed
+
+
 def prior_item_dates(previous_xml):
     """Read prior published item dates by article URL. Malformed input is ignored."""
     if not previous_xml:

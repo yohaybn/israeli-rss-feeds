@@ -2,16 +2,33 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="News &amp; Current Affairs" title="News &amp; Current Affairs">
+      <outline type="rss" text="Al Jazeera Arabic" title="Al Jazeera Arabic" xmlUrl="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8" htmlUrl="https://www.aljazeera.net/"/>
+      <outline type="rss" text="Al-Quds Al-Arabi" title="Al-Quds Al-Arabi" xmlUrl="https://www.alquds.co.uk/feed/" htmlUrl="https://www.alquds.co.uk/"/>
+      <outline type="rss" text="BBC Arabic" title="BBC Arabic" xmlUrl="https://feeds.bbci.co.uk/arabic/rss.xml" htmlUrl="https://www.bbc.com/arabic"/>
       <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world"/>
+      <outline type="rss" text="BBC Russian" title="BBC Russian" xmlUrl="https://feeds.bbci.co.uk/russian/rss.xml" htmlUrl="https://www.bbc.com/russian"/>
+      <outline type="rss" text="DW Arabic" title="DW Arabic" xmlUrl="https://rss.dw.com/rdf/rss-ar-all" htmlUrl="https://www.dw.com/ar"/>
+      <outline type="rss" text="DW Russian" title="DW Russian" xmlUrl="https://rss.dw.com/rdf/rss-ru-all" htmlUrl="https://www.dw.com/ru"/>
+      <outline type="rss" text="Euronews Russian" title="Euronews Russian" xmlUrl="https://ru.euronews.com/rss?format=mrss" htmlUrl="https://ru.euronews.com/"/>
+      <outline type="rss" text="France 24 Arabic" title="France 24 Arabic" xmlUrl="https://www.france24.com/ar/rss" htmlUrl="https://www.france24.com/ar/"/>
+      <outline type="rss" text="Hespress" title="Hespress" xmlUrl="https://www.hespress.com/feed" htmlUrl="https://www.hespress.com/"/>
+      <outline type="rss" text="Independent Arabia" title="Independent Arabia" xmlUrl="https://www.independentarabia.com/rss.xml" htmlUrl="https://www.independentarabia.com/"/>
+      <outline type="rss" text="Interfax" title="Interfax" xmlUrl="https://www.interfax.ru/rss.asp" htmlUrl="https://www.interfax.ru/"/>
       <outline type="rss" text="International: Top News And Analysis" title="International: Top News And Analysis" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl="https://www.cnbc.com/world-top-news/"/>
       <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl="https://www.ndtv.com/"/>
+      <outline type="rss" text="Newsru.co.il (Russian-language Israel news)" title="Newsru.co.il (Russian-language Israel news)" xmlUrl="https://www.newsru.co.il/il/www/news/all" htmlUrl="https://www.newsru.co.il/"/>
+      <outline type="rss" text="Novaya Gazeta Europe" title="Novaya Gazeta Europe" xmlUrl="https://novayagazeta.eu/feed/rss" htmlUrl="https://novayagazeta.eu/"/>
       <outline type="rss" text="NYT &gt; World News" title="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/section/world"/>
+      <outline type="rss" text="RBC" title="RBC" xmlUrl="https://rssexport.rbc.ru/rbcnews/news/30/full.rss" htmlUrl="https://www.rbc.ru/"/>
+      <outline type="rss" text="Sky News Arabia" title="Sky News Arabia" xmlUrl="https://www.skynewsarabia.com/web/rss" htmlUrl="https://www.skynewsarabia.com/"/>
       <outline type="rss" text="Top stories - Google News" title="Top stories - Google News" xmlUrl="https://news.google.com/rss" htmlUrl="https://news.google.com/?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Vedomosti" title="Vedomosti" xmlUrl="https://www.vedomosti.ru/rss/news" htmlUrl="https://www.vedomosti.ru/"/>
+      <outline type="rss" text="Watan" title="Watan" xmlUrl="https://www.watanserb.com/feed/" htmlUrl="https://www.watanserb.com/"/>
       <outline type="rss" text="World" title="World" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://www.washingtonpost.com"/>
       <outline type="rss" text="World News" title="World News" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
       <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>

@@ -2,13 +2,15 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Technology &amp; Gadgets</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Technology &amp; Gadgets" title="Technology &amp; Gadgets">
+      <outline type="rss" text="3DNews" title="3DNews" xmlUrl="https://3dnews.ru/news/rss/" htmlUrl="https://3dnews.ru/"/>
       <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/"/>
       <outline type="rss" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com"/>
+      <outline type="rss" text="Aitnews" title="Aitnews" xmlUrl="https://aitnews.com/feed/" htmlUrl="https://aitnews.com/"/>
       <outline type="rss" text="Alberto De Bortoli" title="Alberto De Bortoli" xmlUrl="https://albertodebortoli.com/rss/" htmlUrl="https://albertodebortoli.com/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products-and-platforms/platforms/android/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://www.reddit.com/r/android/.rss" htmlUrl="https://www.reddit.com/r/android/"/>
@@ -19,12 +21,14 @@
       <outline type="rss" text="Apple" title="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" htmlUrl="https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"/>
       <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/"/>
       <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/rss/news"/>
+      <outline type="rss" text="ArabHardware" title="ArabHardware" xmlUrl="https://arabhardware.net/feed" htmlUrl="https://arabhardware.net/"/>
       <outline type="rss" text="Ars Technica - All content" title="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
       <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" htmlUrl="https://www.smashingmagazine.com/"/>
       <outline type="rss" text="Blackhat Library: Hacking techniques and research" title="Blackhat Library: Hacking techniques and research" xmlUrl="https://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/"/>
       <outline type="rss" text="Bruno Rocha" title="Bruno Rocha" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl="https://swiftrocks.com"/>
       <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/news/" htmlUrl="https://www.cnet.com"/>
       <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" htmlUrl="https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg"/>
+      <outline type="rss" text="CNews" title="CNews" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru/"/>
       <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
       <outline type="rss" text="Company | The JetBrains Blog" title="Company | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed/" htmlUrl="https://blog.jetbrains.com"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"/>
@@ -44,9 +48,11 @@
       <outline type="rss" text="GitLab" title="GitLab" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl="https://about.gitlab.com/blog"/>
       <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl="https://gizmodo.com/"/>
       <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+      <outline type="rss" text="Habr" title="Habr" xmlUrl="https://habr.com/ru/rss/all/all/" htmlUrl="https://habr.com/ru/"/>
       <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/"/>
       <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com" htmlUrl="https://www.infoq.com"/>
+      <outline type="rss" text="iXBT" title="iXBT" xmlUrl="https://www.ixbt.com/export/news.rss" htmlUrl="https://www.ixbt.com/"/>
       <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="https://jakewharton.com/atom.xml" htmlUrl="https://jakewharton.com/"/>
       <outline type="rss" text="JUST™ Creative" title="JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" htmlUrl="https://justcreative.com"/>
       <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
@@ -83,6 +89,7 @@
       <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" htmlUrl="https://www.swiftbysundell.com"/>
       <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://swiftbysundell.com/feed.rss" htmlUrl="https://www.swiftbysundell.com"/>
       <outline type="rss" text="TalkAndroid" title="TalkAndroid" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" htmlUrl="https://www.talkandroid.com"/>
+      <outline type="rss" text="Tech-wd" title="Tech-wd" xmlUrl="https://www.tech-wd.com/wd/feed/" htmlUrl="https://www.tech-wd.com/"/>
       <outline type="rss" text="Technical Information Security Content &amp; Discussion" title="Technical Information Security Content &amp; Discussion" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
       <outline type="rss" text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
       <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Science &amp; Environment</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -14,6 +14,7 @@
       <outline type="rss" text="Blog | Nature | PBS" title="Blog | Nature | PBS" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" htmlUrl="https://www.pbs.org/wnet/nature/blog/"/>
       <outline type="rss" text="Conservation International" title="Conservation International" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg" htmlUrl="https://www.youtube.com/channel/UCam5sCp6mzGBcn8ZBB2RBJg"/>
       <outline type="rss" text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" htmlUrl="https://www.reddit.com/r/EarthPorn/"/>
+      <outline type="rss" text="Elementy" title="Elementy" xmlUrl="https://elementy.ru/rss/news" htmlUrl="https://elementy.ru/"/>
       <outline type="rss" text="Environment" title="Environment" xmlUrl="https://www.reddit.com/r/environment/.rss" htmlUrl="https://www.reddit.com/r/environment/"/>
       <outline type="rss" text="Environment + Energy – The Conversation" title="Environment + Energy – The Conversation" xmlUrl="https://theconversation.com/au/environment/articles.atom" htmlUrl="https://theconversation.com"/>
       <outline type="rss" text="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" title="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2647163.cms" htmlUrl="https://timesofindia.indiatimes.com/articlelist/2647163.cms"/>
@@ -22,6 +23,7 @@
       <outline type="rss" text="Good Good Good" title="Good Good Good" xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" htmlUrl="https://www.goodgoodgood.co"/>
       <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
       <outline type="rss" text="Love Nature" title="Love Nature" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg" htmlUrl="https://www.youtube.com/channel/UCRZPkuHwaoKwTP3CYPdVldg"/>
+      <outline type="rss" text="N+1" title="N+1" xmlUrl="https://nplus1.ru/rss" htmlUrl="https://nplus1.ru/"/>
       <outline type="rss" text="NASA" title="NASA" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://www.nasa.gov"/>
       <outline type="rss" text="National Geographic" title="National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A"/>
       <outline type="rss" text="Nature" title="Nature" xmlUrl="http://feeds.nature.com/nature/rss/current?x=1" htmlUrl="http://feeds.nature.com/nature/rss/current"/>

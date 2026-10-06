@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Economy &amp; Business</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -33,6 +33,7 @@
       <outline type="rss" text="Hacker News: Front Page" title="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline type="rss" text="Inc.com" title="Inc.com" xmlUrl="https://www.inc.com/rss/" htmlUrl="https://www.inc.com/"/>
       <outline type="rss" text="INCRYPTED" title="INCRYPTED" xmlUrl="https://incrypted.net/feed/" htmlUrl="https://incrypted.com/"/>
+      <outline type="rss" text="Kommersant" title="Kommersant" xmlUrl="https://www.kommersant.ru/RSS/news.xml" htmlUrl="https://www.kommersant.ru/"/>
       <outline type="rss" text="Kraken Blog" title="Kraken Blog" xmlUrl="https://blog.kraken.com/feed" htmlUrl="https://blog.kraken.com/"/>
       <outline type="rss" text="Making Sense Of Cents" title="Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" htmlUrl="https://www.makingsenseofcents.com/"/>
       <outline type="rss" text="Marie Forleo" title="Marie Forleo" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" htmlUrl="https://www.youtube.com/channel/UCuoxrRDDgk3UUnxR4tlkJYQ"/>

@@ -27,7 +27,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wordpress_feed import endpoint as wordpress_endpoint, posts_to_rss
 from article_dates import correct_batch_dates  # noqa: E402
 from article_meta import add_media_and_guid, enrich_batch, prune_cache, MAX_FETCH_PER_RUN  # noqa: E402
-from feedlib import jsonfeed_to_rss, preserve_item_dates, strip_item_content, validate_feed_bytes  # noqa: E402
+from feedlib import dedupe_items, jsonfeed_to_rss, preserve_item_dates, strip_item_content, validate_feed_bytes  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.environ.get('OUT_DIR', os.path.join(ROOT, 'out'))
@@ -307,6 +307,9 @@ def main():
             if os.path.isfile(feed_path):
                 with open(feed_path, 'rb') as previous:
                     xml_bytes = preserve_item_dates(xml_bytes, previous.read())
+            xml_bytes, repeats = dedupe_items(xml_bytes)
+            if repeats:
+                print(f'   dropped {repeats} repeated article(s) (same address up to www/http/slash)', flush=True)
             if is_scraped(site):
                 xml_bytes, corrected = correct_batch_dates(xml_bytes, fetch_article)
                 if corrected:

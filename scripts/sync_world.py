@@ -407,7 +407,7 @@ def main():
         entry = {'title': c['title'] or info.get('feed_title') or site_name(url), 'url': url,
                  'site': site_name(homepage if homepage.startswith('http') else url),
                  'homepage': homepage, 'language': norm_lang(c.get('language') or info.get('language'), c.get('country')),
-                 'popularity': {'feedly_subscribers': None, 'tranco_rank': None, 'source': []},
+                 'popularity': (old.get('entry') or {}).get('popularity') or {'feedly_subscribers': None, 'tranco_rank': None, 'source': []},
                  'upstream_category': c['upstream_category'], 'source_url': u}
         if c.get('country'): entry['country'] = c['country']
         if info.get('newest'): entry['last_item'] = info['newest'].date().isoformat()

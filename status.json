@@ -1,0 +1,434 @@
+{
+  "generated_at": "2026-10-06 09:30 UTC",
+  "base_url": "https://yohaybn.github.io/israeli-rss-feeds",
+  "sites": [
+    {
+      "slug": "0404",
+      "name": "0404",
+      "url": "https://www.0404.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (Html2rss::RequestService::BlockedSurfaceDetected error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL "
+    },
+    {
+      "slug": "reshet13",
+      "name": "רשת 13",
+      "url": "https://13tv.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/reshet13.xml"
+    },
+    {
+      "slug": "kan11",
+      "name": "כאן 11",
+      "url": "https://www.kan.org.il",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/kan11.xml"
+    },
+    {
+      "slug": "i24",
+      "name": "i24NEWS",
+      "url": "https://www.i24news.tv/he",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 7,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/i24.xml"
+    },
+    {
+      "slug": "news1",
+      "name": "News1",
+      "url": "https://www.news1.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 7,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/news1.xml"
+    },
+    {
+      "slug": "nfc",
+      "name": "nfc",
+      "url": "https://www.nfc.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (HTTPX::Error error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL to enable the Botasaurus request str"
+    },
+    {
+      "slug": "hamal",
+      "name": "החמל",
+      "url": "https://hamal.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/hamal.xml"
+    },
+    {
+      "slug": "makorrishon",
+      "name": "מקור ראשון",
+      "url": "https://www.makorrishon.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 4,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/makorrishon.xml"
+    },
+    {
+      "slug": "israelhayom",
+      "name": "ישראל היום",
+      "url": "https://www.israelhayom.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (HTTP2::Error::ProtocolError error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL to enable the Botasau"
+    },
+    {
+      "slug": "zman",
+      "name": "זמן ישראל",
+      "url": "https://www.zman.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (Html2rss::RequestService::BlockedSurfaceDetected error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL "
+    },
+    {
+      "slug": "haipo",
+      "name": "חי פה - חדשות חיפה",
+      "url": "https://haipo.co.il",
+      "lang": "he",
+      "category": "news",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (Html2rss::RequestService::BlockedSurfaceDetected error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL "
+    },
+    {
+      "slug": "arab48",
+      "name": "عرب 48",
+      "url": "https://www.arab48.com",
+      "lang": "ar",
+      "category": "news",
+      "status": "failed",
+      "reason": "\tfrom /opt/hostedtoolcache/Ruby/3.3.12/x64/bin/html2rss:25:in `<main>'"
+    },
+    {
+      "slug": "panet",
+      "name": "بانيت / פאנט",
+      "url": "https://www.panet.co.il",
+      "lang": "ar",
+      "category": "news",
+      "status": "failed",
+      "reason": "html2rss timed out (120s)"
+    },
+    {
+      "slug": "sport5",
+      "name": "Sport5",
+      "url": "https://www.sport5.co.il",
+      "lang": "he",
+      "category": "sports",
+      "status": "ok",
+      "items": 14,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/sport5.xml"
+    },
+    {
+      "slug": "basket",
+      "name": "עמותת הכדורסל",
+      "url": "https://basket.co.il",
+      "lang": "he",
+      "category": "sports",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (0 items), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. high-entropy surface (e.g. news homepage) with few or no durable article destina"
+    },
+    {
+      "slug": "bizportal",
+      "name": "ביזפורטל",
+      "url": "https://www.bizportal.co.il",
+      "lang": "he",
+      "category": "finance",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/bizportal.xml"
+    },
+    {
+      "slug": "actualic",
+      "name": "עקטואליק",
+      "url": "https://actualic.co.il",
+      "lang": "he",
+      "category": "haredi",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (HTTPX::Error error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL to enable the Botasaurus request str"
+    },
+    {
+      "slug": "bizzem",
+      "name": "ביזם",
+      "url": "https://bizzem.co.il",
+      "lang": "he",
+      "category": "haredi",
+      "status": "failed",
+      "reason": "\tfrom /opt/hostedtoolcache/Ruby/3.3.12/x64/bin/html2rss:25:in `<main>'"
+    },
+    {
+      "slug": "ladaat",
+      "name": "לעדת",
+      "url": "https://www.ladaat.info",
+      "lang": "he",
+      "category": "haredi",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (HTTPX::Error error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL to enable the Botasaurus request str"
+    },
+    {
+      "slug": "shturem",
+      "name": "שטורעם",
+      "url": "https://www.shturem.net",
+      "lang": "he",
+      "category": "haredi",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (HTTPX::Error error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL to enable the Botasaurus request str"
+    },
+    {
+      "slug": "yeshiva",
+      "name": "ישיבה",
+      "url": "https://www.yeshiva.org.il",
+      "lang": "he",
+      "category": "religion",
+      "status": "ok",
+      "items": 8,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/yeshiva.xml"
+    },
+    {
+      "slug": "hidabroot",
+      "name": "הידברות",
+      "url": "https://www.hidabroot.co.il",
+      "lang": "he",
+      "category": "religion",
+      "status": "failed",
+      "reason": "\tfrom /opt/hostedtoolcache/Ruby/3.3.12/x64/bin/html2rss:25:in `<main>'"
+    },
+    {
+      "slug": "passportnews",
+      "name": "PassportNews",
+      "url": "https://passportnews.co.il",
+      "lang": "he",
+      "category": "travel",
+      "status": "failed",
+      "reason": "No feed items extracted after auto fallback across strategies: default (Html2rss::RequestService::BlockedSurfaceDetected error), botasaurus (Html2rss::RequestService::BotasaurusConfigurationError error). Try a more specific listing URL or provide explicit selectors. Configure BOTASAURUS_SCRAPER_URL "
+    },
+    {
+      "slug": "israeldefense",
+      "name": "Israel Defense",
+      "url": "https://www.israeldefense.co.il",
+      "lang": "he",
+      "category": "defense",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/israeldefense.xml"
+    },
+    {
+      "slug": "glz",
+      "name": "גלי צה\"ל",
+      "url": "https://glz.co.il",
+      "lang": "he",
+      "category": "radio",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/glz.xml"
+    },
+    {
+      "slug": "fm103",
+      "name": "רדיו 103FM",
+      "url": "https://103fm.maariv.co.il",
+      "lang": "he",
+      "category": "radio",
+      "status": "ok",
+      "items": 13,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/fm103.xml"
+    },
+    {
+      "slug": "letsai",
+      "name": "Let's AI - להבין את הבינה",
+      "url": "https://letsai.co.il/",
+      "lang": "he",
+      "category": "ai",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/letsai.xml"
+    },
+    {
+      "slug": "theverifier",
+      "name": "The Verifier",
+      "url": "https://theverifier.co.il/",
+      "lang": "he",
+      "category": "tech",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/theverifier.xml"
+    },
+    {
+      "slug": "tech-il",
+      "name": "Tech-il",
+      "url": "https://tech-il.co.il/",
+      "lang": "he",
+      "category": "tech",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/tech-il.xml"
+    },
+    {
+      "slug": "newsgeek",
+      "name": "Newsgeek - מגזין חדשות וצרכנות",
+      "url": "https://newsgeek.co.il/",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/newsgeek.xml"
+    },
+    {
+      "slug": "calcalist-market",
+      "name": "כלכליסט - שוק ההון",
+      "url": "https://www.calcalist.co.il/market",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 21,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-market.xml"
+    },
+    {
+      "slug": "calcalist-calcalistech",
+      "name": "כלכליסט - כלכליסט-טק",
+      "url": "https://www.calcalist.co.il/calcalistech",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 15,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-calcalistech.xml"
+    },
+    {
+      "slug": "calcalist-local-news",
+      "name": "כלכליסט - בארץ",
+      "url": "https://www.calcalist.co.il/local_news",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 18,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-local-news.xml"
+    },
+    {
+      "slug": "calcalist-real-estate",
+      "name": "כלכליסט - נדלניסט",
+      "url": "https://www.calcalist.co.il/real-estate",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 18,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-real-estate.xml"
+    },
+    {
+      "slug": "calcalist-world-news",
+      "name": "כלכליסט - עולם",
+      "url": "https://www.calcalist.co.il/world_news",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 24,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-world-news.xml"
+    },
+    {
+      "slug": "calcalist-3772",
+      "name": "כלכליסט - משפט",
+      "url": "https://www.calcalist.co.il/local_news/category/3772",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 21,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-3772.xml"
+    },
+    {
+      "slug": "calcalist-car",
+      "name": "כלכליסט - רכב",
+      "url": "https://www.calcalist.co.il/local_news/car",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 21,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-car.xml"
+    },
+    {
+      "slug": "calcalist-style",
+      "name": "כלכליסט - פנאי",
+      "url": "https://www.calcalist.co.il/style",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-style.xml"
+    },
+    {
+      "slug": "calcalist-supplement",
+      "name": "כלכליסט - מוסף",
+      "url": "https://www.calcalist.co.il/supplement",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 9,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-supplement.xml"
+    },
+    {
+      "slug": "calcalist-5494",
+      "name": "כלכליסט - Duns 100",
+      "url": "https://www.calcalist.co.il/local_news/category/5494",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 23,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-5494.xml"
+    },
+    {
+      "slug": "calcalist-home",
+      "name": "כלכליסט - דף הבית",
+      "url": "https://www.calcalist.co.il/",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-home.xml"
+    },
+    {
+      "slug": "calcalist-allnews",
+      "name": "כלכליסט - 24/7",
+      "url": "https://www.calcalist.co.il/allnews",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-allnews.xml"
+    },
+    {
+      "slug": "calcalist-buzz",
+      "name": "כלכליסט - באזז",
+      "url": "https://www.calcalist.co.il/buzz",
+      "lang": "he",
+      "category": "economy",
+      "status": "ok",
+      "items": 15,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/calcalist-buzz.xml"
+    },
+    {
+      "slug": "kikar",
+      "name": "כיכר השבת",
+      "url": "https://www.kikar.co.il/",
+      "lang": "he",
+      "category": "news",
+      "status": "ok",
+      "items": 25,
+      "feed": "https://yohaybn.github.io/israeli-rss-feeds/feeds/kikar.xml"
+    }
+  ],
+  "ok_count": 30,
+  "total": 44
+}

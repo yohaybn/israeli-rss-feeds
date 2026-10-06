@@ -37,17 +37,17 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**631 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-10-04; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**659 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-10-06; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 178 | News, כל קובצי המדינות |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 92 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security |
-| כלכלה ועסקים (Economy & Business) | 52 | Business & Economy, Startups, Personal finance, Cryptocurrency |
-| ספורט (Sports) | 31 | Sports, Football, Cricket, Tennis |
+| חדשות ואקטואליה (News & Current Affairs) | 195 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 99 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
+| ספורט (Sports) | 32 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 21 | Movies, Television, Books, History, Photography |
 | בריאות ורפואה (Health & Medicine) | 0 | - |
-| מדע וסביבה (Science & Environment) | 42 | Science, Space, Environment, Nature, Animal & Wildlife |
+| מדע וסביבה (Science & Environment) | 44 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 3 | Music |
 | גיימינג (Gaming) | 26 | Gaming, Chess |
 | אוכל וקולינריה (Food & Cooking) | 12 | Food |
@@ -67,11 +67,28 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Al Jazeera Arabic](https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8) | aljazeera.net | ar | Curated |
+| [Al-Quds Al-Arabi](https://www.alquds.co.uk/feed/) | alquds.co.uk | ar | Curated |
+| [BBC Arabic](https://feeds.bbci.co.uk/arabic/rss.xml) | bbc.com | ar | Curated |
 | [BBC News](https://feeds.bbci.co.uk/news/world/rss.xml) | bbc.co.uk | en | News |
+| [BBC Russian](https://feeds.bbci.co.uk/russian/rss.xml) | bbc.com | ru | Curated |
+| [DW Arabic](https://rss.dw.com/rdf/rss-ar-all) | dw.com | ar | Curated |
+| [DW Russian](https://rss.dw.com/rdf/rss-ru-all) | dw.com | ru | Curated |
+| [Euronews Russian](https://ru.euronews.com/rss?format=mrss) | ru.euronews.com | ru | Curated |
+| [France 24 Arabic](https://www.france24.com/ar/rss) | france24.com | ar | Curated |
+| [Hespress](https://www.hespress.com/feed) | hespress.com | ar | Curated |
+| [Independent Arabia](https://www.independentarabia.com/rss.xml) | independentarabia.com | ar | Curated |
+| [Interfax](https://www.interfax.ru/rss.asp) | interfax.ru | ru | Curated |
 | [International: Top News And Analysis](https://www.cnbc.com/id/100727362/device/rss/rss.html) | cnbc.com | en | News |
 | [NDTV News Search Records Found 1000](http://feeds.feedburner.com/ndtvnews-world-news) | ndtv.com | en | News |
+| [Newsru.co.il (Russian-language Israel news)](https://www.newsru.co.il/il/www/news/all) | newsru.co.il | ru | Curated |
+| [Novaya Gazeta Europe](https://novayagazeta.eu/feed/rss) | novayagazeta.eu | ru | Curated |
 | [NYT > World News](https://rss.nytimes.com/services/xml/rss/nyt/World.xml) | nytimes.com | en | News |
+| [RBC](https://rssexport.rbc.ru/rbcnews/news/30/full.rss) | rbc.ru | ru | Curated |
+| [Sky News Arabia](https://www.skynewsarabia.com/web/rss) | skynewsarabia.com | ar | Curated |
 | [Top stories - Google News](https://news.google.com/rss) | news.google.com | en | News |
+| [Vedomosti](https://www.vedomosti.ru/rss/news) | vedomosti.ru | ru | Curated |
+| [Watan](https://www.watanserb.com/feed/) | watanserb.com | ar | Curated |
 | [World](https://feeds.washingtonpost.com/rss/world) | washingtonpost.com | en | News |
 | [World News](https://www.reddit.com/r/worldnews/.rss) | reddit.com | en | News |
 | [World news \| The Guardian](https://www.theguardian.com/world/rss) | theguardian.com | en | News |
@@ -250,8 +267,10 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [3DNews](https://3dnews.ru/news/rss/) | 3dnews.ru | ru | Curated |
 | [9to5Mac](https://9to5mac.com/feed/) | 9to5mac.com | en | Apple |
 | [A List Apart: The Full Feed](https://alistapart.com/main/feed/) | alistapart.com | en | Web Development |
+| [Aitnews](https://aitnews.com/feed/) | aitnews.com | ar | Curated |
 | [Alberto De Bortoli](https://albertodebortoli.com/rss/) | albertodebortoli.com | en | iOS Development |
 | [Android](https://blog.google/products/android/rss) | blog.google | en | Android |
 | [Android](https://www.reddit.com/r/android/.rss) | reddit.com | en | Android |
@@ -262,12 +281,14 @@
 | [Apple](https://www.youtube.com/feeds/videos.xml?user=Apple) | youtube.com | en | Apple |
 | [Apple Newsroom](https://www.apple.com/newsroom/rss-feed.rss) | apple.com | en | Apple |
 | [AppleInsider News](https://appleinsider.com/rss/news/) | appleinsider.com | en | Apple |
+| [ArabHardware](https://arabhardware.net/feed) | arabhardware.net | ar | Curated |
 | [Ars Technica - All content](http://feeds.arstechnica.com/arstechnica/index) | arstechnica.com | en | Tech |
 | [Articles on Smashing Magazine — For Web Designers And Developers](https://www.smashingmagazine.com/feed) | smashingmagazine.com | en | UI - UX |
 | [Blackhat Library: Hacking techniques and research](https://www.reddit.com/r/blackhat/.rss) | reddit.com | en | Cyber security |
 | [Bruno Rocha](https://swiftrocks.com/rss.xml) | swiftrocks.com | en | iOS Development |
 | [CNET](https://www.cnet.com/rss/news/) | cnet.com | en | Tech |
 | [CNET](https://www.youtube.com/feeds/videos.xml?user=CNETTV) | youtube.com | en | Tech |
+| [CNews](https://www.cnews.ru/inc/rss/news.xml) | cnews.ru | ru | Curated |
 | [Coding Horror](https://feeds.feedburner.com/codinghorror) | blog.codinghorror.com | en | Programming |
 | [Company \| The JetBrains Blog](https://blog.jetbrains.com/blog/feed/) | blog.jetbrains.com | en | Android Development |
 | [CSS-Tricks](https://css-tricks.com/feed/) | css-tricks.com | en | Web Development |
@@ -287,9 +308,11 @@
 | [GitLab](https://about.gitlab.com/atom.xml) | about.gitlab.com | en | Programming |
 | [Gizmodo](https://gizmodo.com/rss) | gizmodo.com | en | Tech |
 | [GSMArena.com - Latest articles](https://www.gsmarena.com/rss-news-reviews.php3) | gsmarena.com | en | Android |
+| [Habr](https://habr.com/ru/rss/all/all/) | habr.com | ru | Curated |
 | [Hacker News](https://news.ycombinator.com/rss) | news.ycombinator.com | en | Tech |
 | [inessential.com](https://inessential.com/xml/rss.xml) | inessential.com | en | iOS Development |
 | [InfoQ](https://feed.infoq.com) | infoq.com | en | Programming |
+| [iXBT](https://www.ixbt.com/export/news.rss) | ixbt.com | ru | Curated |
 | [Jake Wharton](https://jakewharton.com/atom.xml) | jakewharton.com | en | Android Development |
 | [JUST™ Creative](https://feeds.feedburner.com/JustCreativeDesignBlog) | justcreative.com | en | UI - UX |
 | [Krebs on Security](https://krebsonsecurity.com/feed/) | krebsonsecurity.com | en | Cyber security |
@@ -326,6 +349,7 @@
 | [Swift by Sundell](https://www.swiftbysundell.com/feed.rss) | swiftbysundell.com | en | iOS Development |
 | [Swift by Sundell](https://swiftbysundell.com/feed.rss) | swiftbysundell.com | en | iOS Development |
 | [TalkAndroid](http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums) | talkandroid.com | en | Android |
+| [Tech-wd](https://www.tech-wd.com/wd/feed/) | tech-wd.com | ar | Curated |
 | [Technical Information Security Content & Discussion](https://www.reddit.com/r/netsec/.rss) | reddit.com | en | Cyber security |
 | [The Airbnb Tech Blog - Medium](https://medium.com/feed/airbnb-engineering) | medium.com | en | Programming |
 | [The GitHub Blog](https://github.blog/feed/) | github.blog | en | Programming |
@@ -373,6 +397,7 @@
 | [Hacker News: Front Page](https://hnrss.org/frontpage) | news.ycombinator.com | en | Startups |
 | [Inc.com](https://www.inc.com/rss/) | inc.com | en | Startups |
 | [INCRYPTED](https://incrypted.net/feed/) | incrypted.com | ru | Cryptocurrency |
+| [Kommersant](https://www.kommersant.ru/RSS/news.xml) | kommersant.ru | ru | Curated |
 | [Kraken Blog](https://blog.kraken.com/feed) | blog.kraken.com | en | Cryptocurrency |
 | [Making Sense Of Cents](https://www.makingsenseofcents.com/feed) | makingsenseofcents.com | en | Personal finance |
 | [Marie Forleo](https://www.youtube.com/feeds/videos.xml?user=marieforleo) | youtube.com | en | Startups |
@@ -430,6 +455,7 @@
 | [Sport \| The Guardian](https://www.theguardian.com/uk/sport/rss) | theguardian.com | en | Sports |
 | [Sports News - Latest Sports and Football News \| Sky News](https://feeds.skynews.com/feeds/rss/sports.xml) | news.sky.com | en | Sports |
 | [Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More](https://timesofindia.indiatimes.com/rssfeeds/4719148.cms) | timesofindia.indiatimes.com | en | Sports |
+| [Sports.ru](https://www.sports.ru/rss/all_news.xml) | sports.ru | ru | Curated |
 | [sports.yahoo.com](https://sports.yahoo.com/rss/) | sports.yahoo.com | en | Sports |
 | [Sri Lanka Cricket](https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC) | youtube.com | en | Cricket |
 | [Tennis News & Discussion](https://www.reddit.com/r/tennis/.rss) | reddit.com | en | Tennis |
@@ -473,6 +499,7 @@
 | [Blog \| Nature \| PBS](https://www.pbs.org/wnet/nature/blog/feed/) | pbs.org | en | Nature |
 | [Conservation International](https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg) | youtube.com | en | Environment |
 | [EarthPorn: Amazing images of light and landscape](https://www.reddit.com/r/EarthPorn/.rss) | reddit.com | en | Nature |
+| [Elementy](https://elementy.ru/rss/news) | elementy.ru | ru | Curated |
 | [Environment](https://www.reddit.com/r/environment/.rss) | reddit.com | en | Environment |
 | [Environment + Energy – The Conversation](https://theconversation.com/au/environment/articles.atom) | theconversation.com | en | Environment |
 | [Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change & Pollution News](https://timesofindia.indiatimes.com/rssfeeds/2647163.cms) | timesofindia.indiatimes.com | en | Environment |
@@ -481,6 +508,7 @@
 | [Good Good Good](https://www.goodgoodgood.co/articles/rss.xml) | goodgoodgood.co | en | Environment |
 | [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) | sciencedaily.com | en | Science |
 | [Love Nature](https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg) | youtube.com | en | Animal & Wildlife |
+| [N+1](https://nplus1.ru/rss) | nplus1.ru | ru | Curated |
 | [NASA](https://www.nasa.gov/rss/dyn/breaking_news.rss) | nasa.gov | en | Space |
 | [National Geographic](https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A) | youtube.com | en | Nature |
 | [Nature](http://feeds.nature.com/nature/rss/current?x=1) | feeds.nature.com | en | Nature |

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Sports</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -33,6 +33,7 @@
       <outline type="rss" text="Sport | The Guardian" title="Sport | The Guardian" xmlUrl="https://www.theguardian.com/uk/sport/rss" htmlUrl="https://www.theguardian.com/uk/sport"/>
       <outline type="rss" text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" xmlUrl="https://feeds.skynews.com/feeds/rss/sports.xml" htmlUrl="https://news.sky.com/sports"/>
       <outline type="rss" text="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" title="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4719148.cms" htmlUrl="https://timesofindia.indiatimes.com/sports"/>
+      <outline type="rss" text="Sports.ru" title="Sports.ru" xmlUrl="https://www.sports.ru/rss/all_news.xml" htmlUrl="https://www.sports.ru/"/>
       <outline type="rss" text="sports.yahoo.com" title="sports.yahoo.com" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl="https://sports.yahoo.com"/>
       <outline type="rss" text="Sri Lanka Cricket" title="Sri Lanka Cricket" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC" htmlUrl="https://www.youtube.com/channel/UCJA-NQ4MtcRIog66wziD8fA"/>
       <outline type="rss" text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" htmlUrl="https://www.reddit.com/r/tennis/"/>

@@ -2,16 +2,33 @@
 <opml version="2.0">
   <head>
     <title>World RSS Feeds (verified, from plenaryapp/awesome-rss-feeds)</title>
-    <dateCreated>2026-10-04</dateCreated>
+    <dateCreated>2026-10-06</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="News &amp; Current Affairs" title="News &amp; Current Affairs">
+      <outline type="rss" text="Al Jazeera Arabic" title="Al Jazeera Arabic" xmlUrl="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8" htmlUrl="https://www.aljazeera.net/"/>
+      <outline type="rss" text="Al-Quds Al-Arabi" title="Al-Quds Al-Arabi" xmlUrl="https://www.alquds.co.uk/feed/" htmlUrl="https://www.alquds.co.uk/"/>
+      <outline type="rss" text="BBC Arabic" title="BBC Arabic" xmlUrl="https://feeds.bbci.co.uk/arabic/rss.xml" htmlUrl="https://www.bbc.com/arabic"/>
       <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world"/>
+      <outline type="rss" text="BBC Russian" title="BBC Russian" xmlUrl="https://feeds.bbci.co.uk/russian/rss.xml" htmlUrl="https://www.bbc.com/russian"/>
+      <outline type="rss" text="DW Arabic" title="DW Arabic" xmlUrl="https://rss.dw.com/rdf/rss-ar-all" htmlUrl="https://www.dw.com/ar"/>
+      <outline type="rss" text="DW Russian" title="DW Russian" xmlUrl="https://rss.dw.com/rdf/rss-ru-all" htmlUrl="https://www.dw.com/ru"/>
+      <outline type="rss" text="Euronews Russian" title="Euronews Russian" xmlUrl="https://ru.euronews.com/rss?format=mrss" htmlUrl="https://ru.euronews.com/"/>
+      <outline type="rss" text="France 24 Arabic" title="France 24 Arabic" xmlUrl="https://www.france24.com/ar/rss" htmlUrl="https://www.france24.com/ar/"/>
+      <outline type="rss" text="Hespress" title="Hespress" xmlUrl="https://www.hespress.com/feed" htmlUrl="https://www.hespress.com/"/>
+      <outline type="rss" text="Independent Arabia" title="Independent Arabia" xmlUrl="https://www.independentarabia.com/rss.xml" htmlUrl="https://www.independentarabia.com/"/>
+      <outline type="rss" text="Interfax" title="Interfax" xmlUrl="https://www.interfax.ru/rss.asp" htmlUrl="https://www.interfax.ru/"/>
       <outline type="rss" text="International: Top News And Analysis" title="International: Top News And Analysis" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl="https://www.cnbc.com/world-top-news/"/>
       <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl="https://www.ndtv.com/"/>
+      <outline type="rss" text="Newsru.co.il (Russian-language Israel news)" title="Newsru.co.il (Russian-language Israel news)" xmlUrl="https://www.newsru.co.il/il/www/news/all" htmlUrl="https://www.newsru.co.il/"/>
+      <outline type="rss" text="Novaya Gazeta Europe" title="Novaya Gazeta Europe" xmlUrl="https://novayagazeta.eu/feed/rss" htmlUrl="https://novayagazeta.eu/"/>
       <outline type="rss" text="NYT &gt; World News" title="NYT &gt; World News" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" htmlUrl="https://www.nytimes.com/section/world"/>
+      <outline type="rss" text="RBC" title="RBC" xmlUrl="https://rssexport.rbc.ru/rbcnews/news/30/full.rss" htmlUrl="https://www.rbc.ru/"/>
+      <outline type="rss" text="Sky News Arabia" title="Sky News Arabia" xmlUrl="https://www.skynewsarabia.com/web/rss" htmlUrl="https://www.skynewsarabia.com/"/>
       <outline type="rss" text="Top stories - Google News" title="Top stories - Google News" xmlUrl="https://news.google.com/rss" htmlUrl="https://news.google.com/?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+      <outline type="rss" text="Vedomosti" title="Vedomosti" xmlUrl="https://www.vedomosti.ru/rss/news" htmlUrl="https://www.vedomosti.ru/"/>
+      <outline type="rss" text="Watan" title="Watan" xmlUrl="https://www.watanserb.com/feed/" htmlUrl="https://www.watanserb.com/"/>
       <outline type="rss" text="World" title="World" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://www.washingtonpost.com"/>
       <outline type="rss" text="World News" title="World News" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
       <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
@@ -187,8 +204,10 @@
       <outline type="rss" text="The South African" title="The South African" xmlUrl="https://www.thesouthafrican.com/feed/" htmlUrl="https://www.thesouthafrican.com/"/>
     </outline>
     <outline text="Technology &amp; Gadgets" title="Technology &amp; Gadgets">
+      <outline type="rss" text="3DNews" title="3DNews" xmlUrl="https://3dnews.ru/news/rss/" htmlUrl="https://3dnews.ru/"/>
       <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/"/>
       <outline type="rss" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com"/>
+      <outline type="rss" text="Aitnews" title="Aitnews" xmlUrl="https://aitnews.com/feed/" htmlUrl="https://aitnews.com/"/>
       <outline type="rss" text="Alberto De Bortoli" title="Alberto De Bortoli" xmlUrl="https://albertodebortoli.com/rss/" htmlUrl="https://albertodebortoli.com/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products-and-platforms/platforms/android/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://www.reddit.com/r/android/.rss" htmlUrl="https://www.reddit.com/r/android/"/>
@@ -199,12 +218,14 @@
       <outline type="rss" text="Apple" title="Apple" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Apple" htmlUrl="https://www.youtube.com/channel/UCE_M8A5yxnLfW0KghEeajjw"/>
       <outline type="rss" text="Apple Newsroom" title="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/"/>
       <outline type="rss" text="AppleInsider News" title="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news/" htmlUrl="https://appleinsider.com/rss/news"/>
+      <outline type="rss" text="ArabHardware" title="ArabHardware" xmlUrl="https://arabhardware.net/feed" htmlUrl="https://arabhardware.net/"/>
       <outline type="rss" text="Ars Technica - All content" title="Ars Technica - All content" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
       <outline type="rss" text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" xmlUrl="https://www.smashingmagazine.com/feed" htmlUrl="https://www.smashingmagazine.com/"/>
       <outline type="rss" text="Blackhat Library: Hacking techniques and research" title="Blackhat Library: Hacking techniques and research" xmlUrl="https://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/"/>
       <outline type="rss" text="Bruno Rocha" title="Bruno Rocha" xmlUrl="https://swiftrocks.com/rss.xml" htmlUrl="https://swiftrocks.com"/>
       <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/news/" htmlUrl="https://www.cnet.com"/>
       <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=CNETTV" htmlUrl="https://www.youtube.com/channel/UCOmcA3f_RrH6b9NmcNa4tdg"/>
+      <outline type="rss" text="CNews" title="CNews" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru/"/>
       <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
       <outline type="rss" text="Company | The JetBrains Blog" title="Company | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed/" htmlUrl="https://blog.jetbrains.com"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"/>
@@ -224,9 +245,11 @@
       <outline type="rss" text="GitLab" title="GitLab" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl="https://about.gitlab.com/blog"/>
       <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl="https://gizmodo.com/"/>
       <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
+      <outline type="rss" text="Habr" title="Habr" xmlUrl="https://habr.com/ru/rss/all/all/" htmlUrl="https://habr.com/ru/"/>
       <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
       <outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/"/>
       <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com" htmlUrl="https://www.infoq.com"/>
+      <outline type="rss" text="iXBT" title="iXBT" xmlUrl="https://www.ixbt.com/export/news.rss" htmlUrl="https://www.ixbt.com/"/>
       <outline type="rss" text="Jake Wharton" title="Jake Wharton" xmlUrl="https://jakewharton.com/atom.xml" htmlUrl="https://jakewharton.com/"/>
       <outline type="rss" text="JUST™ Creative" title="JUST™ Creative" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog" htmlUrl="https://justcreative.com"/>
       <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com"/>
@@ -263,6 +286,7 @@
       <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://www.swiftbysundell.com/feed.rss" htmlUrl="https://www.swiftbysundell.com"/>
       <outline type="rss" text="Swift by Sundell" title="Swift by Sundell" xmlUrl="https://swiftbysundell.com/feed.rss" htmlUrl="https://www.swiftbysundell.com"/>
       <outline type="rss" text="TalkAndroid" title="TalkAndroid" xmlUrl="http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums" htmlUrl="https://www.talkandroid.com"/>
+      <outline type="rss" text="Tech-wd" title="Tech-wd" xmlUrl="https://www.tech-wd.com/wd/feed/" htmlUrl="https://www.tech-wd.com/"/>
       <outline type="rss" text="Technical Information Security Content &amp; Discussion" title="Technical Information Security Content &amp; Discussion" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/"/>
       <outline type="rss" text="The Airbnb Tech Blog - Medium" title="The Airbnb Tech Blog - Medium" xmlUrl="https://medium.com/feed/airbnb-engineering" htmlUrl="https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4"/>
       <outline type="rss" text="The GitHub Blog" title="The GitHub Blog" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
@@ -307,6 +331,7 @@
       <outline type="rss" text="Hacker News: Front Page" title="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
       <outline type="rss" text="Inc.com" title="Inc.com" xmlUrl="https://www.inc.com/rss/" htmlUrl="https://www.inc.com/"/>
       <outline type="rss" text="INCRYPTED" title="INCRYPTED" xmlUrl="https://incrypted.net/feed/" htmlUrl="https://incrypted.com/"/>
+      <outline type="rss" text="Kommersant" title="Kommersant" xmlUrl="https://www.kommersant.ru/RSS/news.xml" htmlUrl="https://www.kommersant.ru/"/>
       <outline type="rss" text="Kraken Blog" title="Kraken Blog" xmlUrl="https://blog.kraken.com/feed" htmlUrl="https://blog.kraken.com/"/>
       <outline type="rss" text="Making Sense Of Cents" title="Making Sense Of Cents" xmlUrl="https://www.makingsenseofcents.com/feed" htmlUrl="https://www.makingsenseofcents.com/"/>
       <outline type="rss" text="Marie Forleo" title="Marie Forleo" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=marieforleo" htmlUrl="https://www.youtube.com/channel/UCuoxrRDDgk3UUnxR4tlkJYQ"/>
@@ -361,6 +386,7 @@
       <outline type="rss" text="Sport | The Guardian" title="Sport | The Guardian" xmlUrl="https://www.theguardian.com/uk/sport/rss" htmlUrl="https://www.theguardian.com/uk/sport"/>
       <outline type="rss" text="Sports News - Latest Sports and Football News | Sky News" title="Sports News - Latest Sports and Football News | Sky News" xmlUrl="https://feeds.skynews.com/feeds/rss/sports.xml" htmlUrl="https://news.sky.com/sports"/>
       <outline type="rss" text="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" title="Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News &amp; More" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/4719148.cms" htmlUrl="https://timesofindia.indiatimes.com/sports"/>
+      <outline type="rss" text="Sports.ru" title="Sports.ru" xmlUrl="https://www.sports.ru/rss/all_news.xml" htmlUrl="https://www.sports.ru/"/>
       <outline type="rss" text="sports.yahoo.com" title="sports.yahoo.com" xmlUrl="https://sports.yahoo.com/rss/" htmlUrl="https://sports.yahoo.com"/>
       <outline type="rss" text="Sri Lanka Cricket" title="Sri Lanka Cricket" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC" htmlUrl="https://www.youtube.com/channel/UCJA-NQ4MtcRIog66wziD8fA"/>
       <outline type="rss" text="Tennis News &amp; Discussion" title="Tennis News &amp; Discussion" xmlUrl="https://www.reddit.com/r/tennis/.rss" htmlUrl="https://www.reddit.com/r/tennis/"/>
@@ -399,6 +425,7 @@
       <outline type="rss" text="Blog | Nature | PBS" title="Blog | Nature | PBS" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" htmlUrl="https://www.pbs.org/wnet/nature/blog/"/>
       <outline type="rss" text="Conservation International" title="Conservation International" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg" htmlUrl="https://www.youtube.com/channel/UCam5sCp6mzGBcn8ZBB2RBJg"/>
       <outline type="rss" text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" htmlUrl="https://www.reddit.com/r/EarthPorn/"/>
+      <outline type="rss" text="Elementy" title="Elementy" xmlUrl="https://elementy.ru/rss/news" htmlUrl="https://elementy.ru/"/>
       <outline type="rss" text="Environment" title="Environment" xmlUrl="https://www.reddit.com/r/environment/.rss" htmlUrl="https://www.reddit.com/r/environment/"/>
       <outline type="rss" text="Environment + Energy – The Conversation" title="Environment + Energy – The Conversation" xmlUrl="https://theconversation.com/au/environment/articles.atom" htmlUrl="https://theconversation.com"/>
       <outline type="rss" text="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" title="Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change &amp; Pollution News" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/2647163.cms" htmlUrl="https://timesofindia.indiatimes.com/articlelist/2647163.cms"/>
@@ -407,6 +434,7 @@
       <outline type="rss" text="Good Good Good" title="Good Good Good" xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" htmlUrl="https://www.goodgoodgood.co"/>
       <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
       <outline type="rss" text="Love Nature" title="Love Nature" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg" htmlUrl="https://www.youtube.com/channel/UCRZPkuHwaoKwTP3CYPdVldg"/>
+      <outline type="rss" text="N+1" title="N+1" xmlUrl="https://nplus1.ru/rss" htmlUrl="https://nplus1.ru/"/>
       <outline type="rss" text="NASA" title="NASA" xmlUrl="https://www.nasa.gov/rss/dyn/breaking_news.rss" htmlUrl="https://www.nasa.gov"/>
       <outline type="rss" text="National Geographic" title="National Geographic" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A" htmlUrl="https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A"/>
       <outline type="rss" text="Nature" title="Nature" xmlUrl="http://feeds.nature.com/nature/rss/current?x=1" htmlUrl="http://feeds.nature.com/nature/rss/current"/>

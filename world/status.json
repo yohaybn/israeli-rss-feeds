@@ -2543,6 +2543,30 @@
   },
   "category": "podcasts"
  },
+ "https://3dnews.ru/news/rss/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "3DNews",
+   "url": "https://3dnews.ru/news/rss/",
+   "site": "3dnews.ru",
+   "homepage": "https://3dnews.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 16758,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://3dnews.ru/news/rss/",
+   "last_item": "2026-10-06"
+  },
+  "category": "tech"
+ },
  "https://8columnas.com.mx/feed/": {
   "status": "ok",
   "note": "",
@@ -2649,6 +2673,30 @@
   "note": "not a valid feed: no element found: line 1975, column 3",
   "fails": 3,
   "last_ok": null
+ },
+ "https://aitnews.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Aitnews",
+   "url": "https://aitnews.com/feed/",
+   "site": "aitnews.com",
+   "homepage": "https://aitnews.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 392637,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://aitnews.com/feed/",
+   "last_item": "2026-10-05"
+  },
+  "category": "tech"
  },
  "https://albertodebortoli.com/rss/": {
   "status": "ok",
@@ -2802,6 +2850,30 @@
    "upstream_category": "Apple",
    "source_url": "https://appleinsider.com/rss/news/",
    "last_item": "2026-10-04"
+  },
+  "category": "tech"
+ },
+ "https://arabhardware.net/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "ArabHardware",
+   "url": "https://arabhardware.net/feed",
+   "site": "arabhardware.net",
+   "homepage": "https://arabhardware.net/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 394131,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://arabhardware.net/feed",
+   "last_item": "2026-10-05"
   },
   "category": "tech"
  },
@@ -3888,6 +3960,30 @@
   },
   "category": "business"
  },
+ "https://elementy.ru/rss/news": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Elementy",
+   "url": "https://elementy.ru/rss/news",
+   "site": "elementy.ru",
+   "homepage": "https://elementy.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 58407,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://elementy.ru/rss/news",
+   "last_item": "2026-10-06"
+  },
+  "category": "science"
+ },
  "https://en.chessbase.com/feed": {
   "status": "ok",
   "note": "",
@@ -4086,6 +4182,54 @@
   "note": "newest item 614d old",
   "fails": 3,
   "last_ok": null
+ },
+ "https://feeds.bbci.co.uk/arabic/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "BBC Arabic",
+   "url": "https://feeds.bbci.co.uk/arabic/rss.xml",
+   "site": "bbc.com",
+   "homepage": "https://www.bbc.com/arabic",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 221,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://feeds.bbci.co.uk/arabic/rss.xml",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
+ "https://feeds.bbci.co.uk/russian/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "BBC Russian",
+   "url": "https://feeds.bbci.co.uk/russian/rss.xml",
+   "site": "bbc.com",
+   "homepage": "https://www.bbc.com/russian",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 221,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://feeds.bbci.co.uk/russian/rss.xml",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
  },
  "https://feeds.bbci.co.uk/sport/football/rss.xml": {
   "status": "ok",
@@ -5568,6 +5712,30 @@
   "fails": 0,
   "last_ok": null
  },
+ "https://habr.com/ru/rss/all/all/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Habr",
+   "url": "https://habr.com/ru/rss/all/all/",
+   "site": "habr.com",
+   "homepage": "https://habr.com/ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3982,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://habr.com/ru/rss/all/all/",
+   "last_item": "2026-10-06"
+  },
+  "category": "tech"
+ },
  "https://hackaday.com/blog/feed/": {
   "status": "ok",
   "note": "",
@@ -6658,6 +6826,54 @@
   "fails": 3,
   "last_ok": null
  },
+ "https://novayagazeta.eu/feed/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Novaya Gazeta Europe",
+   "url": "https://novayagazeta.eu/feed/rss",
+   "site": "novayagazeta.eu",
+   "homepage": "https://novayagazeta.eu/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 44609,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://novayagazeta.eu/feed/rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
+ "https://nplus1.ru/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "N+1",
+   "url": "https://nplus1.ru/rss",
+   "site": "nplus1.ru",
+   "homepage": "https://nplus1.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 41400,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://nplus1.ru/rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "science"
+ },
  "https://nv.ua/rss/all.xml": {
   "status": "ok",
   "note": "",
@@ -7521,6 +7737,30 @@
   },
   "category": "podcasts"
  },
+ "https://rss.dw.com/rdf/rss-ar-all": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "DW Arabic",
+   "url": "https://rss.dw.com/rdf/rss-ar-all",
+   "site": "dw.com",
+   "homepage": "https://www.dw.com/ar",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 1416,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://rss.dw.com/rdf/rss-ar-all",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://rss.dw.com/rdf/rss-en-all": {
   "status": "ok",
   "note": "",
@@ -7543,6 +7783,30 @@
    "source_url": "https://rss.dw.com/rdf/rss-en-all",
    "country": "DE",
    "last_item": "2026-10-04"
+  },
+  "category": "news"
+ },
+ "https://rss.dw.com/rdf/rss-ru-all": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "DW Russian",
+   "url": "https://rss.dw.com/rdf/rss-ru-all",
+   "site": "dw.com",
+   "homepage": "https://www.dw.com/ru",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 1416,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://rss.dw.com/rdf/rss-ru-all",
+   "last_item": "2026-10-06"
   },
   "category": "news"
  },
@@ -7883,6 +8147,54 @@
    "source_url": "https://rss.unian.net/site/news_rus.rss",
    "country": "UA",
    "last_item": "2026-10-04"
+  },
+  "category": "news"
+ },
+ "https://rssexport.rbc.ru/rbcnews/news/30/full.rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "RBC",
+   "url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+   "site": "rbc.ru",
+   "homepage": "https://www.rbc.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 1291,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
+ "https://ru.euronews.com/rss?format=mrss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Euronews Russian",
+   "url": "https://ru.euronews.com/rss?format=mrss",
+   "site": "ru.euronews.com",
+   "homepage": "https://ru.euronews.com/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 2043,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://ru.euronews.com/rss?format=mrss",
+   "last_item": "2026-10-06"
   },
   "category": "news"
  },
@@ -9086,6 +9398,54 @@
   },
   "category": "culture"
  },
+ "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Al Jazeera Arabic",
+   "url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3755,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
+ "https://www.alquds.co.uk/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Al-Quds Al-Arabi",
+   "url": "https://www.alquds.co.uk/feed/",
+   "site": "alquds.co.uk",
+   "homepage": "https://www.alquds.co.uk/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 43971,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alquds.co.uk/feed/",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://www.amarujala.com/rss/breaking-news.xml": {
   "status": "ok",
   "note": "",
@@ -9748,6 +10108,30 @@
    "upstream_category": "Tech",
    "source_url": "https://www.cnet.com/rss/news/",
    "last_item": "2026-10-03"
+  },
+  "category": "tech"
+ },
+ "https://www.cnews.ru/inc/rss/news.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "CNews",
+   "url": "https://www.cnews.ru/inc/rss/news.xml",
+   "site": "cnews.ru",
+   "homepage": "https://www.cnews.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 13684,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.cnews.ru/inc/rss/news.xml",
+   "last_item": "2026-10-06"
   },
   "category": "tech"
  },
@@ -10708,6 +11092,30 @@
   },
   "category": "business"
  },
+ "https://www.france24.com/ar/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "France 24 Arabic",
+   "url": "https://www.france24.com/ar/rss",
+   "site": "france24.com",
+   "homepage": "https://www.france24.com/ar/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3031,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.france24.com/ar/rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://www.france24.com/en/rss": {
   "status": "ok",
   "note": "",
@@ -10897,6 +11305,30 @@
   "note": "not a valid feed: no element found: line 1, column 0",
   "fails": 3,
   "last_ok": null
+ },
+ "https://www.hespress.com/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Hespress",
+   "url": "https://www.hespress.com/feed",
+   "site": "hespress.com",
+   "homepage": "https://www.hespress.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 17111,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.hespress.com/feed",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
  },
  "https://www.historyisnowmagazine.com/blog?format=RSS": {
   "status": "ok",
@@ -11179,6 +11611,30 @@
   },
   "category": "business"
  },
+ "https://www.independentarabia.com/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Independent Arabia",
+   "url": "https://www.independentarabia.com/rss.xml",
+   "site": "independentarabia.com",
+   "homepage": "https://www.independentarabia.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 137364,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.independentarabia.com/rss.xml",
+   "last_item": "2026-10-05"
+  },
+  "category": "news"
+ },
  "https://www.indiatoday.in/rss/home": {
   "status": "ok",
   "note": "",
@@ -11376,6 +11832,30 @@
   },
   "category": "ai"
  },
+ "https://www.interfax.ru/rss.asp": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Interfax",
+   "url": "https://www.interfax.ru/rss.asp",
+   "site": "interfax.ru",
+   "homepage": "https://www.interfax.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 5014,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.interfax.ru/rss.asp",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://www.interiordesign.net/rss/": {
   "status": "dead",
   "note": "no items",
@@ -11481,6 +11961,30 @@
   },
   "category": "news"
  },
+ "https://www.ixbt.com/export/news.rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "iXBT",
+   "url": "https://www.ixbt.com/export/news.rss",
+   "site": "ixbt.com",
+   "homepage": "https://www.ixbt.com/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 5039,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.ixbt.com/export/news.rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "tech"
+ },
  "https://www.jagonews24.com/rss/rss.xml": {
   "status": "dead",
   "note": "not a valid feed: mismatched tag: line 10, column 2",
@@ -11572,6 +12076,30 @@
    "last_item": "2026-10-04"
   },
   "category": "news"
+ },
+ "https://www.kommersant.ru/RSS/news.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Kommersant",
+   "url": "https://www.kommersant.ru/RSS/news.xml",
+   "site": "kommersant.ru",
+   "homepage": "https://www.kommersant.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 4704,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.kommersant.ru/RSS/news.xml",
+   "last_item": "2026-10-06"
+  },
+  "category": "business"
  },
  "https://www.ladepeche.fr/rss.xml": {
   "status": "ok",
@@ -12331,6 +12859,30 @@
    "last_item": "2026-10-01"
   },
   "category": "science"
+ },
+ "https://www.newsru.co.il/il/www/news/all": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Newsru.co.il (Russian-language Israel news)",
+   "url": "https://www.newsru.co.il/il/www/news/all",
+   "site": "newsru.co.il",
+   "homepage": "https://www.newsru.co.il/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 36619,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.newsru.co.il/il/www/news/all",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
  },
  "https://www.newsweek.pl/rss.xml": {
   "status": "ok",
@@ -14278,6 +14830,30 @@
   "fails": 3,
   "last_ok": null
  },
+ "https://www.skynewsarabia.com/web/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Sky News Arabia",
+   "url": "https://www.skynewsarabia.com/web/rss",
+   "site": "skynewsarabia.com",
+   "homepage": "https://www.skynewsarabia.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 15721,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.skynewsarabia.com/web/rss",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://www.smashingmagazine.com/feed": {
   "status": "ok",
   "note": "",
@@ -14387,6 +14963,30 @@
   "fails": 3,
   "last_ok": null
  },
+ "https://www.sports.ru/rss/all_news.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Sports.ru",
+   "url": "https://www.sports.ru/rss/all_news.xml",
+   "site": "sports.ru",
+   "homepage": "https://www.sports.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 4243,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.sports.ru/rss/all_news.xml",
+   "last_item": "2026-10-06"
+  },
+  "category": "sports"
+ },
  "https://www.sportskeeda.com/feed": {
   "status": "blocked",
   "note": "HTTP 403",
@@ -14490,6 +15090,30 @@
   "note": "URLError: <urlopen error [Errno -2] Name or service not known>",
   "fails": 3,
   "last_ok": null
+ },
+ "https://www.tech-wd.com/wd/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Tech-wd",
+   "url": "https://www.tech-wd.com/wd/feed/",
+   "site": "tech-wd.com",
+   "homepage": "https://www.tech-wd.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 443457,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.tech-wd.com/wd/feed/",
+   "last_item": "2026-10-05"
+  },
+  "category": "tech"
  },
  "https://www.technologyreview.com/topic/artificial-intelligence/feed": {
   "status": "ok",
@@ -15410,6 +16034,30 @@
   },
   "category": "news"
  },
+ "https://www.vedomosti.ru/rss/news": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Vedomosti",
+   "url": "https://www.vedomosti.ru/rss/news",
+   "site": "vedomosti.ru",
+   "homepage": "https://www.vedomosti.ru/",
+   "language": "ru",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 4539,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.vedomosti.ru/rss/news",
+   "last_item": "2026-10-06"
+  },
+  "category": "news"
+ },
  "https://www.vesti.ru/vesti.rss": {
   "status": "dead",
   "note": "HTTP 404",
@@ -15421,6 +16069,30 @@
   "note": "no items",
   "fails": 3,
   "last_ok": null
+ },
+ "https://www.watanserb.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-06",
+  "entry": {
+   "title": "Watan",
+   "url": "https://www.watanserb.com/feed/",
+   "site": "watanserb.com",
+   "homepage": "https://www.watanserb.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 335440,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.watanserb.com/feed/",
+   "last_item": "2026-10-05"
+  },
+  "category": "news"
  },
  "https://www.whowhatwear.com/rss": {
   "status": "ok",

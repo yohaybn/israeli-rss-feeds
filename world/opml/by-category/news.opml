@@ -23,7 +23,6 @@
       <outline type="rss" text="Independent Arabia" title="Independent Arabia" xmlUrl="https://www.independentarabia.com/rss.xml" htmlUrl="https://www.independentarabia.com/"/>
       <outline type="rss" text="Interfax" title="Interfax" xmlUrl="https://www.interfax.ru/rss.asp" htmlUrl="https://www.interfax.ru/"/>
       <outline type="rss" text="International: Top News And Analysis" title="International: Top News And Analysis" xmlUrl="https://www.cnbc.com/id/100727362/device/rss/rss.html" htmlUrl="https://www.cnbc.com/world-top-news/"/>
-      <outline type="rss" text="Meduza" title="Meduza" xmlUrl="https://meduza.io/rss/all" htmlUrl="https://meduza.io/"/>
       <outline type="rss" text="NDTV News Search Records Found 1000" title="NDTV News Search Records Found 1000" xmlUrl="http://feeds.feedburner.com/ndtvnews-world-news" htmlUrl="https://www.ndtv.com/"/>
       <outline type="rss" text="Newsru.co.il (Russian-language Israel news)" title="Newsru.co.il (Russian-language Israel news)" xmlUrl="https://www.newsru.co.il/il/www/news/all" htmlUrl="https://www.newsru.co.il/"/>
       <outline type="rss" text="Novaya Gazeta Europe" title="Novaya Gazeta Europe" xmlUrl="https://novayagazeta.eu/feed/rss" htmlUrl="https://novayagazeta.eu/"/>
@@ -176,6 +175,7 @@
       <outline type="rss" text="RMF24.pl" title="RMF24.pl" xmlUrl="https://www.rmf24.pl/feed" htmlUrl="https://www.rmf24.pl/"/>
       <outline type="rss" text="www.wirtualnemedia.pl" title="www.wirtualnemedia.pl" xmlUrl="https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml" htmlUrl="https://www.wirtualnemedia.pl"/>
       <outline type="rss" text="Lenta.ru : Новости" title="Lenta.ru : Новости" xmlUrl="https://lenta.ru/rss" htmlUrl="https://lenta.ru"/>
+      <outline type="rss" text="Meduza.io" title="Meduza.io" xmlUrl="https://meduza.io/rss/all" htmlUrl="https://meduza.io"/>
       <outline type="rss" text="PravdaReport" title="PravdaReport" xmlUrl="https://www.pravdareport.com/export.xml" htmlUrl="https://english.pravda.ru/"/>
       <outline type="rss" text="RT - Daily news" title="RT - Daily news" xmlUrl="https://www.rt.com/rss/" htmlUrl="https://www.rt.com"/>
       <outline type="rss" text="TASS" title="TASS" xmlUrl="https://tass.com/rss/v2.xml" htmlUrl="https://tass.com"/>

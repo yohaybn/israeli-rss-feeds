@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Food &amp; Cooking</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -16,6 +16,7 @@
       <outline type="rss" text="Laura in the Kitchen" title="Laura in the Kitchen" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen" htmlUrl="https://www.youtube.com/channel/UCNbngWUqL2eqRw12yAwcICg"/>
       <outline type="rss" text="Love and Lemons" title="Love and Lemons" xmlUrl="https://www.loveandlemons.com/feed/" htmlUrl="https://www.loveandlemons.com/"/>
       <outline type="rss" text="Love and Olive Oil" title="Love and Olive Oil" xmlUrl="https://www.loveandoliveoil.com/feed" htmlUrl="https://www.loveandoliveoil.com"/>
+      <outline type="rss" text="Mtbakh" title="Mtbakh" xmlUrl="https://www.mtbakhcom.com/feed/" htmlUrl="https://www.mtbakhcom.com/"/>
       <outline type="rss" text="NYT &gt; Food" title="NYT &gt; Food" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml" htmlUrl="https://www.nytimes.com/section/food"/>
       <outline type="rss" text="Shutterbean" title="Shutterbean" xmlUrl="https://www.shutterbean.com/feed/" htmlUrl="https://www.shutterbean.com"/>
       <outline type="rss" text="smitten kitchen" title="smitten kitchen" xmlUrl="http://feeds.feedburner.com/smittenkitchen" htmlUrl="https://smittenkitchen.com"/>

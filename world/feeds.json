@@ -3,8 +3,8 @@
   "name": "israeli-rss-feeds/world",
   "description": "International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0) plus a curated list (world/curated.json), every feed verified live",
   "source": "https://github.com/plenaryapp/awesome-rss-feeds",
-  "generated_at": "2026-10-06",
-  "feed_count": 659,
+  "generated_at": "2026-10-08",
+  "feed_count": 696,
   "categories": [
     {
       "id": "news",
@@ -30,6 +30,38 @@
           "last_item": "2026-10-06"
         },
         {
+          "title": "Al-Araby Al-Jadeed",
+          "url": "https://www.alaraby.co.uk/rss.xml",
+          "site": "alaraby.co.uk",
+          "homepage": "https://www.alaraby.co.uk/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 34590,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.alaraby.co.uk/rss.xml",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Al-Ittihad (Haifa)",
+          "url": "https://alittihad.info/feed/",
+          "site": "alittihad.info",
+          "homepage": "https://www.alittihad.info/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.alittihad.info/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "Al-Quds Al-Arabi",
           "url": "https://www.alquds.co.uk/feed/",
           "site": "alquds.co.uk",
@@ -45,6 +77,23 @@
           "upstream_category": "Curated",
           "source_url": "https://www.alquds.co.uk/feed/",
           "last_item": "2026-10-06"
+        },
+        {
+          "title": "Asharq Al-Awsat",
+          "url": "https://aawsat.com/feed",
+          "site": "aawsat.com",
+          "homepage": "https://aawsat.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 18211,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://aawsat.com/feed",
+          "last_item": "2026-10-08"
         },
         {
           "title": "BBC Arabic",
@@ -5166,6 +5215,40 @@
       "description_he": "שוק ההון, פיננסים, יזמות",
       "feeds": [
         {
+          "title": "Al Borsa News",
+          "url": "https://alborsaanews.com/rss",
+          "site": "alborsaanews.com",
+          "homepage": "https://alborsaanews.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 321873,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://alborsaanews.com/rss",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Al Jazeera Arabic Economy",
+          "url": "https://www.aljazeera.net/aljazeerarss/economy",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/ebusiness",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/economy",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "All News",
           "url": "https://www.investing.com/rss/news.rss",
           "site": "investing.com",
@@ -5181,6 +5264,23 @@
           "upstream_category": "Business & Economy",
           "source_url": "https://www.investing.com/rss/news.rss",
           "last_item": "2026-10-04"
+        },
+        {
+          "title": "Argaam",
+          "url": "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523",
+          "site": "argaam.com",
+          "homepage": "https://www.argaam.com/ar",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 36439,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523",
+          "last_item": "2026-10-08"
         },
         {
           "title": "Bitcoin - The Currency of the Internet",
@@ -6071,6 +6171,57 @@
       "description_he": "חדשות ספורט, תוצאות, פרשנויות",
       "feeds": [
         {
+          "title": "Al Jazeera Arabic Sports",
+          "url": "https://www.aljazeera.net/aljazeerarss/sport",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/sport",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/sport",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Arriyadiyah",
+          "url": "https://arriyadiyah.com/rss",
+          "site": "arriyadiyah.com",
+          "homepage": "https://www.arriyadiyah.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 139027,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.arriyadiyah.com/rss",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "BBC Arabic Sports",
+          "url": "https://feeds.bbci.co.uk/arabic/sports/rss.xml",
+          "site": "bbc.com",
+          "homepage": "https://www.bbc.com/arabic/sport",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 221,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://feeds.bbci.co.uk/arabic/sports/rss.xml",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "BBC Sport",
           "url": "https://feeds.bbci.co.uk/sport/cricket/rss.xml",
           "site": "bbc.co.uk",
@@ -6341,6 +6492,23 @@
           "upstream_category": "Football",
           "source_url": "https://www.theguardian.com/football/rss",
           "last_item": "2026-10-04"
+        },
+        {
+          "title": "Kooora",
+          "url": "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick",
+          "site": "kooora.com",
+          "homepage": "https://www.kooora.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 1539,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick",
+          "last_item": "2026-10-08"
         },
         {
           "title": "NDTV News Search Records Found 1000",
@@ -6689,6 +6857,40 @@
           "last_item": "2026-10-03"
         },
         {
+          "title": "Al Jazeera Arabic Culture",
+          "url": "https://www.aljazeera.net/aljazeerarss/culture",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/culture",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/culture",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Al-Araby Culture",
+          "url": "https://www.alaraby.co.uk/rss/culture",
+          "site": "alaraby.co.uk",
+          "homepage": "https://www.alaraby.co.uk/culture",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 34590,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.alaraby.co.uk/rss/culture",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "BOOK RIOT",
           "url": "https://bookriot.com/feed/",
           "site": "bookriot.com",
@@ -6891,6 +7093,23 @@
           "last_item": "2026-10-03"
         },
         {
+          "title": "Raseef22",
+          "url": "https://raseef22.net/feed",
+          "site": "raseef22.net",
+          "homepage": "https://raseef22.net/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 244126,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://raseef22.net/feed",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "So many books, so little time",
           "url": "https://www.reddit.com/r/books/.rss",
           "site": "reddit.com",
@@ -6982,7 +7201,42 @@
       "name_he": "בריאות ורפואה",
       "name_en": "Health & Medicine",
       "description_he": "חדשות רפואיות, בריאות הציבור",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "Al Jazeera Arabic Health",
+          "url": "https://www.aljazeera.net/aljazeerarss/health",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/health",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/health",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Altibbi",
+          "url": "https://altibbi.com/rss/editorial",
+          "site": "altibbi.com",
+          "homepage": "https://altibbi.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 19512,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://altibbi.com/rss/editorial",
+          "last_item": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "science",
@@ -7006,6 +7260,23 @@
           "upstream_category": "Space",
           "source_url": "https://www.reddit.com/r/space/.rss?format=xml",
           "last_item": "2026-10-04"
+        },
+        {
+          "title": "Al Jazeera Arabic Science",
+          "url": "https://www.aljazeera.net/aljazeerarss/science",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/science",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/science",
+          "last_item": "2026-10-08"
         },
         {
           "title": "BBC Earth",
@@ -7089,6 +7360,23 @@
           "upstream_category": "Environment",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg",
           "last_item": "2026-10-02"
+        },
+        {
+          "title": "DW Arabic Science",
+          "url": "https://rss.dw.com/rdf/rss-ar-sci",
+          "site": "dw.com",
+          "homepage": "https://www.dw.com/ar",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 1425,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://rss.dw.com/rdf/rss-ar-sci",
+          "last_item": "2026-10-07"
         },
         {
           "title": "EarthPorn: Amazing images of light and landscape",
@@ -7741,6 +8029,23 @@
       "description_he": "עדכוני אמנים, ביקורות אלבומים",
       "feeds": [
         {
+          "title": "Al Jazeera Arabic Music",
+          "url": "https://www.aljazeera.net/aljazeerarss/music",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/culture/music",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/music",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "Consequence",
           "url": "http://consequenceofsound.net/feed",
           "site": "consequence.net",
@@ -8034,6 +8339,23 @@
           "upstream_category": "Gaming",
           "source_url": "http://feeds.ign.com/ign/all",
           "last_item": "2026-10-03"
+        },
+        {
+          "title": "IGN Middle East (Arabic)",
+          "url": "https://me.ign.com/ar/feed.xml",
+          "site": "me.ign.com",
+          "homepage": "https://me.ign.com/ar",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 2121,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://me.ign.com/ar/feed.xml",
+          "last_item": "2026-10-08"
         },
         {
           "title": "Indie Games Plus",
@@ -8399,6 +8721,21 @@
           "last_item": "2026-09-14"
         },
         {
+          "title": "Mtbakh",
+          "url": "https://www.mtbakhcom.com/feed/",
+          "site": "mtbakhcom.com",
+          "homepage": "https://www.mtbakhcom.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.mtbakhcom.com/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "NYT > Food",
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
           "site": "nytimes.com",
@@ -8473,6 +8810,23 @@
           "upstream_category": "Travel",
           "source_url": "http://adventure.com/feed/",
           "last_item": "2026-09-30"
+        },
+        {
+          "title": "Al Jazeera Arabic Travel",
+          "url": "https://www.aljazeera.net/aljazeerarss/travel",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/travel",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/travel",
+          "last_item": "2026-10-08"
         },
         {
           "title": "Atlas Obscura - Latest Articles and Places",
@@ -8619,6 +8973,72 @@
       "description_he": "חדשות רכב, תחבורה ציבורית",
       "feeds": [
         {
+          "title": "Al-Muraba",
+          "url": "https://www.almuraba.net/feed/",
+          "site": "almuraba.net",
+          "homepage": "https://www.almuraba.net/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 333200,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.almuraba.net/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "ArabGT",
+          "url": "https://arabgt.com/feed/",
+          "site": "arabgt.com",
+          "homepage": "https://arabgt.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 584931,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://arabgt.com/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Assayyarat",
+          "url": "https://www.assayyarat.com/feed/",
+          "site": "assayyarat.com",
+          "homepage": "https://www.assayyarat.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 128595,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.assayyarat.com/feed/",
+          "last_item": "2026-10-07"
+        },
+        {
+          "title": "Auto Al Arab",
+          "url": "https://www.autoalarab.com/feed/",
+          "site": "autoalarab.com",
+          "homepage": "https://www.autoalarab.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.autoalarab.com/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "Autocar RSS Feed",
           "url": "https://www.autocar.co.uk/rss",
           "site": "autocar.co.uk",
@@ -8685,6 +9105,23 @@
           "upstream_category": "Cars",
           "source_url": "https://www.carscoops.com/feed/",
           "last_item": "2026-10-04"
+        },
+        {
+          "title": "Dubicars News (Arabic)",
+          "url": "https://www.dubicars.com/news/ar/feed",
+          "site": "dubicars.com",
+          "homepage": "https://www.dubicars.com/news/ar",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 59090,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.dubicars.com/news/ar/feed",
+          "last_item": "2026-10-08"
         },
         {
           "title": "Formula 1",
@@ -8984,6 +9421,23 @@
           "last_item": "2026-09-29"
         },
         {
+          "title": "Sayidaty",
+          "url": "https://www.sayidaty.net/rss.xml",
+          "site": "sayidaty.net",
+          "homepage": "https://www.sayidaty.net/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 48126,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.sayidaty.net/rss.xml",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "The Beauty Look Book",
           "url": "https://thebeautylookbook.com/feed",
           "site": "thebeautylookbook.com",
@@ -9022,6 +9476,21 @@
           "upstream_category": "DIY",
           "source_url": "https://abeautifulmess.com/feed",
           "last_item": "2026-10-02"
+        },
+        {
+          "title": "Al-Aqarat Al-Yawm",
+          "url": "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss",
+          "site": "alaqaratalyoum.com",
+          "homepage": "https://www.alaqaratalyoum.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss",
+          "last_item": "2026-10-07"
         },
         {
           "title": "ArchDaily Global",
@@ -9413,6 +9882,36 @@
           "last_item": "2026-10-04"
         },
         {
+          "title": "Property News Arabic",
+          "url": "https://www.propertynewsarabic.com/feed/",
+          "site": "propertynewsarabic.com",
+          "homepage": "https://www.propertynewsarabic.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.propertynewsarabic.com/feed/",
+          "last_item": "2026-10-02"
+        },
+        {
+          "title": "PropertyPlus Egypt",
+          "url": "https://propertypluseg.com/feed/",
+          "site": "propertypluseg.com",
+          "homepage": "https://propertypluseg.com/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://propertypluseg.com/feed/",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "The Inspired Room",
           "url": "https://theinspiredroom.net/feed/",
           "site": "theinspiredroom.net",
@@ -9528,7 +10027,59 @@
       "name_he": "דעה וטורים אישיים",
       "name_en": "Opinion & Personal Columns",
       "description_he": "מאמרי דעה, בלוגים כלליים",
-      "feeds": []
+      "feeds": [
+        {
+          "title": "Al Jazeera Arabic Opinion",
+          "url": "https://www.aljazeera.net/aljazeerarss/opinion",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/opinions",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/opinion",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Al-Araby Opinion",
+          "url": "https://www.alaraby.co.uk/rss/opinion",
+          "site": "alaraby.co.uk",
+          "homepage": "https://www.alaraby.co.uk/opinion",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 34590,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.alaraby.co.uk/rss/opinion",
+          "last_item": "2026-10-08"
+        },
+        {
+          "title": "Asharq Al-Awsat Opinion",
+          "url": "https://aawsat.com/feed/opinion",
+          "site": "aawsat.com",
+          "homepage": "https://aawsat.com/opinion",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 18211,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://aawsat.com/feed/opinion",
+          "last_item": "2026-10-08"
+        }
+      ]
     },
     {
       "id": "podcasts",
@@ -9586,6 +10137,23 @@
           "upstream_category": "Tech",
           "source_url": "https://atp.fm/rss",
           "last_item": "2026-10-01"
+        },
+        {
+          "title": "Al Jazeera Arabic Podcasts",
+          "url": "https://www.aljazeera.net/aljazeerarss/podcast",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/podcasts",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/podcast",
+          "last_item": "2026-10-08"
         },
         {
           "title": "Analog(ue)",
@@ -10758,6 +11326,23 @@
           "last_item": "2026-10-04"
         },
         {
+          "title": "Al Jazeera Arabic Technology",
+          "url": "https://www.aljazeera.net/aljazeerarss/technology",
+          "site": "aljazeera.net",
+          "homepage": "https://www.aljazeera.net/technology",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 3801,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.aljazeera.net/aljazeerarss/technology",
+          "last_item": "2026-10-08"
+        },
+        {
           "title": "dankmemes",
           "url": "https://www.reddit.com/r/dankmemes/.rss",
           "site": "reddit.com",
@@ -11106,6 +11691,23 @@
       "description_he": "חדשות, בלוגים ומדריכים על בינה מלאכותית",
       "feeds": [
         {
+          "title": "ActuIA Arabic",
+          "url": "https://www.actuia.com/ar/feed/",
+          "site": "actuia.com",
+          "homepage": "https://www.actuia.com/ar/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 257137,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://www.actuia.com/ar/feed/",
+          "last_item": "2026-10-05"
+        },
+        {
           "title": "Ahead of AI (Sebastian Raschka)",
           "url": "https://magazine.sebastianraschka.com/feed",
           "site": "magazine.sebastianraschka.com",
@@ -11189,6 +11791,21 @@
           "upstream_category": "Curated",
           "source_url": "https://bair.berkeley.edu/blog/feed.xml",
           "last_item": "2026-07-29"
+        },
+        {
+          "title": "EntArabi AI",
+          "url": "https://entarabi.com/ai/feed/",
+          "site": "entarabi.com",
+          "homepage": "https://entarabi.com/ai/",
+          "language": "ar",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Curated",
+          "source_url": "https://entarabi.com/ai/feed/",
+          "last_item": "2026-10-07"
         },
         {
           "title": "Google AI (The Keyword)",

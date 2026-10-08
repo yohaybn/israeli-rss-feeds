@@ -2,13 +2,16 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="News &amp; Current Affairs" title="News &amp; Current Affairs">
       <outline type="rss" text="Al Jazeera Arabic" title="Al Jazeera Arabic" xmlUrl="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8" htmlUrl="https://www.aljazeera.net/"/>
+      <outline type="rss" text="Al-Araby Al-Jadeed" title="Al-Araby Al-Jadeed" xmlUrl="https://www.alaraby.co.uk/rss.xml" htmlUrl="https://www.alaraby.co.uk/"/>
+      <outline type="rss" text="Al-Ittihad (Haifa)" title="Al-Ittihad (Haifa)" xmlUrl="https://alittihad.info/feed/" htmlUrl="https://www.alittihad.info/"/>
       <outline type="rss" text="Al-Quds Al-Arabi" title="Al-Quds Al-Arabi" xmlUrl="https://www.alquds.co.uk/feed/" htmlUrl="https://www.alquds.co.uk/"/>
+      <outline type="rss" text="Asharq Al-Awsat" title="Asharq Al-Awsat" xmlUrl="https://aawsat.com/feed" htmlUrl="https://aawsat.com/"/>
       <outline type="rss" text="BBC Arabic" title="BBC Arabic" xmlUrl="https://feeds.bbci.co.uk/arabic/rss.xml" htmlUrl="https://www.bbc.com/arabic"/>
       <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/world/rss.xml" htmlUrl="https://www.bbc.co.uk/news/world"/>
       <outline type="rss" text="BBC Russian" title="BBC Russian" xmlUrl="https://feeds.bbci.co.uk/russian/rss.xml" htmlUrl="https://www.bbc.com/russian"/>

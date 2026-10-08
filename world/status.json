@@ -2614,6 +2614,54 @@
   },
   "category": "tech"
  },
+ "https://aawsat.com/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Asharq Al-Awsat",
+   "url": "https://aawsat.com/feed",
+   "site": "aawsat.com",
+   "homepage": "https://aawsat.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 18211,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://aawsat.com/feed",
+   "last_item": "2026-10-08"
+  },
+  "category": "news"
+ },
+ "https://aawsat.com/feed/opinion": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Asharq Al-Awsat Opinion",
+   "url": "https://aawsat.com/feed/opinion",
+   "site": "aawsat.com",
+   "homepage": "https://aawsat.com/opinion",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 18211,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://aawsat.com/feed/opinion",
+   "last_item": "2026-10-08"
+  },
+  "category": "opinion"
+ },
  "https://abeautifulmess.com/feed": {
   "status": "ok",
   "note": "",
@@ -2720,6 +2768,30 @@
   },
   "category": "tech"
  },
+ "https://alborsaanews.com/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Borsa News",
+   "url": "https://alborsaanews.com/rss",
+   "site": "alborsaanews.com",
+   "homepage": "https://alborsaanews.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 321873,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://alborsaanews.com/rss",
+   "last_item": "2026-10-08"
+  },
+  "category": "business"
+ },
  "https://alistapart.com/main/feed/": {
   "status": "stale",
   "note": "newest item 95d old",
@@ -2743,6 +2815,30 @@
    "last_item": "2026-06-30"
   },
   "category": "tech"
+ },
+ "https://altibbi.com/rss/editorial": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Altibbi",
+   "url": "https://altibbi.com/rss/editorial",
+   "site": "altibbi.com",
+   "homepage": "https://altibbi.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 19512,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://altibbi.com/rss/editorial",
+   "last_item": "2026-10-08"
+  },
+  "category": "health"
  },
  "https://anchor.fm/s/4495abac/podcast/rss": {
   "status": "ok",
@@ -2852,6 +2948,30 @@
    "last_item": "2026-10-04"
   },
   "category": "tech"
+ },
+ "https://arabgt.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "ArabGT",
+   "url": "https://arabgt.com/feed/",
+   "site": "arabgt.com",
+   "homepage": "https://arabgt.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 584931,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://arabgt.com/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "auto"
  },
  "https://arabhardware.net/feed": {
   "status": "ok",
@@ -4038,6 +4158,28 @@
   "fails": 3,
   "last_ok": null
  },
+ "https://entarabi.com/ai/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "EntArabi AI",
+   "url": "https://entarabi.com/ai/feed/",
+   "site": "entarabi.com",
+   "homepage": "https://entarabi.com/ai/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://entarabi.com/ai/feed/",
+   "last_item": "2026-10-07"
+  },
+  "category": "ai"
+ },
  "https://espreso.tv/rss": {
   "status": "blocked",
   "note": "HTTP 403",
@@ -4206,6 +4348,30 @@
    "last_item": "2026-10-06"
   },
   "category": "news"
+ },
+ "https://feeds.bbci.co.uk/arabic/sports/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "BBC Arabic Sports",
+   "url": "https://feeds.bbci.co.uk/arabic/sports/rss.xml",
+   "site": "bbc.com",
+   "homepage": "https://www.bbc.com/arabic/sport",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 221,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://feeds.bbci.co.uk/arabic/sports/rss.xml",
+   "last_item": "2026-10-08"
+  },
+  "category": "sports"
  },
  "https://feeds.bbci.co.uk/russian/rss.xml": {
   "status": "ok",
@@ -4652,6 +4818,30 @@
    "last_item": "2026-10-04"
   },
   "category": "news"
+ },
+ "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Kooora",
+   "url": "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick",
+   "site": "kooora.com",
+   "homepage": "https://www.kooora.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 1539,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick",
+   "last_item": "2026-10-08"
+  },
+  "category": "sports"
  },
  "https://feeds.megaphone.fm/BLU4811105299": {
   "status": "ok",
@@ -6404,6 +6594,30 @@
   },
   "category": "tech"
  },
+ "https://me.ign.com/ar/feed.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "IGN Middle East (Arabic)",
+   "url": "https://me.ign.com/ar/feed.xml",
+   "site": "me.ign.com",
+   "homepage": "https://me.ign.com/ar",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 2121,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://me.ign.com/ar/feed.xml",
+   "last_item": "2026-10-08"
+  },
+  "category": "gaming"
+ },
  "https://medium.com/feed/airbnb-engineering": {
   "status": "ok",
   "note": "",
@@ -7283,6 +7497,28 @@
   },
   "category": "news"
  },
+ "https://propertypluseg.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "PropertyPlus Egypt",
+   "url": "https://propertypluseg.com/feed/",
+   "site": "propertypluseg.com",
+   "homepage": "https://propertypluseg.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://propertypluseg.com/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "real-estate"
+ },
  "https://publicobject.com/rss/": {
   "status": "ok",
   "note": "",
@@ -7310,6 +7546,30 @@
   "note": "URLError: <urlopen error timed out>",
   "fails": 3,
   "last_ok": null
+ },
+ "https://raseef22.net/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Raseef22",
+   "url": "https://raseef22.net/feed",
+   "site": "raseef22.net",
+   "homepage": "https://raseef22.net/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 244126,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://raseef22.net/feed",
+   "last_item": "2026-10-08"
+  },
+  "category": "culture"
  },
  "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml": {
   "status": "ok",
@@ -7760,6 +8020,30 @@
    "last_item": "2026-10-06"
   },
   "category": "news"
+ },
+ "https://rss.dw.com/rdf/rss-ar-sci": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "DW Arabic Science",
+   "url": "https://rss.dw.com/rdf/rss-ar-sci",
+   "site": "dw.com",
+   "homepage": "https://www.dw.com/ar",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 1425,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://rss.dw.com/rdf/rss-ar-sci",
+   "last_item": "2026-10-07"
+  },
+  "category": "science"
  },
  "https://rss.dw.com/rdf/rss-en-all": {
   "status": "ok",
@@ -9374,6 +9658,30 @@
   "fails": 3,
   "last_ok": null
  },
+ "https://www.actuia.com/ar/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "ActuIA Arabic",
+   "url": "https://www.actuia.com/ar/feed/",
+   "site": "actuia.com",
+   "homepage": "https://www.actuia.com/ar/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 257137,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.actuia.com/ar/feed/",
+   "last_item": "2026-10-05"
+  },
+  "category": "ai"
+ },
  "https://www.aintitcool.com/node/feed/": {
   "status": "ok",
   "note": "",
@@ -9398,6 +9706,122 @@
   },
   "category": "culture"
  },
+ "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Aqarat Al-Yawm",
+   "url": "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss",
+   "site": "alaqaratalyoum.com",
+   "homepage": "https://www.alaqaratalyoum.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss",
+   "last_item": "2026-10-07"
+  },
+  "category": "real-estate"
+ },
+ "https://www.alaraby.co.uk/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Araby Al-Jadeed",
+   "url": "https://www.alaraby.co.uk/rss.xml",
+   "site": "alaraby.co.uk",
+   "homepage": "https://www.alaraby.co.uk/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 34590,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alaraby.co.uk/rss.xml",
+   "last_item": "2026-10-08"
+  },
+  "category": "news"
+ },
+ "https://www.alaraby.co.uk/rss/culture": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Araby Culture",
+   "url": "https://www.alaraby.co.uk/rss/culture",
+   "site": "alaraby.co.uk",
+   "homepage": "https://www.alaraby.co.uk/culture",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 34590,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alaraby.co.uk/rss/culture",
+   "last_item": "2026-10-08"
+  },
+  "category": "culture"
+ },
+ "https://www.alaraby.co.uk/rss/opinion": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Araby Opinion",
+   "url": "https://www.alaraby.co.uk/rss/opinion",
+   "site": "alaraby.co.uk",
+   "homepage": "https://www.alaraby.co.uk/opinion",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 34590,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alaraby.co.uk/rss/opinion",
+   "last_item": "2026-10-08"
+  },
+  "category": "opinion"
+ },
+ "https://www.alittihad.info/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Ittihad (Haifa)",
+   "url": "https://alittihad.info/feed/",
+   "site": "alittihad.info",
+   "homepage": "https://www.alittihad.info/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.alittihad.info/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "news"
+ },
  "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8": {
   "status": "ok",
   "note": "",
@@ -9421,6 +9845,270 @@
    "last_item": "2026-10-06"
   },
   "category": "news"
+ },
+ "https://www.aljazeera.net/aljazeerarss/culture": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Culture",
+   "url": "https://www.aljazeera.net/aljazeerarss/culture",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/culture",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/culture",
+   "last_item": "2026-10-08"
+  },
+  "category": "culture"
+ },
+ "https://www.aljazeera.net/aljazeerarss/economy": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Economy",
+   "url": "https://www.aljazeera.net/aljazeerarss/economy",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/ebusiness",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/economy",
+   "last_item": "2026-10-08"
+  },
+  "category": "business"
+ },
+ "https://www.aljazeera.net/aljazeerarss/health": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Health",
+   "url": "https://www.aljazeera.net/aljazeerarss/health",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/health",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/health",
+   "last_item": "2026-10-08"
+  },
+  "category": "health"
+ },
+ "https://www.aljazeera.net/aljazeerarss/music": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Music",
+   "url": "https://www.aljazeera.net/aljazeerarss/music",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/culture/music",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/music",
+   "last_item": "2026-10-08"
+  },
+  "category": "music"
+ },
+ "https://www.aljazeera.net/aljazeerarss/opinion": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Opinion",
+   "url": "https://www.aljazeera.net/aljazeerarss/opinion",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/opinions",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/opinion",
+   "last_item": "2026-10-08"
+  },
+  "category": "opinion"
+ },
+ "https://www.aljazeera.net/aljazeerarss/podcast": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Podcasts",
+   "url": "https://www.aljazeera.net/aljazeerarss/podcast",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/podcasts",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/podcast",
+   "last_item": "2026-10-08"
+  },
+  "category": "podcasts"
+ },
+ "https://www.aljazeera.net/aljazeerarss/science": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Science",
+   "url": "https://www.aljazeera.net/aljazeerarss/science",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/science",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/science",
+   "last_item": "2026-10-08"
+  },
+  "category": "science"
+ },
+ "https://www.aljazeera.net/aljazeerarss/sport": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Sports",
+   "url": "https://www.aljazeera.net/aljazeerarss/sport",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/sport",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/sport",
+   "last_item": "2026-10-08"
+  },
+  "category": "sports"
+ },
+ "https://www.aljazeera.net/aljazeerarss/technology": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Technology",
+   "url": "https://www.aljazeera.net/aljazeerarss/technology",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/technology",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/technology",
+   "last_item": "2026-10-08"
+  },
+  "category": "digital-culture"
+ },
+ "https://www.aljazeera.net/aljazeerarss/travel": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al Jazeera Arabic Travel",
+   "url": "https://www.aljazeera.net/aljazeerarss/travel",
+   "site": "aljazeera.net",
+   "homepage": "https://www.aljazeera.net/travel",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 3801,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.aljazeera.net/aljazeerarss/travel",
+   "last_item": "2026-10-08"
+  },
+  "category": "travel"
+ },
+ "https://www.almuraba.net/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Al-Muraba",
+   "url": "https://www.almuraba.net/feed/",
+   "site": "almuraba.net",
+   "homepage": "https://www.almuraba.net/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 333200,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.almuraba.net/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "auto"
  },
  "https://www.alquds.co.uk/feed/": {
   "status": "ok",
@@ -9568,6 +10256,54 @@
   },
   "category": "real-estate"
  },
+ "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Argaam",
+   "url": "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523",
+   "site": "argaam.com",
+   "homepage": "https://www.argaam.com/ar",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 36439,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523",
+   "last_item": "2026-10-08"
+  },
+  "category": "business"
+ },
+ "https://www.arriyadiyah.com/rss": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Arriyadiyah",
+   "url": "https://arriyadiyah.com/rss",
+   "site": "arriyadiyah.com",
+   "homepage": "https://www.arriyadiyah.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 139027,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.arriyadiyah.com/rss",
+   "last_item": "2026-10-08"
+  },
+  "category": "sports"
+ },
  "https://www.asriran.com/fa/rss/allnews": {
   "status": "ok",
   "note": "",
@@ -9593,6 +10329,30 @@
   },
   "category": "news"
  },
+ "https://www.assayyarat.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Assayyarat",
+   "url": "https://www.assayyarat.com/feed/",
+   "site": "assayyarat.com",
+   "homepage": "https://www.assayyarat.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 128595,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.assayyarat.com/feed/",
+   "last_item": "2026-10-07"
+  },
+  "category": "auto"
+ },
  "https://www.atlasobscura.com/feeds/latest": {
   "status": "ok",
   "note": "",
@@ -9616,6 +10376,28 @@
    "last_item": "2026-10-02"
   },
   "category": "travel"
+ },
+ "https://www.autoalarab.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Auto Al Arab",
+   "url": "https://www.autoalarab.com/feed/",
+   "site": "autoalarab.com",
+   "homepage": "https://www.autoalarab.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.autoalarab.com/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "auto"
  },
  "https://www.autocar.co.uk/rss": {
   "status": "ok",
@@ -10594,6 +11376,30 @@
    "last_item": "2026-10-03"
   },
   "category": "tech"
+ },
+ "https://www.dubicars.com/news/ar/feed": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Dubicars News (Arabic)",
+   "url": "https://www.dubicars.com/news/ar/feed",
+   "site": "dubicars.com",
+   "homepage": "https://www.dubicars.com/news/ar",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 59090,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.dubicars.com/news/ar/feed",
+   "last_item": "2026-10-08"
+  },
+  "category": "auto"
  },
  "https://www.eaglenews.ph/feed/": {
   "status": "stale",
@@ -12688,6 +13494,28 @@
   },
   "category": "news"
  },
+ "https://www.mtbakhcom.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Mtbakh",
+   "url": "https://www.mtbakhcom.com/feed/",
+   "site": "mtbakhcom.com",
+   "homepage": "https://www.mtbakhcom.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.mtbakhcom.com/feed/",
+   "last_item": "2026-10-08"
+  },
+  "category": "food"
+ },
  "https://www.musicbusinessworldwide.com/feed/": {
   "status": "ok",
   "note": "",
@@ -13502,6 +14330,28 @@
    "last_item": "2026-10-03"
   },
   "category": "business"
+ },
+ "https://www.propertynewsarabic.com/feed/": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Property News Arabic",
+   "url": "https://www.propertynewsarabic.com/feed/",
+   "site": "propertynewsarabic.com",
+   "homepage": "https://www.propertynewsarabic.com/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": null,
+    "source": []
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.propertynewsarabic.com/feed/",
+   "last_item": "2026-10-02"
+  },
+  "category": "real-estate"
  },
  "https://www.prothomalo.com/feed/": {
   "status": "ok",
@@ -14793,6 +15643,30 @@
    "last_item": "2026-10-03"
   },
   "category": "business"
+ },
+ "https://www.sayidaty.net/rss.xml": {
+  "status": "ok",
+  "note": "",
+  "fails": 0,
+  "last_ok": "2026-10-08",
+  "entry": {
+   "title": "Sayidaty",
+   "url": "https://www.sayidaty.net/rss.xml",
+   "site": "sayidaty.net",
+   "homepage": "https://www.sayidaty.net/",
+   "language": "ar",
+   "popularity": {
+    "feedly_subscribers": null,
+    "tranco_rank": 48126,
+    "source": [
+     "tranco"
+    ]
+   },
+   "upstream_category": "Curated",
+   "source_url": "https://www.sayidaty.net/rss.xml",
+   "last_item": "2026-10-08"
+  },
+  "category": "fashion"
  },
  "https://www.sciencedaily.com/rss/all.xml": {
   "status": "ok",

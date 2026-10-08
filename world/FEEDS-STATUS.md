@@ -1,6 +1,6 @@
 # World feeds status - 2026-10-06
 
-Candidates (upstream + curated): 887 unique feeds. In catalog: 659. Rejected: 228.
+Candidates (upstream + curated): 924 unique feeds. In catalog: 696. Rejected: 228..
 
 ## Dead (HTTP error, not a feed, or no items) - 82
 

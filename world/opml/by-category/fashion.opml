@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Fashion &amp; Lifestyle</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -19,6 +19,7 @@
       <outline type="rss" text="POPSUGAR Fashion" title="POPSUGAR Fashion" xmlUrl="https://www.popsugar.com/fashion/feed" htmlUrl="https://www.popsugar.com/fashion/"/>
       <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/beauty/rss.xml" htmlUrl="https://www.refinery29.com/beauty"/>
       <outline type="rss" text="Refinery29" title="Refinery29" xmlUrl="https://www.refinery29.com/fashion/rss.xml" htmlUrl="https://www.refinery29.com/fashion"/>
+      <outline type="rss" text="Sayidaty" title="Sayidaty" xmlUrl="https://www.sayidaty.net/rss.xml" htmlUrl="https://www.sayidaty.net/"/>
       <outline type="rss" text="The Beauty Look Book" title="The Beauty Look Book" xmlUrl="https://thebeautylookbook.com/feed" htmlUrl="https://thebeautylookbook.com/"/>
     </outline>
   </body>

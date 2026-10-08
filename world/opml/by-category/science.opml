@@ -2,17 +2,19 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Science &amp; Environment</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Science &amp; Environment" title="Science &amp; Environment">
       <outline type="rss" text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" htmlUrl="https://www.reddit.com/r/space/?format=xml"/>
+      <outline type="rss" text="Al Jazeera Arabic Science" title="Al Jazeera Arabic Science" xmlUrl="https://www.aljazeera.net/aljazeerarss/science" htmlUrl="https://www.aljazeera.net/science"/>
       <outline type="rss" text="BBC Earth" title="BBC Earth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg" htmlUrl="https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg"/>
       <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment"/>
       <outline type="rss" text="BLOG POSTS – Mark Avery" title="BLOG POSTS – Mark Avery" xmlUrl="https://markavery.info/blog/feed/" htmlUrl="https://markavery.info"/>
       <outline type="rss" text="Blog | Nature | PBS" title="Blog | Nature | PBS" xmlUrl="https://www.pbs.org/wnet/nature/blog/feed/" htmlUrl="https://www.pbs.org/wnet/nature/blog/"/>
       <outline type="rss" text="Conservation International" title="Conservation International" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg" htmlUrl="https://www.youtube.com/channel/UCam5sCp6mzGBcn8ZBB2RBJg"/>
+      <outline type="rss" text="DW Arabic Science" title="DW Arabic Science" xmlUrl="https://rss.dw.com/rdf/rss-ar-sci" htmlUrl="https://www.dw.com/ar"/>
       <outline type="rss" text="EarthPorn: Amazing images of light and landscape" title="EarthPorn: Amazing images of light and landscape" xmlUrl="https://www.reddit.com/r/EarthPorn/.rss" htmlUrl="https://www.reddit.com/r/EarthPorn/"/>
       <outline type="rss" text="Elementy" title="Elementy" xmlUrl="https://elementy.ru/rss/news" htmlUrl="https://elementy.ru/"/>
       <outline type="rss" text="Environment" title="Environment" xmlUrl="https://www.reddit.com/r/environment/.rss" htmlUrl="https://www.reddit.com/r/environment/"/>

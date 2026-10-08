@@ -2,10 +2,14 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Opinion &amp; Personal Columns</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="Opinion &amp; Personal Columns" title="Opinion &amp; Personal Columns"/>
+    <outline text="Opinion &amp; Personal Columns" title="Opinion &amp; Personal Columns">
+      <outline type="rss" text="Al Jazeera Arabic Opinion" title="Al Jazeera Arabic Opinion" xmlUrl="https://www.aljazeera.net/aljazeerarss/opinion" htmlUrl="https://www.aljazeera.net/opinions"/>
+      <outline type="rss" text="Al-Araby Opinion" title="Al-Araby Opinion" xmlUrl="https://www.alaraby.co.uk/rss/opinion" htmlUrl="https://www.alaraby.co.uk/opinion"/>
+      <outline type="rss" text="Asharq Al-Awsat Opinion" title="Asharq Al-Awsat Opinion" xmlUrl="https://aawsat.com/feed/opinion" htmlUrl="https://aawsat.com/opinion"/>
+    </outline>
   </body>
 </opml>

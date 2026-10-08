@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Travel &amp; Leisure</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Travel &amp; Leisure" title="Travel &amp; Leisure">
       <outline type="rss" text="Adventure.com" title="Adventure.com" xmlUrl="https://adventure.com/feed/" htmlUrl="https://adventure.com/"/>
+      <outline type="rss" text="Al Jazeera Arabic Travel" title="Al Jazeera Arabic Travel" xmlUrl="https://www.aljazeera.net/aljazeerarss/travel" htmlUrl="https://www.aljazeera.net/travel"/>
       <outline type="rss" text="Atlas Obscura - Latest Articles and Places" title="Atlas Obscura - Latest Articles and Places" xmlUrl="https://www.atlasobscura.com/feeds/latest" htmlUrl="https://www.atlasobscura.com"/>
       <outline type="rss" text="Everything Everywhere" title="Everything Everywhere" xmlUrl="http://feeds2.feedburner.com/EverythingEverywhere/" htmlUrl="https://everything-everywhere.com"/>
       <outline type="rss" text="NYT &gt; Travel" title="NYT &gt; Travel" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml" htmlUrl="https://www.nytimes.com/section/travel"/>

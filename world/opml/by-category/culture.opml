@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Culture &amp; Entertainment</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -11,6 +11,8 @@
       <outline type="rss" text="500px" title="500px" xmlUrl="https://iso.500px.com/feed/" htmlUrl="https://iso.500px.com"/>
       <outline type="rss" text="A year of reading the world" title="A year of reading the world" xmlUrl="https://ayearofreadingtheworld.com/feed/" htmlUrl="https://ayearofreadingtheworld.com"/>
       <outline type="rss" text="Ain&#x27;t It Cool News Feed" title="Ain&#x27;t It Cool News Feed" xmlUrl="https://www.aintitcool.com/node/feed/" htmlUrl="http://www.aintitcool.com/"/>
+      <outline type="rss" text="Al Jazeera Arabic Culture" title="Al Jazeera Arabic Culture" xmlUrl="https://www.aljazeera.net/aljazeerarss/culture" htmlUrl="https://www.aljazeera.net/culture"/>
+      <outline type="rss" text="Al-Araby Culture" title="Al-Araby Culture" xmlUrl="https://www.alaraby.co.uk/rss/culture" htmlUrl="https://www.alaraby.co.uk/culture"/>
       <outline type="rss" text="BOOK RIOT" title="BOOK RIOT" xmlUrl="https://bookriot.com/feed/" htmlUrl="https://bookriot.com/"/>
       <outline type="rss" text="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" title="ComingSoon.net – Movie Trailers, TV &amp; Streaming News, and More" xmlUrl="https://www.comingsoon.net/feed" htmlUrl="https://www.comingsoon.net/"/>
       <outline type="rss" text="Deadline" title="Deadline" xmlUrl="https://deadline.com/feed/" htmlUrl="https://deadline.com"/>
@@ -23,6 +25,7 @@
       <outline type="rss" text="Movies" title="Movies" xmlUrl="https://bleedingcool.com/movies/feed/" htmlUrl="https://bleedingcool.com"/>
       <outline type="rss" text="NewInBooks" title="NewInBooks" xmlUrl="https://www.newinbooks.com/feed/" htmlUrl="https://www.newinbooks.com"/>
       <outline type="rss" text="PetaPixel" title="PetaPixel" xmlUrl="https://petapixel.com/feed/" htmlUrl="https://petapixel.com/"/>
+      <outline type="rss" text="Raseef22" title="Raseef22" xmlUrl="https://raseef22.net/feed" htmlUrl="https://raseef22.net/"/>
       <outline type="rss" text="So many books, so little time" title="So many books, so little time" xmlUrl="https://www.reddit.com/r/books/.rss" htmlUrl="https://www.reddit.com/r/books/"/>
       <outline type="rss" text="Strobist" title="Strobist" xmlUrl="http://feeds.feedburner.com/blogspot/WOBq" htmlUrl="http://strobist.blogspot.com/"/>
       <outline type="rss" text="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" title="TVLine - All TV. No Interference. TV News &amp; Spoilers by TVLine" xmlUrl="https://www.tvline.com/feed/" htmlUrl="https://www.tvline.com/"/>

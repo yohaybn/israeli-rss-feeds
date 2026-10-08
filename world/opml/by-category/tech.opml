@@ -2,14 +2,13 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Technology &amp; Gadgets</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Technology &amp; Gadgets" title="Technology &amp; Gadgets">
       <outline type="rss" text="3DNews" title="3DNews" xmlUrl="https://3dnews.ru/news/rss/" htmlUrl="https://3dnews.ru/"/>
       <outline type="rss" text="9to5Mac" title="9to5Mac" xmlUrl="https://9to5mac.com/feed/" htmlUrl="https://9to5mac.com/"/>
-      <outline type="rss" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com"/>
       <outline type="rss" text="Aitnews" title="Aitnews" xmlUrl="https://aitnews.com/feed/" htmlUrl="https://aitnews.com/"/>
       <outline type="rss" text="Alberto De Bortoli" title="Alberto De Bortoli" xmlUrl="https://albertodebortoli.com/rss/" htmlUrl="https://albertodebortoli.com/"/>
       <outline type="rss" text="Android" title="Android" xmlUrl="https://blog.google/products/android/rss" htmlUrl="https://blog.google/products-and-platforms/platforms/android/"/>
@@ -79,6 +78,7 @@
       <outline type="rss" text="r/iPhone" title="r/iPhone" xmlUrl="https://www.reddit.com/r/iphone/.rss" htmlUrl="https://www.reddit.com/r/iphone/"/>
       <outline type="rss" text="ReadWrite" title="ReadWrite" xmlUrl="https://readwrite.com/feed/" htmlUrl="https://readwrite.com/"/>
       <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/"/>
+      <outline type="rss" text="Scott Hanselman&#x27;s Blog" title="Scott Hanselman&#x27;s Blog" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="https://www.hanselman.com/blog/"/>
       <outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
       <outline type="rss" text="Security Affairs" title="Security Affairs" xmlUrl="http://securityaffairs.co/wordpress/feed" htmlUrl="https://securityaffairs.com/"/>
       <outline type="rss" text="Sink In - Tech Learnings" title="Sink In - Tech Learnings" xmlUrl="https://gosink.in/rss/" htmlUrl="https://gosink.in/"/>

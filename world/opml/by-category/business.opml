@@ -2,12 +2,15 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Economy &amp; Business</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Economy &amp; Business" title="Economy &amp; Business">
+      <outline type="rss" text="Al Borsa News" title="Al Borsa News" xmlUrl="https://alborsaanews.com/rss" htmlUrl="https://alborsaanews.com/"/>
+      <outline type="rss" text="Al Jazeera Arabic Economy" title="Al Jazeera Arabic Economy" xmlUrl="https://www.aljazeera.net/aljazeerarss/economy" htmlUrl="https://www.aljazeera.net/ebusiness"/>
       <outline type="rss" text="All News" title="All News" xmlUrl="https://www.investing.com/rss/news.rss" htmlUrl="https://www.investing.com"/>
+      <outline type="rss" text="Argaam" title="Argaam" xmlUrl="https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523" htmlUrl="https://www.argaam.com/ar"/>
       <outline type="rss" text="Bitcoin - The Currency of the Internet" title="Bitcoin - The Currency of the Internet" xmlUrl="https://www.reddit.com/r/Bitcoin/.rss" htmlUrl="https://www.reddit.com/r/Bitcoin/"/>
       <outline type="rss" text="Bitcoin News" title="Bitcoin News" xmlUrl="https://news.bitcoin.com/feed/" htmlUrl="https://news.bitcoin.com/"/>
       <outline type="rss" text="Bloomberg Originals" title="Bloomberg Originals" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=Bloomberg" htmlUrl="https://www.youtube.com/channel/UCUMZ7gohGI9HcU9VNsr2FJQ"/>
@@ -51,8 +54,7 @@
       <outline type="rss" text="Small Business Trends" title="Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" htmlUrl="https://smallbiztrends.com/"/>
       <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="https://steveblank.com/feed/" htmlUrl="https://steveblank.com"/>
       <outline type="rss" text="The Bad Crypto Podcast" title="The Bad Crypto Podcast" xmlUrl="https://badcryptopodcast.com/feed/" htmlUrl="https://badcryptopodcast.com/"/>
-      <outline type="rss" text="The College Investor" title="The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" htmlUrl="https://thecollegeinvestor.com"/>
-      <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed/" htmlUrl="https://www.intercom.com/blog/"/>
+      <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed" htmlUrl="https://www.intercom.com/blog"/>
       <outline type="rss" text="The Market&#x27;s Compass Technical View" title="The Market&#x27;s Compass Technical View" xmlUrl="https://themarketscompass.substack.com/feed" htmlUrl="https://themarketscompass.substack.com"/>
       <outline type="rss" text="US Top News and Analysis" title="US Top News and Analysis" xmlUrl="https://www.cnbc.com/id/100003114/device/rss/rss.html" htmlUrl="https://www.cnbc.com/us-top-news-and-analysis/"/>
       <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl="https://venturebeat.com/feed/"/>

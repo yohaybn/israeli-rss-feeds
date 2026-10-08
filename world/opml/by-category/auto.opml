@@ -2,15 +2,20 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Cars &amp; Transportation</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Cars &amp; Transportation" title="Cars &amp; Transportation">
+      <outline type="rss" text="Al-Muraba" title="Al-Muraba" xmlUrl="https://www.almuraba.net/feed/" htmlUrl="https://www.almuraba.net/"/>
+      <outline type="rss" text="ArabGT" title="ArabGT" xmlUrl="https://arabgt.com/feed/" htmlUrl="https://arabgt.com/"/>
+      <outline type="rss" text="Assayyarat" title="Assayyarat" xmlUrl="https://www.assayyarat.com/feed/" htmlUrl="https://www.assayyarat.com/"/>
+      <outline type="rss" text="Auto Al Arab" title="Auto Al Arab" xmlUrl="https://www.autoalarab.com/feed/" htmlUrl="https://www.autoalarab.com/"/>
       <outline type="rss" text="Autocar RSS Feed" title="Autocar RSS Feed" xmlUrl="https://www.autocar.co.uk/rss" htmlUrl="https://www.autocar.co.uk/"/>
       <outline type="rss" text="BikeEXIF" title="BikeEXIF" xmlUrl="https://www.bikeexif.com/feed" htmlUrl="https://www.bikeexif.com"/>
       <outline type="rss" text="BMWBLOG" title="BMWBLOG" xmlUrl="https://feeds.feedburner.com/BmwBlog" htmlUrl="https://www.bmwblog.com/"/>
       <outline type="rss" text="Carscoops" title="Carscoops" xmlUrl="https://www.carscoops.com/feed/" htmlUrl="https://www.carscoops.com/"/>
+      <outline type="rss" text="Dubicars News (Arabic)" title="Dubicars News (Arabic)" xmlUrl="https://www.dubicars.com/news/ar/feed" htmlUrl="https://www.dubicars.com/news/ar"/>
       <outline type="rss" text="Formula 1" title="Formula 1" xmlUrl="https://www.reddit.com/r/formula1/.rss" htmlUrl="https://www.reddit.com/r/formula1/"/>
       <outline type="rss" text="Jalopnik - Obsessed with the culture of cars" title="Jalopnik - Obsessed with the culture of cars" xmlUrl="https://jalopnik.com/rss" htmlUrl="https://www.jalopnik.com/"/>
       <outline type="rss" text="Latest Content - Car and Driver" title="Latest Content - Car and Driver" xmlUrl="https://www.caranddriver.com/rss/all.xml/" htmlUrl="https://www.caranddriver.com/"/>

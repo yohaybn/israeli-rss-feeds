@@ -2,10 +2,13 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Health &amp; Medicine</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
-    <outline text="Health &amp; Medicine" title="Health &amp; Medicine"/>
+    <outline text="Health &amp; Medicine" title="Health &amp; Medicine">
+      <outline type="rss" text="Al Jazeera Arabic Health" title="Al Jazeera Arabic Health" xmlUrl="https://www.aljazeera.net/aljazeerarss/health" htmlUrl="https://www.aljazeera.net/health"/>
+      <outline type="rss" text="Altibbi" title="Altibbi" xmlUrl="https://altibbi.com/rss/editorial" htmlUrl="https://altibbi.com/"/>
+    </outline>
   </body>
 </opml>

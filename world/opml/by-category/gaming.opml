@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Gaming</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -21,6 +21,7 @@
       <outline type="rss" text="For the budding patzer" title="For the budding patzer" xmlUrl="https://www.reddit.com/r/chessbeginners/.rss" htmlUrl="https://www.reddit.com/r/chessbeginners/"/>
       <outline type="rss" text="GameSpot - All Content" title="GameSpot - All Content" xmlUrl="https://www.gamespot.com/feeds/mashup/" htmlUrl="https://www.gamespot.com/feeds/mashup"/>
       <outline type="rss" text="IGN Articles" title="IGN Articles" xmlUrl="http://feeds.ign.com/ign/all" htmlUrl="https://www.ign.com/articles"/>
+      <outline type="rss" text="IGN Middle East (Arabic)" title="IGN Middle East (Arabic)" xmlUrl="https://me.ign.com/ar/feed.xml" htmlUrl="https://me.ign.com/ar"/>
       <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed/" htmlUrl="https://indiegamesplus.com/"/>
       <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" htmlUrl="https://kotaku.com/"/>
       <outline type="rss" text="Lichess&#x27;s Blog" title="Lichess&#x27;s Blog" xmlUrl="https://lichess.org/blog.atom" htmlUrl="https://lichess.org/@/Lichess/blog"/>

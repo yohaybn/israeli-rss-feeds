@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Digital Culture &amp; Web</title>
-    <dateCreated>2026-10-06</dateCreated>
+    <dateCreated>2026-10-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -10,6 +10,7 @@
       <outline type="rss" text="/r/Memes the original since 2008" title="/r/Memes the original since 2008" xmlUrl="https://www.reddit.com/r/memes/.rss" htmlUrl="https://www.reddit.com/r/memes/"/>
       <outline type="rss" text="A sub for History Memes" title="A sub for History Memes" xmlUrl="https://www.reddit.com/r/historymemes/.rss" htmlUrl="https://www.reddit.com/r/historymemes/"/>
       <outline type="rss" text="Advice Animals" title="Advice Animals" xmlUrl="https://www.reddit.com/r/AdviceAnimals/.rss" htmlUrl="https://www.reddit.com/r/AdviceAnimals/"/>
+      <outline type="rss" text="Al Jazeera Arabic Technology" title="Al Jazeera Arabic Technology" xmlUrl="https://www.aljazeera.net/aljazeerarss/technology" htmlUrl="https://www.aljazeera.net/technology"/>
       <outline type="rss" text="dankmemes" title="dankmemes" xmlUrl="https://www.reddit.com/r/dankmemes/.rss" htmlUrl="https://www.reddit.com/r/dankmemes/"/>
       <outline type="rss" text="FAIL Blog" title="FAIL Blog" xmlUrl="http://feeds.feedburner.com/failblog" htmlUrl="https://failblog.cheezburger.com/"/>
       <outline type="rss" text="I Can Has Cheezburger?" title="I Can Has Cheezburger?" xmlUrl="http://feeds.feedburner.com/icanhascheezburger" htmlUrl="https://icanhas.cheezburger.com/"/>

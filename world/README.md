@@ -37,38 +37,41 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**659 פידים מאומתים ב-16 מתוך 21 קטגוריות** (עודכן 2026-10-06; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**698 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-08; 227 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 195 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| חדשות ואקטואליה (News & Current Affairs) | 198 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
 | טכנולוגיה וגאדג'טים (Technology & Gadgets) | 99 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
-| כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
-| ספורט (Sports) | 32 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
-| תרבות ופנאי (Culture & Entertainment) | 21 | Movies, Television, Books, History, Photography |
-| בריאות ורפואה (Health & Medicine) | 0 | - |
-| מדע וסביבה (Science & Environment) | 44 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
-| מוזיקה (Music) | 3 | Music |
-| גיימינג (Gaming) | 26 | Gaming, Chess |
-| אוכל וקולינריה (Food & Cooking) | 12 | Food |
-| תיירות ופנאי (Travel & Leisure) | 9 | Travel |
-| רכב ותחבורה (Cars & Transportation) | 9 | Cars |
-| אופנה ולייף סטייל (Fashion & Lifestyle) | 13 | Fashion, Beauty |
-| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 30 | Interior design, Architecture, DIY |
+| כלכלה ועסקים (Economy & Business) | 55 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
+| ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
+| תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
+| בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
+| מדע וסביבה (Science & Environment) | 47 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
+| מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
+| אוכל וקולינריה (Food & Cooking) | 13 | Food, רשימה ידנית (curated.json) |
+| תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
+| רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
+| אופנה ולייף סטייל (Fashion & Lifestyle) | 14 | Fashion, Beauty, רשימה ידנית (curated.json) |
+| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
-| דעה וטורים אישיים (Opinion & Personal Columns) | 0 | - |
-| פודקאסטים (Podcasts) | 68 | כל פיד עם פרקי אודיו, מכל נושא |
+| דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 72 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
-| תרבות דיגיטלית ורשת (Digital Culture & Web) | 23 | Funny, Memes |
-| בינה מלאכותית (Artificial Intelligence) | 22 | רשימה ידנית (curated.json) |
+| תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
+| בינה מלאכותית (Artificial Intelligence) | 24 | רשימה ידנית (curated.json) |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
 | [Al Jazeera Arabic](https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8) | aljazeera.net | ar | Curated |
+| [Al-Araby Al-Jadeed](https://www.alaraby.co.uk/rss.xml) | alaraby.co.uk | ar | Curated |
+| [Al-Ittihad (Haifa)](https://alittihad.info/feed/) | alittihad.info | ar | Curated |
 | [Al-Quds Al-Arabi](https://www.alquds.co.uk/feed/) | alquds.co.uk | ar | Curated |
+| [Asharq Al-Awsat](https://aawsat.com/feed) | aawsat.com | ar | Curated |
 | [BBC Arabic](https://feeds.bbci.co.uk/arabic/rss.xml) | bbc.com | ar | Curated |
 | [BBC News](https://feeds.bbci.co.uk/news/world/rss.xml) | bbc.co.uk | en | News |
 | [BBC Russian](https://feeds.bbci.co.uk/russian/rss.xml) | bbc.com | ru | Curated |
@@ -80,6 +83,7 @@
 | [Independent Arabia](https://www.independentarabia.com/rss.xml) | independentarabia.com | ar | Curated |
 | [Interfax](https://www.interfax.ru/rss.asp) | interfax.ru | ru | Curated |
 | [International: Top News And Analysis](https://www.cnbc.com/id/100727362/device/rss/rss.html) | cnbc.com | en | News |
+| [Meduza](https://meduza.io/rss/all) | meduza.io | ru | Curated |
 | [NDTV News Search Records Found 1000](http://feeds.feedburner.com/ndtvnews-world-news) | ndtv.com | en | News |
 | [Newsru.co.il (Russian-language Israel news)](https://www.newsru.co.il/il/www/news/all) | newsru.co.il | ru | Curated |
 | [Novaya Gazeta Europe](https://novayagazeta.eu/feed/rss) | novayagazeta.eu | ru | Curated |
@@ -232,7 +236,6 @@
 | [RMF24.pl](https://www.rmf24.pl/feed) | rmf24.pl | pl | Country: Poland |
 | [www.wirtualnemedia.pl](https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml) | wirtualnemedia.pl | pl | Country: Poland |
 | [Lenta.ru : Новости](https://lenta.ru/rss) | lenta.ru | ru | Country: Russia |
-| [Meduza.io](https://meduza.io/rss/all) | meduza.io | ru | Country: Russia |
 | [PravdaReport](https://www.pravdareport.com/export.xml) | english.pravda.ru | en | Country: Russia |
 | [RT - Daily news](https://www.rt.com/rss/) | rt.com | en | Country: Russia |
 | [TASS](https://tass.com/rss/v2.xml) | tass.com | en | Country: Russia |
@@ -269,7 +272,6 @@
 |---|---|---|---|
 | [3DNews](https://3dnews.ru/news/rss/) | 3dnews.ru | ru | Curated |
 | [9to5Mac](https://9to5mac.com/feed/) | 9to5mac.com | en | Apple |
-| [A List Apart: The Full Feed](https://alistapart.com/main/feed/) | alistapart.com | en | Web Development |
 | [Aitnews](https://aitnews.com/feed/) | aitnews.com | ar | Curated |
 | [Alberto De Bortoli](https://albertodebortoli.com/rss/) | albertodebortoli.com | en | iOS Development |
 | [Android](https://blog.google/products/android/rss) | blog.google | en | Android |
@@ -339,6 +341,7 @@
 | [r/iPhone](https://www.reddit.com/r/iphone/.rss) | reddit.com | en | Apple |
 | [ReadWrite](https://readwrite.com/feed/) | readwrite.com | en | Tech |
 | [Schneier on Security](http://www.schneier.com/blog/index.rdf) | schneier.com | en | Cyber security |
+| [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman) | hanselman.com | en | Programming |
 | [Scripting News](http://scripting.com/rss.xml) | scripting.com | en | Programming |
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
 | [Sink In - Tech Learnings](https://gosink.in/rss/) | gosink.in | en | Web Development |
@@ -371,7 +374,10 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Al Borsa News](https://alborsaanews.com/rss) | alborsaanews.com | ar | Curated |
+| [Al Jazeera Arabic Economy](https://www.aljazeera.net/aljazeerarss/economy) | aljazeera.net | ar | Curated |
 | [All News](https://www.investing.com/rss/news.rss) | investing.com | en | Business & Economy |
+| [Argaam](https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523) | argaam.com | ar | Curated |
 | [Bitcoin - The Currency of the Internet](https://www.reddit.com/r/Bitcoin/.rss) | reddit.com | en | Cryptocurrency |
 | [Bitcoin News](https://news.bitcoin.com/feed/) | news.bitcoin.com | en | Cryptocurrency |
 | [Bloomberg Originals](https://www.youtube.com/feeds/videos.xml?user=Bloomberg) | youtube.com | en | Business & Economy |
@@ -415,8 +421,7 @@
 | [Small Business Trends](https://feeds2.feedburner.com/SmallBusinessTrends) | smallbiztrends.com | en | Startups |
 | [Steve Blank](https://steveblank.com/feed/) | steveblank.com | en | Startups |
 | [The Bad Crypto Podcast](https://badcryptopodcast.com/feed/) | badcryptopodcast.com | en | Cryptocurrency |
-| [The College Investor](https://thecollegeinvestor.com/feed/) | thecollegeinvestor.com | en | Personal finance |
-| [The Intercom Blog](https://www.intercom.com/blog/feed/) | intercom.com | en | Startups |
+| [The Intercom Blog](https://www.intercom.com/blog/feed) | intercom.com | en | Startups |
 | [The Market's Compass Technical View](https://themarketscompass.substack.com/feed) | themarketscompass.substack.com | en | Cryptocurrency |
 | [US Top News and Analysis](https://www.cnbc.com/id/100003114/device/rss/rss.html) | cnbc.com | en | Business & Economy |
 | [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF) | venturebeat.com | en | Startups |
@@ -429,6 +434,9 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Al Jazeera Arabic Sports](https://www.aljazeera.net/aljazeerarss/sport) | aljazeera.net | ar | Curated |
+| [Arriyadiyah](https://arriyadiyah.com/rss) | arriyadiyah.com | ar | Curated |
+| [BBC Arabic Sports](https://feeds.bbci.co.uk/arabic/sports/rss.xml) | bbc.com | ar | Curated |
 | [BBC Sport](https://feeds.bbci.co.uk/sport/cricket/rss.xml) | bbc.co.uk | en | Cricket |
 | [BBC Sport](https://feeds.bbci.co.uk/sport/football/rss.xml) | bbc.co.uk | en | Football |
 | [BBC Sport](https://feeds.bbci.co.uk/sport/rss.xml) | bbc.co.uk | en | Sports |
@@ -445,6 +453,7 @@
 | [Football - The People's Sport](https://www.reddit.com/r/football/.rss?format=xml) | reddit.com | en | Football |
 | [Football News, Football Scores, Premier League, La Liga, ISL \| The Hindu](https://www.thehindu.com/sport/football/feeder/default.rss) | thehindu.com | en | Football |
 | [Football \| The Guardian](https://www.theguardian.com/football/rss) | theguardian.com | en | Football |
+| [Kooora](https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick) | kooora.com | ar | Curated |
 | [NDTV News Search Records Found 1000](http://feeds.feedburner.com/ndtvsports-cricket) | ndtv.com | en | Cricket |
 | [NYT > Sports > Soccer](https://rss.nytimes.com/services/xml/rss/nyt/Soccer.xml) | nytimes.com | en | Football |
 | [NYT > Sports > Tennis](https://rss.nytimes.com/services/xml/rss/nyt/Tennis.xml) | nytimes.com | en | Tennis |
@@ -470,6 +479,8 @@
 | [500px](https://iso.500px.com/feed/) | iso.500px.com | en | Photography |
 | [A year of reading the world](https://ayearofreadingtheworld.com/feed/) | ayearofreadingtheworld.com | en | Books |
 | [Ain't It Cool News Feed](https://www.aintitcool.com/node/feed/) | aintitcool.com | en | Movies |
+| [Al Jazeera Arabic Culture](https://www.aljazeera.net/aljazeerarss/culture) | aljazeera.net | ar | Curated |
+| [Al-Araby Culture](https://www.alaraby.co.uk/rss/culture) | alaraby.co.uk | ar | Curated |
 | [BOOK RIOT](https://bookriot.com/feed/) | bookriot.com | en | Books |
 | [ComingSoon.net – Movie Trailers, TV & Streaming News, and More](https://www.comingsoon.net/feed) | comingsoon.net | en | Movies |
 | [Deadline](https://deadline.com/feed/) | deadline.com | en | Movies |
@@ -482,28 +493,39 @@
 | [Movies](https://bleedingcool.com/movies/feed/) | bleedingcool.com | en | Movies |
 | [NewInBooks](https://www.newinbooks.com/feed/) | newinbooks.com | en | Books |
 | [PetaPixel](https://petapixel.com/feed/) | petapixel.com | en | Photography |
+| [Raseef22](https://raseef22.net/feed) | raseef22.net | ar | Curated |
 | [So many books, so little time](https://www.reddit.com/r/books/.rss) | reddit.com | en | Books |
 | [Strobist](http://feeds.feedburner.com/blogspot/WOBq) | strobist.blogspot.com | en | Photography |
 | [TVLine - All TV. No Interference. TV News & Spoilers by TVLine](https://www.tvline.com/feed/) | tvline.com | en | Television |
 | [Variety](https://variety.com/feed/) | variety.com | en | Movies |
 | [📺Television News and Discussion](https://www.reddit.com/r/television/.rss) | reddit.com | en | Television |
 
+### בריאות ורפואה (Health & Medicine)
+
+| פיד | אתר | שפה | מקור |
+|---|---|---|---|
+| [Al Jazeera Arabic Health](https://www.aljazeera.net/aljazeerarss/health) | aljazeera.net | ar | Curated |
+| [Altibbi](https://altibbi.com/rss/editorial) | altibbi.com | ar | Curated |
+
 ### מדע וסביבה (Science & Environment)
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
 | [/r/space: news, articles and discussion](https://www.reddit.com/r/space/.rss?format=xml) | reddit.com | en | Space |
+| [Al Jazeera Arabic Science](https://www.aljazeera.net/aljazeerarss/science) | aljazeera.net | ar | Curated |
 | [BBC Earth](https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg) | youtube.com | en | Nature |
 | [BBC News](https://feeds.bbci.co.uk/news/science_and_environment/rss.xml) | bbc.co.uk | en | Science |
 | [BLOG POSTS – Mark Avery](https://markavery.info/blog/feed/) | markavery.info | en | Nature |
 | [Blog \| Nature \| PBS](https://www.pbs.org/wnet/nature/blog/feed/) | pbs.org | en | Nature |
 | [Conservation International](https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg) | youtube.com | en | Environment |
+| [DW Arabic Science](https://rss.dw.com/rdf/rss-ar-sci) | dw.com | ar | Curated |
 | [EarthPorn: Amazing images of light and landscape](https://www.reddit.com/r/EarthPorn/.rss) | reddit.com | en | Nature |
 | [Elementy](https://elementy.ru/rss/news) | elementy.ru | ru | Curated |
 | [Environment](https://www.reddit.com/r/environment/.rss) | reddit.com | en | Environment |
 | [Environment + Energy – The Conversation](https://theconversation.com/au/environment/articles.atom) | theconversation.com | en | Environment |
 | [Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change & Pollution News](https://timesofindia.indiatimes.com/rssfeeds/2647163.cms) | timesofindia.indiatimes.com | en | Environment |
 | [Environment \| The Guardian](https://www.theguardian.com/us/environment/rss) | theguardian.com | en | Environment |
+| [Explore Oceans](https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw) | youtube.com | en | Nature |
 | [FlowingData](https://flowingdata.com/feed) | flowingdata.com | en | Science |
 | [Good Good Good](https://www.goodgoodgood.co/articles/rss.xml) | goodgoodgood.co | en | Environment |
 | [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) | sciencedaily.com | en | Science |
@@ -541,6 +563,7 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Al Jazeera Arabic Music](https://www.aljazeera.net/aljazeerarss/music) | aljazeera.net | ar | Curated |
 | [Consequence](http://consequenceofsound.net/feed) | consequence.net | en | Music |
 | [Music Business Worldwide](https://www.musicbusinessworldwide.com/feed/) | musicbusinessworldwide.com | en | Music |
 | [RSS: News](http://pitchfork.com/rss/news) | pitchfork.com | en | Music |
@@ -563,6 +586,7 @@
 | [For the budding patzer](https://www.reddit.com/r/chessbeginners/.rss) | reddit.com | en | Chess |
 | [GameSpot - All Content](https://www.gamespot.com/feeds/mashup/) | gamespot.com | en | Gaming |
 | [IGN Articles](http://feeds.ign.com/ign/all) | ign.com | en | Gaming |
+| [IGN Middle East (Arabic)](https://me.ign.com/ar/feed.xml) | me.ign.com | ar | Curated |
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
@@ -589,6 +613,7 @@
 | [Laura in the Kitchen](https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen) | youtube.com | en | Food |
 | [Love and Lemons](https://www.loveandlemons.com/feed/) | loveandlemons.com | en | Food |
 | [Love and Olive Oil](https://www.loveandoliveoil.com/feed) | loveandoliveoil.com | en | Food |
+| [Mtbakh](https://www.mtbakhcom.com/feed/) | mtbakhcom.com | ar | Curated |
 | [NYT > Food](https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml) | nytimes.com | en | Food |
 | [Shutterbean](https://www.shutterbean.com/feed/) | shutterbean.com | en | Food |
 | [smitten kitchen](http://feeds.feedburner.com/smittenkitchen) | smittenkitchen.com | en | Food |
@@ -598,6 +623,7 @@
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
 | [Adventure.com](https://adventure.com/feed/) | adventure.com | en | Travel |
+| [Al Jazeera Arabic Travel](https://www.aljazeera.net/aljazeerarss/travel) | aljazeera.net | ar | Curated |
 | [Atlas Obscura - Latest Articles and Places](https://www.atlasobscura.com/feeds/latest) | atlasobscura.com | en | Travel |
 | [Everything Everywhere](http://feeds2.feedburner.com/EverythingEverywhere/) | everything-everywhere.com | en | Travel |
 | [NYT > Travel](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml) | nytimes.com | en | Travel |
@@ -611,10 +637,15 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [Al-Muraba](https://www.almuraba.net/feed/) | almuraba.net | ar | Curated |
+| [ArabGT](https://arabgt.com/feed/) | arabgt.com | ar | Curated |
+| [Assayyarat](https://www.assayyarat.com/feed/) | assayyarat.com | ar | Curated |
+| [Auto Al Arab](https://www.autoalarab.com/feed/) | autoalarab.com | ar | Curated |
 | [Autocar RSS Feed](https://www.autocar.co.uk/rss) | autocar.co.uk | en | Cars |
 | [BikeEXIF](https://www.bikeexif.com/feed) | bikeexif.com | en | Cars |
 | [BMWBLOG](https://feeds.feedburner.com/BmwBlog) | bmwblog.com | en | Cars |
 | [Carscoops](https://www.carscoops.com/feed/) | carscoops.com | en | Cars |
+| [Dubicars News (Arabic)](https://www.dubicars.com/news/ar/feed) | dubicars.com | ar | Curated |
 | [Formula 1](https://www.reddit.com/r/formula1/.rss) | reddit.com | en | Cars |
 | [Jalopnik - Obsessed with the culture of cars](https://jalopnik.com/rss) | jalopnik.com | en | Cars |
 | [Latest Content - Car and Driver](https://www.caranddriver.com/rss/all.xml/) | caranddriver.com | en | Cars |
@@ -637,6 +668,7 @@
 | [POPSUGAR Fashion](https://www.popsugar.com/fashion/feed) | popsugar.com | en | Fashion |
 | [Refinery29](https://www.refinery29.com/beauty/rss.xml) | refinery29.com | en | Beauty |
 | [Refinery29](https://www.refinery29.com/fashion/rss.xml) | refinery29.com | en | Fashion |
+| [Sayidaty](https://www.sayidaty.net/rss.xml) | sayidaty.net | ar | Curated |
 | [The Beauty Look Book](https://thebeautylookbook.com/feed) | thebeautylookbook.com | en | Beauty |
 
 ### נדל"ן ועיצוב הבית (Real Estate & Home Design)
@@ -644,6 +676,7 @@
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
 | [A Beautiful Mess](https://abeautifulmess.com/feed/) | abeautifulmess.com | en | DIY |
+| [Al-Aqarat Al-Yawm](https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss) | alaqaratalyoum.com | ar | Curated |
 | [ArchDaily Global](http://feeds.feedburner.com/Archdaily) | archdaily.com | en | Architecture |
 | [Architectural Digest](https://www.architecturaldigest.com/feed/rss) | architecturaldigest.com | en | Architecture |
 | [Architectural Digest](https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest) | youtube.com | en | Architecture |
@@ -657,7 +690,6 @@
 | [design archives \| designboom \| architecture & design magazine](https://www.designboom.com/design/feed/) | designboom.com | en | Interior design |
 | [Design MilkArchitecture, Architectural Designs, and House Designs \| Design Milk](https://design-milk.com/category/architecture/feed/) | design-milk.com | en | Architecture |
 | [Design MilkInterior Design Ideas for Your Modern Home \| Design Milk](https://design-milk.com/category/interior-design/feed/) | design-milk.com | en | Interior design |
-| [Fubiz Media](http://feeds.feedburner.com/fubiz) | fubiz.net | fr | Interior design |
 | [How-To Geek](https://www.howtogeek.com/feed/) | howtogeek.com | en | DIY |
 | [IKEA Hackers](https://ikeahackers.net/feed) | ikeahackers.net | en | DIY |
 | [In My Own Style](https://inmyownstyle.com/feed) | inmyownstyle.com | en | Interior design |
@@ -667,12 +699,22 @@
 | [Latest from Ideal Home in News](https://www.idealhome.co.uk/feed) | idealhome.co.uk | en | Interior design |
 | [Living Big In A Tiny House](https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse) | youtube.com | en | Architecture |
 | [MakeUseOf](https://www.makeuseof.com/feed/) | makeuseof.com | en | DIY |
+| [Property News Arabic](https://www.propertynewsarabic.com/feed/) | propertynewsarabic.com | ar | Curated |
+| [PropertyPlus Egypt](https://propertypluseg.com/feed/) | propertypluseg.com | ar | Curated |
 | [The Inspired Room](https://theinspiredroom.net/feed/) | theinspiredroom.net | en | Interior design |
 | [Thrifty Decor Chick \| Thrifty DIY, Decor and Organizing](http://feeds.feedburner.com/blogspot/ZBcZ) | thriftydecorchick.com | en | Interior design |
 | [Trendir](https://www.trendir.com/feed/) | trendir.com | en | Interior design |
 | [Yanko Design](http://feeds.feedburner.com/yankodesign) | yankodesign.com | en | Interior design |
 | [Yatzer \| Live Beautifully. Explore Endlessly.](https://www.yatzer.com/rss.xml) | yatzer.com | en | Interior design |
 | [Young House Love](https://www.younghouselove.com/feed/) | younghouselove.com | en | Interior design |
+
+### דעה וטורים אישיים (Opinion & Personal Columns)
+
+| פיד | אתר | שפה | מקור |
+|---|---|---|---|
+| [Al Jazeera Arabic Opinion](https://www.aljazeera.net/aljazeerarss/opinion) | aljazeera.net | ar | Curated |
+| [Al-Araby Opinion](https://www.alaraby.co.uk/rss/opinion) | alaraby.co.uk | ar | Curated |
+| [Asharq Al-Awsat Opinion](https://aawsat.com/feed/opinion) | aawsat.com | ar | Curated |
 
 ### פודקאסטים (Podcasts)
 
@@ -681,6 +723,9 @@
 | [30 for 30 Podcasts](https://feeds.megaphone.fm/ESP5765452710) | espnradio.espn.com | en | History |
 | [60-Second Science](http://rss.sciam.com/sciam/60secsciencepodcast) | sciencequickly.com | en | Science |
 | [Accidental Tech Podcast](https://atp.fm/rss) | atp.fm | en | Tech |
+| [Afford Anything®](https://affordanything.com/feed/) | affordanything.com | en | Personal finance |
+| [Afford Anything®](https://feeds.feedburner.com/AffordAnythingFeed) | affordanything.com | en | Personal finance |
+| [Al Jazeera Arabic Podcasts](https://www.aljazeera.net/aljazeerarss/podcast) | aljazeera.net | ar | Curated |
 | [Analog(ue)](https://relay.fm/analogue/feed) | relay.fm | en | Tech |
 | [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) | androidbackstage.blogspot.com | en | Android Development |
 | [Bionic Planet: Reversing Climate Change by Restoring Nature](https://bionicplanet.libsyn.com/rss) | bionic-planet.com | en | Environment |
@@ -734,6 +779,7 @@
 | [The Bitcoin Podcast](https://feeds.simplecast.com/xCQr3ykc) | thebitcoinpodcast.com | en | Cryptocurrency |
 | [The Blog of Author Tim Ferriss](https://tim.blog/feed/) | tim.blog | en | Business & Economy |
 | [The Clark Howard Podcast](https://feeds.megaphone.fm/clarkhoward) | clark.com | en | Personal finance |
+| [The College Investor](https://thecollegeinvestor.com/feed/) | thecollegeinvestor.com | en | Personal finance |
 | [The Cynical Developer](https://cynicaldeveloper.com/feed/podcast) | cynical.dev | en | Programming |
 | [The Duct Tape Marketing Podcast](https://ducttape.libsyn.com/rss) | ducttapemarketing.com | en | Business & Economy |
 | [the memory palace](http://feeds.thememorypalace.us/thememorypalace) | thememorypalace.us | en | History |
@@ -754,6 +800,7 @@
 | [/r/Memes the original since 2008](https://www.reddit.com/r/memes/.rss) | reddit.com | en | Memes |
 | [A sub for History Memes](https://www.reddit.com/r/historymemes/.rss) | reddit.com | en | Memes |
 | [Advice Animals](https://www.reddit.com/r/AdviceAnimals/.rss) | reddit.com | en | Memes |
+| [Al Jazeera Arabic Technology](https://www.aljazeera.net/aljazeerarss/technology) | aljazeera.net | ar | Curated |
 | [dankmemes](https://www.reddit.com/r/dankmemes/.rss) | reddit.com | en | Memes |
 | [FAIL Blog](http://feeds.feedburner.com/failblog) | failblog.cheezburger.com | en | Funny |
 | [I Can Has Cheezburger?](http://feeds.feedburner.com/icanhascheezburger) | icanhas.cheezburger.com | en | Funny |
@@ -779,11 +826,13 @@
 
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
+| [ActuIA Arabic](https://www.actuia.com/ar/feed/) | actuia.com | ar | Curated |
 | [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/feed) | magazine.sebastianraschka.com | en | Curated |
 | [AI at Meta Blog](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml) | ai.meta.com | en | Curated |
 | [Anthropic News](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | anthropic.com | en | Curated |
 | [Apple Machine Learning Research](https://machinelearning.apple.com/rss.xml) | machinelearning.apple.com | en | Curated |
 | [Berkeley AI Research (BAIR) Blog](https://bair.berkeley.edu/blog/feed.xml) | bair.berkeley.edu | en | Curated |
+| [EntArabi AI](https://entarabi.com/ai/feed/) | entarabi.com | ar | Curated |
 | [Google AI (The Keyword)](https://blog.google/innovation-and-ai/technology/ai/rss/) | blog.google | en | Curated |
 | [Google DeepMind Blog](https://deepmind.google/blog/rss.xml) | deepmind.google | en | Curated |
 | [Google Research Blog](https://research.google/blog/rss/) | research.google | en | Curated |

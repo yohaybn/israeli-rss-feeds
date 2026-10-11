@@ -140,6 +140,24 @@ def generate_site(site, feed_url=None):
             return {'status': 'ok', 'items': count}, cleaned
         except Exception as error:
             return {'status': 'failed', 'reason': 'Calcalist listing unavailable/invalid: ' + str(error)[:250]}, None
+    if site.get('generator') == 'football':
+        try:
+            from football_feed import CATEGORIES, LISTING_URL, listings_to_rss, load_teams
+            listings = []
+            for category, label in CATEGORIES:
+                source = LISTING_URL % category
+                allowed, reason = robots_allows(source)
+                if not allowed:
+                    return {'status': 'skipped', 'reason': reason}, None
+                with urllib.request.urlopen(urllib.request.Request(source, headers={'User-Agent': UA}), timeout=30) as response:
+                    listings.append((label, json.load(response)))
+            cleaned, count = listings_to_rss(listings, site, load_teams(), feed_url)
+            problems = validate_feed_bytes(cleaned)
+            if problems:
+                raise ValueError('; '.join(problems[:3]))
+            return {'status': 'ok', 'items': count}, cleaned
+        except Exception as error:
+            return {'status': 'failed', 'reason': 'ONE football listing unavailable/invalid: ' + str(error)[:250]}, None
     if site.get('generator') == 'newssitemap':
         try:
             from newssitemap_feed import sitemap_locs, sitemap_items, sitemaps_to_rss

@@ -333,6 +333,14 @@
         "https://a.kikar.co.il/v1/sitemap/scoop-news-fresh"
       ],
       "sitemap_index": "https://a.kikar.co.il/v1/sitemap/articles"
+    },
+    {
+      "slug": "football-highlights",
+      "name": "תקצירי כדורגל (ONE)",
+      "url": "https://www.one.co.il/vod",
+      "lang": "he",
+      "category": "sports",
+      "generator": "football"
     }
   ]
 }

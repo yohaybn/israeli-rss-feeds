@@ -37,7 +37,7 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**696 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-08; 228 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**698 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-11; 227 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
@@ -47,17 +47,17 @@
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
-| מדע וסביבה (Science & Environment) | 46 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
+| מדע וסביבה (Science & Environment) | 47 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
 | גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
 | אוכל וקולינריה (Food & Cooking) | 13 | Food, רשימה ידנית (curated.json) |
 | תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 14 | Fashion, Beauty, רשימה ידנית (curated.json) |
-| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 33 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
+| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 69 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 71 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
@@ -83,6 +83,7 @@
 | [Independent Arabia](https://www.independentarabia.com/rss.xml) | independentarabia.com | ar | Curated |
 | [Interfax](https://www.interfax.ru/rss.asp) | interfax.ru | ru | Curated |
 | [International: Top News And Analysis](https://www.cnbc.com/id/100727362/device/rss/rss.html) | cnbc.com | en | News |
+| [Meduza](https://meduza.io/rss/all) | meduza.io | ru | Curated |
 | [NDTV News Search Records Found 1000](http://feeds.feedburner.com/ndtvnews-world-news) | ndtv.com | en | News |
 | [Newsru.co.il (Russian-language Israel news)](https://www.newsru.co.il/il/www/news/all) | newsru.co.il | ru | Curated |
 | [Novaya Gazeta Europe](https://novayagazeta.eu/feed/rss) | novayagazeta.eu | ru | Curated |
@@ -235,7 +236,6 @@
 | [RMF24.pl](https://www.rmf24.pl/feed) | rmf24.pl | pl | Country: Poland |
 | [www.wirtualnemedia.pl](https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml) | wirtualnemedia.pl | pl | Country: Poland |
 | [Lenta.ru : Новости](https://lenta.ru/rss) | lenta.ru | ru | Country: Russia |
-| [Meduza.io](https://meduza.io/rss/all) | meduza.io | ru | Country: Russia |
 | [PravdaReport](https://www.pravdareport.com/export.xml) | english.pravda.ru | en | Country: Russia |
 | [RT - Daily news](https://www.rt.com/rss/) | rt.com | en | Country: Russia |
 | [TASS](https://tass.com/rss/v2.xml) | tass.com | en | Country: Russia |
@@ -272,7 +272,6 @@
 |---|---|---|---|
 | [3DNews](https://3dnews.ru/news/rss/) | 3dnews.ru | ru | Curated |
 | [9to5Mac](https://9to5mac.com/feed/) | 9to5mac.com | en | Apple |
-| [A List Apart: The Full Feed](https://alistapart.com/main/feed/) | alistapart.com | en | Web Development |
 | [Aitnews](https://aitnews.com/feed/) | aitnews.com | ar | Curated |
 | [Alberto De Bortoli](https://albertodebortoli.com/rss/) | albertodebortoli.com | en | iOS Development |
 | [Android](https://blog.google/products/android/rss) | blog.google | en | Android |
@@ -342,6 +341,7 @@
 | [r/iPhone](https://www.reddit.com/r/iphone/.rss) | reddit.com | en | Apple |
 | [ReadWrite](https://readwrite.com/feed/) | readwrite.com | en | Tech |
 | [Schneier on Security](http://www.schneier.com/blog/index.rdf) | schneier.com | en | Cyber security |
+| [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman) | hanselman.com | en | Programming |
 | [Scripting News](http://scripting.com/rss.xml) | scripting.com | en | Programming |
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
 | [Sink In - Tech Learnings](https://gosink.in/rss/) | gosink.in | en | Web Development |
@@ -422,7 +422,7 @@
 | [Steve Blank](https://steveblank.com/feed/) | steveblank.com | en | Startups |
 | [The Bad Crypto Podcast](https://badcryptopodcast.com/feed/) | badcryptopodcast.com | en | Cryptocurrency |
 | [The College Investor](https://thecollegeinvestor.com/feed/) | thecollegeinvestor.com | en | Personal finance |
-| [The Intercom Blog](https://www.intercom.com/blog/feed/) | intercom.com | en | Startups |
+| [The Intercom Blog](https://www.intercom.com/blog/feed) | intercom.com | en | Startups |
 | [The Market's Compass Technical View](https://themarketscompass.substack.com/feed) | themarketscompass.substack.com | en | Cryptocurrency |
 | [US Top News and Analysis](https://www.cnbc.com/id/100003114/device/rss/rss.html) | cnbc.com | en | Business & Economy |
 | [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF) | venturebeat.com | en | Startups |
@@ -526,6 +526,7 @@
 | [Environment + Energy – The Conversation](https://theconversation.com/au/environment/articles.atom) | theconversation.com | en | Environment |
 | [Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change & Pollution News](https://timesofindia.indiatimes.com/rssfeeds/2647163.cms) | timesofindia.indiatimes.com | en | Environment |
 | [Environment \| The Guardian](https://www.theguardian.com/us/environment/rss) | theguardian.com | en | Environment |
+| [Explore Oceans](https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw) | youtube.com | en | Nature |
 | [FlowingData](https://flowingdata.com/feed) | flowingdata.com | en | Science |
 | [Good Good Good](https://www.goodgoodgood.co/articles/rss.xml) | goodgoodgood.co | en | Environment |
 | [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) | sciencedaily.com | en | Science |
@@ -690,7 +691,6 @@
 | [design archives \| designboom \| architecture & design magazine](https://www.designboom.com/design/feed/) | designboom.com | en | Interior design |
 | [Design MilkArchitecture, Architectural Designs, and House Designs \| Design Milk](https://design-milk.com/category/architecture/feed/) | design-milk.com | en | Architecture |
 | [Design MilkInterior Design Ideas for Your Modern Home \| Design Milk](https://design-milk.com/category/interior-design/feed/) | design-milk.com | en | Interior design |
-| [Fubiz Media](http://feeds.feedburner.com/fubiz) | fubiz.net | fr | Interior design |
 | [How-To Geek](https://www.howtogeek.com/feed/) | howtogeek.com | en | DIY |
 | [IKEA Hackers](https://ikeahackers.net/feed) | ikeahackers.net | en | DIY |
 | [In My Own Style](https://inmyownstyle.com/feed) | inmyownstyle.com | en | Interior design |
@@ -724,6 +724,8 @@
 | [30 for 30 Podcasts](https://feeds.megaphone.fm/ESP5765452710) | espnradio.espn.com | en | History |
 | [60-Second Science](http://rss.sciam.com/sciam/60secsciencepodcast) | sciencequickly.com | en | Science |
 | [Accidental Tech Podcast](https://atp.fm/rss) | atp.fm | en | Tech |
+| [Afford Anything®](https://affordanything.com/feed/) | affordanything.com | en | Personal finance |
+| [Afford Anything®](https://feeds.feedburner.com/AffordAnythingFeed) | affordanything.com | en | Personal finance |
 | [Al Jazeera Arabic Podcasts](https://www.aljazeera.net/aljazeerarss/podcast) | aljazeera.net | ar | Curated |
 | [Analog(ue)](https://relay.fm/analogue/feed) | relay.fm | en | Tech |
 | [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) | androidbackstage.blogspot.com | en | Android Development |

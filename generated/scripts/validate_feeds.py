@@ -42,7 +42,7 @@ def validate_sites(path):
         url = s.get('url', '')
         if not url.startswith('https://'):
             problems.append(f'sites[{i}] ({slug}): url must start with https://')
-        if s.get('generator') not in (None, 'wordpress', 'calcalist', 'newssitemap'):
+        if s.get('generator') not in (None, 'wordpress', 'calcalist', 'newssitemap', 'football'):
             problems.append(f'sites[{i}] ({slug}): unknown generator')
         if s.get('generator') == 'calcalist' and not url.startswith('https://www.calcalist.co.il/'):
             problems.append(f'sites[{i}] ({slug}): Calcalist generator requires publisher hostname')

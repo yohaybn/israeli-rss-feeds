@@ -2,12 +2,13 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Science &amp; Environment</title>
-    <dateCreated>2026-10-11</dateCreated>
+    <dateCreated>2026-10-18</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
     <outline text="Science &amp; Environment" title="Science &amp; Environment">
       <outline type="rss" text="/r/space: news, articles and discussion" title="/r/space: news, articles and discussion" xmlUrl="https://www.reddit.com/r/space/.rss?format=xml" htmlUrl="https://www.reddit.com/r/space/?format=xml"/>
+      <outline type="rss" text="Active Wild" title="Active Wild" xmlUrl="https://www.activewild.com/feed/" htmlUrl="https://www.activewild.com/"/>
       <outline type="rss" text="Al Jazeera Arabic Science" title="Al Jazeera Arabic Science" xmlUrl="https://www.aljazeera.net/aljazeerarss/science" htmlUrl="https://www.aljazeera.net/science"/>
       <outline type="rss" text="BBC Earth" title="BBC Earth" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg" htmlUrl="https://www.youtube.com/channel/UCwmZiChSryoWQCZMIQezgTg"/>
       <outline type="rss" text="BBC News" title="BBC News" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml" htmlUrl="https://www.bbc.co.uk/news/science_and_environment"/>
@@ -24,6 +25,7 @@
       <outline type="rss" text="Explore Oceans" title="Explore Oceans" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw" htmlUrl="https://www.youtube.com/channel/UCSyg9cb3Iq-NtlbxqNB9wGw"/>
       <outline type="rss" text="FlowingData" title="FlowingData" xmlUrl="https://flowingdata.com/feed" htmlUrl="https://flowingdata.com"/>
       <outline type="rss" text="Good Good Good" title="Good Good Good" xmlUrl="https://www.goodgoodgood.co/articles/rss.xml" htmlUrl="https://www.goodgoodgood.co"/>
+      <outline type="rss" text="Latest from Space.com" title="Latest from Space.com" xmlUrl="https://www.space.com/feeds/all" htmlUrl="https://www.space.com/feeds.xml"/>
       <outline type="rss" text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" xmlUrl="https://www.sciencedaily.com/rss/all.xml" htmlUrl="https://www.sciencedaily.com/news/"/>
       <outline type="rss" text="Love Nature" title="Love Nature" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg" htmlUrl="https://www.youtube.com/channel/UCRZPkuHwaoKwTP3CYPdVldg"/>
       <outline type="rss" text="N+1" title="N+1" xmlUrl="https://nplus1.ru/rss" htmlUrl="https://nplus1.ru/"/>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-10-11</dateCreated>
+    <dateCreated>2026-10-18</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -74,7 +74,6 @@
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl="https://feeds.thelocal.com/"/>
       <outline type="rss" text="france24.com" title="france24.com" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
       <outline type="rss" text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/"/>
-      <outline type="rss" text="L&#x27;essentiel" title="L&#x27;essentiel" xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" htmlUrl="https://www.sudouest.fr/essentiel/"/>
       <outline type="rss" text="L&#x27;Obs - A la une" title="L&#x27;Obs - A la une" xmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml" htmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml"/>
       <outline type="rss" text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" xmlUrl="https://www.ladepeche.fr/rss.xml" htmlUrl="https://www.ladepeche.fr/"/>
       <outline type="rss" text="Le Huffington Post" title="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.fr/rss/all_headline.xml"/>
@@ -171,13 +170,12 @@
       <outline type="rss" text="Dziennik.pl Dziennik - dziennik.pl" title="Dziennik.pl Dziennik - dziennik.pl" xmlUrl="http://rss.dziennik.pl/Dziennik-PL/" htmlUrl="https://www.dziennik.pl"/>
       <outline type="rss" text="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" title="GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca" xmlUrl="http://rss.gazetaprawna.pl/GazetaPrawna" htmlUrl="http://rss.gazetaprawna.pl/"/>
       <outline type="rss" text="https://www.rp.pl" title="https://www.rp.pl" xmlUrl="https://www.rp.pl/rss/1019" htmlUrl="https://www.rp.pl/"/>
-      <outline type="rss" text="Najnowsze" title="Najnowsze" xmlUrl="http://feeds.feedburner.com/wPolitycepl" htmlUrl="https://wpolityce.pl"/>
       <outline type="rss" text="Newsweek Polska" title="Newsweek Polska" xmlUrl="https://www.newsweek.pl/rss.xml" htmlUrl="https://www.newsweek.pl/rss.xml"/>
       <outline type="rss" text="RMF24.pl" title="RMF24.pl" xmlUrl="https://www.rmf24.pl/feed" htmlUrl="https://www.rmf24.pl/"/>
       <outline type="rss" text="www.wirtualnemedia.pl" title="www.wirtualnemedia.pl" xmlUrl="https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml" htmlUrl="https://www.wirtualnemedia.pl"/>
       <outline type="rss" text="Lenta.ru : Новости" title="Lenta.ru : Новости" xmlUrl="https://lenta.ru/rss" htmlUrl="https://lenta.ru"/>
       <outline type="rss" text="PravdaReport" title="PravdaReport" xmlUrl="https://www.pravdareport.com/export.xml" htmlUrl="https://english.pravda.ru/"/>
-      <outline type="rss" text="RT - Daily news" title="RT - Daily news" xmlUrl="https://www.rt.com/rss/" htmlUrl="https://www.rt.com"/>
+      <outline type="rss" text="RT - Daily news" title="RT - Daily news" xmlUrl="https://www.rt.com/rss/" htmlUrl="https://rt-english.com"/>
       <outline type="rss" text="TASS" title="TASS" xmlUrl="https://tass.com/rss/v2.xml" htmlUrl="https://tass.com"/>
       <outline type="rss" text="The Moscow Times - Independent News From Russia" title="The Moscow Times - Independent News From Russia" xmlUrl="https://www.themoscowtimes.com/rss/news" htmlUrl="https://www.themoscowtimes.com/news"/>
       <outline type="rss" text="Все материалы - Московский Комсомолец" title="Все материалы - Московский Комсомолец" xmlUrl="https://www.mk.ru/rss/index.xml" htmlUrl="https://www.mk.ru/"/>

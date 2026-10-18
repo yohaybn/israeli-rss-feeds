@@ -37,19 +37,19 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**698 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-11; 227 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**694 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-18; 231 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 198 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 99 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
-| כלכלה ועסקים (Economy & Business) | 56 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
+| חדשות ואקטואליה (News & Current Affairs) | 196 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 98 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| כלכלה ועסקים (Economy & Business) | 55 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
-| מדע וסביבה (Science & Environment) | 47 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
+| מדע וסביבה (Science & Environment) | 49 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
-| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 26 | Gaming, Chess, רשימה ידנית (curated.json) |
 | אוכל וקולינריה (Food & Cooking) | 13 | Food, רשימה ידנית (curated.json) |
 | תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
@@ -57,7 +57,7 @@
 | נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 71 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 70 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
@@ -134,7 +134,6 @@
 | [The Local](https://feeds.thelocal.com/rss/es) | feeds.thelocal.com | en | Country: Spain |
 | [france24.com](https://www.france24.com/en/rss) | france24.com | en | Country: France |
 | [Franceinfo - Les Titres](https://www.francetvinfo.fr/titres.rss) | franceinfo.fr | fr | Country: France |
-| [L'essentiel](https://www.sudouest.fr/essentiel/rss.xml) | sudouest.fr | fr | Country: France |
 | [L'Obs - A la une](https://www.nouvelobs.com/a-la-une/rss.xml) | nouvelobs.com | fr | Country: France |
 | [La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr](https://www.ladepeche.fr/rss.xml) | ladepeche.fr | fr | Country: France |
 | [Le Huffington Post](https://www.huffingtonpost.fr/feeds/index.xml) | huffingtonpost.fr | fr | Country: France |
@@ -231,13 +230,12 @@
 | [Dziennik.pl Dziennik - dziennik.pl](http://rss.dziennik.pl/Dziennik-PL/) | dziennik.pl | pl | Country: Poland |
 | [GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca](http://rss.gazetaprawna.pl/GazetaPrawna) | rss.gazetaprawna.pl | pl | Country: Poland |
 | [https://www.rp.pl](https://www.rp.pl/rss/1019) | rp.pl | pl | Country: Poland |
-| [Najnowsze](http://feeds.feedburner.com/wPolitycepl) | wpolityce.pl | pl | Country: Poland |
 | [Newsweek Polska](https://www.newsweek.pl/rss.xml) | newsweek.pl | pl | Country: Poland |
 | [RMF24.pl](https://www.rmf24.pl/feed) | rmf24.pl | pl | Country: Poland |
 | [www.wirtualnemedia.pl](https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml) | wirtualnemedia.pl | pl | Country: Poland |
 | [Lenta.ru : Новости](https://lenta.ru/rss) | lenta.ru | ru | Country: Russia |
 | [PravdaReport](https://www.pravdareport.com/export.xml) | english.pravda.ru | en | Country: Russia |
-| [RT - Daily news](https://www.rt.com/rss/) | rt.com | en | Country: Russia |
+| [RT - Daily news](https://www.rt.com/rss/) | rt-english.com | en | Country: Russia |
 | [TASS](https://tass.com/rss/v2.xml) | tass.com | en | Country: Russia |
 | [The Moscow Times - Independent News From Russia](https://www.themoscowtimes.com/rss/news) | themoscowtimes.com | en | Country: Russia |
 | [Все материалы - Московский Комсомолец](https://www.mk.ru/rss/index.xml) | mk.ru | ru | Country: Russia |
@@ -324,12 +322,12 @@
 | [Lifehacker](https://lifehacker.com/rss) | lifehacker.com | en | Tech |
 | [Linus Tech Tips](https://www.youtube.com/feeds/videos.xml?user=LinusTechTips) | youtube.com | en | Tech |
 | [MacRumors](https://www.youtube.com/feeds/videos.xml?user=macrumors) | youtube.com | en | Apple |
+| [MacStories](https://www.macstories.net/feed/) | macstories.net | en | Apple |
 | [Macworld](https://www.macworld.com/index.rss) | macworld.com | en | Apple |
 | [Marco.org](https://marco.org/rss) | marco.org | en | Apple |
 | [Marques Brownlee](https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee) | youtube.com | en | Tech |
 | [Martin Fowler](https://martinfowler.com/feed.atom) | martinfowler.com | en | Programming |
 | [Mashable](http://feeds.mashable.com/Mashable) | mashable.com | en | Tech |
-| [Mobile A11y](https://mobilea11y.com/index.xml) | mobilea11y.com | en | iOS Development |
 | [NN/g latest articles and announcements](https://www.nngroup.com/feed/rss/) | nngroup.com | en | UI - UX |
 | [NYT > Technology](https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml) | nytimes.com | en | Tech |
 | [OS X Daily](http://feeds.feedburner.com/osxdaily) | osxdaily.com | en | Apple |
@@ -344,7 +342,6 @@
 | [Scott Hanselman's Blog](http://feeds.hanselman.com/ScottHanselman) | hanselman.com | en | Programming |
 | [Scripting News](http://scripting.com/rss.xml) | scripting.com | en | Programming |
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
-| [Sink In - Tech Learnings](https://gosink.in/rss/) | gosink.in | en | Web Development |
 | [Slashdot](https://rss.slashdot.org/Slashdot/slashdotMain) | slashdot.org | en | Tech |
 | [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/blog.rss) | developers.soundcloud.com | en | Programming |
 | [Stack Overflow Blog](https://stackoverflow.blog/feed/) | stackoverflow.blog | en | Programming |
@@ -428,7 +425,6 @@
 | [VentureBeat](https://feeds.feedburner.com/venturebeat/SZYF) | venturebeat.com | en | Startups |
 | [Well Kept Wallet](https://wellkeptwallet.com/feed/) | wellkeptwallet.com | en | Personal finance |
 | [Wise Bread](http://feeds.killeraces.com/wisebread) | wisebread.com | en | Personal finance |
-| [Yahoo Finance](https://finance.yahoo.com/news/rssindex) | finance.yahoo.com | en | Business & Economy |
 | [ZebPay](https://zebpay.com/feed) | zebpay.com | en | Cryptocurrency |
 
 ### ספורט (Sports)
@@ -513,6 +509,7 @@
 | פיד | אתר | שפה | מקור |
 |---|---|---|---|
 | [/r/space: news, articles and discussion](https://www.reddit.com/r/space/.rss?format=xml) | reddit.com | en | Space |
+| [Active Wild](https://www.activewild.com/feed/) | activewild.com | en | Animal & Wildlife |
 | [Al Jazeera Arabic Science](https://www.aljazeera.net/aljazeerarss/science) | aljazeera.net | ar | Curated |
 | [BBC Earth](https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg) | youtube.com | en | Nature |
 | [BBC News](https://feeds.bbci.co.uk/news/science_and_environment/rss.xml) | bbc.co.uk | en | Science |
@@ -529,6 +526,7 @@
 | [Explore Oceans](https://www.youtube.com/feeds/videos.xml?channel_id=UCSyg9cb3Iq-NtlbxqNB9wGw) | youtube.com | en | Nature |
 | [FlowingData](https://flowingdata.com/feed) | flowingdata.com | en | Science |
 | [Good Good Good](https://www.goodgoodgood.co/articles/rss.xml) | goodgoodgood.co | en | Environment |
+| [Latest from Space.com](https://www.space.com/feeds/all) | space.com | en | Space |
 | [Latest Science News -- ScienceDaily](https://www.sciencedaily.com/rss/all.xml) | sciencedaily.com | en | Science |
 | [Love Nature](https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg) | youtube.com | en | Animal & Wildlife |
 | [N+1](https://nplus1.ru/rss) | nplus1.ru | ru | Curated |
@@ -576,7 +574,6 @@
 | [agadmator's Chess Channel](https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA) | youtube.com | en | Chess |
 | [Better Chess](https://betterchess.net/feed/) | betterchess.net | en | Chess |
 | [Chess News](https://en.chessbase.com/feed) | en.chessbase.com | en | Chess |
-| [Chess Talk](https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA) | youtube.com | en | Chess |
 | [Chess \| The Guardian](https://www.theguardian.com/sport/chess/rss) | theguardian.com | en | Chess |
 | [Chess.com](https://www.youtube.com/feeds/videos.xml?user=wwwChesscom) | youtube.com | en | Chess |
 | [Chess.com News](https://www.chess.com/rss/news) | chess.com | en | Chess |
@@ -751,7 +748,6 @@
 | [Invest Like the Best with Patrick O'Shaughnessy](http://investlikethebest.libsyn.com/rss) | colossus.com | en | Personal finance |
 | [Invisibilia](https://feeds.npr.org/510307/podcast.xml) | npr.org | en | Science |
 | [ISF Podcast](https://audioboom.com/channels/4991893.rss) | securityforum.org | en | Cyber security |
-| [MacStories](https://www.macstories.net/feed/) | macstories.net | en | Apple |
 | [Masters of Scale](https://rss.art19.com/masters-of-scale) | mastersofscale.com | en | Startups |
 | [Money For the Rest of Us](https://rss.art19.com/money-for-the-rest-of-us) | moneyfortherestofus.com | en | Personal finance |
 | [MyWifeQuitHerJob.com](https://mywifequitherjob.com/feed/) | mywifequitherjob.com | en | Personal finance |
@@ -777,11 +773,11 @@
 | [Tailenders](https://podcasts.files.bbci.co.uk/p02pcb4w.rss) | bbc.co.uk | en | Cricket |
 | [TED Talks Daily](https://pa.tedcdn.com/feeds/talks.rss) | ted.com | en | Science |
 | [Test Match Special](https://podcasts.files.bbci.co.uk/p02nrsl2.rss) | bbc.co.uk | en | Cricket |
-| [The Bitcoin Podcast](https://feeds.simplecast.com/xCQr3ykc) | thebitcoinpodcast.com | en | Cryptocurrency |
 | [The Blog of Author Tim Ferriss](https://tim.blog/feed/) | tim.blog | en | Business & Economy |
 | [The Clark Howard Podcast](https://feeds.megaphone.fm/clarkhoward) | clark.com | en | Personal finance |
 | [The Cynical Developer](https://cynicaldeveloper.com/feed/podcast) | cynical.dev | en | Programming |
 | [The Duct Tape Marketing Podcast](https://ducttape.libsyn.com/rss) | ducttapemarketing.com | en | Business & Economy |
+| [The Infinite Monkey Cage](https://podcasts.files.bbci.co.uk/b00snr0w.rss) | bbc.co.uk | en | Science |
 | [the memory palace](http://feeds.thememorypalace.us/thememorypalace) | thememorypalace.us | en | History |
 | [The Ramsey Show](https://daveramsey.libsyn.com/rss) | ramseysolutions.com | en | Personal finance |
 | [The Stack Overflow Podcast](https://feeds.simplecast.com/XA_851k3) | art19.com | en | Programming |

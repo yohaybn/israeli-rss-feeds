@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Economy &amp; Business</title>
-    <dateCreated>2026-10-11</dateCreated>
+    <dateCreated>2026-10-18</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -61,7 +61,6 @@
       <outline type="rss" text="VentureBeat" title="VentureBeat" xmlUrl="https://feeds.feedburner.com/venturebeat/SZYF" htmlUrl="https://venturebeat.com/feed/"/>
       <outline type="rss" text="Well Kept Wallet" title="Well Kept Wallet" xmlUrl="https://wellkeptwallet.com/feed/" htmlUrl="https://wellkeptwallet.com/"/>
       <outline type="rss" text="Wise Bread" title="Wise Bread" xmlUrl="http://feeds.killeraces.com/wisebread" htmlUrl="https://www.wisebread.com/secretfbfeed4"/>
-      <outline type="rss" text="Yahoo Finance" title="Yahoo Finance" xmlUrl="https://finance.yahoo.com/news/rssindex" htmlUrl="https://finance.yahoo.com/"/>
       <outline type="rss" text="ZebPay" title="ZebPay" xmlUrl="https://zebpay.com/feed" htmlUrl="https://zebpay.com"/>
     </outline>
   </body>

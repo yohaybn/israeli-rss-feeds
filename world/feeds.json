@@ -3,8 +3,8 @@
   "name": "israeli-rss-feeds/world",
   "description": "International RSS catalog converted from plenaryapp/awesome-rss-feeds (CC0) plus a curated list (world/curated.json), every feed verified live",
   "source": "https://github.com/plenaryapp/awesome-rss-feeds",
-  "generated_at": "2026-10-11",
-  "feed_count": 698,
+  "generated_at": "2026-10-18",
+  "feed_count": 694,
   "categories": [
     {
       "id": "news",
@@ -27,7 +27,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4bd4-9d80-a84db769f779/73d0e1b4-532f-45ef-b135-bfdb8df1a7e8",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Al-Araby Al-Jadeed",
@@ -59,7 +59,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.alittihad.info/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Al-Quds Al-Arabi",
@@ -76,7 +76,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.alquds.co.uk/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Asharq Al-Awsat",
@@ -93,7 +93,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://aawsat.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Arabic",
@@ -110,7 +110,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://feeds.bbci.co.uk/arabic/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC News",
@@ -127,7 +127,7 @@
           },
           "upstream_category": "News",
           "source_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Russian",
@@ -144,7 +144,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://feeds.bbci.co.uk/russian/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "DW Arabic",
@@ -161,7 +161,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://rss.dw.com/rdf/rss-ar-all",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "DW Russian",
@@ -178,7 +178,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://rss.dw.com/rdf/rss-ru-all",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Euronews Russian",
@@ -195,7 +195,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://ru.euronews.com/rss?format=mrss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "France 24 Arabic",
@@ -212,7 +212,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.france24.com/ar/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Hespress",
@@ -229,7 +229,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.hespress.com/feed",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Independent Arabia",
@@ -246,7 +246,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.independentarabia.com/rss.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Interfax",
@@ -263,7 +263,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.interfax.ru/rss.asp",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "International: Top News And Analysis",
@@ -280,7 +280,7 @@
           },
           "upstream_category": "News",
           "source_url": "https://www.cnbc.com/id/100727362/device/rss/rss.html",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Meduza",
@@ -297,7 +297,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://meduza.io/rss/all",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NDTV News Search Records Found 1000",
@@ -314,7 +314,7 @@
           },
           "upstream_category": "News",
           "source_url": "http://feeds.feedburner.com/ndtvnews-world-news",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Newsru.co.il (Russian-language Israel news)",
@@ -331,7 +331,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.newsru.co.il/il/www/news/all",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Novaya Gazeta Europe",
@@ -348,7 +348,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://novayagazeta.eu/feed/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > World News",
@@ -365,7 +365,7 @@
           },
           "upstream_category": "News",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "RBC",
@@ -382,7 +382,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://rssexport.rbc.ru/rbcnews/news/30/full.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sky News Arabia",
@@ -399,7 +399,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.skynewsarabia.com/web/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Top stories - Google News",
@@ -416,7 +416,7 @@
           },
           "upstream_category": "News",
           "source_url": "https://news.google.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Vedomosti",
@@ -433,7 +433,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.vedomosti.ru/rss/news",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Watan",
@@ -450,7 +450,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.watanserb.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "World",
@@ -501,7 +501,7 @@
           },
           "upstream_category": "News",
           "source_url": "https://www.theguardian.com/world/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India",
@@ -518,7 +518,7 @@
           },
           "upstream_category": "News",
           "source_url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ABC News",
@@ -554,7 +554,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.brisbanetimes.com.au/rss/feed.xml",
           "country": "AU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Business News - Latest Headlines",
@@ -572,7 +572,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.businessnews.com.au/rssfeed/latest.rss",
           "country": "AU",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Crikey",
@@ -590,7 +590,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://feeds.feedburner.com/com/rCTl",
           "country": "AU",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Independent Australia",
@@ -608,7 +608,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "http://feeds.feedburner.com/IndependentAustralia",
           "country": "AU",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "PerthNow",
@@ -626,7 +626,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.perthnow.com.au/news/feed",
           "country": "AU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sydney Morning Herald - Latest News",
@@ -644,7 +644,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.smh.com.au/rss/feed.xml",
           "country": "AU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Age - Latest News",
@@ -662,7 +662,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.theage.com.au/rss/feed.xml",
           "country": "AU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Canberra Times - Local News",
@@ -680,7 +680,7 @@
           "upstream_category": "Country: Australia",
           "source_url": "https://www.canberratimes.com.au/rss.xml",
           "country": "AU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BD24Live.com",
@@ -698,7 +698,7 @@
           "upstream_category": "Country: Bangladesh",
           "source_url": "https://www.bd24live.com/feed",
           "country": "BD",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "প্রথম আলো",
@@ -716,7 +716,7 @@
           "upstream_category": "Country: Bangladesh",
           "source_url": "https://www.prothomalo.com/feed/",
           "country": "BD",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Brasil Wire",
@@ -732,7 +732,7 @@
           "upstream_category": "Country: Brazil",
           "source_url": "http://www.brasilwire.com/feed/",
           "country": "BR",
-          "last_item": "2026-10-03"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Folha de S.Paulo - Em cima da hora - Principal",
@@ -750,7 +750,7 @@
           "upstream_category": "Country: Brazil",
           "source_url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml",
           "country": "BR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Jornal de Brasília",
@@ -768,7 +768,7 @@
           "upstream_category": "Country: Brazil",
           "source_url": "https://jornaldebrasilia.com.br/feed/",
           "country": "BR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Rio Times",
@@ -786,7 +786,7 @@
           "upstream_category": "Country: Brazil",
           "source_url": "https://riotimesonline.com/feed/",
           "country": "BR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "UOL",
@@ -804,7 +804,7 @@
           "upstream_category": "Country: Brazil",
           "source_url": "http://rss.home.uol.com.br/index.xml",
           "country": "BR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "CBC | Top Stories News",
@@ -822,7 +822,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://www.cbc.ca/cmlink/rss-topstories",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Financial Post",
@@ -840,7 +840,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://business.financialpost.com/feed/",
           "country": "CA",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "globalnews.ca",
@@ -858,7 +858,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://globalnews.ca/feed/",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "LaPresse.ca - Actualités",
@@ -876,7 +876,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://www.lapresse.ca/actualites/rss",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "National Post",
@@ -894,7 +894,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://nationalpost.com/feed/",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Ottawa Citizen",
@@ -912,7 +912,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://ottawacitizen.com/feed/",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Province",
@@ -930,7 +930,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://theprovince.com/feed/",
           "country": "CA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Toronto Sun - RSS Feed",
@@ -948,7 +948,7 @@
           "upstream_category": "Country: Canada",
           "source_url": "https://torontosun.com/category/news/feed",
           "country": "CA",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Aktuell - FAZ.NET",
@@ -966,7 +966,7 @@
           "upstream_category": "Country: Germany",
           "source_url": "https://www.faz.net/rss/aktuell/",
           "country": "DE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Deutsche Welle",
@@ -984,7 +984,7 @@
           "upstream_category": "Country: Germany",
           "source_url": "https://rss.dw.com/rdf/rss-en-all",
           "country": "DE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "tagesschau.de - Die Nachrichten der ARD",
@@ -1002,7 +1002,7 @@
           "upstream_category": "Country: Germany",
           "source_url": "http://www.tagesschau.de/xml/rss2",
           "country": "DE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ZEIT ONLINE | Nachrichten, Hintergründe und Debatten",
@@ -1020,7 +1020,7 @@
           "upstream_category": "Country: Germany",
           "source_url": "http://newsfeed.zeit.de/index",
           "country": "DE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "EL PAÍS: el periódico global",
@@ -1038,7 +1038,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ElDiario.es - ElDiario.es",
@@ -1056,7 +1056,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://www.eldiario.es/rss/",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "España",
@@ -1074,7 +1074,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://rss.elconfidencial.com/espana/",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Euro Weekly News Spain",
@@ -1092,7 +1092,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://www.euroweeklynews.com/feed/",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "huffingtonpost.es",
@@ -1110,7 +1110,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://www.huffingtonpost.es/feeds/index.xml",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Portada // expansion",
@@ -1128,7 +1128,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://e00-expansion.uecdn.es/rss/portada.xml",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Local",
@@ -1146,7 +1146,7 @@
           "upstream_category": "Country: Spain",
           "source_url": "https://feeds.thelocal.com/rss/es",
           "country": "ES",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "france24.com",
@@ -1164,7 +1164,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.france24.com/en/rss",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Franceinfo - Les Titres",
@@ -1182,25 +1182,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.francetvinfo.fr/titres.rss",
           "country": "FR",
-          "last_item": "2026-10-11"
-        },
-        {
-          "title": "L'essentiel",
-          "url": "https://www.sudouest.fr/essentiel/rss.xml",
-          "site": "sudouest.fr",
-          "homepage": "https://www.sudouest.fr/essentiel/",
-          "language": "fr",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 5390,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Country: France",
-          "source_url": "https://www.sudouest.fr/essentiel/rss.xml",
-          "country": "FR",
-          "last_item": "2026-10-04"
+          "last_item": "2026-10-18"
         },
         {
           "title": "L'Obs - A la une",
@@ -1218,7 +1200,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.nouvelobs.com/a-la-une/rss.xml",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr",
@@ -1236,7 +1218,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.ladepeche.fr/rss.xml",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Le Huffington Post",
@@ -1254,7 +1236,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.huffingtonpost.fr/feeds/index.xml",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Le Monde.fr - Actualités et Infos en France et dans le monde",
@@ -1272,7 +1254,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.lemonde.fr/rss/une.xml",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Mediapart",
@@ -1290,7 +1272,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.mediapart.fr/articles/feed",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Ouest-France - Actualité",
@@ -1308,7 +1290,7 @@
           "upstream_category": "Country: France",
           "source_url": "https://www.ouest-france.fr/rss-en-continu.xml",
           "country": "FR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Paris Star",
@@ -1342,7 +1324,7 @@
           "upstream_category": "Country: United Kingdom",
           "source_url": "http://feeds.bbci.co.uk/news/rss.xml",
           "country": "GB",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Daily Express :: News Feed",
@@ -1360,7 +1342,7 @@
           "upstream_category": "Country: United Kingdom",
           "source_url": "http://feeds.feedburner.com/daily-express-news-showbiz",
           "country": "GB",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Home | Mail Online",
@@ -1378,7 +1360,7 @@
           "upstream_category": "Country: United Kingdom",
           "source_url": "https://www.dailymail.co.uk/home/index.rss",
           "country": "GB",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Independent",
@@ -1396,7 +1378,7 @@
           "upstream_category": "Country: United Kingdom",
           "source_url": "http://www.independent.co.uk/news/uk/rss",
           "country": "GB",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Hong Kong Free Press HKFP",
@@ -1414,7 +1396,7 @@
           "upstream_category": "Country: Hong Kong SAR China",
           "source_url": "https://www.hongkongfp.com/feed/",
           "country": "HK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "hongkongnews.net latest rss headlines",
@@ -1430,7 +1412,7 @@
           "upstream_category": "Country: Hong Kong SAR China",
           "source_url": "http://feeds.hongkongnews.net/rss/b82693edf38ebff8",
           "country": "HK",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Republika Online RSS Feed",
@@ -1448,7 +1430,7 @@
           "upstream_category": "Country: Indonesia",
           "source_url": "https://www.republika.co.id/rss/",
           "country": "ID",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "All: BreakingNews.ie",
@@ -1484,7 +1466,7 @@
           "upstream_category": "Country: Ireland",
           "source_url": "https://www.irishmirror.ie/?service=rss",
           "country": "IE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "IrishCentral.com - Top Stories",
@@ -1502,7 +1484,7 @@
           "upstream_category": "Country: Ireland",
           "source_url": "https://feeds.feedburner.com/IrishCentral",
           "country": "IE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "IrishExaminer.com",
@@ -1520,7 +1502,7 @@
           "upstream_category": "Country: Ireland",
           "source_url": "https://feeds.feedburner.com/ietopstories",
           "country": "IE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The42",
@@ -1538,7 +1520,7 @@
           "upstream_category": "Country: Ireland",
           "source_url": "https://www.the42.ie/feed/",
           "country": "IE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TheJournal.ie",
@@ -1556,7 +1538,7 @@
           "upstream_category": "Country: Ireland",
           "source_url": "https://www.thejournal.ie/feed/",
           "country": "IE",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC News - India",
@@ -1574,7 +1556,7 @@
           "upstream_category": "Country: India",
           "source_url": "http://feeds.bbci.co.uk/news/world/asia/india/rss.xml",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Business Line - Home",
@@ -1592,7 +1574,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.thehindubusinessline.com/feeder/default.rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news",
@@ -1610,7 +1592,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.deccanchronicle.com/rss_feed/",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Free Press Journal",
@@ -1628,7 +1610,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.freepressjournal.in/stories.rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Home Page",
@@ -1646,7 +1628,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "India News",
@@ -1664,7 +1646,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.dnaindia.com/feeds/india.xml",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "India Today | Latest Stories",
@@ -1682,7 +1664,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.indiatoday.in/rss/home",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "India | The Guardian",
@@ -1700,7 +1682,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.theguardian.com/world/india/rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala",
@@ -1718,7 +1700,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.amarujala.com/rss/breaking-news.xml",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NDTV News -   Topstories",
@@ -1736,7 +1718,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://feeds.feedburner.com/ndtvnews-top-stories",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "OpIndia",
@@ -1772,7 +1754,7 @@
           "upstream_category": "Country: India",
           "source_url": "http://feeds.feedburner.com/ScrollinArticles.rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Swarajya",
@@ -1790,7 +1772,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TechGenyz",
@@ -1808,7 +1790,7 @@
           "upstream_category": "Country: India",
           "source_url": "http://feeds.feedburner.com/techgenyz",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Hindu - Home",
@@ -1826,7 +1808,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.thehindu.com/feeder/default.rss",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Times of India",
@@ -1844,7 +1826,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "देश | दैनिक भास्कर",
@@ -1862,7 +1844,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.bhaskar.com/rss-feed/1061/",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ઈન્ડિયા | દિવ્ય ભાસ્કર",
@@ -1880,7 +1862,7 @@
           "upstream_category": "Country: India",
           "source_url": "https://www.divyabhaskar.co.in/rss-feed/1037/",
           "country": "IN",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "تابناک | TABNAK",
@@ -1898,7 +1880,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.tabnak.ir/fa/rss/allnews",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency",
@@ -1916,7 +1898,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.isna.ir/rss",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC",
@@ -1934,7 +1916,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.yjc.ir/fa/rss/allnews",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline",
@@ -1952,7 +1934,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.khabaronline.ir/rss",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "خبرگزاری مهر | اخبار ایران و جهان | Mehr News Agency",
@@ -1970,7 +1952,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.mehrnews.com/rss",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "عصر ايران",
@@ -1988,7 +1970,7 @@
           "upstream_category": "Country: Iran",
           "source_url": "https://www.asriran.com/fa/rss/allnews",
           "country": "IR",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Adnkronos - ultimoratop",
@@ -2006,7 +1988,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "http://rss.adnkronos.com/RSS_PrimaPagina.xml",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Il Mattino Web",
@@ -2024,7 +2006,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Internazionale",
@@ -2042,7 +2024,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.internazionale.it/sitemaps/rss.xml",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Italy | The Guardian",
@@ -2060,7 +2042,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.theguardian.com/world/italy/rss",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Libero Quotidiano",
@@ -2078,7 +2060,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.liberoquotidiano.it/rss.xml",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Milan News",
@@ -2096,7 +2078,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.milannews.it/rss/",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Panorama",
@@ -2114,7 +2096,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.panorama.it/feeds/feed.rss",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Repubblica.it > Homepage",
@@ -2132,7 +2114,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.repubblica.it/rss/homepage/rss2.0.xml",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "RSS di   - ANSA.it",
@@ -2150,7 +2132,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://www.ansa.it/sito/ansait_rss.xml",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Local",
@@ -2168,7 +2150,7 @@
           "upstream_category": "Country: Italy",
           "source_url": "https://feeds.thelocal.com/rss/it",
           "country": "IT",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BRIDGE（ブリッジ）テクノロジー＆スタートアップ情報",
@@ -2186,7 +2168,7 @@
           "upstream_category": "Country: Japan",
           "source_url": "http://feeds.feedburner.com/SdJapan",
           "country": "JP",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Japan Today",
@@ -2222,7 +2204,7 @@
           "upstream_category": "Country: Japan",
           "source_url": "http://www.newsonjapan.com/rss/top.xml",
           "country": "JP",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NYT > Japan",
@@ -2240,7 +2222,7 @@
           "upstream_category": "Country: Japan",
           "source_url": "https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml",
           "country": "JP",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-17"
         },
         {
           "title": "ライブドアニュース - 主要トピックス",
@@ -2258,7 +2240,7 @@
           "upstream_category": "Country: Japan",
           "source_url": "https://news.livedoor.com/topics/rss/top.xml",
           "country": "JP",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "朝日新聞デジタル",
@@ -2276,7 +2258,7 @@
           "upstream_category": "Country: Japan",
           "source_url": "http://rss.asahi.com/rss/asahi/newsheadlines.rdf",
           "country": "JP",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "24 Horas",
@@ -2294,7 +2276,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.24-horas.mx/feed/",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "8 Columnas",
@@ -2310,7 +2292,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://8columnas.com.mx/feed/",
           "country": "MX",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "DEBATE",
@@ -2328,7 +2310,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.debate.com.mx/rss/feed.xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "El Financiero",
@@ -2346,7 +2328,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "El Informador :: Noticias de Jalisco, México, Deportes & Entretenimiento",
@@ -2364,7 +2346,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.informador.mx/rss/ultimas-noticias.xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ElNorte",
@@ -2382,7 +2364,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.elnorte.com/rss/portada.xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Lo último en Vanguardia MX",
@@ -2400,7 +2382,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://vanguardia.com.mx/rss.xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Mexico News Daily",
@@ -2418,7 +2400,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://mexiconewsdaily.com/feed/",
           "country": "MX",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Mexico | The Guardian",
@@ -2436,7 +2418,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.theguardian.com/world/mexico/rss",
           "country": "MX",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Portada, El Siglo de Torreón",
@@ -2454,7 +2436,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.elsiglodetorreon.com.mx/index.xml",
           "country": "MX",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Reforma",
@@ -2472,7 +2454,7 @@
           "upstream_category": "Country: Mexico",
           "source_url": "https://www.reforma.com/rss/portada.xml",
           "country": "MX",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Daily Post Nigeria",
@@ -2490,7 +2472,7 @@
           "upstream_category": "Country: Nigeria",
           "source_url": "https://dailypost.ng/feed",
           "country": "NG",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Information Nigeria",
@@ -2508,7 +2490,7 @@
           "upstream_category": "Country: Nigeria",
           "source_url": "https://www.informationng.com/feed",
           "country": "NG",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Legit.ng",
@@ -2526,7 +2508,7 @@
           "upstream_category": "Country: Nigeria",
           "source_url": "https://www.legit.ng/rss/all.rss",
           "country": "NG",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.",
@@ -2544,7 +2526,7 @@
           "upstream_category": "Country: Nigeria",
           "source_url": "http://feeds.feedburner.com/Nigerianeye",
           "country": "NG",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Premium Times Nigeria",
@@ -2562,7 +2544,7 @@
           "upstream_category": "Country: Nigeria",
           "source_url": "https://www.premiumtimesng.com/feed",
           "country": "NG",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Tribune Online",
@@ -2616,7 +2598,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.bworldonline.com/feed/",
           "country": "PH",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Current PH",
@@ -2632,7 +2614,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://currentph.com/feed/",
           "country": "PH",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "GMA News Online / News",
@@ -2650,7 +2632,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://data.gmanews.tv/gno/rss/news/feed.xml",
           "country": "PH",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "INQUIRER.net",
@@ -2668,7 +2650,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.inquirer.net/fullfeed",
           "country": "PH",
-          "last_item": "2026-10-12"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Interaksyon",
@@ -2686,7 +2668,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.interaksyon.com/feed/",
           "country": "PH",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "philstar.com - RSS Headlines",
@@ -2704,7 +2686,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.philstar.com/rss/headlines",
           "country": "PH",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TechPinas : Philippines' Technology News, Tips and Reviews Blog",
@@ -2722,7 +2704,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "http://feeds.feedburner.com/Techpinas",
           "country": "PH",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Top Gear: The Philippine authority on cars and the automotive industry",
@@ -2740,7 +2722,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.topgear.com.ph/feed/rss1",
           "country": "PH",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "UNBOX PH",
@@ -2758,7 +2740,7 @@
           "upstream_category": "Country: Philippines",
           "source_url": "https://www.unbox.ph/feed/",
           "country": "PH",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "News Blog",
@@ -2792,7 +2774,7 @@
           "upstream_category": "Country: Pakistan",
           "source_url": "https://tribune.com.pk/feed/home",
           "country": "PK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Nation - Top Stories",
@@ -2810,7 +2792,7 @@
           "upstream_category": "Country: Pakistan",
           "source_url": "https://nation.com.pk/rss/top-stories",
           "country": "PK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "UrduPoint.com All Urdu News",
@@ -2828,7 +2810,7 @@
           "upstream_category": "Country: Pakistan",
           "source_url": "https://www.urdupoint.com/rss/urdupoint.rss",
           "country": "PK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ایکسپریس اردو",
@@ -2846,7 +2828,7 @@
           "upstream_category": "Country: Pakistan",
           "source_url": "https://www.express.pk/feed/",
           "country": "PK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "قومی خبریں",
@@ -2864,7 +2846,7 @@
           "upstream_category": "Country: Pakistan",
           "source_url": "https://jang.com.pk/rss/1/1",
           "country": "PK",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Dziennik.pl Dziennik - dziennik.pl",
@@ -2882,7 +2864,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "http://rss.dziennik.pl/Dziennik-PL/",
           "country": "PL",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "GazetaPrawna.pl - biznes, podatki, prawo, finanse, wiadomości, praca",
@@ -2900,7 +2882,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "http://rss.gazetaprawna.pl/GazetaPrawna",
           "country": "PL",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "https://www.rp.pl",
@@ -2918,25 +2900,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "https://www.rp.pl/rss/1019",
           "country": "PL",
-          "last_item": "2026-10-11"
-        },
-        {
-          "title": "Najnowsze",
-          "url": "http://feeds.feedburner.com/wPolitycepl",
-          "site": "wpolityce.pl",
-          "homepage": "https://wpolityce.pl",
-          "language": "pl",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 2308,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Country: Poland",
-          "source_url": "http://feeds.feedburner.com/wPolitycepl",
-          "country": "PL",
-          "last_item": "2026-07-12"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Newsweek Polska",
@@ -2954,7 +2918,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "https://www.newsweek.pl/rss.xml",
           "country": "PL",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "RMF24.pl",
@@ -2972,7 +2936,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "https://www.rmf24.pl/feed",
           "country": "PL",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "www.wirtualnemedia.pl",
@@ -2990,7 +2954,7 @@
           "upstream_category": "Country: Poland",
           "source_url": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
           "country": "PL",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Lenta.ru : Новости",
@@ -3008,7 +2972,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://lenta.ru/rss",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "PravdaReport",
@@ -3026,13 +2990,13 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.pravdareport.com/export.xml",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "RT - Daily news",
           "url": "https://www.rt.com/rss/",
-          "site": "rt.com",
-          "homepage": "https://www.rt.com",
+          "site": "rt-english.com",
+          "homepage": "https://rt-english.com",
           "language": "en",
           "popularity": {
             "feedly_subscribers": null,
@@ -3044,7 +3008,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.rt.com/rss/",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TASS",
@@ -3062,7 +3026,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "http://tass.com/rss/v2.xml",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Moscow Times - Independent News From Russia",
@@ -3080,7 +3044,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.themoscowtimes.com/rss/news",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Все материалы - Московский Комсомолец",
@@ -3098,7 +3062,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.mk.ru/rss/index.xml",
           "country": "RU",
-          "last_item": "2026-10-04"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Газета \"Коммерсантъ\". Главное",
@@ -3116,7 +3080,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.kommersant.ru/RSS/main.xml",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Газета.Ru - Первая полоса",
@@ -3134,7 +3098,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://www.gazeta.ru/export/rss/first.xml",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Российская Газета",
@@ -3152,7 +3116,7 @@
           "upstream_category": "Country: Russia",
           "source_url": "https://rg.ru/xml/index.xml",
           "country": "RU",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Gazeta.ua",
@@ -3188,7 +3152,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://gordonua.com/xml/rss_category/top.html",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Еспресо - український погляд на світ!",
@@ -3224,7 +3188,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://rss.unian.net/site/news_rus.rss",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "НВ",
@@ -3242,7 +3206,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://nv.ua/rss/all.xml",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Новини на tsn.ua",
@@ -3260,7 +3224,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://tsn.ua/rss/full.rss",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Последние новости на сайте korrespondent.net",
@@ -3296,7 +3260,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://www.pravda.com.ua/rss/",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Цензор.НЕТ - Новости",
@@ -3314,7 +3278,7 @@
           "upstream_category": "Country: Ukraine",
           "source_url": "https://censor.net.ua/includes/news_ru.xml",
           "country": "UA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "FOX News",
@@ -3332,7 +3296,7 @@
           "upstream_category": "Country: United States",
           "source_url": "http://feeds.foxnews.com/foxnews/latest",
           "country": "US",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > Top Stories",
@@ -3350,7 +3314,7 @@
           "upstream_category": "Country: United States",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
           "country": "US",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Playbook",
@@ -3368,7 +3332,7 @@
           "upstream_category": "Country: United States",
           "source_url": "https://rss.politico.com/playbook.xml",
           "country": "US",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "World & Nation",
@@ -3386,7 +3350,7 @@
           "upstream_category": "Country: United States",
           "source_url": "https://www.latimes.com/world-nation/rss2.0.xml",
           "country": "US",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "World News - Breaking News, Top Stories",
@@ -3404,7 +3368,7 @@
           "upstream_category": "Country: United States",
           "source_url": "https://www.huffpost.com/section/world-news/feed",
           "country": "US",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Axios",
@@ -3422,7 +3386,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://api.axios.com/feed/",
           "country": "ZA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Daily Maverick",
@@ -3440,7 +3404,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://www.dailymaverick.co.za/dmrss/",
           "country": "ZA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "IOL section feed for News",
@@ -3476,7 +3440,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://www.moneyweb.co.za/feed/",
           "country": "ZA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TechCentral",
@@ -3494,7 +3458,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://techcentral.co.za/feed",
           "country": "ZA",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Citizen",
@@ -3512,7 +3476,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://citizen.co.za/feed/",
           "country": "ZA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The South African",
@@ -3530,7 +3494,7 @@
           "upstream_category": "Country: South Africa",
           "source_url": "https://www.thesouthafrican.com/feed/",
           "country": "ZA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -3555,7 +3519,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://3dnews.ru/news/rss/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "9to5Mac",
@@ -3572,7 +3536,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://9to5mac.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Aitnews",
@@ -3589,7 +3553,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://aitnews.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Alberto De Bortoli",
@@ -3621,7 +3585,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://blog.google/products/android/rss",
-          "last_item": "2026-09-10"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Android",
@@ -3638,7 +3602,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://www.reddit.com/r/android/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Android Authority",
@@ -3655,7 +3619,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://www.androidauthority.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Android Authority",
@@ -3672,7 +3636,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=AndroidAuthority",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Android Developers",
@@ -3689,7 +3653,7 @@
           },
           "upstream_category": "Android Development",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=androiddevelopers",
-          "last_item": "2026-10-02"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Android Developers Blog",
@@ -3723,7 +3687,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=Apple",
-          "last_item": "2026-09-24"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Apple Newsroom",
@@ -3740,7 +3704,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.apple.com/newsroom/rss-feed.rss",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-15"
         },
         {
           "title": "AppleInsider News",
@@ -3757,7 +3721,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://appleinsider.com/rss/news/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "ArabHardware",
@@ -3774,7 +3738,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://arabhardware.net/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Ars Technica - All content",
@@ -3791,7 +3755,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "http://feeds.arstechnica.com/arstechnica/index",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Articles on Smashing Magazine — For Web Designers And Developers",
@@ -3808,7 +3772,7 @@
           },
           "upstream_category": "UI - UX",
           "source_url": "https://www.smashingmagazine.com/feed",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Blackhat Library: Hacking techniques and research",
@@ -3825,7 +3789,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://www.reddit.com/r/blackhat/.rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Bruno Rocha",
@@ -3857,7 +3821,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.cnet.com/rss/news/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "CNET",
@@ -3874,7 +3838,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=CNETTV",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "CNews",
@@ -3891,7 +3855,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.cnews.ru/inc/rss/news.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Coding Horror",
@@ -3925,7 +3889,7 @@
           },
           "upstream_category": "Android Development",
           "source_url": "https://blog.jetbrains.com/blog/feed",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-13"
         },
         {
           "title": "CSS-Tricks",
@@ -3959,7 +3923,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.cultofmac.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Cyanogen Mods",
@@ -3991,7 +3955,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://www.reddit.com/r/cybersecurity/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "cybersecurity | TechCrunch",
@@ -4008,7 +3972,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://techcrunch.com/tag/cybersecurity/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Dan Lew Codes",
@@ -4040,7 +4004,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://daringfireball.net/feeds/main",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Darknet – Hacking Tools, Hacker News & Cyber Security",
@@ -4057,7 +4021,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://feeds.feedburner.com/darknethackers",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "Developing Android Apps",
@@ -4074,7 +4038,7 @@
           },
           "upstream_category": "Android Development",
           "source_url": "https://reddit.com/r/androiddev.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Droid Life – Opinionated Android news.",
@@ -4091,7 +4055,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://www.droid-life.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Engadget - Technology News & Expert Reviews",
@@ -4108,7 +4072,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.engadget.com/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Engineering at Meta",
@@ -4125,7 +4089,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://engineering.fb.com/feed/",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Engineering at Slack",
@@ -4176,7 +4140,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://about.gitlab.com/atom.xml",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Gizmodo",
@@ -4210,7 +4174,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://www.gsmarena.com/rss-news-reviews.php3",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Habr",
@@ -4227,7 +4191,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://habr.com/ru/rss/all/all/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Hacker News",
@@ -4244,7 +4208,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://news.ycombinator.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "inessential.com",
@@ -4278,7 +4242,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://feed.infoq.com",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "iXBT",
@@ -4295,7 +4259,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.ixbt.com/export/news.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Jake Wharton",
@@ -4327,7 +4291,7 @@
           },
           "upstream_category": "UI - UX",
           "source_url": "https://feeds.feedburner.com/JustCreativeDesignBlog",
-          "last_item": "2026-10-01"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Krebs on Security",
@@ -4344,7 +4308,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://krebsonsecurity.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Latest from Android Central",
@@ -4361,7 +4325,7 @@
           },
           "upstream_category": "Android",
           "source_url": "http://feeds.androidcentral.com/androidcentral",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Latest news",
@@ -4378,7 +4342,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://www.zdnet.com/topic/security/rss.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Latest News - Apple Developer",
@@ -4395,7 +4359,7 @@
           },
           "upstream_category": "iOS Development",
           "source_url": "https://developer.apple.com/news/rss/news.rss",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Lifehacker",
@@ -4412,7 +4376,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://lifehacker.com/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Linus Tech Tips",
@@ -4429,7 +4393,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=LinusTechTips",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "MacRumors",
@@ -4446,7 +4410,24 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=macrumors",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
+        },
+        {
+          "title": "MacStories",
+          "url": "https://www.macstories.net/feed/",
+          "site": "macstories.net",
+          "homepage": "https://www.macstories.net/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": 45034,
+            "source": [
+              "tranco"
+            ]
+          },
+          "upstream_category": "Apple",
+          "source_url": "https://www.macstories.net/feed",
+          "last_item": "2026-10-16"
         },
         {
           "title": "Macworld",
@@ -4463,7 +4444,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.macworld.com/index.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Marco.org",
@@ -4497,7 +4478,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=marquesbrownlee",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Martin Fowler",
@@ -4514,7 +4495,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://martinfowler.com/feed.atom",
-          "last_item": "2026-10-04"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Mashable",
@@ -4531,22 +4512,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "http://feeds.mashable.com/Mashable",
-          "last_item": "2026-10-11"
-        },
-        {
-          "title": "Mobile A11y",
-          "url": "https://mobilea11y.com/index.xml",
-          "site": "mobilea11y.com",
-          "homepage": "https://mobilea11y.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": null,
-            "source": []
-          },
-          "upstream_category": "iOS Development",
-          "source_url": "https://mobilea11y.com/index.xml",
-          "last_item": "2026-07-06"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NN/g latest articles and announcements",
@@ -4563,7 +4529,7 @@
           },
           "upstream_category": "UI - UX",
           "source_url": "https://www.nngroup.com/feed/rss/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NYT > Technology",
@@ -4580,7 +4546,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "OS X Daily",
@@ -4597,7 +4563,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "http://feeds.feedburner.com/osxdaily",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "overreacted — A blog by Dan Abramov",
@@ -4631,7 +4597,7 @@
           },
           "upstream_category": "Android Development",
           "source_url": "https://proandroiddev.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-15"
         },
         {
           "title": "programming",
@@ -4680,7 +4646,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.reddit.com/r/apple/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "r/iPhone",
@@ -4697,7 +4663,7 @@
           },
           "upstream_category": "Apple",
           "source_url": "https://www.reddit.com/r/iphone/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "ReadWrite",
@@ -4714,7 +4680,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://readwrite.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Schneier on Security",
@@ -4731,7 +4697,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://www.schneier.com/blog/index.rdf",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Scott Hanselman's Blog",
@@ -4763,7 +4729,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "http://scripting.com/rss.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Security Affairs",
@@ -4780,22 +4746,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://securityaffairs.co/wordpress/feed",
-          "last_item": "2026-10-11"
-        },
-        {
-          "title": "Sink In - Tech Learnings",
-          "url": "https://gosink.in/rss/",
-          "site": "gosink.in",
-          "homepage": "https://gosink.in/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": null,
-            "source": []
-          },
-          "upstream_category": "Web Development",
-          "source_url": "https://gosink.in/rss/",
-          "last_item": "2026-07-12"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Slashdot",
@@ -4812,7 +4763,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "http://rss.slashdot.org/Slashdot/slashdotMain",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "SoundCloud Backstage Blog",
@@ -4846,7 +4797,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://stackoverflow.blog/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Stratechery by Ben Thompson",
@@ -4863,7 +4814,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "http://stratechery.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Swift by Sundell",
@@ -4914,7 +4865,7 @@
           },
           "upstream_category": "Android",
           "source_url": "http://feeds.feedburner.com/AndroidNewsGoogleAndroidForums",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Tech-wd",
@@ -4931,7 +4882,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.tech-wd.com/wd/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Technical Information Security Content & Discussion",
@@ -4948,7 +4899,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://www.reddit.com/r/netsec/.rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Airbnb Tech Blog - Medium",
@@ -4965,7 +4916,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://medium.com/feed/airbnb-engineering",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-13"
         },
         {
           "title": "The GitHub Blog",
@@ -4982,7 +4933,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://github.blog/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "The Hacker News",
@@ -4999,7 +4950,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://thehackernews.com/feeds/posts/default",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The JetBrains Blog",
@@ -5016,7 +4967,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://blog.jetbrains.com/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Keyword",
@@ -5033,7 +4984,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.blog.google/rss/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Loop",
@@ -5067,7 +5018,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://thenextweb.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The One And Only Blog Of Joe Fabisevich",
@@ -5099,7 +5050,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.theverge.com/rss/index.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The Verge",
@@ -5116,7 +5067,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=TheVerge",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Unbox Therapy",
@@ -5133,7 +5084,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=unboxtherapy",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "User Experience",
@@ -5150,7 +5101,7 @@
           },
           "upstream_category": "UI - UX",
           "source_url": "https://www.reddit.com/r/userexperience/.rss",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-17"
         },
         {
           "title": "UX Collective - Medium",
@@ -5167,7 +5118,7 @@
           },
           "upstream_category": "UI - UX",
           "source_url": "https://uxdesign.cc/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "www.theregister.com - Articles",
@@ -5184,7 +5135,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://www.theregister.co.uk/security/headlines.atom",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "www.theregister.com - Articles",
@@ -5201,7 +5152,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.theregister.com/headlines.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -5226,7 +5177,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://alborsaanews.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Al Jazeera Arabic Economy",
@@ -5243,7 +5194,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/economy",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "All News",
@@ -5260,7 +5211,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://www.investing.com/rss/news.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Argaam",
@@ -5277,7 +5228,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Bitcoin - The Currency of the Internet",
@@ -5294,7 +5245,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.reddit.com/r/Bitcoin/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Bitcoin News",
@@ -5311,7 +5262,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://news.bitcoin.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Bloomberg Originals",
@@ -5328,7 +5279,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=Bloomberg",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Breaking News on Seeking Alpha",
@@ -5345,7 +5296,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://seekingalpha.com/market_currents.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Budgets Are Sexy",
@@ -5379,7 +5330,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=businessinsider",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Cointelegraph.com News",
@@ -5396,7 +5347,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://cointelegraph.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cryptocurrency News & Discussion",
@@ -5413,7 +5364,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.reddit.com/r/CryptoCurrency/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "cryptocurrency | TechCrunch",
@@ -5447,7 +5398,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.financemagnates.com/cryptocurrency/feed/",
-          "last_item": "2026-10-02"
+          "last_item": "2026-10-15"
         },
         {
           "title": "CryptoNinjas",
@@ -5464,7 +5415,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.cryptoninjas.net/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "CryptoPotato",
@@ -5481,7 +5432,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://cryptopotato.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "DailyCoin",
@@ -5498,7 +5449,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://dailycoin.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Economic Times",
@@ -5515,7 +5466,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Entrepreneur – Latest",
@@ -5532,7 +5483,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "http://feeds.feedburner.com/entrepreneur/latest",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Ethereum",
@@ -5549,7 +5500,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.reddit.com/r/ethereum/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Ethereum Foundation Blog",
@@ -5566,7 +5517,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://blog.ethereum.org/feed.xml",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Feld Thoughts",
@@ -5583,7 +5534,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://feld.com/feed",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Financial Samurai",
@@ -5600,7 +5551,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.financialsamurai.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Forbes - Business",
@@ -5617,7 +5568,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://www.forbes.com/business/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Fortune | FORTUNE",
@@ -5634,7 +5585,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://fortune.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "GaryVee",
@@ -5651,7 +5602,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=GaryVaynerchuk",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Hacker News: Front Page",
@@ -5668,7 +5619,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://hnrss.org/frontpage",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Inc.com",
@@ -5685,7 +5636,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://www.inc.com/rss/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "INCRYPTED",
@@ -5702,7 +5653,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://incrypted.net/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Kommersant",
@@ -5719,7 +5670,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.kommersant.ru/RSS/news.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Kraken Blog",
@@ -5736,7 +5687,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://blog.kraken.com/feed/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Making Sense Of Cents",
@@ -5753,7 +5704,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.makingsenseofcents.com/feed",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Marie Forleo",
@@ -5770,7 +5721,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=marieforleo",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Money Crashers",
@@ -5787,7 +5738,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.moneycrashers.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Money Saving Mom®",
@@ -5804,7 +5755,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://moneysavingmom.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Money Under 30",
@@ -5821,7 +5772,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.moneyunder30.com/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "MoneyNing",
@@ -5855,7 +5806,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.nerdwallet.com/blog/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "News - Cryptonews",
@@ -5872,7 +5823,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://cryptonews.com/news/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NewsBTC",
@@ -5889,7 +5840,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://www.newsbtc.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Oblivious Investor",
@@ -5938,7 +5889,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://www.producthunt.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "SavingAdvice.com Blog",
@@ -5955,7 +5906,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://www.savingadvice.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Small Business Trends",
@@ -5972,7 +5923,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://feeds2.feedburner.com/SmallBusinessTrends",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Steve Blank",
@@ -5989,7 +5940,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://steveblank.com/feed/",
-          "last_item": "2026-09-30"
+          "last_item": "2026-10-13"
         },
         {
           "title": "The Bad Crypto Podcast",
@@ -6021,7 +5972,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://thecollegeinvestor.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Intercom Blog",
@@ -6072,7 +6023,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "VentureBeat",
@@ -6126,23 +6077,6 @@
           "last_item": "2026-10-09"
         },
         {
-          "title": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/news/rssindex",
-          "site": "finance.yahoo.com",
-          "homepage": "https://finance.yahoo.com/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 60,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Business & Economy",
-          "source_url": "https://finance.yahoo.com/news/rssindex",
-          "last_item": "2026-09-23"
-        },
-        {
           "title": "ZebPay",
           "url": "https://zebpay.com/feed",
           "site": "zebpay.com",
@@ -6157,7 +6091,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://zebpay.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-14"
         }
       ]
     },
@@ -6182,7 +6116,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/sport",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Arriyadiyah",
@@ -6199,7 +6133,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.arriyadiyah.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Arabic Sports",
@@ -6216,7 +6150,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://feeds.bbci.co.uk/arabic/sports/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Sport",
@@ -6233,7 +6167,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "http://feeds.bbci.co.uk/sport/cricket/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Sport",
@@ -6250,7 +6184,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Sport",
@@ -6267,7 +6201,7 @@
           },
           "upstream_category": "Sports",
           "source_url": "http://feeds.bbci.co.uk/sport/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Sport",
@@ -6284,7 +6218,7 @@
           },
           "upstream_category": "Tennis",
           "source_url": "http://feeds.bbci.co.uk/sport/tennis/rss.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Cricbuzz",
@@ -6301,7 +6235,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCSRQXk5yErn4e14vN76upOw",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cricket",
@@ -6318,7 +6252,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.reddit.com/r/Cricket/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cricket news from ESPN Cricinfo.com",
@@ -6335,7 +6269,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "http://www.espncricinfo.com/rss/content/story/feeds/0.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cricket News Today, Latest Cricket Updates, Cricket Live Score, Upcoming Matches | Times of India",
@@ -6352,7 +6286,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cricket News: Stories, Features, Interviews, Opinion, Reports | Wisden",
@@ -6369,7 +6303,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.wisden.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Cricket | The Guardian",
@@ -6386,7 +6320,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.theguardian.com/sport/cricket/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "cricket.com.au",
@@ -6403,7 +6337,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=cricketaustraliatv",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "EFL Championship",
@@ -6420,7 +6354,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://www.reddit.com/r/Championship/.rss?format=xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "England & Wales Cricket Board",
@@ -6437,7 +6371,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=ecbcricket",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Football - The People's Sport",
@@ -6454,7 +6388,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://www.reddit.com/r/football/.rss?format=xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Football News, Football Scores, Premier League, La Liga, ISL | The Hindu",
@@ -6471,7 +6405,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://www.thehindu.com/sport/football/feeder/default.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Football | The Guardian",
@@ -6488,7 +6422,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://www.theguardian.com/football/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Kooora",
@@ -6505,7 +6439,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://feeds.footballco.com/kooora/feed/6p5bsxot7te8yick",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NDTV News Search Records Found 1000",
@@ -6522,7 +6456,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "http://feeds.feedburner.com/ndtvsports-cricket",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > Sports > Soccer",
@@ -6573,7 +6507,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCiWrjBhlICf_L_RK5y6Vrxw",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Perfect Tennis",
@@ -6590,7 +6524,7 @@
           },
           "upstream_category": "Tennis",
           "source_url": "https://www.perfect-tennis.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Reddit Sports",
@@ -6624,7 +6558,7 @@
           },
           "upstream_category": "Football",
           "source_url": "https://www.soccernews.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sport | The Guardian",
@@ -6641,7 +6575,7 @@
           },
           "upstream_category": "Sports",
           "source_url": "https://www.theguardian.com/uk/sport/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sports News - Latest Sports and Football News | Sky News",
@@ -6658,7 +6592,7 @@
           },
           "upstream_category": "Sports",
           "source_url": "http://feeds.skynews.com/feeds/rss/sports.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
@@ -6675,7 +6609,7 @@
           },
           "upstream_category": "Sports",
           "source_url": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sports.ru",
@@ -6692,7 +6626,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.sports.ru/rss/all_news.xml",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-18"
         },
         {
           "title": "sports.yahoo.com",
@@ -6709,7 +6643,7 @@
           },
           "upstream_category": "Sports",
           "source_url": "https://sports.yahoo.com/rss/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Sri Lanka Cricket",
@@ -6726,7 +6660,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=TheOfficialSLC",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Tennis News & Discussion",
@@ -6760,7 +6694,7 @@
           },
           "upstream_category": "Tennis",
           "source_url": "https://www.thehindu.com/sport/tennis/feeder/default.rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Tennis | The Guardian",
@@ -6777,7 +6711,7 @@
           },
           "upstream_category": "Tennis",
           "source_url": "https://www.theguardian.com/sport/tennis/rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         }
       ]
     },
@@ -6802,7 +6736,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://feeds2.feedburner.com/slashfilm",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "500px",
@@ -6851,7 +6785,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://www.aintitcool.com/node/feed/",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Al Jazeera Arabic Culture",
@@ -6868,7 +6802,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/culture",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Al-Araby Culture",
@@ -6902,7 +6836,7 @@
           },
           "upstream_category": "Books",
           "source_url": "https://bookriot.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "ComingSoon.net – Movie Trailers, TV & Streaming News, and More",
@@ -6919,7 +6853,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://www.comingsoon.net/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Deadline",
@@ -6936,7 +6870,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://deadline.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Digital Photography School",
@@ -6953,7 +6887,7 @@
           },
           "upstream_category": "Photography",
           "source_url": "https://feeds.feedburner.com/DigitalPhotographySchool",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-14"
         },
         {
           "title": "FirstShowing.net",
@@ -6970,7 +6904,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://www.firstshowing.net/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "History in 28-minutes",
@@ -6987,7 +6921,7 @@
           },
           "upstream_category": "History",
           "source_url": "https://www.historyisnowmagazine.com/blog?format=RSS",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "IndieWire",
@@ -7004,7 +6938,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://www.indiewire.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Light Stalking",
@@ -7021,7 +6955,7 @@
           },
           "upstream_category": "Photography",
           "source_url": "https://www.lightstalking.com/feed/",
-          "last_item": "2026-09-25"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Movie News and Discussion",
@@ -7055,7 +6989,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://www.bleedingcool.com/movies/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "NewInBooks",
@@ -7070,7 +7004,7 @@
           },
           "upstream_category": "Books",
           "source_url": "https://www.newinbooks.com/feed/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "PetaPixel",
@@ -7087,7 +7021,7 @@
           },
           "upstream_category": "Photography",
           "source_url": "https://petapixel.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Raseef22",
@@ -7104,7 +7038,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://raseef22.net/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "So many books, so little time",
@@ -7121,7 +7055,7 @@
           },
           "upstream_category": "Books",
           "source_url": "https://reddit.com/r/books/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Strobist",
@@ -7155,7 +7089,7 @@
           },
           "upstream_category": "Television",
           "source_url": "https://tvline.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Variety",
@@ -7172,7 +7106,7 @@
           },
           "upstream_category": "Movies",
           "source_url": "https://variety.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "📺Television News and Discussion",
@@ -7214,7 +7148,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/health",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Altibbi",
@@ -7231,7 +7165,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://altibbi.com/rss/editorial",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -7259,6 +7193,21 @@
           "last_item": "2026-10-11"
         },
         {
+          "title": "Active Wild",
+          "url": "https://www.activewild.com/feed/",
+          "site": "activewild.com",
+          "homepage": "https://www.activewild.com/",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Animal & Wildlife",
+          "source_url": "https://www.activewild.com/feed/",
+          "last_item": "2026-10-12"
+        },
+        {
           "title": "Al Jazeera Arabic Science",
           "url": "https://www.aljazeera.net/aljazeerarss/science",
           "site": "aljazeera.net",
@@ -7273,7 +7222,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/science",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BBC Earth",
@@ -7290,7 +7239,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCwmZiChSryoWQCZMIQezgTg",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "BBC News",
@@ -7307,7 +7256,7 @@
           },
           "upstream_category": "Science",
           "source_url": "http://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BLOG POSTS – Mark Avery",
@@ -7322,7 +7271,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://markavery.info/blog/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Blog | Nature | PBS",
@@ -7339,7 +7288,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://www.pbs.org/wnet/nature/blog/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Conservation International",
@@ -7356,7 +7305,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCam5sCp6mzGBcn8ZBB2RBJg",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "DW Arabic Science",
@@ -7373,7 +7322,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://rss.dw.com/rdf/rss-ar-sci",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "EarthPorn: Amazing images of light and landscape",
@@ -7424,7 +7373,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://www.reddit.com/r/environment/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Environment + Energy – The Conversation",
@@ -7441,7 +7390,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://theconversation.com/au/environment/articles.atom",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Environment News, Earth News, Global Warming, Wild Life, Carbon Trading, Climate Business, Climate Change & Pollution News",
@@ -7458,7 +7407,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Environment | The Guardian",
@@ -7475,7 +7424,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://www.theguardian.com/us/environment/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Explore Oceans",
@@ -7507,7 +7456,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://flowingdata.com/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Good Good Good",
@@ -7524,7 +7473,22 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://www.goodgoodgood.co/articles/rss.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
+        },
+        {
+          "title": "Latest from Space.com",
+          "url": "https://www.space.com/feeds/all",
+          "site": "space.com",
+          "homepage": "https://www.space.com/feeds.xml",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Space",
+          "source_url": "https://www.space.com/feeds/all",
+          "last_item": "2026-10-18"
         },
         {
           "title": "Latest Science News -- ScienceDaily",
@@ -7541,7 +7505,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://www.sciencedaily.com/rss/all.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Love Nature",
@@ -7558,7 +7522,7 @@
           },
           "upstream_category": "Animal & Wildlife",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRZPkuHwaoKwTP3CYPdVldg",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-18"
         },
         {
           "title": "N+1",
@@ -7575,7 +7539,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://nplus1.ru/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NASA",
@@ -7592,7 +7556,7 @@
           },
           "upstream_category": "Space",
           "source_url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "National Geographic",
@@ -7609,7 +7573,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpVm7bg6pXKo1Pr6k5kxG9A",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Nature",
@@ -7626,7 +7590,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "http://feeds.nature.com/nature/rss/current?x=1",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Nature",
@@ -7660,7 +7624,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://www.nature.com/nature.rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Nature Gifs",
@@ -7694,7 +7658,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCcBp_9YPyma4c3HTadmRJ3Q",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "nature video",
@@ -7711,7 +7675,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC7c8mE90qCtu11z47U0KErg",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-14"
         },
         {
           "title": "New Scientist - Space",
@@ -7728,7 +7692,7 @@
           },
           "upstream_category": "Space",
           "source_url": "https://www.newscientist.com/subject/space/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NPR Topics: Environment",
@@ -7745,7 +7709,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://feeds.npr.org/1025/rss.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NYT > Climate and Environment",
@@ -7762,7 +7726,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "NYT > Science",
@@ -7779,7 +7743,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Phys.org - latest science and technology news stories",
@@ -7796,7 +7760,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://phys.org/rss-feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Popular Science",
@@ -7813,7 +7777,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://www.popsci.com/arcio/rss/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Prakati India",
@@ -7828,7 +7792,7 @@
           },
           "upstream_category": "Environment",
           "source_url": "https://www.prakati.in/feed/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Real Wild",
@@ -7845,7 +7809,7 @@
           },
           "upstream_category": "Animal & Wildlife",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbq-4OJxnziD3awH-aTezeA",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Reddit Science",
@@ -7877,7 +7841,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://reflectionsofthenaturalworld.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Science",
@@ -7911,7 +7875,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://www.wired.com/feed/category/science/latest/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Scientific American Content: Global",
@@ -7928,7 +7892,7 @@
           },
           "upstream_category": "Science",
           "source_url": "http://rss.sciam.com/ScientificAmerican-Global",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Space | The Guardian",
@@ -7945,7 +7909,7 @@
           },
           "upstream_category": "Space",
           "source_url": "https://www.theguardian.com/science/space/rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "SpaceX",
@@ -7979,7 +7943,7 @@
           },
           "upstream_category": "Nature",
           "source_url": "https://naturecanada.ca/category/news/blog/feed/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Wildlife Photography: Gear, Photos & Discussion",
@@ -7996,7 +7960,7 @@
           },
           "upstream_category": "Animal & Wildlife",
           "source_url": "https://www.reddit.com/r/wildlifephotography/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Wildlife | The Guardian",
@@ -8013,7 +7977,7 @@
           },
           "upstream_category": "Animal & Wildlife",
           "source_url": "https://www.theguardian.com/environment/wildlife/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "🔥 Nature Is Fucking Lit",
@@ -8030,7 +7994,7 @@
           },
           "upstream_category": "Animal & Wildlife",
           "source_url": "https://www.reddit.com/r/NatureIsFuckingLit/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -8055,7 +8019,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/music",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Consequence",
@@ -8072,7 +8036,7 @@
           },
           "upstream_category": "Music",
           "source_url": "http://consequenceofsound.net/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Music Business Worldwide",
@@ -8089,7 +8053,7 @@
           },
           "upstream_category": "Music",
           "source_url": "https://www.musicbusinessworldwide.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "RSS: News",
@@ -8106,7 +8070,7 @@
           },
           "upstream_category": "Music",
           "source_url": "http://pitchfork.com/rss/news",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         }
       ]
     },
@@ -8131,7 +8095,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Better Chess",
@@ -8163,24 +8127,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://en.chessbase.com/feed",
-          "last_item": "2026-10-11"
-        },
-        {
-          "title": "Chess Talk",
-          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA",
-          "site": "youtube.com",
-          "homepage": "https://www.youtube.com/channel/UC6HDXr-sNPnWLF_Q-y3KduA",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 10,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Chess",
-          "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA",
-          "last_item": "2026-07-08"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Chess | The Guardian",
@@ -8197,7 +8144,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.theguardian.com/sport/chess/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Chess.com",
@@ -8214,7 +8161,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=wwwChesscom",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Chess.com News",
@@ -8231,7 +8178,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.chess.com/rss/news",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "chess24",
@@ -8282,7 +8229,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCIsEhwBMPkRHsEgqYAPQHsA",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Eurogamer.net Latest Articles Feed",
@@ -8299,7 +8246,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://www.eurogamer.net/?format=rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "For the budding patzer",
@@ -8316,7 +8263,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.reddit.com/r/chessbeginners/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "GameSpot - All Content",
@@ -8333,7 +8280,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://www.gamespot.com/feeds/mashup/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "IGN Articles",
@@ -8350,7 +8297,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "http://feeds.ign.com/ign/all",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "IGN Middle East (Arabic)",
@@ -8367,7 +8314,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://me.ign.com/ar/feed.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Indie Games Plus",
@@ -8382,7 +8329,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://indiegamesplus.com/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Kotaku",
@@ -8399,7 +8346,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://kotaku.com/rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Lichess's Blog",
@@ -8433,7 +8380,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://www.polygon.com/rss/index.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "r/Chess",
@@ -8450,7 +8397,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://www.reddit.com/r/chess/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "r/gaming",
@@ -8484,7 +8431,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "http://feeds.feedburner.com/RockPaperShotgun",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Steam RSS News Feed",
@@ -8501,7 +8448,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://store.steampowered.com/feeds/news.xml",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Ancient Gaming Noob",
@@ -8518,7 +8465,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "http://feeds.feedburner.com/TheAncientGamingNoob",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The Escapist",
@@ -8535,7 +8482,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://www.escapistmagazine.com/v2/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The Week in Chess",
@@ -8569,7 +8516,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "https://toucharcade.com/community/forums/-/index.rss",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-17"
         }
       ]
     },
@@ -8611,7 +8558,7 @@
           },
           "upstream_category": "Food",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Budget Bytes",
@@ -8628,7 +8575,7 @@
           },
           "upstream_category": "Food",
           "source_url": "http://budgetbytes.blogspot.com/feeds/posts/default",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "David Lebovitz",
@@ -8662,7 +8609,7 @@
           },
           "upstream_category": "Food",
           "source_url": "https://www.howsweeteats.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Kitchn | Inspiring cooks, nourishing homes",
@@ -8679,7 +8626,7 @@
           },
           "upstream_category": "Food",
           "source_url": "https://www.thekitchn.com/main.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Laura in the Kitchen",
@@ -8696,7 +8643,7 @@
           },
           "upstream_category": "Food",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=LauraVitalesKitchen",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Love and Lemons",
@@ -8745,7 +8692,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.mtbakhcom.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > Food",
@@ -8762,7 +8709,7 @@
           },
           "upstream_category": "Food",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/DiningandWine.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Shutterbean",
@@ -8779,7 +8726,7 @@
           },
           "upstream_category": "Food",
           "source_url": "http://www.shutterbean.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "smitten kitchen",
@@ -8821,7 +8768,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "http://adventure.com/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Al Jazeera Arabic Travel",
@@ -8838,7 +8785,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/travel",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Atlas Obscura - Latest Articles and Places",
@@ -8855,7 +8802,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "https://www.atlasobscura.com/feeds/latest",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Everything Everywhere",
@@ -8872,7 +8819,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "http://feeds2.feedburner.com/EverythingEverywhere/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > Travel",
@@ -8889,7 +8836,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-16"
         },
         {
           "title": "TFIL (Traveling to EVERY COUNTRY in A-Z Order)",
@@ -8923,7 +8870,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "http://feeds.feedburner.com/thepointsguy",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Travel Blog -",
@@ -8957,7 +8904,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "https://www.traveldudes.com/feed/",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Travel | The Guardian",
@@ -8974,7 +8921,7 @@
           },
           "upstream_category": "Travel",
           "source_url": "https://www.theguardian.com/uk/travel/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -8999,7 +8946,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.almuraba.net/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "ArabGT",
@@ -9016,7 +8963,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://arabgt.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Assayyarat",
@@ -9033,7 +8980,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.assayyarat.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Auto Al Arab",
@@ -9048,7 +8995,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.autoalarab.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Autocar RSS Feed",
@@ -9065,7 +9012,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.autocar.co.uk/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BikeEXIF",
@@ -9082,7 +9029,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.bikeexif.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-14"
         },
         {
           "title": "BMWBLOG",
@@ -9099,7 +9046,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://feeds.feedburner.com/BmwBlog",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Carscoops",
@@ -9116,7 +9063,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.carscoops.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Dubicars News (Arabic)",
@@ -9133,7 +9080,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.dubicars.com/news/ar/feed",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Formula 1",
@@ -9150,7 +9097,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.reddit.com/r/formula1/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Jalopnik - Obsessed with the culture of cars",
@@ -9167,7 +9114,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://jalopnik.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Latest Content - Car and Driver",
@@ -9184,7 +9131,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.caranddriver.com/rss/all.xml/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The best vintage and classic cars for sale online | Bring a Trailer",
@@ -9201,7 +9148,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://bringatrailer.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "TheTruthAboutCars",
@@ -9218,7 +9165,7 @@
           },
           "upstream_category": "Cars",
           "source_url": "https://www.thetruthaboutcars.com/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         }
       ]
     },
@@ -9243,7 +9190,7 @@
           },
           "upstream_category": "Beauty",
           "source_url": "https://www.elle.com/rss/beauty.xml/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Fashion - ELLE",
@@ -9260,7 +9207,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.elle.com/rss/fashion.xml/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Fashion | The Guardian",
@@ -9277,7 +9224,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.theguardian.com/fashion/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "fashionbeans.com",
@@ -9294,7 +9241,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.fashionbeans.com/rss-feed/?category=fashion",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Fashionista Full",
@@ -9311,7 +9258,7 @@
           },
           "upstream_category": "Beauty",
           "source_url": "https://fashionista.com/.rss/excerpt/beauty",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Fashionista Full",
@@ -9328,7 +9275,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://fashionista.com/.rss/excerpt/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Latest from Who What Wear",
@@ -9345,7 +9292,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.whowhatwear.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "NYT > Style",
@@ -9362,7 +9309,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://rss.nytimes.com/services/xml/rss/nyt/FashionandStyle.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "POPSUGAR Beauty",
@@ -9379,7 +9326,7 @@
           },
           "upstream_category": "Beauty",
           "source_url": "https://www.popsugar.com/beauty/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-15"
         },
         {
           "title": "POPSUGAR Fashion",
@@ -9396,7 +9343,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.popsugar.com/fashion/feed",
-          "last_item": "2026-09-29"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Refinery29",
@@ -9413,7 +9360,7 @@
           },
           "upstream_category": "Beauty",
           "source_url": "https://www.refinery29.com/beauty/rss.xml",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Refinery29",
@@ -9430,7 +9377,7 @@
           },
           "upstream_category": "Fashion",
           "source_url": "https://www.refinery29.com/fashion/rss.xml",
-          "last_item": "2026-10-02"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Sayidaty",
@@ -9447,7 +9394,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.sayidaty.net/rss.xml",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Beauty Look Book",
@@ -9487,7 +9434,7 @@
           },
           "upstream_category": "DIY",
           "source_url": "https://abeautifulmess.com/feed",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-11"
         },
         {
           "title": "Al-Aqarat Al-Yawm",
@@ -9502,7 +9449,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.alaqaratalyoum.com/feeds/posts/default?alt=rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "ArchDaily Global",
@@ -9519,7 +9466,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "http://feeds.feedburner.com/Archdaily",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Architectural Digest",
@@ -9536,7 +9483,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.architecturaldigest.com/feed/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Architectural Digest",
@@ -9553,7 +9500,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=ArchitecturalDigest",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Architecture",
@@ -9570,7 +9517,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.reddit.com/r/architecture/.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "architecture archives | designboom | architecture & design magazine",
@@ -9587,7 +9534,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.designboom.com/architecture/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Architecture news and projects | Dezeen",
@@ -9604,7 +9551,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.dezeen.com/architecture/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "BLOG - decor8",
@@ -9638,7 +9585,7 @@
           },
           "upstream_category": "DIY",
           "source_url": "https://hackaday.com/blog/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Centsational Style",
@@ -9653,7 +9600,7 @@
           },
           "upstream_category": "DIY",
           "source_url": "https://centsationalstyle.com/feed/",
-          "last_item": "2026-10-04"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Core77",
@@ -9670,7 +9617,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "http://feeds.feedburner.com/core77/blog",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "design archives | designboom | architecture & design magazine",
@@ -9687,7 +9634,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://www.designboom.com/design/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Design MilkArchitecture, Architectural Designs, and House Designs | Design Milk",
@@ -9704,7 +9651,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://design-milk.com/category/architecture/feed/",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Design MilkInterior Design Ideas for Your Modern Home | Design Milk",
@@ -9721,7 +9668,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://design-milk.com/category/interior-design/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "How-To Geek",
@@ -9738,7 +9685,7 @@
           },
           "upstream_category": "DIY",
           "source_url": "https://www.howtogeek.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "IKEA Hackers",
@@ -9772,7 +9719,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://inmyownstyle.com/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Interior Design (Interior Architecture)",
@@ -9823,7 +9770,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://www.dezeen.com/interiors/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Latest from Ideal Home in News",
@@ -9840,7 +9787,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://www.idealhome.co.uk/feed",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Living Big In A Tiny House",
@@ -9857,7 +9804,7 @@
           },
           "upstream_category": "Architecture",
           "source_url": "https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "MakeUseOf",
@@ -9874,7 +9821,7 @@
           },
           "upstream_category": "DIY",
           "source_url": "https://www.makeuseof.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Property News Arabic",
@@ -9889,7 +9836,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.propertynewsarabic.com/feed/",
-          "last_item": "2026-10-02"
+          "last_item": "2026-10-14"
         },
         {
           "title": "PropertyPlus Egypt",
@@ -9904,7 +9851,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://propertypluseg.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Inspired Room",
@@ -9921,7 +9868,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://theinspiredroom.net/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Thrifty Decor Chick | Thrifty DIY, Decor and Organizing",
@@ -9938,7 +9885,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "http://feeds.feedburner.com/blogspot/ZBcZ",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Trendir",
@@ -9955,7 +9902,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://www.trendir.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Yanko Design",
@@ -9972,7 +9919,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "http://feeds.feedburner.com/yankodesign",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Yatzer | Live Beautifully. Explore Endlessly.",
@@ -9989,7 +9936,7 @@
           },
           "upstream_category": "Interior design",
           "source_url": "https://www.yatzer.com/rss.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Young House Love",
@@ -10038,7 +9985,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/opinion",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Al-Araby Opinion",
@@ -10072,7 +10019,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://aawsat.com/feed/opinion",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         }
       ]
     },
@@ -10097,7 +10044,7 @@
           },
           "upstream_category": "History",
           "source_url": "https://feeds.megaphone.fm/ESP5765452710",
-          "last_item": "2026-10-01"
+          "last_item": "2026-10-15"
         },
         {
           "title": "60-Second Science",
@@ -10114,7 +10061,7 @@
           },
           "upstream_category": "Science",
           "source_url": "http://rss.sciam.com/sciam/60secsciencepodcast",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Accidental Tech Podcast",
@@ -10131,7 +10078,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://atp.fm/rss",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Afford Anything®",
@@ -10146,7 +10093,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://affordanything.com/feed/",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-12"
         },
         {
           "title": "Afford Anything®",
@@ -10161,7 +10108,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://feeds.feedburner.com/AffordAnythingFeed",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-12"
         },
         {
           "title": "Al Jazeera Arabic Podcasts",
@@ -10178,7 +10125,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/podcast",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Analog(ue)",
@@ -10212,7 +10159,7 @@
           },
           "upstream_category": "Android Development",
           "source_url": "http://feeds.feedburner.com/blogspot/androiddevelopersbackstage",
-          "last_item": "2026-08-05"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Bionic Planet: Reversing Climate Change by Restoring Nature",
@@ -10244,7 +10191,7 @@
           },
           "upstream_category": "Cryptocurrency",
           "source_url": "https://bitcoinaudible.com/feed/",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Blind Android Users Podcast",
@@ -10261,7 +10208,7 @@
           },
           "upstream_category": "Android",
           "source_url": "https://anchor.fm/s/4495abac/podcast/rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Clockwise",
@@ -10278,7 +10225,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://www.relay.fm/clockwise/feed",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-14"
         },
         {
           "title": "CyberWire Daily",
@@ -10363,7 +10310,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://podcasts.files.bbci.co.uk/p002w557.rss",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "EconTalk",
@@ -10380,7 +10327,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://feeds.simplecast.com/wgl4xEgL",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies",
@@ -10448,7 +10395,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://feeds.megaphone.fm/hacking-humans",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Hanselminutes with Scott Hanselman",
@@ -10465,7 +10412,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://feeds.simplecast.com/gvtxUiIf",
-          "last_item": "2026-08-21"
+          "last_item": "2026-10-15"
         },
         {
           "title": "HBR IdeaCast",
@@ -10482,7 +10429,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "http://feeds.harvardbusiness.org/harvardbusiness/ideacast",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Hidden Brain",
@@ -10499,7 +10446,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://feeds.npr.org/510308/podcast.xml",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "How I Built This with Guy Raz",
@@ -10516,7 +10463,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://feeds.npr.org/510313/podcast.xml",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Interviews",
@@ -10550,7 +10497,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "http://investlikethebest.libsyn.com/rss",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Invisibilia",
@@ -10584,24 +10531,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://audioboom.com/channels/4991893.rss",
-          "last_item": "2026-10-06"
-        },
-        {
-          "title": "MacStories",
-          "url": "https://www.macstories.net/feed/",
-          "site": "macstories.net",
-          "homepage": "https://www.macstories.net/",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 45034,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Apple",
-          "source_url": "https://www.macstories.net/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Masters of Scale",
@@ -10618,7 +10548,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://rss.art19.com/masters-of-scale",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Money For the Rest of Us",
@@ -10635,7 +10565,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://rss.art19.com/money-for-the-rest-of-us",
-          "last_item": "2026-09-30"
+          "last_item": "2026-10-14"
         },
         {
           "title": "MyWifeQuitHerJob.com",
@@ -10652,7 +10582,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://mywifequitherjob.com/feed/",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "Nerd's Eye View | Kitces.com",
@@ -10669,7 +10599,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "http://feeds.feedblitz.com/kitcesnerdseyeview&x=1",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Perpetual Chess Podcast",
@@ -10686,7 +10616,7 @@
           },
           "upstream_category": "Chess",
           "source_url": "https://feeds.megaphone.fm/BLU4811105299",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Planet Money",
@@ -10703,7 +10633,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://feeds.npr.org/510289/podcast.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "PlayStation.Blog",
@@ -10720,7 +10650,7 @@
           },
           "upstream_category": "Gaming",
           "source_url": "http://feeds.feedburner.com/psblog",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Podcast Archives - Software Engineering Daily",
@@ -10737,7 +10667,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://softwareengineeringdaily.com/category/podcast/feed",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Probably Science",
@@ -10754,7 +10684,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://probablyscience.libsyn.com/rss",
-          "last_item": "2026-09-30"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Programming Throwdown",
@@ -10788,7 +10718,7 @@
           },
           "upstream_category": "Science",
           "source_url": "http://feeds.wnyc.org/radiolab",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Risky Business",
@@ -10805,7 +10735,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "https://risky.biz/feeds/risky-business",
-          "last_item": "2026-09-30"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Sawbones: A Marital Tour of Misguided Medicine",
@@ -10822,7 +10752,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://feeds.simplecast.com/y1LF_sn2",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Shirtloads of Science",
@@ -10839,7 +10769,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://shirtloadsofscience.libsyn.com/rss",
-          "last_item": "2026-10-03"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Smashing Security",
@@ -10854,7 +10784,7 @@
           },
           "upstream_category": "Cyber security",
           "source_url": "http://www.smashingsecurity.com/rss",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-14"
         },
         {
           "title": "So Money with Farnoosh Torabi",
@@ -10871,7 +10801,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://feeds.megaphone.fm/somoney",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Software Defined Talk",
@@ -10888,7 +10818,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://feeds.fireside.fm/sdt/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Software Engineering Radio - The Podcast for Professional Software Developers",
@@ -10905,7 +10835,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "http://feeds.feedburner.com/se-radio",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Song Exploder",
@@ -10922,7 +10852,7 @@
           },
           "upstream_category": "Music",
           "source_url": "http://feed.songexploder.net/songexploder",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-14"
         },
         {
           "title": "Stephan Livera Podcast",
@@ -10956,7 +10886,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://podcasts.files.bbci.co.uk/p02gsrmh.rss",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Switch Hit Podcast",
@@ -10973,7 +10903,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://feeds.megaphone.fm/ESP9247246951",
-          "last_item": "2026-09-28"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Tailenders",
@@ -10990,7 +10920,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://podcasts.files.bbci.co.uk/p02pcb4w.rss",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-14"
         },
         {
           "title": "TED Talks Daily",
@@ -11007,7 +10937,7 @@
           },
           "upstream_category": "Science",
           "source_url": "https://pa.tedcdn.com/feeds/talks.rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Test Match Special",
@@ -11024,24 +10954,7 @@
           },
           "upstream_category": "Cricket",
           "source_url": "https://podcasts.files.bbci.co.uk/p02nrsl2.rss",
-          "last_item": "2026-10-07"
-        },
-        {
-          "title": "The Bitcoin Podcast",
-          "url": "https://feeds.simplecast.com/xCQr3ykc",
-          "site": "thebitcoinpodcast.com",
-          "homepage": "https://www.thebitcoinpodcast.com",
-          "language": "en",
-          "popularity": {
-            "feedly_subscribers": null,
-            "tranco_rank": 7470,
-            "source": [
-              "tranco"
-            ]
-          },
-          "upstream_category": "Cryptocurrency",
-          "source_url": "https://feeds.simplecast.com/xCQr3ykc",
-          "last_item": "2026-07-08"
+          "last_item": "2026-10-14"
         },
         {
           "title": "The Blog of Author Tim Ferriss",
@@ -11058,7 +10971,7 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://tim.blog/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-11"
         },
         {
           "title": "The Clark Howard Podcast",
@@ -11075,7 +10988,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://feeds.megaphone.fm/clarkhoward",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Cynical Developer",
@@ -11090,7 +11003,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://cynicaldeveloper.com/feed/podcast",
-          "last_item": "2026-10-05"
+          "last_item": "2026-10-12"
         },
         {
           "title": "The Duct Tape Marketing Podcast",
@@ -11107,7 +11020,22 @@
           },
           "upstream_category": "Business & Economy",
           "source_url": "https://ducttape.libsyn.com/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
+        },
+        {
+          "title": "The Infinite Monkey Cage",
+          "url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+          "site": "bbc.co.uk",
+          "homepage": "http://www.bbc.co.uk/programmes/b00snr0w",
+          "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          },
+          "upstream_category": "Science",
+          "source_url": "https://podcasts.files.bbci.co.uk/b00snr0w.rss",
+          "last_item": "2026-10-15"
         },
         {
           "title": "the memory palace",
@@ -11141,7 +11069,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://daveramsey.libsyn.com/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Stack Overflow Podcast",
@@ -11158,7 +11086,7 @@
           },
           "upstream_category": "Programming",
           "source_url": "https://feeds.simplecast.com/XA_851k3",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Stacking Benjamins Show",
@@ -11175,7 +11103,7 @@
           },
           "upstream_category": "Personal finance",
           "source_url": "https://feeds.megaphone.fm/stacking-benjamins",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Startup Junkies Podcast",
@@ -11192,7 +11120,7 @@
           },
           "upstream_category": "Startups",
           "source_url": "https://startupjunkie.libsyn.com/rss",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-13"
         },
         {
           "title": "The Tim Ferriss Show",
@@ -11226,7 +11154,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://feeds.megaphone.fm/vergecast",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "This Week in Science – The Kickass Science Podcast",
@@ -11241,7 +11169,7 @@
           },
           "upstream_category": "Science",
           "source_url": "http://www.twis.org/feed/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "This Week in Tech (Audio)",
@@ -11258,7 +11186,7 @@
           },
           "upstream_category": "Tech",
           "source_url": "https://feeds.twit.tv/twit.xml",
-          "last_item": "2026-10-04"
+          "last_item": "2026-10-11"
         },
         {
           "title": "Throughline",
@@ -11275,7 +11203,7 @@
           },
           "upstream_category": "History",
           "source_url": "https://feeds.npr.org/510333/podcast.xml",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         }
       ]
     },
@@ -11365,7 +11293,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.aljazeera.net/aljazeerarss/technology",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "dankmemes",
@@ -11399,7 +11327,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "http://feeds.feedburner.com/failblog",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "I Can Has Cheezburger?",
@@ -11416,7 +11344,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "http://feeds.feedburner.com/icanhascheezburger",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Indian Memes",
@@ -11467,7 +11395,7 @@
           },
           "upstream_category": "Memes",
           "source_url": "https://knowyourmeme.com/newsfeed.rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Memebase",
@@ -11484,7 +11412,7 @@
           },
           "upstream_category": "Memes",
           "source_url": "https://memebase.cheezburger.com/rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "Penny Arcade",
@@ -11501,7 +11429,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://www.penny-arcade.com/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-16"
         },
         {
           "title": "PostSecret",
@@ -11518,7 +11446,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://postsecret.com/feed/?alt=rss",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "PrequelMemes - Memes of the Star Wars Prequels",
@@ -11569,7 +11497,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://www.smbc-comics.com/comic/rss",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "selfies of the soul",
@@ -11603,7 +11531,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://thebloggess.com/feed/",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-14"
         },
         {
           "title": "The Daily WTF",
@@ -11620,7 +11548,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "http://syndication.thedailywtf.com/TheDailyWtf",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "The Oatmeal - Comics by Matthew Inman",
@@ -11654,7 +11582,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://www.theonion.com/rss",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "when things get too real for meirl",
@@ -11688,7 +11616,7 @@
           },
           "upstream_category": "Funny",
           "source_url": "https://xkcd.com/rss.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "😎HAHA DAE MINIONS!!!😎",
@@ -11781,7 +11709,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Apple Machine Learning Research",
@@ -11798,7 +11726,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://machinelearning.apple.com/rss.xml",
-          "last_item": "2026-10-08"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Berkeley AI Research (BAIR) Blog",
@@ -11830,7 +11758,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://entarabi.com/ai/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Google AI (The Keyword)",
@@ -11847,7 +11775,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-13"
         },
         {
           "title": "Google DeepMind Blog",
@@ -11864,7 +11792,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://deepmind.google/blog/rss.xml",
-          "last_item": "2026-10-06"
+          "last_item": "2026-10-15"
         },
         {
           "title": "Google Research Blog",
@@ -11881,7 +11809,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://research.google/blog/rss/",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Hugging Face Blog",
@@ -11898,7 +11826,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://huggingface.co/blog/feed.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Import AI (Jack Clark)",
@@ -11932,7 +11860,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.interconnects.ai/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Last Week in AI",
@@ -11964,7 +11892,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.latent.space/feed",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "Microsoft Research Blog",
@@ -11981,7 +11909,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.microsoft.com/en-us/research/feed/",
-          "last_item": "2026-10-07"
+          "last_item": "2026-10-15"
         },
         {
           "title": "MIT Technology Review AI",
@@ -11998,7 +11926,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "One Useful Thing (Ethan Mollick)",
@@ -12032,7 +11960,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://openai.com/news/rss.xml",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-16"
         },
         {
           "title": "Simon Willison's Weblog",
@@ -12049,7 +11977,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://simonwillison.net/atom/entries/",
-          "last_item": "2026-10-09"
+          "last_item": "2026-10-12"
         },
         {
           "title": "TechCrunch AI",
@@ -12066,7 +11994,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "The Decoder",
@@ -12083,7 +12011,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://the-decoder.com/feed/",
-          "last_item": "2026-10-11"
+          "last_item": "2026-10-18"
         },
         {
           "title": "The Verge AI",
@@ -12100,7 +12028,7 @@
           },
           "upstream_category": "Curated",
           "source_url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-          "last_item": "2026-10-10"
+          "last_item": "2026-10-17"
         },
         {
           "title": "VentureBeat AI",

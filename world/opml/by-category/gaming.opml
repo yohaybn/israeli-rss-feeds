@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Gaming</title>
-    <dateCreated>2026-10-11</dateCreated>
+    <dateCreated>2026-10-18</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -10,7 +10,6 @@
       <outline type="rss" text="agadmator&#x27;s Chess Channel" title="agadmator&#x27;s Chess Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCL5YbN5WLFD8dLIegT5QAbA" htmlUrl="https://www.youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA"/>
       <outline type="rss" text="Better Chess" title="Better Chess" xmlUrl="https://betterchess.net/feed/" htmlUrl="https://betterchess.net"/>
       <outline type="rss" text="Chess News" title="Chess News" xmlUrl="https://en.chessbase.com/feed" htmlUrl="https://en.chessbase.com/"/>
-      <outline type="rss" text="Chess Talk" title="Chess Talk" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA" htmlUrl="https://www.youtube.com/channel/UC6HDXr-sNPnWLF_Q-y3KduA"/>
       <outline type="rss" text="Chess | The Guardian" title="Chess | The Guardian" xmlUrl="https://www.theguardian.com/sport/chess/rss" htmlUrl="https://www.theguardian.com/sport/chess"/>
       <outline type="rss" text="Chess.com" title="Chess.com" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=wwwChesscom" htmlUrl="https://www.youtube.com/channel/UC5kS0l76kC0xOzMPtOmSFGw"/>
       <outline type="rss" text="Chess.com News" title="Chess.com News" xmlUrl="https://www.chess.com/rss/news" htmlUrl="https://www.chess.com/"/>

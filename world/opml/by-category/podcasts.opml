@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Podcasts</title>
-    <dateCreated>2026-10-11</dateCreated>
+    <dateCreated>2026-10-18</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -37,7 +37,6 @@
       <outline type="rss" text="Invest Like the Best with Patrick O&#x27;Shaughnessy" title="Invest Like the Best with Patrick O&#x27;Shaughnessy" xmlUrl="http://investlikethebest.libsyn.com/rss" htmlUrl="https://colossus.com/"/>
       <outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510307/invisibilia"/>
       <outline type="rss" text="ISF Podcast" title="ISF Podcast" xmlUrl="https://audioboom.com/channels/4991893.rss" htmlUrl="https://www.securityforum.org/spotlight-on/"/>
-      <outline type="rss" text="MacStories" title="MacStories" xmlUrl="https://www.macstories.net/feed/" htmlUrl="https://www.macstories.net/"/>
       <outline type="rss" text="Masters of Scale" title="Masters of Scale" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl="http://www.mastersofscale.com"/>
       <outline type="rss" text="Money For the Rest of Us" title="Money For the Rest of Us" xmlUrl="https://rss.art19.com/money-for-the-rest-of-us" htmlUrl="https://moneyfortherestofus.com"/>
       <outline type="rss" text="MyWifeQuitHerJob.com" title="MyWifeQuitHerJob.com" xmlUrl="https://mywifequitherjob.com/feed/" htmlUrl="https://mywifequitherjob.com"/>
@@ -63,11 +62,11 @@
       <outline type="rss" text="Tailenders" title="Tailenders" xmlUrl="https://podcasts.files.bbci.co.uk/p02pcb4w.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02pcb4w"/>
       <outline type="rss" text="TED Talks Daily" title="TED Talks Daily" xmlUrl="https://pa.tedcdn.com/feeds/talks.rss" htmlUrl="https://www.ted.com"/>
       <outline type="rss" text="Test Match Special" title="Test Match Special" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsl2.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02nrsl2"/>
-      <outline type="rss" text="The Bitcoin Podcast" title="The Bitcoin Podcast" xmlUrl="https://feeds.simplecast.com/xCQr3ykc" htmlUrl="https://www.thebitcoinpodcast.com"/>
       <outline type="rss" text="The Blog of Author Tim Ferriss" title="The Blog of Author Tim Ferriss" xmlUrl="https://tim.blog/feed/" htmlUrl="https://tim.blog/"/>
       <outline type="rss" text="The Clark Howard Podcast" title="The Clark Howard Podcast" xmlUrl="https://feeds.megaphone.fm/clarkhoward" htmlUrl="https://www.clark.com/podcasts"/>
       <outline type="rss" text="The Cynical Developer" title="The Cynical Developer" xmlUrl="https://cynicaldeveloper.com/feed/podcast" htmlUrl="https://cynical.dev/"/>
       <outline type="rss" text="The Duct Tape Marketing Podcast" title="The Duct Tape Marketing Podcast" xmlUrl="https://ducttape.libsyn.com/rss" htmlUrl="https://www.ducttapemarketing.com/about/duct-tape-marketing-podcast/"/>
+      <outline type="rss" text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss" htmlUrl="http://www.bbc.co.uk/programmes/b00snr0w"/>
       <outline type="rss" text="the memory palace" title="the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" htmlUrl="http://thememorypalace.us"/>
       <outline type="rss" text="The Ramsey Show" title="The Ramsey Show" xmlUrl="https://daveramsey.libsyn.com/rss" htmlUrl="https://www.ramseysolutions.com/shows/the-ramsey-show"/>
       <outline type="rss" text="The Stack Overflow Podcast" title="The Stack Overflow Podcast" xmlUrl="https://feeds.simplecast.com/XA_851k3" htmlUrl="https://art19.com/shows/the-stack-overflow-podcast"/>

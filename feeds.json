@@ -3,7 +3,7 @@
   "name": "israeli-rss-feeds",
   "description": "קטלוג פידי RSS ישראלי מתוחזק ב-21 קטגוריות - חדשות, טכנולוגיה, כלכלה, ספורט, תרבות ועוד",
   "generated_at": "2026-10-01",
-  "feed_count": 123,
+  "feed_count": 124,
   "categories": [
     {
       "id": "news",
@@ -878,6 +878,18 @@
           "site": "YuWeiss.dev",
           "homepage": "https://yuweiss.dev/",
           "language": "en",
+          "popularity": {
+            "feedly_subscribers": null,
+            "tranco_rank": null,
+            "source": []
+          }
+        },
+        {
+          "title": "הבלוג של יויו סטודיו",
+          "url": "https://yoyo-studio.pages.dev/blog/feed.xml",
+          "site": "יויו סטודיו",
+          "homepage": "https://yoyo-studio.pages.dev/blog/",
+          "language": "he",
           "popularity": {
             "feedly_subscribers": null,
             "tranco_rank": null,

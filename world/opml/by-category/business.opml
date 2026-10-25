@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Economy &amp; Business</title>
-    <dateCreated>2026-10-18</dateCreated>
+    <dateCreated>2026-10-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -47,13 +47,11 @@
       <outline type="rss" text="NerdWallet" title="NerdWallet" xmlUrl="https://www.nerdwallet.com/blog/feed/" htmlUrl="https://www.nerdwallet.com/blog"/>
       <outline type="rss" text="News - Cryptonews" title="News - Cryptonews" xmlUrl="https://cryptonews.com/news/feed/" htmlUrl="https://cryptonews.com/news/"/>
       <outline type="rss" text="NewsBTC" title="NewsBTC" xmlUrl="https://www.newsbtc.com/feed/" htmlUrl="https://www.newsbtc.com/"/>
-      <outline type="rss" text="Oblivious Investor" title="Oblivious Investor" xmlUrl="https://obliviousinvestor.com/feed/" htmlUrl="https://obliviousinvestor.com"/>
       <outline type="rss" text="Personal Finance" title="Personal Finance" xmlUrl="https://www.reddit.com/r/personalfinance/.rss" htmlUrl="https://www.reddit.com/r/personalfinance/"/>
       <outline type="rss" text="Product Hunt — The best new products, every day" title="Product Hunt — The best new products, every day" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com"/>
       <outline type="rss" text="SavingAdvice.com Blog" title="SavingAdvice.com Blog" xmlUrl="https://www.savingadvice.com/feed/" htmlUrl="https://www.savingadvice.com/"/>
       <outline type="rss" text="Small Business Trends" title="Small Business Trends" xmlUrl="https://feeds2.feedburner.com/SmallBusinessTrends" htmlUrl="https://smallbiztrends.com/"/>
       <outline type="rss" text="Steve Blank" title="Steve Blank" xmlUrl="https://steveblank.com/feed/" htmlUrl="https://steveblank.com"/>
-      <outline type="rss" text="The Bad Crypto Podcast" title="The Bad Crypto Podcast" xmlUrl="https://badcryptopodcast.com/feed/" htmlUrl="https://badcryptopodcast.com/"/>
       <outline type="rss" text="The College Investor" title="The College Investor" xmlUrl="https://thecollegeinvestor.com/feed/" htmlUrl="https://thecollegeinvestor.com"/>
       <outline type="rss" text="The Intercom Blog" title="The Intercom Blog" xmlUrl="https://www.intercom.com/blog/feed" htmlUrl="https://www.intercom.com/blog"/>
       <outline type="rss" text="The Market&#x27;s Compass Technical View" title="The Market&#x27;s Compass Technical View" xmlUrl="https://themarketscompass.substack.com/feed" htmlUrl="https://themarketscompass.substack.com"/>

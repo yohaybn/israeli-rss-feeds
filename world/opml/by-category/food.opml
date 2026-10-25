@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Food &amp; Cooking</title>
-    <dateCreated>2026-10-18</dateCreated>
+    <dateCreated>2026-10-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -10,6 +10,7 @@
       <outline type="rss" text="Binging with Babish" title="Binging with Babish" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=bgfilms" htmlUrl="https://www.youtube.com/channel/UCJHA_jMfCvEnv-3kRjTCQXw"/>
       <outline type="rss" text="Bon Appétit" title="Bon Appétit" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom" htmlUrl="https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w"/>
       <outline type="rss" text="Budget Bytes" title="Budget Bytes" xmlUrl="http://budgetbytes.blogspot.com/feeds/posts/default" htmlUrl="https://www.budgetbytes.com/"/>
+      <outline type="rss" text="Chocolate &amp; Zucchini" title="Chocolate &amp; Zucchini" xmlUrl="https://cnz.to/feed/" htmlUrl="https://cnz.to/"/>
       <outline type="rss" text="David Lebovitz" title="David Lebovitz" xmlUrl="https://www.davidlebovitz.com/feed/" htmlUrl="https://www.davidlebovitz.com/"/>
       <outline type="rss" text="How Sweet Eats" title="How Sweet Eats" xmlUrl="https://www.howsweeteats.com/feed/" htmlUrl="https://www.howsweeteats.com/"/>
       <outline type="rss" text="Kitchn | Inspiring cooks, nourishing homes" title="Kitchn | Inspiring cooks, nourishing homes" xmlUrl="https://www.thekitchn.com/main.rss" htmlUrl="https://www.thekitchn.com"/>

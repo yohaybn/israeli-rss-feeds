@@ -37,20 +37,20 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**694 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-18; 231 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**691 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-25; 234 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 196 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 98 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
-| כלכלה ועסקים (Economy & Business) | 55 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
+| חדשות ואקטואליה (News & Current Affairs) | 194 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 97 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
 | מדע וסביבה (Science & Environment) | 49 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
-| גיימינג (Gaming) | 26 | Gaming, Chess, רשימה ידנית (curated.json) |
-| אוכל וקולינריה (Food & Cooking) | 13 | Food, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
+| אוכל וקולינריה (Food & Cooking) | 14 | Food, רשימה ידנית (curated.json) |
 | תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 14 | Fashion, Beauty, רשימה ידנית (curated.json) |
@@ -93,7 +93,6 @@
 | [Top stories - Google News](https://news.google.com/rss) | news.google.com | en | News |
 | [Vedomosti](https://www.vedomosti.ru/rss/news) | vedomosti.ru | ru | Curated |
 | [Watan](https://www.watanserb.com/feed/) | watanserb.com | ar | Curated |
-| [World](https://feeds.washingtonpost.com/rss/world) | washingtonpost.com | en | News |
 | [World News](https://www.reddit.com/r/worldnews/.rss) | reddit.com | en | News |
 | [World news \| The Guardian](https://www.theguardian.com/world/rss) | theguardian.com | en | News |
 | [World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms) | timesofindia.indiatimes.com | en | News |
@@ -107,6 +106,7 @@
 | [The Age - Latest News](https://www.theage.com.au/rss/feed.xml) | theage.com.au | en | Country: Australia |
 | [The Canberra Times - Local News](https://www.canberratimes.com.au/rss.xml) | canberratimes.com.au | en | Country: Australia |
 | [BD24Live.com](https://www.bd24live.com/feed/) | bd24live.com | en | Country: Bangladesh |
+| [jagonews24.com \| rss Feed](https://www.jagonews24.com/rss/rss.xml) | jagonews24.com | bn | Country: Bangladesh |
 | [প্রথম আলো](https://www.prothomalo.com/feed/) | prothomalo.com | bn | Country: Bangladesh |
 | [Brasil Wire](https://www.brasilwire.com/feed/) | brasilwire.com | en | Country: Brazil |
 | [Folha de S.Paulo - Em cima da hora - Principal](https://feeds.folha.uol.com.br/emcimadahora/rss091.xml) | redir.folha.com.br | pt | Country: Brazil |
@@ -211,7 +211,6 @@
 | [Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.](http://feeds.feedburner.com/Nigerianeye) | nigerianeye.com | en | Country: Nigeria |
 | [Premium Times Nigeria](https://www.premiumtimesng.com/feed) | premiumtimesng.com | en | Country: Nigeria |
 | [Tribune Online](https://tribuneonlineng.com/feed/) | tribuneonlineng.com | en | Country: Nigeria |
-| [Abante Tonite](https://tonite.abante.com.ph/feed/) | tonite.abante.com.ph | en | Country: Philippines |
 | [BusinessWorld](https://bworldonline.com/feed/) | bworldonline.com | en | Country: Philippines |
 | [Current PH](https://currentph.com/feed/) | currentph.com | en | Country: Philippines |
 | [GMA News Online / News](https://data.gmanews.tv/gno/rss/news/feed.xml) | gmanetwork.com | en | Country: Philippines |
@@ -258,7 +257,6 @@
 | [World News - Breaking News, Top Stories](https://www.huffpost.com/section/world-news/feed) | huffpost.com | en | Country: United States |
 | [Axios](https://api.axios.com/feed/) | axios.com | en | Country: South Africa |
 | [Daily Maverick](https://www.dailymaverick.co.za/dmrss/) | dailymaverick.co.za | en | Country: South Africa |
-| [IOL section feed for News](https://rss.iol.io/iol/news) | iol.co.za | en | Country: South Africa |
 | [Moneyweb](https://www.moneyweb.co.za/feed/) | moneyweb.co.za | en | Country: South Africa |
 | [TechCentral](https://techcentral.co.za/feed/) | techcentral.co.za | en | Country: South Africa |
 | [The Citizen](https://www.citizen.co.za/feed/) | citizen.co.za | en | Country: South Africa |
@@ -303,7 +301,6 @@
 | [Droid Life – Opinionated Android news.](https://www.droid-life.com/feed/) | droid-life.com | en | Android |
 | [Engadget - Technology News & Expert Reviews](https://www.engadget.com/rss.xml) | engadget.com | en | Tech |
 | [Engineering at Meta](https://engineering.fb.com/feed/) | engineering.fb.com | en | Programming |
-| [Engineering at Slack](https://slack.engineering/feed/) | slack.engineering | en | Programming |
 | [Etsy Engineering \| Code as Craft](https://codeascraft.com/feed/atom/) | etsy.com | en | Programming |
 | [GitLab](https://about.gitlab.com/atom.xml) | about.gitlab.com | en | Programming |
 | [Gizmodo](https://gizmodo.com/rss) | gizmodo.com | en | Tech |
@@ -411,13 +408,11 @@
 | [NerdWallet](https://www.nerdwallet.com/blog/feed/) | nerdwallet.com | en | Personal finance |
 | [News - Cryptonews](https://cryptonews.com/news/feed/) | cryptonews.com | en | Cryptocurrency |
 | [NewsBTC](https://www.newsbtc.com/feed/) | newsbtc.com | en | Cryptocurrency |
-| [Oblivious Investor](https://obliviousinvestor.com/feed/) | obliviousinvestor.com | en | Personal finance |
 | [Personal Finance](https://www.reddit.com/r/personalfinance/.rss) | reddit.com | en | Personal finance |
 | [Product Hunt — The best new products, every day](https://www.producthunt.com/feed) | producthunt.com | en | Startups |
 | [SavingAdvice.com Blog](https://www.savingadvice.com/feed/) | savingadvice.com | en | Personal finance |
 | [Small Business Trends](https://feeds2.feedburner.com/SmallBusinessTrends) | smallbiztrends.com | en | Startups |
 | [Steve Blank](https://steveblank.com/feed/) | steveblank.com | en | Startups |
-| [The Bad Crypto Podcast](https://badcryptopodcast.com/feed/) | badcryptopodcast.com | en | Cryptocurrency |
 | [The College Investor](https://thecollegeinvestor.com/feed/) | thecollegeinvestor.com | en | Personal finance |
 | [The Intercom Blog](https://www.intercom.com/blog/feed) | intercom.com | en | Startups |
 | [The Market's Compass Technical View](https://themarketscompass.substack.com/feed) | themarketscompass.substack.com | en | Cryptocurrency |
@@ -588,6 +583,7 @@
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
+| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Polygon.com](https://www.polygon.com/rss/index.xml) | polygon.com | en | Gaming |
 | [r/Chess](https://www.reddit.com/r/chess/.rss) | reddit.com | en | Chess |
 | [r/gaming](https://www.reddit.com/r/gaming.rss) | reddit.com | en | Gaming |
@@ -605,6 +601,7 @@
 | [Binging with Babish](https://www.youtube.com/feeds/videos.xml?user=bgfilms) | youtube.com | en | Food |
 | [Bon Appétit](https://www.youtube.com/feeds/videos.xml?user=BonAppetitDotCom) | youtube.com | en | Food |
 | [Budget Bytes](http://budgetbytes.blogspot.com/feeds/posts/default) | budgetbytes.com | en | Food |
+| [Chocolate & Zucchini](https://cnz.to/feed/) | cnz.to | en | Food |
 | [David Lebovitz](https://www.davidlebovitz.com/feed/) | davidlebovitz.com | en | Food |
 | [How Sweet Eats](https://www.howsweeteats.com/feed/) | howsweeteats.com | en | Food |
 | [Kitchn \| Inspiring cooks, nourishing homes](https://www.thekitchn.com/main.rss) | thekitchn.com | en | Food |
@@ -693,7 +690,7 @@
 | [In My Own Style](https://inmyownstyle.com/feed) | inmyownstyle.com | en | Interior design |
 | [Interior Design (Interior Architecture)](https://www.reddit.com/r/InteriorDesign/.rss) | reddit.com | en | Interior design |
 | [Interior Design Ideas](https://www.home-designing.com/feed) | home-designing.com | en | Interior design |
-| [Interior design \| Dezeen](https://www.dezeen.com/interiors/feed/) | dezeen.com | en | Interior design |
+| [Interior design \| Dezeen](https://www.dezeen.com/interiors/feed/) | interiordesignstoriesfromdezeenmagazine | en | Interior design |
 | [Latest from Ideal Home in News](https://www.idealhome.co.uk/feed) | idealhome.co.uk | en | Interior design |
 | [Living Big In A Tiny House](https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse) | youtube.com | en | Architecture |
 | [MakeUseOf](https://www.makeuseof.com/feed/) | makeuseof.com | en | DIY |
@@ -743,10 +740,9 @@
 | [Hanselminutes with Scott Hanselman](https://feeds.simplecast.com/gvtxUiIf) | hanselminutes.com | en | Programming |
 | [HBR IdeaCast](http://feeds.harvardbusiness.org/harvardbusiness/ideacast) | hbr.org | en | Business & Economy |
 | [Hidden Brain](https://feeds.npr.org/510308/podcast.xml) | siriusxm.com | en | Science |
-| [How I Built This with Guy Raz](https://feeds.npr.org/510313/podcast.xml) | wondery.com | en | Business & Economy |
+| [How I Built This with Guy Raz](https://feeds.npr.org/510313/podcast.xml) | podcasts.voxmedia.com | en | Business & Economy |
 | [Interviews](https://feed.podbean.com/nuggetsnews/feed.xml) | nuggetsnews.podbean.com | en | Cryptocurrency |
 | [Invest Like the Best with Patrick O'Shaughnessy](http://investlikethebest.libsyn.com/rss) | colossus.com | en | Personal finance |
-| [Invisibilia](https://feeds.npr.org/510307/podcast.xml) | npr.org | en | Science |
 | [ISF Podcast](https://audioboom.com/channels/4991893.rss) | securityforum.org | en | Cyber security |
 | [Masters of Scale](https://rss.art19.com/masters-of-scale) | mastersofscale.com | en | Startups |
 | [Money For the Rest of Us](https://rss.art19.com/money-for-the-rest-of-us) | moneyfortherestofus.com | en | Personal finance |
@@ -754,7 +750,6 @@
 | [Nerd's Eye View \| Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) | kitces.com | en | Personal finance |
 | [Perpetual Chess Podcast](https://feeds.megaphone.fm/BLU4811105299) | perpetualchesspod.com | en | Chess |
 | [Planet Money](https://feeds.npr.org/510289/podcast.xml) | npr.org | en | Business & Economy |
-| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Podcast Archives - Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) | softwareengineeringdaily.com | en | Programming |
 | [Probably Science](https://probablyscience.libsyn.com/rss) | probablyscience.com | en | Science |
 | [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) | programmingthrowdown.com | en | Programming |
@@ -767,6 +762,7 @@
 | [Software Defined Talk](https://feeds.fireside.fm/sdt/rss) | softwaredefinedtalk.com | en | Programming |
 | [Software Engineering Radio - The Podcast for Professional Software Developers](http://feeds.feedburner.com/se-radio) | se-radio.net | en | Programming |
 | [Song Exploder](https://feed.songexploder.net/songexploder) | songexploder.net | en | Music |
+| [Startup Stories - Mixergy](https://feeds.feedburner.com/Mixergy-main-podcast) | mixergy.com | en | Business & Economy |
 | [Stephan Livera Podcast](https://anchor.fm/s/7d083a4/podcast/rss) | stephanlivera.com | en | Cryptocurrency |
 | [Stumped](https://podcasts.files.bbci.co.uk/p02gsrmh.rss) | bbc.co.uk | en | Cricket |
 | [Switch Hit Podcast](https://feeds.megaphone.fm/ESP9247246951) | espncricinfo.com | en | Cricket |
@@ -788,6 +784,7 @@
 | [This Week in Science – The Kickass Science Podcast](https://www.twis.org/feed/) | twis.org | en | Science |
 | [This Week in Tech (Audio)](https://feeds.twit.tv/twit.xml) | twit.tv | en | Tech |
 | [Throughline](https://feeds.npr.org/510333/podcast.xml) | npr.org | en | History |
+| [Under the Radar](https://relay.fm/radar/feed) | relay.fm | en | iOS Development |
 
 ### תרבות דיגיטלית ורשת (Digital Culture & Web)
 
@@ -836,7 +833,7 @@
 | [Import AI (Jack Clark)](https://importai.substack.com/feed) | importai.substack.com | en | Curated |
 | [Interconnects (Nathan Lambert)](https://www.interconnects.ai/feed) | interconnects.ai | en | Curated |
 | [Last Week in AI](https://lastweekin.ai/feed) | lastweekin.ai | en | Curated |
-| [Latent Space](https://www.latent.space/feed) | latent.space | en | Curated |
+| [Latent Space](https://latent.space/feed) | latent.space | en | Curated |
 | [Microsoft Research Blog](https://www.microsoft.com/en-us/research/feed/) | microsoft.com | en | Curated |
 | [MIT Technology Review AI](https://www.technologyreview.com/topic/artificial-intelligence/feed) | technologyreview.com | en | Curated |
 | [One Useful Thing (Ethan Mollick)](https://www.oneusefulthing.org/feed) | oneusefulthing.org | en | Curated |

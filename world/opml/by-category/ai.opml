@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Artificial Intelligence</title>
-    <dateCreated>2026-10-18</dateCreated>
+    <dateCreated>2026-10-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -21,7 +21,7 @@
       <outline type="rss" text="Import AI (Jack Clark)" title="Import AI (Jack Clark)" xmlUrl="https://importai.substack.com/feed" htmlUrl="https://importai.substack.com/"/>
       <outline type="rss" text="Interconnects (Nathan Lambert)" title="Interconnects (Nathan Lambert)" xmlUrl="https://www.interconnects.ai/feed" htmlUrl="https://www.interconnects.ai/"/>
       <outline type="rss" text="Last Week in AI" title="Last Week in AI" xmlUrl="https://lastweekin.ai/feed" htmlUrl="https://lastweekin.ai/"/>
-      <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space/"/>
+      <outline type="rss" text="Latent Space" title="Latent Space" xmlUrl="https://latent.space/feed" htmlUrl="https://www.latent.space/"/>
       <outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed/" htmlUrl="https://www.microsoft.com/en-us/research/"/>
       <outline type="rss" text="MIT Technology Review AI" title="MIT Technology Review AI" xmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/feed" htmlUrl="https://www.technologyreview.com/topic/artificial-intelligence/"/>
       <outline type="rss" text="One Useful Thing (Ethan Mollick)" title="One Useful Thing (Ethan Mollick)" xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org/"/>

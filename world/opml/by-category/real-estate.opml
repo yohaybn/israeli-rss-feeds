@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Real Estate &amp; Home Design</title>
-    <dateCreated>2026-10-18</dateCreated>
+    <dateCreated>2026-10-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -27,7 +27,7 @@
       <outline type="rss" text="In My Own Style" title="In My Own Style" xmlUrl="https://inmyownstyle.com/feed" htmlUrl="https://inmyownstyle.com/"/>
       <outline type="rss" text="Interior Design (Interior Architecture)" title="Interior Design (Interior Architecture)" xmlUrl="https://www.reddit.com/r/InteriorDesign/.rss" htmlUrl="https://www.reddit.com/r/InteriorDesign/"/>
       <outline type="rss" text="Interior Design Ideas" title="Interior Design Ideas" xmlUrl="https://www.home-designing.com/feed" htmlUrl="https://www.home-designing.com"/>
-      <outline type="rss" text="Interior design | Dezeen" title="Interior design | Dezeen" xmlUrl="https://www.dezeen.com/interiors/feed/" htmlUrl="https://www.dezeen.com/interiors/"/>
+      <outline type="rss" text="Interior design | Dezeen" title="Interior design | Dezeen" xmlUrl="https://www.dezeen.com/interiors/feed/" htmlUrl="http://InteriordesignstoriesfromDezeenmagazine"/>
       <outline type="rss" text="Latest from Ideal Home in News" title="Latest from Ideal Home in News" xmlUrl="https://www.idealhome.co.uk/feed" htmlUrl="https://www.idealhome.co.uk/feed"/>
       <outline type="rss" text="Living Big In A Tiny House" title="Living Big In A Tiny House" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse" htmlUrl="https://www.youtube.com/channel/UCoNTMWgGuXtGPLv9UeJZwBw"/>
       <outline type="rss" text="MakeUseOf" title="MakeUseOf" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com"/>

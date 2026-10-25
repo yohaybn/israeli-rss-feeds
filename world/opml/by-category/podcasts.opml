@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Podcasts</title>
-    <dateCreated>2026-10-18</dateCreated>
+    <dateCreated>2026-10-25</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -32,10 +32,9 @@
       <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://feeds.simplecast.com/gvtxUiIf" htmlUrl="https://www.hanselminutes.com"/>
       <outline type="rss" text="HBR IdeaCast" title="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl="https://hbr.org/podcasts/ideacast"/>
       <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.npr.org/510308/podcast.xml" htmlUrl="https://www.siriusxm.com"/>
-      <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl="https://wondery.com/shows/how-i-built-this/?utm_source=rss"/>
+      <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl="https://podcasts.voxmedia.com/show/how-i-built-this-with-guy-raz?sid=644861"/>
       <outline type="rss" text="Interviews" title="Interviews" xmlUrl="https://feed.podbean.com/nuggetsnews/feed.xml" htmlUrl="https://nuggetsnews.podbean.com"/>
       <outline type="rss" text="Invest Like the Best with Patrick O&#x27;Shaughnessy" title="Invest Like the Best with Patrick O&#x27;Shaughnessy" xmlUrl="http://investlikethebest.libsyn.com/rss" htmlUrl="https://colossus.com/"/>
-      <outline type="rss" text="Invisibilia" title="Invisibilia" xmlUrl="https://feeds.npr.org/510307/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510307/invisibilia"/>
       <outline type="rss" text="ISF Podcast" title="ISF Podcast" xmlUrl="https://audioboom.com/channels/4991893.rss" htmlUrl="https://www.securityforum.org/spotlight-on/"/>
       <outline type="rss" text="Masters of Scale" title="Masters of Scale" xmlUrl="https://rss.art19.com/masters-of-scale" htmlUrl="http://www.mastersofscale.com"/>
       <outline type="rss" text="Money For the Rest of Us" title="Money For the Rest of Us" xmlUrl="https://rss.art19.com/money-for-the-rest-of-us" htmlUrl="https://moneyfortherestofus.com"/>
@@ -43,7 +42,6 @@
       <outline type="rss" text="Nerd&#x27;s Eye View | Kitces.com" title="Nerd&#x27;s Eye View | Kitces.com" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&amp;x=1" htmlUrl="https://www.kitces.com"/>
       <outline type="rss" text="Perpetual Chess Podcast" title="Perpetual Chess Podcast" xmlUrl="https://feeds.megaphone.fm/BLU4811105299" htmlUrl="https://www.perpetualchesspod.com/"/>
       <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
-      <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
       <outline type="rss" text="Podcast Archives - Software Engineering Daily" title="Podcast Archives - Software Engineering Daily" xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" htmlUrl="https://softwareengineeringdaily.com/"/>
       <outline type="rss" text="Probably Science" title="Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" htmlUrl="http://probablyscience.com"/>
       <outline type="rss" text="Programming Throwdown" title="Programming Throwdown" xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" htmlUrl="https://www.programmingthrowdown.com"/>
@@ -56,6 +54,7 @@
       <outline type="rss" text="Software Defined Talk" title="Software Defined Talk" xmlUrl="https://feeds.fireside.fm/sdt/rss" htmlUrl="https://www.softwaredefinedtalk.com"/>
       <outline type="rss" text="Software Engineering Radio - The Podcast for Professional Software Developers" title="Software Engineering Radio - The Podcast for Professional Software Developers" xmlUrl="http://feeds.feedburner.com/se-radio" htmlUrl="https://www.se-radio.net"/>
       <outline type="rss" text="Song Exploder" title="Song Exploder" xmlUrl="https://feed.songexploder.net/songexploder" htmlUrl="http://www.songexploder.net"/>
+      <outline type="rss" text="Startup Stories - Mixergy" title="Startup Stories - Mixergy" xmlUrl="https://feeds.feedburner.com/Mixergy-main-podcast" htmlUrl="https://mixergy.com/"/>
       <outline type="rss" text="Stephan Livera Podcast" title="Stephan Livera Podcast" xmlUrl="https://anchor.fm/s/7d083a4/podcast/rss" htmlUrl="https://www.stephanlivera.com/"/>
       <outline type="rss" text="Stumped" title="Stumped" xmlUrl="https://podcasts.files.bbci.co.uk/p02gsrmh.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02gsrmh"/>
       <outline type="rss" text="Switch Hit Podcast" title="Switch Hit Podcast" xmlUrl="https://feeds.megaphone.fm/ESP9247246951" htmlUrl="http://www.espncricinfo.com"/>
@@ -77,6 +76,7 @@
       <outline type="rss" text="This Week in Science – The Kickass Science Podcast" title="This Week in Science – The Kickass Science Podcast" xmlUrl="https://www.twis.org/feed/" htmlUrl="https://www.twis.org/"/>
       <outline type="rss" text="This Week in Tech (Audio)" title="This Week in Tech (Audio)" xmlUrl="https://feeds.twit.tv/twit.xml" htmlUrl="https://twit.tv/shows/this-week-in-tech"/>
       <outline type="rss" text="Throughline" title="Throughline" xmlUrl="https://feeds.npr.org/510333/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510333/throughline"/>
+      <outline type="rss" text="Under the Radar" title="Under the Radar" xmlUrl="https://relay.fm/radar/feed" htmlUrl="https://relay.fm/radar"/>
     </outline>
   </body>
 </opml>

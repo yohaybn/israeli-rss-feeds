@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS Feeds (verified, from plenaryapp/awesome-rss-feeds)</title>
-    <dateCreated>2026-10-25</dateCreated>
+    <dateCreated>2026-11-01</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -112,7 +112,7 @@
       <outline type="rss" text="Times of India" title="Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms" htmlUrl="https://timesofindia.indiatimes.com"/>
       <outline type="rss" text="देश | दैनिक भास्कर" title="देश | दैनिक भास्कर" xmlUrl="https://www.bhaskar.com/rss-feed/1061/" htmlUrl="https://www.bhaskar.com/national/"/>
       <outline type="rss" text="ઈન્ડિયા | દિવ્ય ભાસ્કર" title="ઈન્ડિયા | દિવ્ય ભાસ્કર" xmlUrl="https://www.divyabhaskar.co.in/rss-feed/1037/" htmlUrl="https://www.divyabhaskar.co.in/national/"/>
-      <outline type="rss" text="تابناک | TABNAK" title="تابناک | TABNAK" xmlUrl="https://www.tabnak.ir/fa/rss/allnews" htmlUrl="https://www.tabnak.ir"/>
+      <outline type="rss" text="تابناک | TABNAK" title="تابناک | TABNAK" xmlUrl="https://tabnak.ir/fa/rss/allnews" htmlUrl="https://tabnak.ir/"/>
       <outline type="rss" text="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" title="خبرگزاری ایسنا | صفحه اصلی |  ISNA News Agency" xmlUrl="https://www.isna.ir/rss" htmlUrl="https://www.isna.ir/rss"/>
       <outline type="rss" text="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" title="خبرگزاری باشگاه خبرنگاران | آخرین اخبار ایران و جهان | YJC" xmlUrl="https://www.yjc.ir/fa/rss/allnews" htmlUrl="https://www.yjc.ir"/>
       <outline type="rss" text="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" title="خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان | Khabaronline" xmlUrl="https://www.khabaronline.ir/rss" htmlUrl="https://www.khabaronline.ir/rss"/>
@@ -238,7 +238,7 @@
       <outline type="rss" text="Droid Life – Opinionated Android news." title="Droid Life – Opinionated Android news." xmlUrl="https://www.droid-life.com/feed/" htmlUrl="https://www.droid-life.com/"/>
       <outline type="rss" text="Engadget - Technology News &amp; Expert Reviews" title="Engadget - Technology News &amp; Expert Reviews" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/"/>
       <outline type="rss" text="Engineering at Meta" title="Engineering at Meta" xmlUrl="https://engineering.fb.com/feed/" htmlUrl="https://engineering.fb.com/"/>
-      <outline type="rss" text="Etsy Engineering | Code as Craft" title="Etsy Engineering | Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" htmlUrl="http://www.etsy.com/codeascraft/rss"/>
+      <outline type="rss" text="Etsy Engineering | Code as Craft" title="Etsy Engineering | Code as Craft" xmlUrl="https://codeascraft.com/feed/atom/" htmlUrl="http://www.etsy.com/de/codeascraft/rss"/>
       <outline type="rss" text="GitLab" title="GitLab" xmlUrl="https://about.gitlab.com/atom.xml" htmlUrl="https://about.gitlab.com/blog"/>
       <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="https://gizmodo.com/rss" htmlUrl="https://gizmodo.com/"/>
       <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
@@ -499,7 +499,6 @@
       <outline type="rss" text="Indie Games Plus" title="Indie Games Plus" xmlUrl="https://indiegamesplus.com/feed/" htmlUrl="https://indiegamesplus.com/"/>
       <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="https://kotaku.com/rss" htmlUrl="https://kotaku.com/"/>
       <outline type="rss" text="Lichess&#x27;s Blog" title="Lichess&#x27;s Blog" xmlUrl="https://lichess.org/blog.atom" htmlUrl="https://lichess.org/@/Lichess/blog"/>
-      <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
       <outline type="rss" text="Polygon.com" title="Polygon.com" xmlUrl="https://www.polygon.com/rss/index.xml" htmlUrl="https://www.polygon.com"/>
       <outline type="rss" text="r/Chess" title="r/Chess" xmlUrl="https://www.reddit.com/r/chess/.rss" htmlUrl="https://www.reddit.com/r/chess/"/>
       <outline type="rss" text="r/gaming" title="r/gaming" xmlUrl="https://www.reddit.com/r/gaming.rss" htmlUrl="https://www.reddit.com/r/gaming"/>
@@ -646,6 +645,7 @@
       <outline type="rss" text="Nerd&#x27;s Eye View | Kitces.com" title="Nerd&#x27;s Eye View | Kitces.com" xmlUrl="http://feeds.feedblitz.com/kitcesnerdseyeview&amp;x=1" htmlUrl="https://www.kitces.com"/>
       <outline type="rss" text="Perpetual Chess Podcast" title="Perpetual Chess Podcast" xmlUrl="https://feeds.megaphone.fm/BLU4811105299" htmlUrl="https://www.perpetualchesspod.com/"/>
       <outline type="rss" text="Planet Money" title="Planet Money" xmlUrl="https://feeds.npr.org/510289/podcast.xml" htmlUrl="https://www.npr.org/podcasts/510289/planet-money"/>
+      <outline type="rss" text="PlayStation.Blog" title="PlayStation.Blog" xmlUrl="http://feeds.feedburner.com/psblog" htmlUrl="https://blog.playstation.com"/>
       <outline type="rss" text="Podcast Archives - Software Engineering Daily" title="Podcast Archives - Software Engineering Daily" xmlUrl="https://softwareengineeringdaily.com/category/podcast/feed" htmlUrl="https://softwareengineeringdaily.com/"/>
       <outline type="rss" text="Probably Science" title="Probably Science" xmlUrl="https://probablyscience.libsyn.com/rss" htmlUrl="http://probablyscience.com"/>
       <outline type="rss" text="Programming Throwdown" title="Programming Throwdown" xmlUrl="http://feeds.feedburner.com/ProgrammingThrowdown" htmlUrl="https://www.programmingthrowdown.com"/>
@@ -713,7 +713,6 @@
     <outline text="Artificial Intelligence" title="Artificial Intelligence">
       <outline type="rss" text="ActuIA Arabic" title="ActuIA Arabic" xmlUrl="https://www.actuia.com/ar/feed/" htmlUrl="https://www.actuia.com/ar/"/>
       <outline type="rss" text="Ahead of AI (Sebastian Raschka)" title="Ahead of AI (Sebastian Raschka)" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/"/>
-      <outline type="rss" text="AI at Meta Blog" title="AI at Meta Blog" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml" htmlUrl="https://ai.meta.com/blog/"/>
       <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
       <outline type="rss" text="Apple Machine Learning Research" title="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
       <outline type="rss" text="Berkeley AI Research (BAIR) Blog" title="Berkeley AI Research (BAIR) Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>

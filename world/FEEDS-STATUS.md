@@ -1,14 +1,14 @@
-# World feeds status - 2026-10-25
+# World feeds status - 2026-11-01
 
-Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 234.
+Candidates (upstream + curated): 925 unique feeds. In catalog: 690. Rejected: 235.
 
-## Dead (HTTP error, not a feed, or no items) - 84
+## Dead (HTTP error, not a feed, or no items) - 85
 
 -  (Country: Mexico) - HTTP 404  
   `https://www.eluniversal.com.mx/seccion/1671/rss.xml`
 - - The Manila Times (Country: Philippines) - HTTP 404  
   `https://www.manilatimes.net/rssfeed/`
-- Abante Tonite (Country: Philippines) - HTTP 520  
+- Abante Tonite (Country: Philippines) - not a valid feed: mismatched tag: line 1, column 167  
   `https://tonite.abante.com.ph/feed/`
 - Agencia EFE | www.efe.com | English edition (Country: Spain) - not a valid feed: not well-formed (invalid token): line 31, column 51  
   `https://www.efe.com/efe/english/4/rss`
@@ -20,7 +20,7 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://androidcommunity.com/feed/`
 - Android Police (Android) - HTTP 404  
   `http://feeds.feedburner.com/AndroidPolice`
-- AVC (Startups) - HTTP 500  
+- AVC (Startups) - HTTP 415  
   `https://avc.com/feed/`
 - bdnews24.com - Home (Country: Bangladesh) - not a valid feed: not well-formed (invalid token): line 34, column 84  
   `https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true`
@@ -28,13 +28,15 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `http://www.bicolstandard.com/feeds/posts/default?alt=rss`
 - Boxes and Arrows (UI - UX) - not a valid feed: mismatched tag: line 128, column 2  
   `http://boxesandarrows.com/rss/`
-- Car Body Design (Cars) - RemoteDisconnected: Remote end closed connection without response  
+- Car Body Design (Cars) - not a valid feed: mismatched tag: line 1, column 167  
   `https://www.carbodydesign.com/feed/`
-- Code Wall (Web Development) - HTTP 520  
+- Code Wall (Web Development) - not a valid feed: mismatched tag: line 1, column 167  
   `https://www.codewall.co.uk/feed/`
 - CTVNews.ca - Top Stories - Public RSS (Country: Canada) - HTTP 404  
   `https://www.ctvnews.ca/rss/ctvnews-ca-top-stories-public-rss-1.822009`
-- DVB Multimedia Group (Country: Myanmar (Burma)) - not a valid feed: not well-formed (invalid token): line 1, column 52779  
+- Dinner: A Love Story (Food) - HTTP 415  
+  `http://www.dinneralovestory.com/feed/`
+- DVB Multimedia Group (Country: Myanmar (Burma)) - not a valid feed: not well-formed (invalid token): line 1, column 52514  
   `http://www.dvb.no/feed`
 - El Diario (Country: Mexico) - not a valid feed: not well-formed (invalid token): line 8, column 67  
   `https://diario.mx/jrz/media/sitemaps/rss.xml`
@@ -46,7 +48,7 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://ewn.co.za/RSS%20Feeds/Latest%20News`
 - FOCUS Online (Country: Germany) - HTTP 404  
   `https://rss.focus.de/fol/XML/rss_folnews.xml`
-- Focusing on Wildlife (Animal & Wildlife) - not a valid feed: junk after document element: line 287, column 80  
+- Focusing on Wildlife (Animal & Wildlife) - not a valid feed: no element found: line 1, column 80  
   `https://focusingonwildlife.com/news/feed/`
 - https://www.sunstar.com.ph/ (Country: Philippines) - HTTP 404  
   `https://www.sunstar.com.ph/rssFeed/selected`
@@ -70,14 +72,8 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://www.heraldsun.com.au/news/breaking-news/rss`
 - Latest News | Philippine News Agency (Country: Philippines) - HTTP 404  
   `https://www.pna.gov.ph/latest.rss`
-- Live Hindustan Rss feed (Country: India) - HTTP 503  
-  `https://feed.livehindustan.com/rss/3127`
-- Liz Marie Blog (Interior design) - RemoteDisconnected: Remote end closed connection without response  
+- Liz Marie Blog (Interior design) - not a valid feed: mismatched tag: line 1, column 167  
   `https://www.lizmarieblog.com/feed/`
-- Loksattaदेश-विदेश – Loksatta (Country: India) - HTTP 404  
-  `https://www.loksatta.com/desh-videsh/feed/`
-- Manila Standard (Country: Philippines) - not a valid feed: no element found: line 1, column 0  
-  `https://manilastandard.net/feed/all`
 - Marathi News: मराठी बातम्या,  Latest News in Marathi, Breaking Marathi News, Marathi News Paper | Maharashtra Times (Country: India) - HTTP 404  
   `https://maharashtratimes.com/rssfeedsdefault.cms`
 - Merdeka.com (Country: Indonesia) - HTTP 404  
@@ -96,7 +92,9 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://obliviousinvestor.com/feed/`
 - Outlook India (Country: India) - HTTP 404  
   `https://www.outlookindia.com/rss/main/magazine`
-- Polska Agencja Prasowa SA (Country: Poland) - not a valid feed: not well-formed (invalid token): line 1, column 153  
+- Patrika : India's Leading Hindi News Portal (Country: India) - HTTP 522  
+  `http://api.patrika.com/rss/india-news`
+- Polska Agencja Prasowa SA (Country: Poland) - not a valid feed: not well-formed (invalid token): line 1, column 154  
   `https://www.pap.pl/rss.xml`
 - Portal EBC - RSS (Country: Brazil) - HTTP 404  
   `http://www.ebc.com.br/rss/feed.xml`
@@ -118,9 +116,11 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://www.suara.com/rss`
 - Tempo – The Nation's Fastest Growing Newspaper (Country: Philippines) - HTTP 522  
   `http://tempo.com.ph/feed/`
+- The 6 Figure Developer (Programming) - HTTP 415  
+  `http://6figuredev.com/feed/rss/`
 - The Android Arsenal (Android Development) - not a valid feed: not well-formed (invalid token): line 8, column 14  
   `https://feeds.feedburner.com/Android_Arsenal`
-- The Bad Crypto Podcast (Cryptocurrency) - HTTP 520  
+- The Bad Crypto Podcast (Cryptocurrency) - not a valid feed: mismatched tag: line 1, column 167  
   `https://badcryptopodcast.com/feed/`
 - The Courier Mail (Country: Australia) - not a valid feed: no element found: line 1, column 0  
   `https://www.couriermail.com.au/rss`
@@ -138,7 +138,7 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://www.timeslive.co.za/rss/`
 - Top Stories News - Gujarat Samachar : World's Leading Gujarati Newspaper (Country: India) - HTTP 404  
   `https://www.gujaratsamachar.com/rss/top-stories`
-- Toronto Star (Country: Canada) - not a valid feed: not well-formed (invalid token): line 524, column 26  
+- Toronto Star (Country: Canada) - not a valid feed: not well-formed (invalid token): line 409, column 26  
   `https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.topstories.rss`
 - Tribunnews.com (Country: Indonesia) - not a valid feed: no element found: line 1, column 0  
   `https://www.tribunnews.com/rss`
@@ -148,6 +148,8 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://www.tvfanatic.com/rss.xml`
 - tyler.io (iOS Development) - not a valid feed: mismatched tag: line 1, column 170  
   `https://tyler.io/feed/`
+- UX Movement (UI - UX) - HTTP 415  
+  `https://uxmovement.com/feed/`
 - Vox (Environment) - no items  
   `https://www.vox.com/rss/energy-and-environment/index.xml`
 - World (News) - HTTP 502  
@@ -173,266 +175,262 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
 - 香港新聞RSS - 香港經濟日報 hket.com (Country: Hong Kong SAR China) - HTTP 405  
   `https://www.hket.com/rss/hongkong`
 
-## Stale (no item in 90 days) - 128
+## Stale (no item in 90 days) - 126
 
-- "Human Nature" Blog Feed (Environment) - newest item 367d old  
+- "Human Nature" Blog Feed (Environment) - newest item 374d old  
   `http://feeds.feedburner.com/ConservationInternationalBlog`
-- A List Apart: The Full Feed (Web Development) - newest item 116d old  
+- A List Apart: The Full Feed (Web Development) - newest item 123d old  
   `https://alistapart.com/main/feed/`
-- A Weekly Dose of Architecture Books (Architecture) - newest item 739d old  
+- A Weekly Dose of Architecture Books (Architecture) - newest item 747d old  
   `http://feeds.feedburner.com/archidose`
-- Aestas Book Blog (Books) - newest item 1598d old  
+- Aestas Book Blog (Books) - newest item 1605d old  
   `https://aestasbookblog.com/feed/`
-- All About Android (Audio) (Android) - newest item 1026d old  
+- AI at Meta Blog (Curated) - newest item 97d old  
+  `https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml`
+- All About Android (Audio) (Android) - newest item 1033d old  
   `https://feeds.twit.tv/aaa.xml`
-- Android Authority Podcast (Android) - newest item 2458d old  
+- Android Authority Podcast (Android) - newest item 2465d old  
   `https://androidauthority.libsyn.com/rss`
-- Android Central Podcast (Android) - newest item 940d old  
+- Android Central Podcast (Android) - newest item 947d old  
   `http://feeds.feedburner.com/AndroidCentralPodcast`
-- Android Developers - Medium (Android Development) - newest item 309d old  
+- Android Developers - Medium (Android Development) - newest item 316d old  
   `https://medium.com/feed/androiddevelopers`
-- Android in MindOrks on Medium (Android Development) - newest item 739d old  
+- Android in MindOrks on Medium (Android Development) - newest item 746d old  
   `https://medium.com/feed/mindorks/tagged/android`
-- Android in The Airbnb Tech Blog on Medium (Android Development) - newest item 926d old  
+- Android in The Airbnb Tech Blog on Medium (Android Development) - newest item 933d old  
   `https://medium.com/feed/airbnb-engineering/tagged/android`
 - Arab48 (Arabic) (Curated) - no item dates  
   `https://www.arab48.com/feed`
-- Augmented Code (iOS Development) - newest item 705d old  
+- Augmented Code (iOS Development) - newest item 712d old  
   `https://augmentedcode.io/feed/`
-- BBC Earth Podcast (Nature) - newest item 1405d old  
+- BBC Earth Podcast (Nature) - newest item 1412d old  
   `https://rss.acast.com/bbcearthpodcast`
-- Benoit Pasquier (iOS Development) - newest item 1232d old  
+- Benoit Pasquier (iOS Development) - newest item 1239d old  
   `https://benoitpasquier.com/index.xml`
-- Better Programming - Medium (Programming) - newest item 1079d old  
+- Better Programming - Medium (Programming) - newest item 1086d old  
   `https://medium.com/feed/better-programming`
-- Bitcoin & Crypto Trading: Ledger Cast (Cryptocurrency) - newest item 981d old  
+- Bitcoin & Crypto Trading: Ledger Cast (Cryptocurrency) - newest item 988d old  
   `https://feeds.simplecast.com/j5Cx9jps`
-- Blog on Feld Thoughts (Startups) - newest item 503d old  
+- Blog on Feld Thoughts (Startups) - newest item 510d old  
   `https://feld.com/archives/tag/blog/feed`
-- BuyUcoin Talks - Medium (Cryptocurrency) - newest item 1012d old  
+- BuyUcoin Talks - Medium (Cryptocurrency) - newest item 1019d old  
   `https://medium.com/feed/buyucoin-talks`
-- Can't Bowl Can't Throw Cricket Show (Cricket) - newest item 1342d old  
+- Can't Bowl Can't Throw Cricket Show (Cricket) - newest item 1349d old  
   `http://feeds.feedburner.com/cantbowlcantthrow`
-- Chess Talk (Chess) - newest item 108d old  
+- Chess Talk (Chess) - newest item 116d old  
   `https://www.youtube.com/feeds/videos.xml?channel_id=UC6HDXr-sNPnWLF_Q-y3KduA`
-- Chris Keenan Codes (Android Development) - newest item 584d old  
+- Chris Keenan Codes (Android Development) - newest item 591d old  
   `https://chrynan.codes/rss/`
-- CNN.com - RSS Channel - App International Edition (Country: United States) - newest item 1285d old  
+- CNN.com - RSS Channel - App International Edition (Country: United States) - newest item 1292d old  
   `http://rss.cnn.com/rss/edition.rss`
-- CNN.com - RSS Channel - App Travel Section (Travel) - newest item 989d old  
+- CNN.com - RSS Channel - App Travel Section (Travel) - newest item 996d old  
   `http://rss.cnn.com/rss/cnn_travel.rss`
-- CNN.com - RSS Channel - Sport (Sports) - newest item 1287d old  
+- CNN.com - RSS Channel - Sport (Sports) - newest item 1294d old  
   `http://rss.cnn.com/rss/edition_sport.rss`
-- CNN.com - RSS Channel - Sport - Football (Football) - newest item 1464d old  
+- CNN.com - RSS Channel - Sport - Football (Football) - newest item 1471d old  
   `http://rss.cnn.com/rss/edition_football.rss`
-- CNN.com - RSS Channel - Sport - Tennis (Tennis) - newest item 1166d old  
+- CNN.com - RSS Channel - Sport - Tennis (Tennis) - newest item 1173d old  
   `http://rss.cnn.com/rss/edition_tennis.rss`
-- CNN.com - RSS Channel - World (News) - newest item 1133d old  
+- CNN.com - RSS Channel - World (News) - newest item 1140d old  
   `http://rss.cnn.com/rss/edition_world.rss`
-- CodeNewbie (Programming) - newest item 886d old  
+- CodeNewbie (Programming) - newest item 893d old  
   `http://feeds.codenewbie.org/cnpodcast.xml`
-- Cracked: All Posts (Funny) - newest item 303d old  
+- Cracked: All Posts (Funny) - newest item 310d old  
   `http://feeds.feedburner.com/CrackedRSS`
-- Cricket – The Roar (Cricket) - newest item 276d old  
+- Cricket – The Roar (Cricket) - newest item 283d old  
   `https://www.theroar.com.au/cricket/feed/`
-- Crunch Hype (Tech) - newest item 325d old  
+- Crunch Hype (Tech) - newest item 332d old  
   `http://feeds.feedburner.com/TechCrunch`
-- Cult of Android (Android) - newest item 1635d old  
+- Cult of Android (Android) - newest item 1642d old  
   `https://www.cultofandroid.com/feed`
-- David Walsh Blog (Web Development) - newest item 339d old  
+- David Walsh Blog (Web Development) - newest item 346d old  
   `https://davidwalsh.name/feed`
-- decoist (Interior design) - newest item 138d old  
+- decoist (Interior design) - newest item 145d old  
   `https://www.decoist.com/feed/`
-- Dinner: A Love Story (Food) - newest item 299d old  
-  `http://www.dinneralovestory.com/feed/`
-- droidcon SF (Android Development) - newest item 2875d old  
+- droidcon SF (Android Development) - newest item 2882d old  
   `https://www.youtube.com/feeds/videos.xml?channel_id=UCKubKoe1CBw_-n_GXetEQbg`
-- Eagle News (Country: Philippines) - newest item 720d old  
+- Eagle News (Country: Philippines) - newest item 728d old  
   `https://www.eaglenews.ph/feed/`
-- Engineering at Slack (Programming) - newest item 102d old  
+- Engineering at Slack (Programming) - newest item 109d old  
   `https://slack.engineering/feed`
-- Essential Tennis Podcast - Instruction, Lessons, Tips (Tennis) - newest item 708d old  
+- Essential Tennis Podcast - Instruction, Lessons, Tips (Tennis) - newest item 715d old  
   `https://feed.podbean.com/essentialtennis/feed.xml`
-- Explosm.net (Funny) - newest item 1769d old  
+- Explosm.net (Funny) - newest item 1776d old  
   `http://feeds.feedburner.com/Explosm`
-- FLOSS Weekly (Audio) (Programming) - newest item 1018d old  
+- FLOSS Weekly (Audio) (Programming) - newest item 1025d old  
   `https://feeds.twit.tv/floss.xml`
-- Food52 (Food) - newest item 467d old  
+- Food52 (Food) - newest item 474d old  
   `http://feeds.feedburner.com/food52-TheAandMBlog`
-- From Head To Toe (Beauty) - newest item 2259d old  
+- From Head To Toe (Beauty) - newest item 2266d old  
   `http://feeds.feedburner.com/frmheadtotoe`
-- Frugalwoods (Personal finance) - newest item 1047d old  
+- Frugalwoods (Personal finance) - newest item 1054d old  
   `https://feeds.feedburner.com/Frugalwoods`
-- Fubiz Media (Interior design) - newest item 115d old  
+- Fubiz Media (Interior design) - newest item 122d old  
   `http://feeds.feedburner.com/fubiz`
-- Good Financial Cents® (Personal finance) - newest item 863d old  
+- Good Financial Cents® (Personal finance) - newest item 870d old  
   `https://www.goodfinancialcents.com/feed/`
 - Google Developers Blog (Programming) - no item dates  
   `http://feeds.feedburner.com/GDBcode`
-- Google Online Security Blog (Cyber security) - newest item 184d old  
+- Google Online Security Blog (Cyber security) - newest item 191d old  
   `http://googleonlinesecurity.blogspot.com/atom.xml`
-- Google TechTalks (Programming) - newest item 137d old  
+- Google TechTalks (Programming) - newest item 144d old  
   `https://www.youtube.com/feeds/videos.xml?user=GoogleTechTalks`
-- Green Kitchen Stories (Food) - newest item 950d old  
+- Green Kitchen Stories (Food) - newest item 957d old  
   `https://greenkitchenstories.com/feed/`
-- HackerNoon.com - Medium (Programming) - newest item 1989d old  
+- HackerNoon.com - Medium (Programming) - newest item 1996d old  
   `https://medium.com/feed/hackernoon`
-- Handstand Sam (Android Development) - newest item 290d old  
+- Handstand Sam (Android Development) - newest item 297d old  
   `https://handstandsam.com/feed/`
-- Harry Potter and the Sacred Text (Books) - newest item 211d old  
+- Harry Potter and the Sacred Text (Books) - newest item 218d old  
   `https://rss.acast.com/harrypottersacredtext`
-- HistoryNet (History) - newest item 855d old  
+- HistoryNet (History) - newest item 862d old  
   `http://www.historynet.com/feed`
-- iMore - The #1 iPhone, iPad, and iPod touch blog (Apple) - newest item 759d old  
+- iMore - The #1 iPhone, iPad, and iPod touch blog (Apple) - newest item 766d old  
   `http://feeds.feedburner.com/TheiPhoneBlog`
-- Indian Meme Templates (Memes) - newest item 362d old  
+- Indian Meme Templates (Memes) - newest item 369d old  
   `https://indianmemetemplates.com/feed/`
-- Into The Gloss - Beauty Tips, Trends, And Product Reviews (Beauty) - newest item 598d old  
+- Into The Gloss - Beauty Tips, Trends, And Product Reviews (Beauty) - newest item 605d old  
   `https://feeds.feedburner.com/intothegloss/oqoU`
-- Invisibilia (Science) - newest item 98d old  
+- Invisibilia (Science) - newest item 106d old  
   `https://feeds.npr.org/510307/podcast.xml`
-- Japan Times latest articles (Country: Japan) - newest item 605d old  
+- Japan Times latest articles (Country: Japan) - newest item 612d old  
   `https://www.japantimes.co.jp/feed/topstories/`
-- Java, SQL and jOOQ. (Programming) - newest item 170d old  
+- Java, SQL and jOOQ. (Programming) - newest item 178d old  
   `https://blog.jooq.org/feed`
-- Joel on Software (Programming) - newest item 1405d old  
+- Joel on Software (Programming) - newest item 1412d old  
   `https://www.joelonsoftware.com/feed/`
 - Kirkus Reviews (Books) - no item dates  
   `https://www.kirkusreviews.com/feeds/rss/`
-- Kotlin (Android Development) - newest item 752d old  
+- Kotlin (Android Development) - newest item 759d old  
   `https://www.youtube.com/feeds/videos.xml?playlist_id=PLQ176FUIyIUa6SChjajjVc-LMzxWiz6dy`
-- Learn To Trade The Market (Personal finance) - newest item 1952d old  
+- Learn To Trade The Market (Personal finance) - newest item 1959d old  
   `https://www.learntotradethemarket.com/feed`
-- Listen Money Matters - Free your inner financial badass. All the stuff you should know about personal finance. (Personal finance) - newest item 2358d old  
+- Listen Money Matters - Free your inner financial badass. All the stuff you should know about personal finance. (Personal finance) - newest item 2365d old  
   `https://feeds.megaphone.fm/listen-money-matters`
-- Live Life Travel (Travel) - newest item 2295d old  
+- Live Hindustan Rss feed (Country: India) - newest item 747d old  
+  `https://feed.livehindustan.com/rss/3127`
+- Live Life Travel (Travel) - newest item 2302d old  
   `https://www.livelifetravel.world/feed/`
-- MacRumors: Mac News and Rumors - Mac Blog (Apple) - newest item 1859d old  
+- MacRumors: Mac News and Rumors - Mac Blog (Apple) - newest item 1866d old  
   `http://feeds.macrumors.com/MacRumors-Mac`
-- Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup (Gaming) - newest item 279d old  
+- Makeup and Beauty Blog | Makeup Reviews, Swatches and How-To Makeup (Gaming) - newest item 286d old  
   `https://www.makeupandbeautyblog.com/feed/`
-- Malicious Life (Cyber security) - newest item 683d old  
+- Malicious Life (Cyber security) - newest item 691d old  
   `https://malicious.life/feed/podcast/`
-- Metal Injection (Music) - newest item 206d old  
+- Metal Injection (Music) - newest item 213d old  
   `http://feeds.feedburner.com/metalinjection`
-- Millennial Money (Personal finance) - newest item 619d old  
+- Millennial Money (Personal finance) - newest item 626d old  
   `https://millennialmoney.com/feed/`
-- Million Mile Secrets (Travel) - newest item 821d old  
+- Million Mile Secrets (Travel) - newest item 828d old  
   `http://feeds.feedburner.com/MillionMileSecrets`
-- Mobile A11y (iOS Development) - newest item 110d old  
+- Mobile A11y (iOS Development) - newest item 117d old  
   `https://mobilea11y.com/index.xml`
-- Moneycontrol Latest News (Country: India) - newest item 915d old  
-  `http://www.moneycontrol.com/rss/latestnews.xml`
-- Najnowsze (Country: Poland) - newest item 104d old  
+- Najnowsze (Country: Poland) - newest item 111d old  
   `http://feeds.feedburner.com/wPolitycepl`
-- News Agency UNIAN (Country: Ukraine) - newest item 883d old  
+- News Agency UNIAN (Country: Ukraine) - newest item 890d old  
   `https://rss.unian.net/site/news_eng.rss`
-- News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia (Country: India) - newest item 1374d old  
+- News, Latest News, Today's News Headlines, Breaking News, LIVE News - Oneindia (Country: India) - newest item 1381d old  
   `https://www.oneindia.com/rss/news-fb.xml`
-- NEWSru.com :: Главные новости (Country: Russia) - newest item 1973d old  
+- NEWSru.com :: Главные новости (Country: Russia) - newest item 1980d old  
   `https://rss.newsru.com/top/big/`
-- Oh Happy Day! (DIY) - newest item 1481d old  
+- Oh Happy Day! (DIY) - newest item 1488d old  
   `http://ohhappyday.com/feed/`
-- OkKotlin (Android Development) - newest item 2492d old  
+- OkKotlin (Android Development) - newest item 2499d old  
   `https://okkotlin.com/rss.xml`
-- Ole Begemann (iOS Development) - newest item 312d old  
+- Ole Begemann (iOS Development) - newest item 319d old  
   `https://oleb.net/blog/atom.xml`
-- One Big Photo (Photography) - newest item 883d old  
+- One Big Photo (Photography) - newest item 890d old  
   `http://feeds.feedburner.com/OneBigPhoto`
-- Overflow - Buffer Resources (Programming) - newest item 225d old  
+- Overflow - Buffer Resources (Programming) - newest item 233d old  
   `https://buffer.com/resources/overflow/rss/`
 - Paul Graham: Essays (Startups) - no item dates  
   `http://www.aaronsw.com/2002/feeds/pgessays.rss`
-- Phandroid (Android) - newest item 130d old  
+- Phandroid (Android) - newest item 137d old  
   `http://feeds2.feedburner.com/AndroidPhoneFans`
-- PHD Comics (Funny) - newest item 1727d old  
+- PHD Comics (Funny) - newest item 1734d old  
   `http://phdcomics.com/gradfeed.php`
-- PhilNews.XYZ (Country: Philippines) - newest item 175d old  
+- PhilNews.XYZ (Country: Philippines) - newest item 182d old  
   `https://www.philnews.xyz/feeds/posts/default?alt=rss`
-- Programming Archives - The Crazy Programmer (Programming) - newest item 214d old  
+- Programming Archives - The Crazy Programmer (Programming) - newest item 221d old  
   `https://www.thecrazyprogrammer.com/category/programming/feed`
-- Rabbit Ramblings (Memes) - newest item 153d old  
+- Rabbit Ramblings (Memes) - newest item 160d old  
   `http://feeds.feedburner.com/blogspot/GlZMR`
-- Reply All (Tech) - newest item 209d old  
+- Reply All (Tech) - newest item 216d old  
   `https://feeds.megaphone.fm/replyall`
-- Robert Heaton | Blog (Programming) - newest item 501d old  
+- Robert Heaton | Blog (Programming) - newest item 508d old  
   `https://robertheaton.com/feed.xml`
-- Rocket (Tech) - newest item 1031d old  
+- Rocket (Tech) - newest item 1038d old  
   `https://www.relay.fm/rocket/feed`
-- RSS DiariodelWeb.it (Country: Italy) - newest item 1416d old  
+- RSS DiariodelWeb.it (Country: Italy) - newest item 1423d old  
   `https://www.diariodelweb.it/rss/home/`
-- Saket Narayan (Android Development) - newest item 154d old  
+- Saket Narayan (Android Development) - newest item 161d old  
   `https://saket.me/feed/`
 - SEBI RSS Feed (Country: India) - no item dates  
   `https://www.sebi.gov.in/sebirss.xml`
-- Serious Eats (Food) - newest item 729d old  
+- Serious Eats (Food) - newest item 736d old  
   `https://www.youtube.com/feeds/videos.xml?user=SeriousEats`
-- Serious Eats: Recipes (Food) - newest item 2033d old  
+- Serious Eats: Recipes (Food) - newest item 2040d old  
   `http://feeds.feedburner.com/seriouseats/recipes`
-- Sink In - Tech Learnings (Web Development) - newest item 104d old  
+- Sink In - Tech Learnings (Web Development) - newest item 111d old  
   `https://gosink.in/rss/`
-- Speedhunters (Cars) - newest item 564d old  
+- Speedhunters (Cars) - newest item 571d old  
   `http://feeds.feedburner.com/speedhunters`
-- Sprouted Kitchen (Food) - newest item 635d old  
+- Sprouted Kitchen (Food) - newest item 642d old  
   `https://www.sproutedkitchen.com/home?format=rss`
-- Stack Abuse (Programming) - newest item 155d old  
+- Stack Abuse (Programming) - newest item 162d old  
   `https://stackabuse.com/rss/`
-- The 6 Figure Developer (Programming) - newest item 1531d old  
-  `http://6figuredev.com/feed/rss/`
-- The Atomic Birdhouse (iOS Development) - newest item 1620d old  
+- The Atomic Birdhouse (iOS Development) - newest item 1627d old  
   `https://atomicbird.com/index.xml`
-- The Bitcoin Knowledge Podcast (Cryptocurrency) - newest item 412d old  
+- The Bitcoin Knowledge Podcast (Cryptocurrency) - newest item 419d old  
   `https://www.bitcoin.kn/feed/podcast/`
-- The Bitcoin Podcast (Cryptocurrency) - newest item 109d old  
+- The Bitcoin Podcast (Cryptocurrency) - newest item 116d old  
   `https://feeds.simplecast.com/xCQr3ykc`
-- The Boston Globe (Photography) - newest item 2363d old  
+- The Boston Globe (Photography) - newest item 2370d old  
   `https://www.bostonglobe.com/rss/bigpicture`
-- The Daily Star (Country: Bangladesh) - newest item 1555d old  
+- The Daily Star (Country: Bangladesh) - newest item 1563d old  
   `https://www.thedailystar.net/frontpage/rss.xml`
-- The Growth Show (Business & Economy) - newest item 680d old  
+- The Growth Show (Business & Economy) - newest item 687d old  
   `http://thegrowthshow.hubspot.libsynpro.com/`
-- The News International - Pakistan (Country: Pakistan) - newest item 338d old  
+- The News International - Pakistan (Country: Pakistan) - newest item 345d old  
   `https://www.thenews.com.pk/rss/1/1`
-- The PIT Show: Reflections and Interviews in the Tech World (Programming) - newest item 1964d old  
+- The PIT Show: Reflections and Interviews in the Tech World (Programming) - newest item 1971d old  
   `https://feeds.transistor.fm/productivity-in-tech-podcast`
-- the TV addict (Television) - newest item 585d old  
+- the TV addict (Television) - newest item 592d old  
   `http://feeds.feedburner.com/thetvaddict/AXob`
-- The Wildlife India (Animal & Wildlife) - newest item 156d old  
+- The Wildlife India (Animal & Wildlife) - newest item 163d old  
   `https://www.thewildlifeindia.com/feeds/posts/default`
-- The Women in Tech Show: A Technical Podcast (Programming) - newest item 1180d old  
+- The Women in Tech Show: A Technical Podcast (Programming) - newest item 1187d old  
   `https://thewomenintechshow.com/category/podcast/feed/`
-- thechesswebsite (Chess) - newest item 363d old  
+- thechesswebsite (Chess) - newest item 370d old  
   `https://www.youtube.com/feeds/videos.xml?user=thechesswebsite`
-- Threatpost (Cyber security) - newest item 1515d old  
+- Threatpost (Cyber security) - newest item 1522d old  
   `http://threatpost.com/feed`
-- Today in Web 3 (Cryptocurrency) - newest item 1737d old  
+- Today in Web 3 (Cryptocurrency) - newest item 1744d old  
   `https://feeds.soundcloud.com/users/soundcloud:users:844321453/sounds.rss`
-- TV (Television) - newest item 1409d old  
+- TV (Television) - newest item 1416d old  
   `https://www.bleedingcool.com/tv/feed/`
-- Usability Geek (UI - UX) - newest item 1026d old  
+- Usability Geek (UI - UX) - newest item 1033d old  
   `https://usabilitygeek.com/feed/`
-- Use Your Loaf - iOS Development News & Tips (iOS Development) - newest item 132d old  
+- Use Your Loaf - iOS Development News & Tips (iOS Development) - newest item 139d old  
   `https://useyourloaf.com/blog/rss.xml`
-- UX Movement (UI - UX) - newest item 584d old  
-  `https://uxmovement.com/feed/`
-- Wokeread (Books) - newest item 2184d old  
+- Wokeread (Books) - newest item 2191d old  
   `https://wokeread.home.blog/feed/`
-- WonderHowTo (DIY) - newest item 207d old  
+- WonderHowTo (DIY) - newest item 214d old  
   `https://www.wonderhowto.com/rss.xml`
-- WSJ.com: World News (Country: United States) - newest item 635d old  
+- WSJ.com: World News (Country: United States) - newest item 642d old  
   `https://feeds.a.dj.com/rss/RSSWorldNews.xml`
-- You Must Remember This (History) - newest item 4281d old  
+- You Must Remember This (History) - newest item 4288d old  
   `https://feeds.megaphone.fm/YMRT7068253588`
-- YuckSauce (Memes) - newest item 678d old  
+- YuckSauce (Memes) - newest item 685d old  
   `https://yucksauce.com/feed/`
-- Zac Sweers (Android Development) - newest item 118d old  
+- Zac Sweers (Android Development) - newest item 125d old  
   `https://www.zacsweers.dev/rss/`
-- Zarah Dominguez (Android Development) - newest item 327d old  
+- Zarah Dominguez (Android Development) - newest item 334d old  
   `https://zarah.dev/feed.xml`
-- zsmb.co (Android Development) - newest item 453d old  
+- zsmb.co (Android Development) - newest item 460d old  
   `https://zsmb.co/index.xml`
 
-## Blocked (401/403/429, or YouTube feeds - could not be verified from CI) - 22
+## Blocked (401/403/429, or YouTube feeds - could not be verified from CI) - 24
 
 - Bangla News (Country: Bangladesh) - HTTP 403  
   `https://www.banglanews24.com/rss/rss.xml`
@@ -458,12 +456,16 @@ Candidates (upstream + curated): 925 unique feeds. In catalog: 691. Rejected: 23
   `https://pia.gov.ph/news/feed.rss`
 - Latest Nigeria News, Nigerian Newspapers, Politics (Country: Nigeria) - HTTP 403  
   `https://thenationonlineng.net/feed/`
+- Loksattaदेश-विदेश – Loksatta (Country: India) - HTTP 403  
+  `https://www.loksatta.com/desh-videsh/feed/`
+- Manila Standard (Country: Philippines) - HTTP 403  
+  `https://manilastandard.net/feed/all`
 - Michael West (Country: Australia) - HTTP 403  
   `https://www.michaelwest.com.au/feed/`
 - Ministry for Europe and Foreign Affairs - Actualités (Country: France) - HTTP 403  
   `https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en`
-- Patrika : India's Leading Hindi News Portal (Country: India) - HTTP 403  
-  `http://api.patrika.com/rss/india-news`
+- Moneycontrol Latest News (Country: India) - HTTP 403  
+  `http://www.moneycontrol.com/rss/latestnews.xml`
 - Sports | The Indian Express (Sports) - HTTP 403  
   `https://indianexpress.com/section/sports/feed/`
 - Sportskeeda (Sports) - HTTP 403  

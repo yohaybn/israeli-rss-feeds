@@ -37,7 +37,7 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**691 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-10-25; 234 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**690 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-01; 235 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
@@ -49,7 +49,7 @@
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
 | מדע וסביבה (Science & Environment) | 49 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
-| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 26 | Gaming, Chess, רשימה ידנית (curated.json) |
 | אוכל וקולינריה (Food & Cooking) | 14 | Food, רשימה ידנית (curated.json) |
 | תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
@@ -57,11 +57,11 @@
 | נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 70 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 71 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
-| בינה מלאכותית (Artificial Intelligence) | 24 | רשימה ידנית (curated.json) |
+| בינה מלאכותית (Artificial Intelligence) | 23 | רשימה ידנית (curated.json) |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -172,7 +172,7 @@
 | [Times of India](https://timesofindia.indiatimes.com/rssfeedstopstories.cms) | timesofindia.indiatimes.com | en | Country: India |
 | [देश \| दैनिक भास्कर](https://www.bhaskar.com/rss-feed/1061/) | bhaskar.com | hi | Country: India |
 | [ઈન્ડિયા \| દિવ્ય ભાસ્કર](https://www.divyabhaskar.co.in/rss-feed/1037/) | divyabhaskar.co.in | gu | Country: India |
-| [تابناک \| TABNAK](https://www.tabnak.ir/fa/rss/allnews) | tabnak.ir | fa | Country: Iran |
+| [تابناک \| TABNAK](https://tabnak.ir/fa/rss/allnews) | tabnak.ir | fa | Country: Iran |
 | [خبرگزاری ایسنا \| صفحه اصلی \|  ISNA News Agency](https://www.isna.ir/rss) | isna.ir | fa | Country: Iran |
 | [خبرگزاری باشگاه خبرنگاران \| آخرین اخبار ایران و جهان \| YJC](https://www.yjc.ir/fa/rss/allnews) | yjc.ir | fa | Country: Iran |
 | [خبرگزاری خبرآنلاین - آخرین اخبار ایران و جهان \| Khabaronline](https://www.khabaronline.ir/rss) | khabaronline.ir | fa | Country: Iran |
@@ -583,7 +583,6 @@
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
-| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Polygon.com](https://www.polygon.com/rss/index.xml) | polygon.com | en | Gaming |
 | [r/Chess](https://www.reddit.com/r/chess/.rss) | reddit.com | en | Chess |
 | [r/gaming](https://www.reddit.com/r/gaming.rss) | reddit.com | en | Gaming |
@@ -750,6 +749,7 @@
 | [Nerd's Eye View \| Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) | kitces.com | en | Personal finance |
 | [Perpetual Chess Podcast](https://feeds.megaphone.fm/BLU4811105299) | perpetualchesspod.com | en | Chess |
 | [Planet Money](https://feeds.npr.org/510289/podcast.xml) | npr.org | en | Business & Economy |
+| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Podcast Archives - Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) | softwareengineeringdaily.com | en | Programming |
 | [Probably Science](https://probablyscience.libsyn.com/rss) | probablyscience.com | en | Science |
 | [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) | programmingthrowdown.com | en | Programming |
@@ -821,7 +821,6 @@
 |---|---|---|---|
 | [ActuIA Arabic](https://www.actuia.com/ar/feed/) | actuia.com | ar | Curated |
 | [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/feed) | magazine.sebastianraschka.com | en | Curated |
-| [AI at Meta Blog](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml) | ai.meta.com | en | Curated |
 | [Anthropic News](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | anthropic.com | en | Curated |
 | [Apple Machine Learning Research](https://machinelearning.apple.com/rss.xml) | machinelearning.apple.com | en | Curated |
 | [Berkeley AI Research (BAIR) Blog](https://bair.berkeley.edu/blog/feed.xml) | bair.berkeley.edu | en | Curated |

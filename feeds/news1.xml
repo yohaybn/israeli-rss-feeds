@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>News1 מחלקה ראשונה</title>
+    <link>https://www.news1.co.il/</link>
+    <atom:link href="https://yohaybn.github.io/israeli-rss-feeds/feeds/news1.xml" rel="self" type="application/rss+xml" /><description>News1.co.il - חדשות, פוליטיקה, כלכלה וספורט</description>
+    <language>he</language>
+    <pubDate>Sat, 07 Nov 2026 18:00:06 -0000</pubDate>
+    <generator>html2rss V. 0.33.0 (scrapers: AutoSource::SemanticHtml (5))</generator>
+    <ttl>1</ttl>
+    <item>
+      <title>אסונות / פגעי טבע</title>
+      <link>https://www.news1.co.il/Home/L02-S-00117-00.html</link>
+      <guid isPermaLink="false">ylfm5j</guid>
+    <pubDate>Tue, 29 Sep 2026 06:25:34 GMT</pubDate><description>News1.co.il - חדשות, פוליטיקה, כלכלה וספורט</description><category>News1</category><category>News1.co.il</category><category>News1 מחלקה ראשונה</category><category>חדשות</category><category>מחלקה ראשונה</category><category>Nfc</category></item>
+    <item>
+      <title>מערכת - [email protected]</title>
+      <link>https://www.news1.co.il/cdn-cgi/l/email-protection</link>
+      <guid isPermaLink="false">1czh3el</guid>
+    <pubDate>Tue, 29 Sep 2026 06:25:34 GMT</pubDate></item>
+    <item>
+      <title>עו"סים שינוי</title>
+      <link>https://www.news1.co.il/Home/L02-S-00540-00.html</link>
+      <guid isPermaLink="false">1fmbmrm</guid>
+    <description>פורום אלפרדו</description><pubDate>Sat, 03 Oct 2026 11:56:16 GMT</pubDate><category>News1</category><category>News1.co.il</category><category>News1 מחלקה ראשונה</category><category>חדשות</category><category>מחלקה ראשונה</category><category>Nfc</category></item>
+    <item>
+      <title>פנדורה / אנשים ואירועים</title>
+      <link>https://www.news1.co.il/ExchangeNames.html</link>
+      <guid isPermaLink="false">1on5dug</guid>
+    <pubDate>Thu, 05 Nov 2026 09:41:34 GMT</pubDate><description>News1.co.il - חדשות, פוליטיקה, כלכלה וספורט</description><category>News1</category><category>News1.co.il</category><category>News1 מחלקה ראשונה</category><category>חדשות</category><category>מחלקה ראשונה</category><category>Nfc</category></item>
+    <item>
+      <title>וידאו / אודיו News1</title>
+      <link>https://www.news1.co.il/News1Movies.html</link>
+      <guid isPermaLink="false">1dn6otl</guid>
+    <description>כללי | חדשות/אירועים | נאומים | פודקאסטים</description><pubDate>Thu, 05 Nov 2026 09:41:34 GMT</pubDate><category>News1</category><category>News1.co.il</category><category>News1 מחלקה ראשונה</category><category>חדשות</category><category>מחלקה ראשונה</category><category>Nfc</category></item>
+    </channel>
+</rss>

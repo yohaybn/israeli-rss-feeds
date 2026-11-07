@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>מקור ראשון - חדשות, פרשנות, דעות וכתבות מגזין מהארץ ומהעולם</title>
+    <link>https://www.makorrishon.co.il/</link>
+    <atom:link href="https://yohaybn.github.io/israeli-rss-feeds/feeds/makorrishon.xml" rel="self" type="application/rss+xml" /><description>חדשות, פרשנות, דעות וכתבות מגזין מהארץ ומהעולם</description>
+    <language>he-IL</language>
+    <pubDate>Sat, 07 Nov 2026 17:41:50 +0000</pubDate>
+    <generator>html2rss V. 0.33.0 (scrapers: AutoSource::SemanticHtml (5))</generator>
+    <ttl>1</ttl>
+    <item>
+      <title>הפסקת הסיוע הצבאי האמריקני איננה אסון כלכלי</title>
+      <link>https://www.makorrishon.co.il/news/economy/article/389368</link>
+      <guid isPermaLink="false">xillc7</guid>
+    <description>כלכלה - ריקי ממן - ריקי ממן</description><pubDate>Sat, 07 Nov 2026 17:41:50 GMT</pubDate></item>
+    <item>
+      <title>במקום לערוך חשבון נפש השמאל חוגג ניצחון</title>
+      <link>https://www.makorrishon.co.il/news/politcal/article/389276</link>
+      <guid isPermaLink="false">1qsrzws</guid>
+    <description>פוליטי - זאב קם - זאב קם</description><pubDate>Fri, 06 Nov 2026 11:55:57 GMT</pubDate></item>
+    <item>
+      <title>רק אינטרסים: ישראל לא מוכרחה שיאהבו אותה בוושינגטון</title>
+      <link>https://www.makorrishon.co.il/news/geopolitics/article/389906</link>
+      <guid isPermaLink="false">1x1fr5z</guid>
+    <description>מדיני - ליאורה לויאן - ליאורה לויאן</description><pubDate>Fri, 06 Nov 2026 11:55:57 GMT</pubDate></item>
+    <item>
+      <title>טקסס פינת ראשל"צ: 5 הערות על הבחירות בארה"ב</title>
+      <link>https://www.makorrishon.co.il/news/world-news/article/389856</link>
+      <guid isPermaLink="false">135cfsj</guid>
+    <description>בעולם - אריאל שנבל - אריאל שנבל</description><pubDate>Fri, 06 Nov 2026 11:55:57 GMT</pubDate></item>
+    <item>
+      <title>לכל הדעות והפרשנויות</title>
+      <link>https://www.makorrishon.co.il/opinions</link>
+      <guid isPermaLink="false">1faxgd3</guid>
+    <pubDate>Thu, 05 Nov 2026 10:33:28 GMT</pubDate></item>
+    </channel>
+</rss>

@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Artificial Intelligence</title>
-    <dateCreated>2026-11-01</dateCreated>
+    <dateCreated>2026-11-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -11,7 +11,6 @@
       <outline type="rss" text="Ahead of AI (Sebastian Raschka)" title="Ahead of AI (Sebastian Raschka)" xmlUrl="https://magazine.sebastianraschka.com/feed" htmlUrl="https://magazine.sebastianraschka.com/"/>
       <outline type="rss" text="Anthropic News" title="Anthropic News" xmlUrl="https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" htmlUrl="https://www.anthropic.com/news"/>
       <outline type="rss" text="Apple Machine Learning Research" title="Apple Machine Learning Research" xmlUrl="https://machinelearning.apple.com/rss.xml" htmlUrl="https://machinelearning.apple.com/"/>
-      <outline type="rss" text="Berkeley AI Research (BAIR) Blog" title="Berkeley AI Research (BAIR) Blog" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
       <outline type="rss" text="EntArabi AI" title="EntArabi AI" xmlUrl="https://entarabi.com/ai/feed/" htmlUrl="https://entarabi.com/ai/"/>
       <outline type="rss" text="Google AI (The Keyword)" title="Google AI (The Keyword)" xmlUrl="https://blog.google/innovation-and-ai/technology/ai/rss/" htmlUrl="https://blog.google/innovation-and-ai/technology/ai/"/>
       <outline type="rss" text="Google DeepMind Blog" title="Google DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml" htmlUrl="https://deepmind.google/blog/"/>

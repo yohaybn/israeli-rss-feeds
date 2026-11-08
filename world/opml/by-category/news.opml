@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-11-01</dateCreated>
+    <dateCreated>2026-11-08</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -33,6 +33,7 @@
       <outline type="rss" text="Top stories - Google News" title="Top stories - Google News" xmlUrl="https://news.google.com/rss" htmlUrl="https://news.google.com/?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
       <outline type="rss" text="Vedomosti" title="Vedomosti" xmlUrl="https://www.vedomosti.ru/rss/news" htmlUrl="https://www.vedomosti.ru/"/>
       <outline type="rss" text="Watan" title="Watan" xmlUrl="https://www.watanserb.com/feed/" htmlUrl="https://www.watanserb.com/"/>
+      <outline type="rss" text="World" title="World" xmlUrl="https://feeds.washingtonpost.com/rss/world" htmlUrl="https://www.washingtonpost.com"/>
       <outline type="rss" text="World News" title="World News" xmlUrl="https://www.reddit.com/r/worldnews/.rss" htmlUrl="https://www.reddit.com/r/worldnews/"/>
       <outline type="rss" text="World news | The Guardian" title="World news | The Guardian" xmlUrl="https://www.theguardian.com/world/rss" htmlUrl="https://www.theguardian.com/world"/>
       <outline type="rss" text="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" title="World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India" xmlUrl="https://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl="https://timesofindia.indiatimes.com/world"/>
@@ -54,14 +55,12 @@
       <outline type="rss" text="The Rio Times" title="The Rio Times" xmlUrl="https://www.riotimesonline.com/feed/" htmlUrl="https://www.riotimesonline.com/"/>
       <outline type="rss" text="UOL" title="UOL" xmlUrl="http://rss.home.uol.com.br/index.xml" htmlUrl="https://www.uol.com.br"/>
       <outline type="rss" text="CBC | Top Stories News" title="CBC | Top Stories News" xmlUrl="https://www.cbc.ca/cmlink/rss-topstories" htmlUrl="https://www.cbc.ca/news/?cmp=rss"/>
-      <outline type="rss" text="Financial Post" title="Financial Post" xmlUrl="https://business.financialpost.com/feed/" htmlUrl="https://financialpost.com"/>
       <outline type="rss" text="globalnews.ca" title="globalnews.ca" xmlUrl="https://globalnews.ca/feed/" htmlUrl="https://globalnews.ca"/>
       <outline type="rss" text="LaPresse.ca - Actualités" title="LaPresse.ca - Actualités" xmlUrl="https://www.lapresse.ca/actualites/rss" htmlUrl="https://www.lapresse.ca/actualites/"/>
       <outline type="rss" text="National Post" title="National Post" xmlUrl="https://nationalpost.com/feed" htmlUrl="https://nationalpost.com"/>
       <outline type="rss" text="Ottawa Citizen" title="Ottawa Citizen" xmlUrl="https://ottawacitizen.com/feed" htmlUrl="https://ottawacitizen.com"/>
       <outline type="rss" text="The Province" title="The Province" xmlUrl="https://theprovince.com/feed" htmlUrl="https://theprovince.com"/>
       <outline type="rss" text="Toronto Sun - RSS Feed" title="Toronto Sun - RSS Feed" xmlUrl="https://torontosun.com/category/news/feed" htmlUrl="https://torontosun.com/"/>
-      <outline type="rss" text="Aktuell - FAZ.NET" title="Aktuell - FAZ.NET" xmlUrl="https://www.faz.net/rss/aktuell/" htmlUrl="https://www.faz.net/aktuell/"/>
       <outline type="rss" text="Deutsche Welle" title="Deutsche Welle" xmlUrl="https://rss.dw.com/rdf/rss-en-all" htmlUrl="https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf"/>
       <outline type="rss" text="tagesschau.de - Die Nachrichten der ARD" title="tagesschau.de - Die Nachrichten der ARD" xmlUrl="http://www.tagesschau.de/xml/rss2" htmlUrl="https://www.tagesschau.de/infoservices/alle-meldungen-100.html"/>
       <outline type="rss" text="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" title="ZEIT ONLINE | Nachrichten, Hintergründe und Debatten" xmlUrl="http://newsfeed.zeit.de/index" htmlUrl="https://www.zeit.de/index"/>
@@ -74,6 +73,7 @@
       <outline type="rss" text="The Local" title="The Local" xmlUrl="https://feeds.thelocal.com/rss/es" htmlUrl="https://feeds.thelocal.com/"/>
       <outline type="rss" text="france24.com" title="france24.com" xmlUrl="https://www.france24.com/en/rss" htmlUrl="https://www.france24.com/en/"/>
       <outline type="rss" text="Franceinfo - Les Titres" title="Franceinfo - Les Titres" xmlUrl="https://www.francetvinfo.fr/titres.rss" htmlUrl="https://www.franceinfo.fr/titres/"/>
+      <outline type="rss" text="L&#x27;essentiel" title="L&#x27;essentiel" xmlUrl="https://www.sudouest.fr/essentiel/rss.xml" htmlUrl="https://www.sudouest.fr/essentiel/"/>
       <outline type="rss" text="L&#x27;Obs - A la une" title="L&#x27;Obs - A la une" xmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml" htmlUrl="https://www.nouvelobs.com/a-la-une/rss.xml"/>
       <outline type="rss" text="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" title="La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr" xmlUrl="https://www.ladepeche.fr/rss.xml" htmlUrl="https://www.ladepeche.fr/"/>
       <outline type="rss" text="Le Huffington Post" title="Le Huffington Post" xmlUrl="https://www.huffingtonpost.fr/feeds/index.xml" htmlUrl="https://www.huffingtonpost.fr/rss/all_headline.xml"/>
@@ -197,6 +197,7 @@
       <outline type="rss" text="World News - Breaking News, Top Stories" title="World News - Breaking News, Top Stories" xmlUrl="https://www.huffpost.com/section/world-news/feed" htmlUrl="https://www.huffpost.com/news/world-news"/>
       <outline type="rss" text="Axios" title="Axios" xmlUrl="https://api.axios.com/feed/" htmlUrl="https://www.axios.com/"/>
       <outline type="rss" text="Daily Maverick" title="Daily Maverick" xmlUrl="https://www.dailymaverick.co.za/dmrss/" htmlUrl="https://www.dailymaverick.co.za"/>
+      <outline type="rss" text="IOL section feed for News" title="IOL section feed for News" xmlUrl="http://rss.iol.io/iol/news" htmlUrl="https://iol.co.za/news/"/>
       <outline type="rss" text="Moneyweb" title="Moneyweb" xmlUrl="https://www.moneyweb.co.za/feed/" htmlUrl="https://www.moneyweb.co.za"/>
       <outline type="rss" text="TechCentral" title="TechCentral" xmlUrl="https://techcentral.co.za/feed/" htmlUrl="https://techcentral.co.za/"/>
       <outline type="rss" text="The Citizen" title="The Citizen" xmlUrl="https://www.citizen.co.za/feed/" htmlUrl="https://www.citizen.co.za/"/>

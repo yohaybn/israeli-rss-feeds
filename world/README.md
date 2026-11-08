@@ -37,31 +37,31 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**690 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-01; 235 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**690 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-08; 235 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 194 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 97 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| חדשות ואקטואליה (News & Current Affairs) | 195 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 99 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
 | כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
 | מדע וסביבה (Science & Environment) | 49 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
-| גיימינג (Gaming) | 26 | Gaming, Chess, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
 | אוכל וקולינריה (Food & Cooking) | 14 | Food, רשימה ידנית (curated.json) |
-| תיירות ופנאי (Travel & Leisure) | 10 | Travel, רשימה ידנית (curated.json) |
+| תיירות ופנאי (Travel & Leisure) | 9 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 14 | Fashion, Beauty, רשימה ידנית (curated.json) |
 | נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 71 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 69 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
-| בינה מלאכותית (Artificial Intelligence) | 23 | רשימה ידנית (curated.json) |
+| בינה מלאכותית (Artificial Intelligence) | 22 | רשימה ידנית (curated.json) |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -93,6 +93,7 @@
 | [Top stories - Google News](https://news.google.com/rss) | news.google.com | en | News |
 | [Vedomosti](https://www.vedomosti.ru/rss/news) | vedomosti.ru | ru | Curated |
 | [Watan](https://www.watanserb.com/feed/) | watanserb.com | ar | Curated |
+| [World](https://feeds.washingtonpost.com/rss/world) | washingtonpost.com | en | News |
 | [World News](https://www.reddit.com/r/worldnews/.rss) | reddit.com | en | News |
 | [World news \| The Guardian](https://www.theguardian.com/world/rss) | theguardian.com | en | News |
 | [World News, Today World News, Latest International News, World Breaking News, Trending News of World - Times of India](https://timesofindia.indiatimes.com/rssfeeds/296589292.cms) | timesofindia.indiatimes.com | en | News |
@@ -114,14 +115,12 @@
 | [The Rio Times](https://www.riotimesonline.com/feed/) | riotimesonline.com | en | Country: Brazil |
 | [UOL](http://rss.home.uol.com.br/index.xml) | uol.com.br | pt | Country: Brazil |
 | [CBC \| Top Stories News](https://www.cbc.ca/cmlink/rss-topstories) | cbc.ca | en | Country: Canada |
-| [Financial Post](https://business.financialpost.com/feed/) | financialpost.com | en | Country: Canada |
 | [globalnews.ca](https://globalnews.ca/feed/) | globalnews.ca | en | Country: Canada |
 | [LaPresse.ca - Actualités](https://www.lapresse.ca/actualites/rss) | lapresse.ca | fr | Country: Canada |
 | [National Post](https://nationalpost.com/feed) | nationalpost.com | en | Country: Canada |
 | [Ottawa Citizen](https://ottawacitizen.com/feed) | ottawacitizen.com | en | Country: Canada |
 | [The Province](https://theprovince.com/feed) | theprovince.com | en | Country: Canada |
 | [Toronto Sun - RSS Feed](https://torontosun.com/category/news/feed) | torontosun.com | en | Country: Canada |
-| [Aktuell - FAZ.NET](https://www.faz.net/rss/aktuell/) | faz.net | de | Country: Germany |
 | [Deutsche Welle](https://rss.dw.com/rdf/rss-en-all) | dw.com | de | Country: Germany |
 | [tagesschau.de - Die Nachrichten der ARD](http://www.tagesschau.de/xml/rss2) | tagesschau.de | de | Country: Germany |
 | [ZEIT ONLINE \| Nachrichten, Hintergründe und Debatten](http://newsfeed.zeit.de/index) | zeit.de | de | Country: Germany |
@@ -134,6 +133,7 @@
 | [The Local](https://feeds.thelocal.com/rss/es) | feeds.thelocal.com | en | Country: Spain |
 | [france24.com](https://www.france24.com/en/rss) | france24.com | en | Country: France |
 | [Franceinfo - Les Titres](https://www.francetvinfo.fr/titres.rss) | franceinfo.fr | fr | Country: France |
+| [L'essentiel](https://www.sudouest.fr/essentiel/rss.xml) | sudouest.fr | fr | Country: France |
 | [L'Obs - A la une](https://www.nouvelobs.com/a-la-une/rss.xml) | nouvelobs.com | fr | Country: France |
 | [La Dépêche du Midi : actualités et info en direct de la région Occitanie et des environs - ladepeche.fr](https://www.ladepeche.fr/rss.xml) | ladepeche.fr | fr | Country: France |
 | [Le Huffington Post](https://www.huffingtonpost.fr/feeds/index.xml) | huffingtonpost.fr | fr | Country: France |
@@ -257,6 +257,7 @@
 | [World News - Breaking News, Top Stories](https://www.huffpost.com/section/world-news/feed) | huffpost.com | en | Country: United States |
 | [Axios](https://api.axios.com/feed/) | axios.com | en | Country: South Africa |
 | [Daily Maverick](https://www.dailymaverick.co.za/dmrss/) | dailymaverick.co.za | en | Country: South Africa |
+| [IOL section feed for News](http://rss.iol.io/iol/news) | iol.co.za | en | Country: South Africa |
 | [Moneyweb](https://www.moneyweb.co.za/feed/) | moneyweb.co.za | en | Country: South Africa |
 | [TechCentral](https://techcentral.co.za/feed/) | techcentral.co.za | en | Country: South Africa |
 | [The Citizen](https://www.citizen.co.za/feed/) | citizen.co.za | en | Country: South Africa |
@@ -296,7 +297,6 @@
 | [cybersecurity \| TechCrunch](https://techcrunch.com/tag/cybersecurity/feed/) | techcrunch.com | en | Cyber security |
 | [Dan Lew Codes](https://blog.danlew.net/rss/) | blog.danlew.net | en | Android Development |
 | [Daring Fireball](https://daringfireball.net/feeds/main) | daringfireball.net | en | Apple |
-| [Darknet – Hacking Tools, Hacker News & Cyber Security](http://feeds.feedburner.com/darknethackers) | darknet.org.uk | en | Cyber security |
 | [Developing Android Apps](https://www.reddit.com/r/androiddev.rss) | reddit.com | en | Android Development |
 | [Droid Life – Opinionated Android news.](https://www.droid-life.com/feed/) | droid-life.com | en | Android |
 | [Engadget - Technology News & Expert Reviews](https://www.engadget.com/rss.xml) | engadget.com | en | Tech |
@@ -329,6 +329,7 @@
 | [NYT > Technology](https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml) | nytimes.com | en | Tech |
 | [OS X Daily](http://feeds.feedburner.com/osxdaily) | osxdaily.com | en | Apple |
 | [overreacted — A blog by Dan Abramov](https://overreacted.io/rss.xml) | overreacted.io | en | Programming |
+| [Phandroid](http://feeds2.feedburner.com/AndroidPhoneFans) | phandroid.com | en | Android |
 | [ProAndroidDev - Medium](https://proandroiddev.com/feed) | proandroiddev.com | en | Android Development |
 | [programming](https://www.reddit.com/r/programming/.rss) | reddit.com | en | Programming |
 | [Public Object](https://publicobject.com/rss/) | publicobject.com | en | Android Development |
@@ -341,6 +342,7 @@
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
 | [Slashdot](https://rss.slashdot.org/Slashdot/slashdotMain) | slashdot.org | en | Tech |
 | [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/blog.rss) | developers.soundcloud.com | en | Programming |
+| [Stack Abuse](https://stackabuse.com/rss/) | stackabuse.com | en | Programming |
 | [Stack Overflow Blog](https://stackoverflow.blog/feed/) | stackoverflow.blog | en | Programming |
 | [Stratechery by Ben Thompson](https://stratechery.com/feed/) | stratechery.com | en | Tech |
 | [Swift by Sundell](https://www.swiftbysundell.com/feed.rss) | swiftbysundell.com | en | iOS Development |
@@ -363,6 +365,7 @@
 | [UX Collective - Medium](https://uxdesign.cc/feed) | uxdesign.cc | en | UI - UX |
 | [www.theregister.com - Articles](http://www.theregister.co.uk/security/headlines.atom) | theregister.com | en | Cyber security |
 | [www.theregister.com - Articles](https://www.theregister.com/headlines.rss) | theregister.com | en | Tech |
+| [Zac Sweers](https://www.zacsweers.dev/rss/) | zacsweers.dev | en | Android Development |
 
 ### כלכלה ועסקים (Economy & Business)
 
@@ -583,6 +586,7 @@
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
+| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Polygon.com](https://www.polygon.com/rss/index.xml) | polygon.com | en | Gaming |
 | [r/Chess](https://www.reddit.com/r/chess/.rss) | reddit.com | en | Chess |
 | [r/gaming](https://www.reddit.com/r/gaming.rss) | reddit.com | en | Gaming |
@@ -623,7 +627,6 @@
 | [NYT > Travel](https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml) | nytimes.com | en | Travel |
 | [TFIL (Traveling to EVERY COUNTRY in A-Z Order)](https://www.youtube.com/feeds/videos.xml?user=ECastee) | youtube.com | en | Travel |
 | [The Points Guy Articles](http://feeds.feedburner.com/thepointsguy) | thepointsguy.com | en | Travel |
-| [Travel Blog -](https://www.nomadicmatt.com/travel-blog/feed/) | nomadicmatt.com | en | Travel |
 | [Travel Dudes](https://traveldudes.com/feed/) | traveldudes.com | en | Travel |
 | [Travel \| The Guardian](https://www.theguardian.com/uk/travel/rss) | theguardian.com | en | Travel |
 
@@ -727,7 +730,6 @@
 | [Blind Android Users Podcast](https://anchor.fm/s/4495abac/podcast/rss) | blindandroidusers.com | en | Android |
 | [Clockwise](https://relay.fm/clockwise/feed) | relay.fm | en | Tech |
 | [CyberWire Daily](https://feeds.megaphone.fm/cyberwire-daily-podcast) | thecyberwire.com | en | Cyber security |
-| [Dan Carlin's Hardcore History](https://feeds.feedburner.com/dancarlin/history?format=xml) | dancarlin.com | en | History |
 | [Darknet Diaries](https://feeds.megaphone.fm/darknetdiaries) | darknetdiaries.com | en | Cyber security |
 | [Developer Tea](https://feeds.simplecast.com/dLRotFGk) | developertea.com | en | Programming |
 | [Discovery](https://podcasts.files.bbci.co.uk/p002w557.rss) | bbc.co.uk | en | Science |
@@ -749,7 +751,6 @@
 | [Nerd's Eye View \| Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) | kitces.com | en | Personal finance |
 | [Perpetual Chess Podcast](https://feeds.megaphone.fm/BLU4811105299) | perpetualchesspod.com | en | Chess |
 | [Planet Money](https://feeds.npr.org/510289/podcast.xml) | npr.org | en | Business & Economy |
-| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Podcast Archives - Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) | softwareengineeringdaily.com | en | Programming |
 | [Probably Science](https://probablyscience.libsyn.com/rss) | probablyscience.com | en | Science |
 | [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) | programmingthrowdown.com | en | Programming |
@@ -823,7 +824,6 @@
 | [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/feed) | magazine.sebastianraschka.com | en | Curated |
 | [Anthropic News](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | anthropic.com | en | Curated |
 | [Apple Machine Learning Research](https://machinelearning.apple.com/rss.xml) | machinelearning.apple.com | en | Curated |
-| [Berkeley AI Research (BAIR) Blog](https://bair.berkeley.edu/blog/feed.xml) | bair.berkeley.edu | en | Curated |
 | [EntArabi AI](https://entarabi.com/ai/feed/) | entarabi.com | ar | Curated |
 | [Google AI (The Keyword)](https://blog.google/innovation-and-ai/technology/ai/rss/) | blog.google | en | Curated |
 | [Google DeepMind Blog](https://deepmind.google/blog/rss.xml) | deepmind.google | en | Curated |

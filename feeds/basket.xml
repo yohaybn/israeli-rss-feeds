@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>כדורסל ישראלי | עונת 2026-27 | מכבי תפוזינה ראשון לציון | מנהלת ליגת העל בכדורסל</title>
+    <link>https://basket.co.il/team.asp?TeamId=2122</link>
+    <atom:link href="https://yohaybn.github.io/israeli-rss-feeds/feeds/basket.xml" rel="self" type="application/rss+xml" /><description>Latest items from https://basket.co.il/team.asp?TeamId=2122</description>
+    <language>he</language>
+    <pubDate>Sat, 14 Nov 2026 15:03:50 +0000</pubDate>
+    <image>
+      <url>https://basket.co.il//pics/2026-2027/%D7%9E%D7%93%D7%99%D7%94%20%D7%93%D7%99%D7%99%20%D7%A8%D7%90%D7%A9%D7%95%D7%9F%20%D7%9C%D7%A6%D7%99%D7%95%D7%9F/teamrishon.jpg</url>
+      <title>כדורסל ישראלי | עונת 2026-27 | מכבי תפוזינה ראשון לציון | מנהלת ליגת העל בכדורסל</title>
+      <link>https://basket.co.il/team.asp?TeamId=2122</link>
+    </image>
+    <generator>html2rss V. 0.34.0 (scrapers: AutoSource::SemanticHtml (1))</generator>
+    <ttl>360</ttl>
+    <item>
+      <title>[email protected] / [email protected]</title>
+      <link>https://basket.co.il/cdn-cgi/l/email-protection</link>
+      <guid isPermaLink="false">zf1y8c</guid>
+    <pubDate>Mon, 28 Sep 2026 06:26:22 GMT</pubDate></item>
+    </channel>
+</rss>

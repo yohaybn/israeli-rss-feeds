@@ -37,12 +37,12 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**690 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-08; 235 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**696 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-15; 229 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
 | חדשות ואקטואליה (News & Current Affairs) | 195 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 99 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 101 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
 | כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
@@ -57,11 +57,11 @@
 | נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 69 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 72 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
-| בינה מלאכותית (Artificial Intelligence) | 22 | רשימה ידנית (curated.json) |
+| בינה מלאכותית (Artificial Intelligence) | 23 | רשימה ידנית (curated.json) |
 
 ### חדשות ואקטואליה (News & Current Affairs)
 
@@ -192,7 +192,6 @@
 | [Japan Today](https://japantoday.com/feed) | japantoday.com | ja | Country: Japan |
 | [News On Japan](http://www.newsonjapan.com/rss/top.xml) | newsonjapan.com | ja | Country: Japan |
 | [NYT > Japan](https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml) | nytimes.com | en | Country: Japan |
-| [ライブドアニュース - 主要トピックス](https://news.livedoor.com/topics/rss/top.xml) | news.livedoor.com | ja | Country: Japan |
 | [朝日新聞デジタル](http://rss.asahi.com/rss/asahi/newsheadlines.rdf) | asahi.com | ja | Country: Japan |
 | [24 Horas](https://24-horas.mx/feed/) | 24-horas.mx | es | Country: Mexico |
 | [8 Columnas](https://8columnas.com.mx/feed/) | 8columnas.com.mx | es | Country: Mexico |
@@ -208,6 +207,7 @@
 | [Daily Post Nigeria](https://dailypost.ng/feed/) | dailypost.ng | en | Country: Nigeria |
 | [Information Nigeria](https://www.informationng.com/feed) | informationng.com | en | Country: Nigeria |
 | [Legit.ng](https://www.legit.ng/rss/all.rss) | legit.ng | en | Country: Nigeria |
+| [Nigeria News Links \| Today's Updates - Nigerian Bulletin](https://www.nigerianbulletin.com/forums/-/index.rss) | nigerianbulletin.com | en | Country: Nigeria |
 | [Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper.](http://feeds.feedburner.com/Nigerianeye) | nigerianeye.com | en | Country: Nigeria |
 | [Premium Times Nigeria](https://www.premiumtimesng.com/feed) | premiumtimesng.com | en | Country: Nigeria |
 | [Tribune Online](https://tribuneonlineng.com/feed/) | tribuneonlineng.com | en | Country: Nigeria |
@@ -290,6 +290,7 @@
 | [CNews](https://www.cnews.ru/inc/rss/news.xml) | cnews.ru | ru | Curated |
 | [Coding Horror](https://feeds.feedburner.com/codinghorror) | blog.codinghorror.com | en | Programming |
 | [Company \| The JetBrains Blog](https://blog.jetbrains.com/blog/feed/) | blog.jetbrains.com | en | Android Development |
+| [Crunch Hype](http://feeds.feedburner.com/TechCrunch) | techncruncher.blogspot.com | en | Tech |
 | [CSS-Tricks](https://css-tricks.com/feed/) | css-tricks.com | en | Web Development |
 | [Cult of Mac](https://www.cultofmac.com/feed) | cultofmac.com | en | Apple |
 | [Cyanogen Mods](https://cyanogenmods.org/feed/) | cyanogenmods.org | en | Android |
@@ -297,6 +298,7 @@
 | [cybersecurity \| TechCrunch](https://techcrunch.com/tag/cybersecurity/feed/) | techcrunch.com | en | Cyber security |
 | [Dan Lew Codes](https://blog.danlew.net/rss/) | blog.danlew.net | en | Android Development |
 | [Daring Fireball](https://daringfireball.net/feeds/main) | daringfireball.net | en | Apple |
+| [David Walsh Blog](https://davidwalsh.name/feed) | davidwalsh.name | en | Web Development |
 | [Developing Android Apps](https://www.reddit.com/r/androiddev.rss) | reddit.com | en | Android Development |
 | [Droid Life – Opinionated Android news.](https://www.droid-life.com/feed/) | droid-life.com | en | Android |
 | [Engadget - Technology News & Expert Reviews](https://www.engadget.com/rss.xml) | engadget.com | en | Tech |
@@ -723,6 +725,7 @@
 | [Afford Anything®](https://affordanything.com/feed/) | affordanything.com | en | Personal finance |
 | [Afford Anything®](https://feeds.feedburner.com/AffordAnythingFeed) | affordanything.com | en | Personal finance |
 | [Al Jazeera Arabic Podcasts](https://www.aljazeera.net/aljazeerarss/podcast) | aljazeera.net | ar | Curated |
+| [All About Android (Audio)](https://feeds.twit.tv/aaa.xml) | twit.tv | en | Android |
 | [Analog(ue)](https://relay.fm/analogue/feed) | relay.fm | en | Tech |
 | [Android Developers Backstage](http://feeds.feedburner.com/blogspot/androiddevelopersbackstage) | androidbackstage.blogspot.com | en | Android Development |
 | [Bionic Planet: Reversing Climate Change by Restoring Nature](https://bionicplanet.libsyn.com/rss) | bionic-planet.com | en | Environment |
@@ -735,6 +738,7 @@
 | [Discovery](https://podcasts.files.bbci.co.uk/p002w557.rss) | bbc.co.uk | en | Science |
 | [EconTalk](https://feeds.simplecast.com/wgl4xEgL) | simplecast.econtalk.org | en | Business & Economy |
 | [Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies](https://feeds.simplecast.com/lKmQDG9R) | epicenter.tv | en | Cryptocurrency |
+| [FLOSS Weekly (Audio)](https://feeds.twit.tv/floss.xml) | twit.tv | en | Programming |
 | [Fragmented - AI Developer Podcast](https://feeds.simplecast.com/LpAGSLnY) | fragmentedpodcast.com | en | Android Development |
 | [Gastropod](https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss) | gastropod.com | en | Science |
 | [Hacking Humans](https://feeds.megaphone.fm/hacking-humans) | thecyberwire.com | en | Cyber security |
@@ -742,6 +746,7 @@
 | [HBR IdeaCast](http://feeds.harvardbusiness.org/harvardbusiness/ideacast) | hbr.org | en | Business & Economy |
 | [Hidden Brain](https://feeds.npr.org/510308/podcast.xml) | siriusxm.com | en | Science |
 | [How I Built This with Guy Raz](https://feeds.npr.org/510313/podcast.xml) | podcasts.voxmedia.com | en | Business & Economy |
+| [Indian Meme Templates](https://indianmemetemplates.com/feed/) | indianmemetemplates.com | en | Memes |
 | [Interviews](https://feed.podbean.com/nuggetsnews/feed.xml) | nuggetsnews.podbean.com | en | Cryptocurrency |
 | [Invest Like the Best with Patrick O'Shaughnessy](http://investlikethebest.libsyn.com/rss) | colossus.com | en | Personal finance |
 | [ISF Podcast](https://audioboom.com/channels/4991893.rss) | securityforum.org | en | Cyber security |
@@ -824,6 +829,7 @@
 | [Ahead of AI (Sebastian Raschka)](https://magazine.sebastianraschka.com/feed) | magazine.sebastianraschka.com | en | Curated |
 | [Anthropic News](https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml) | anthropic.com | en | Curated |
 | [Apple Machine Learning Research](https://machinelearning.apple.com/rss.xml) | machinelearning.apple.com | en | Curated |
+| [Berkeley AI Research (BAIR) Blog](https://bair.berkeley.edu/blog/feed.xml) | bair.berkeley.edu | en | Curated |
 | [EntArabi AI](https://entarabi.com/ai/feed/) | entarabi.com | ar | Curated |
 | [Google AI (The Keyword)](https://blog.google/innovation-and-ai/technology/ai/rss/) | blog.google | en | Curated |
 | [Google DeepMind Blog](https://deepmind.google/blog/rss.xml) | deepmind.google | en | Curated |

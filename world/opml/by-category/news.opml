@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - News &amp; Current Affairs</title>
-    <dateCreated>2026-11-08</dateCreated>
+    <dateCreated>2026-11-15</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -132,7 +132,6 @@
       <outline type="rss" text="Japan Today" title="Japan Today" xmlUrl="https://japantoday.com/feed" htmlUrl="https://japantoday.com/"/>
       <outline type="rss" text="News On Japan" title="News On Japan" xmlUrl="http://www.newsonjapan.com/rss/top.xml" htmlUrl="http://www.newsonjapan.com/"/>
       <outline type="rss" text="NYT &gt; Japan" title="NYT &gt; Japan" xmlUrl="https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/destination/japan/rss.xml" htmlUrl="https://www.nytimes.com/topic/destination/japan"/>
-      <outline type="rss" text="ライブドアニュース - 主要トピックス" title="ライブドアニュース - 主要トピックス" xmlUrl="https://news.livedoor.com/topics/rss/top.xml" htmlUrl="https://news.livedoor.com"/>
       <outline type="rss" text="朝日新聞デジタル" title="朝日新聞デジタル" xmlUrl="http://rss.asahi.com/rss/asahi/newsheadlines.rdf" htmlUrl="http://www.asahi.com/"/>
       <outline type="rss" text="24 Horas" title="24 Horas" xmlUrl="https://24-horas.mx/feed/" htmlUrl="https://24-horas.mx"/>
       <outline type="rss" text="8 Columnas" title="8 Columnas" xmlUrl="https://8columnas.com.mx/feed/" htmlUrl="https://8columnas.com.mx"/>
@@ -148,6 +147,7 @@
       <outline type="rss" text="Daily Post Nigeria" title="Daily Post Nigeria" xmlUrl="https://dailypost.ng/feed/" htmlUrl="https://dailypost.ng/"/>
       <outline type="rss" text="Information Nigeria" title="Information Nigeria" xmlUrl="https://www.informationng.com/feed" htmlUrl="https://www.informationng.com/"/>
       <outline type="rss" text="Legit.ng" title="Legit.ng" xmlUrl="https://www.legit.ng/rss/all.rss" htmlUrl="https://www.legit.ng"/>
+      <outline type="rss" text="Nigeria News Links | Today&#x27;s Updates - Nigerian Bulletin" title="Nigeria News Links | Today&#x27;s Updates - Nigerian Bulletin" xmlUrl="https://www.nigerianbulletin.com/forums/-/index.rss" htmlUrl="https://nigerianbulletin.com/forums/"/>
       <outline type="rss" text="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." title="Nigerian News. Latest Nigeria News. Your online Nigerian Newspaper." xmlUrl="http://feeds.feedburner.com/Nigerianeye" htmlUrl="https://www.nigerianeye.com/"/>
       <outline type="rss" text="Premium Times Nigeria" title="Premium Times Nigeria" xmlUrl="https://www.premiumtimesng.com/feed" htmlUrl="https://premiumtimesng.com"/>
       <outline type="rss" text="Tribune Online" title="Tribune Online" xmlUrl="https://tribuneonlineng.com/feed/" htmlUrl="https://tribuneonlineng.com/"/>

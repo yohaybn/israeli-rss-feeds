@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Technology &amp; Gadgets</title>
-    <dateCreated>2026-11-08</dateCreated>
+    <dateCreated>2026-11-15</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -30,6 +30,7 @@
       <outline type="rss" text="CNews" title="CNews" xmlUrl="https://www.cnews.ru/inc/rss/news.xml" htmlUrl="https://www.cnews.ru/"/>
       <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://feeds.feedburner.com/codinghorror" htmlUrl="https://blog.codinghorror.com/"/>
       <outline type="rss" text="Company | The JetBrains Blog" title="Company | The JetBrains Blog" xmlUrl="https://blog.jetbrains.com/blog/feed/" htmlUrl="https://blog.jetbrains.com"/>
+      <outline type="rss" text="Crunch Hype" title="Crunch Hype" xmlUrl="http://feeds.feedburner.com/TechCrunch" htmlUrl="https://techncruncher.blogspot.com/"/>
       <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" htmlUrl="https://css-tricks.com"/>
       <outline type="rss" text="Cult of Mac" title="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed" htmlUrl="https://www.cultofmac.com/"/>
       <outline type="rss" text="Cyanogen Mods" title="Cyanogen Mods" xmlUrl="https://cyanogenmods.org/feed/" htmlUrl="https://cyanogenmods.org"/>
@@ -37,6 +38,7 @@
       <outline type="rss" text="cybersecurity | TechCrunch" title="cybersecurity | TechCrunch" xmlUrl="https://techcrunch.com/tag/cybersecurity/feed/" htmlUrl="https://techcrunch.com/tag/cybersecurity/"/>
       <outline type="rss" text="Dan Lew Codes" title="Dan Lew Codes" xmlUrl="https://blog.danlew.net/rss/" htmlUrl="https://blog.danlew.net/"/>
       <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
+      <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="https://davidwalsh.name/feed" htmlUrl="https://davidwalsh.name"/>
       <outline type="rss" text="Developing Android Apps" title="Developing Android Apps" xmlUrl="https://www.reddit.com/r/androiddev.rss" htmlUrl="https://www.reddit.com/r/androiddev"/>
       <outline type="rss" text="Droid Life – Opinionated Android news." title="Droid Life – Opinionated Android news." xmlUrl="https://www.droid-life.com/feed/" htmlUrl="https://www.droid-life.com/"/>
       <outline type="rss" text="Engadget - Technology News &amp; Expert Reviews" title="Engadget - Technology News &amp; Expert Reviews" xmlUrl="https://www.engadget.com/rss.xml" htmlUrl="https://www.engadget.com/"/>

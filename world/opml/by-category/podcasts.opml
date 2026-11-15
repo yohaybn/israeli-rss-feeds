@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Podcasts</title>
-    <dateCreated>2026-11-08</dateCreated>
+    <dateCreated>2026-11-15</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -13,6 +13,7 @@
       <outline type="rss" text="Afford Anything®" title="Afford Anything®" xmlUrl="https://affordanything.com/feed/" htmlUrl="https://affordanything.com/"/>
       <outline type="rss" text="Afford Anything®" title="Afford Anything®" xmlUrl="https://feeds.feedburner.com/AffordAnythingFeed" htmlUrl="https://affordanything.com/"/>
       <outline type="rss" text="Al Jazeera Arabic Podcasts" title="Al Jazeera Arabic Podcasts" xmlUrl="https://www.aljazeera.net/aljazeerarss/podcast" htmlUrl="https://www.aljazeera.net/podcasts"/>
+      <outline type="rss" text="All About Android (Audio)" title="All About Android (Audio)" xmlUrl="https://feeds.twit.tv/aaa.xml" htmlUrl="https://twit.tv/shows/all-about-android"/>
       <outline type="rss" text="Analog(ue)" title="Analog(ue)" xmlUrl="https://relay.fm/analogue/feed" htmlUrl="https://relay.fm/analogue"/>
       <outline type="rss" text="Android Developers Backstage" title="Android Developers Backstage" xmlUrl="http://feeds.feedburner.com/blogspot/androiddevelopersbackstage" htmlUrl="http://androidbackstage.blogspot.com/"/>
       <outline type="rss" text="Bionic Planet: Reversing Climate Change by Restoring Nature" title="Bionic Planet: Reversing Climate Change by Restoring Nature" xmlUrl="https://bionicplanet.libsyn.com/rss" htmlUrl="http://www.bionic-planet.com/"/>
@@ -25,6 +26,7 @@
       <outline type="rss" text="Discovery" title="Discovery" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss" htmlUrl="http://www.bbc.co.uk/programmes/p002w557"/>
       <outline type="rss" text="EconTalk" title="EconTalk" xmlUrl="https://feeds.simplecast.com/wgl4xEgL" htmlUrl="https://simplecast.econtalk.org"/>
       <outline type="rss" text="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" title="Epicenter - Learn about Crypto, Blockchain, Ethereum, Bitcoin and Distributed Technologies" xmlUrl="https://feeds.simplecast.com/lKmQDG9R" htmlUrl="https://epicenter.tv"/>
+      <outline type="rss" text="FLOSS Weekly (Audio)" title="FLOSS Weekly (Audio)" xmlUrl="https://feeds.twit.tv/floss.xml" htmlUrl="https://twit.tv/shows/floss-weekly"/>
       <outline type="rss" text="Fragmented - AI Developer Podcast" title="Fragmented - AI Developer Podcast" xmlUrl="https://feeds.simplecast.com/LpAGSLnY" htmlUrl="https://fragmentedpodcast.com/"/>
       <outline type="rss" text="Gastropod" title="Gastropod" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss" htmlUrl="https://gastropod.com/"/>
       <outline type="rss" text="Hacking Humans" title="Hacking Humans" xmlUrl="https://feeds.megaphone.fm/hacking-humans" htmlUrl="https://thecyberwire.com/podcasts/hacking-humans"/>
@@ -32,6 +34,7 @@
       <outline type="rss" text="HBR IdeaCast" title="HBR IdeaCast" xmlUrl="http://feeds.harvardbusiness.org/harvardbusiness/ideacast" htmlUrl="https://hbr.org/podcasts/ideacast"/>
       <outline type="rss" text="Hidden Brain" title="Hidden Brain" xmlUrl="https://feeds.npr.org/510308/podcast.xml" htmlUrl="https://www.siriusxm.com"/>
       <outline type="rss" text="How I Built This with Guy Raz" title="How I Built This with Guy Raz" xmlUrl="https://feeds.npr.org/510313/podcast.xml" htmlUrl="https://podcasts.voxmedia.com/show/how-i-built-this-with-guy-raz?sid=644861"/>
+      <outline type="rss" text="Indian Meme Templates" title="Indian Meme Templates" xmlUrl="https://indianmemetemplates.com/feed/" htmlUrl="https://indianmemetemplates.com/"/>
       <outline type="rss" text="Interviews" title="Interviews" xmlUrl="https://feed.podbean.com/nuggetsnews/feed.xml" htmlUrl="https://nuggetsnews.podbean.com"/>
       <outline type="rss" text="Invest Like the Best with Patrick O&#x27;Shaughnessy" title="Invest Like the Best with Patrick O&#x27;Shaughnessy" xmlUrl="http://investlikethebest.libsyn.com/rss" htmlUrl="https://colossus.com/"/>
       <outline type="rss" text="ISF Podcast" title="ISF Podcast" xmlUrl="https://audioboom.com/channels/4991893.rss" htmlUrl="https://www.securityforum.org/spotlight-on/"/>

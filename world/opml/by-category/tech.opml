@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>World RSS - Technology &amp; Gadgets</title>
-    <dateCreated>2026-11-15</dateCreated>
+    <dateCreated>2026-11-22</dateCreated>
     <ownerName>israeli-rss-feeds</ownerName>
   </head>
   <body>
@@ -38,6 +38,7 @@
       <outline type="rss" text="cybersecurity | TechCrunch" title="cybersecurity | TechCrunch" xmlUrl="https://techcrunch.com/tag/cybersecurity/feed/" htmlUrl="https://techcrunch.com/tag/cybersecurity/"/>
       <outline type="rss" text="Dan Lew Codes" title="Dan Lew Codes" xmlUrl="https://blog.danlew.net/rss/" htmlUrl="https://blog.danlew.net/"/>
       <outline type="rss" text="Daring Fireball" title="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
+      <outline type="rss" text="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" title="Darknet – Hacking Tools, Hacker News &amp; Cyber Security" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="https://www.darknet.org.uk"/>
       <outline type="rss" text="David Walsh Blog" title="David Walsh Blog" xmlUrl="https://davidwalsh.name/feed" htmlUrl="https://davidwalsh.name"/>
       <outline type="rss" text="Developing Android Apps" title="Developing Android Apps" xmlUrl="https://www.reddit.com/r/androiddev.rss" htmlUrl="https://www.reddit.com/r/androiddev"/>
       <outline type="rss" text="Droid Life – Opinionated Android news." title="Droid Life – Opinionated Android news." xmlUrl="https://www.droid-life.com/feed/" htmlUrl="https://www.droid-life.com/"/>
@@ -49,6 +50,7 @@
       <outline type="rss" text="GSMArena.com - Latest articles" title="GSMArena.com - Latest articles" xmlUrl="https://www.gsmarena.com/rss-news-reviews.php3" htmlUrl="https://www.gsmarena.com/"/>
       <outline type="rss" text="Habr" title="Habr" xmlUrl="https://habr.com/ru/rss/all/all/" htmlUrl="https://habr.com/ru/"/>
       <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="iMore - The #1 iPhone, iPad, and iPod touch blog" title="iMore - The #1 iPhone, iPad, and iPod touch blog" xmlUrl="http://feeds.feedburner.com/TheiPhoneBlog" htmlUrl="https://www.imore.com/feeds.xml"/>
       <outline type="rss" text="inessential.com" title="inessential.com" xmlUrl="https://inessential.com/xml/rss.xml" htmlUrl="https://inessential.com/"/>
       <outline type="rss" text="InfoQ" title="InfoQ" xmlUrl="https://feed.infoq.com" htmlUrl="https://www.infoq.com"/>
       <outline type="rss" text="iXBT" title="iXBT" xmlUrl="https://www.ixbt.com/export/news.rss" htmlUrl="https://www.ixbt.com/"/>
@@ -83,7 +85,6 @@
       <outline type="rss" text="Scripting News" title="Scripting News" xmlUrl="http://scripting.com/rss.xml" htmlUrl="http://scripting.com/"/>
       <outline type="rss" text="Security Affairs" title="Security Affairs" xmlUrl="http://securityaffairs.co/wordpress/feed" htmlUrl="https://securityaffairs.com/"/>
       <outline type="rss" text="Slashdot" title="Slashdot" xmlUrl="https://rss.slashdot.org/Slashdot/slashdotMain" htmlUrl="https://slashdot.org/"/>
-      <outline type="rss" text="SoundCloud Backstage Blog" title="SoundCloud Backstage Blog" xmlUrl="https://developers.soundcloud.com/blog/blog.rss" htmlUrl="https://developers.soundcloud.com/blog"/>
       <outline type="rss" text="Stack Abuse" title="Stack Abuse" xmlUrl="https://stackabuse.com/rss/" htmlUrl="https://stackabuse.com/"/>
       <outline type="rss" text="Stack Overflow Blog" title="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/" htmlUrl="https://stackoverflow.blog/"/>
       <outline type="rss" text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" xmlUrl="https://stratechery.com/feed/" htmlUrl="https://stratechery.com"/>

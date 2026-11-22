@@ -37,27 +37,27 @@
 ## הקטלוג
 
 <!-- catalog:start -->
-**696 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-15; 229 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
+**696 פידים מאומתים ב-18 מתוך 21 קטגוריות** (עודכן 2026-11-22; 229 פידים מהמקור נפסלו בבדיקה - הפירוט ב-[`FEEDS-STATUS.md`](FEEDS-STATUS.md)).
 
 | קטגוריה | פידים | קטגוריות במקור |
 |---|---|---|
-| חדשות ואקטואליה (News & Current Affairs) | 195 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
-| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 101 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
-| כלכלה ועסקים (Economy & Business) | 53 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
+| חדשות ואקטואליה (News & Current Affairs) | 194 | News, כל קובצי המדינות, רשימה ידנית (curated.json) |
+| טכנולוגיה וגאדג'טים (Technology & Gadgets) | 102 | Tech, Android, Apple, Programming, Android Development, iOS Development, Web Development, UI - UX, Cyber security, רשימה ידנית (curated.json) |
+| כלכלה ועסקים (Economy & Business) | 52 | Business & Economy, Startups, Personal finance, Cryptocurrency, רשימה ידנית (curated.json) |
 | ספורט (Sports) | 36 | Sports, Football, Cricket, Tennis, רשימה ידנית (curated.json) |
 | תרבות ופנאי (Culture & Entertainment) | 24 | Movies, Television, Books, History, Photography, רשימה ידנית (curated.json) |
 | בריאות ורפואה (Health & Medicine) | 2 | רשימה ידנית (curated.json) |
 | מדע וסביבה (Science & Environment) | 49 | Science, Space, Environment, Nature, Animal & Wildlife, רשימה ידנית (curated.json) |
 | מוזיקה (Music) | 4 | Music, רשימה ידנית (curated.json) |
-| גיימינג (Gaming) | 27 | Gaming, Chess, רשימה ידנית (curated.json) |
+| גיימינג (Gaming) | 26 | Gaming, Chess, רשימה ידנית (curated.json) |
 | אוכל וקולינריה (Food & Cooking) | 14 | Food, רשימה ידנית (curated.json) |
 | תיירות ופנאי (Travel & Leisure) | 9 | Travel, רשימה ידנית (curated.json) |
 | רכב ותחבורה (Cars & Transportation) | 14 | Cars, רשימה ידנית (curated.json) |
 | אופנה ולייף סטייל (Fashion & Lifestyle) | 14 | Fashion, Beauty, רשימה ידנית (curated.json) |
-| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 32 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
+| נדל"ן ועיצוב הבית (Real Estate & Home Design) | 31 | Interior design, Architecture, DIY, רשימה ידנית (curated.json) |
 | הורות ומשפחה (Parenting & Family) | 0 | - |
 | דעה וטורים אישיים (Opinion & Personal Columns) | 3 | רשימה ידנית (curated.json) |
-| פודקאסטים (Podcasts) | 72 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
+| פודקאסטים (Podcasts) | 75 | כל פיד עם פרקי אודיו, מכל נושא, רשימה ידנית (curated.json) |
 | קריירה ועבודה (Career & Work) | 0 | - |
 | צרכנות ומבצעים (Consumer & Deals) | 0 | - |
 | תרבות דיגיטלית ורשת (Digital Culture & Web) | 24 | Funny, Memes, רשימה ידנית (curated.json) |
@@ -121,6 +121,7 @@
 | [Ottawa Citizen](https://ottawacitizen.com/feed) | ottawacitizen.com | en | Country: Canada |
 | [The Province](https://theprovince.com/feed) | theprovince.com | en | Country: Canada |
 | [Toronto Sun - RSS Feed](https://torontosun.com/category/news/feed) | torontosun.com | en | Country: Canada |
+| [Aktuell - FAZ.NET](https://www.faz.net/rss/aktuell/) | faz.net | de | Country: Germany |
 | [Deutsche Welle](https://rss.dw.com/rdf/rss-en-all) | dw.com | de | Country: Germany |
 | [tagesschau.de - Die Nachrichten der ARD](http://www.tagesschau.de/xml/rss2) | tagesschau.de | de | Country: Germany |
 | [ZEIT ONLINE \| Nachrichten, Hintergründe und Debatten](http://newsfeed.zeit.de/index) | zeit.de | de | Country: Germany |
@@ -142,7 +143,6 @@
 | [Ouest-France - Actualité](https://www.ouest-france.fr/rss-en-continu.xml) | ouest-france.fr | fr | Country: France |
 | [Paris Star](https://www.parisstaronline.com/feed) | parisstaronline.com | en | Country: France |
 | [BBC News - Home](https://feeds.bbci.co.uk/news/rss.xml) | bbc.co.uk | en | Country: United Kingdom |
-| [Daily Express :: News Feed](http://feeds.feedburner.com/daily-express-news-showbiz) | express.co.uk | en | Country: United Kingdom |
 | [Home \| Mail Online](https://www.dailymail.co.uk/home/index.rss) | dailymail.com | en | Country: United Kingdom |
 | [The Independent](https://www.independent.co.uk/news/uk/rss) | independent.co.uk | en | Country: United Kingdom |
 | [Hong Kong Free Press HKFP](https://hongkongfp.com/feed/) | hongkongfp.com | en | Country: Hong Kong SAR China |
@@ -182,7 +182,6 @@
 | [Il Mattino Web](https://www.ilmattino.it/?sez=XML&args&p=search&args[box]=Home&limit=20&layout=rss) | ilmattino.it | it | Country: Italy |
 | [Internazionale](https://www.internazionale.it/sitemaps/rss.xml) | internazionale.it | it | Country: Italy |
 | [Italy \| The Guardian](https://www.theguardian.com/world/italy/rss) | theguardian.com | en | Country: Italy |
-| [Libero Quotidiano](https://www.liberoquotidiano.it/rss.xml) | liberoquotidiano.it | it | Country: Italy |
 | [Milan News](https://www.milannews.it/rss/) | milannews.it | it | Country: Italy |
 | [Panorama](https://www.panorama.it/feeds/feed.rss) | panorama.it | it | Country: Italy |
 | [Repubblica.it > Homepage](https://www.repubblica.it/rss/homepage/rss2.0.xml) | repubblica.it | it | Country: Italy |
@@ -298,6 +297,7 @@
 | [cybersecurity \| TechCrunch](https://techcrunch.com/tag/cybersecurity/feed/) | techcrunch.com | en | Cyber security |
 | [Dan Lew Codes](https://blog.danlew.net/rss/) | blog.danlew.net | en | Android Development |
 | [Daring Fireball](https://daringfireball.net/feeds/main) | daringfireball.net | en | Apple |
+| [Darknet – Hacking Tools, Hacker News & Cyber Security](http://feeds.feedburner.com/darknethackers) | darknet.org.uk | en | Cyber security |
 | [David Walsh Blog](https://davidwalsh.name/feed) | davidwalsh.name | en | Web Development |
 | [Developing Android Apps](https://www.reddit.com/r/androiddev.rss) | reddit.com | en | Android Development |
 | [Droid Life – Opinionated Android news.](https://www.droid-life.com/feed/) | droid-life.com | en | Android |
@@ -309,6 +309,7 @@
 | [GSMArena.com - Latest articles](https://www.gsmarena.com/rss-news-reviews.php3) | gsmarena.com | en | Android |
 | [Habr](https://habr.com/ru/rss/all/all/) | habr.com | ru | Curated |
 | [Hacker News](https://news.ycombinator.com/rss) | news.ycombinator.com | en | Tech |
+| [iMore - The #1 iPhone, iPad, and iPod touch blog](http://feeds.feedburner.com/TheiPhoneBlog) | imore.com | en | Apple |
 | [inessential.com](https://inessential.com/xml/rss.xml) | inessential.com | en | iOS Development |
 | [InfoQ](https://feed.infoq.com) | infoq.com | en | Programming |
 | [iXBT](https://www.ixbt.com/export/news.rss) | ixbt.com | ru | Curated |
@@ -343,7 +344,6 @@
 | [Scripting News](http://scripting.com/rss.xml) | scripting.com | en | Programming |
 | [Security Affairs](http://securityaffairs.co/wordpress/feed) | securityaffairs.com | en | Cyber security |
 | [Slashdot](https://rss.slashdot.org/Slashdot/slashdotMain) | slashdot.org | en | Tech |
-| [SoundCloud Backstage Blog](https://developers.soundcloud.com/blog/blog.rss) | developers.soundcloud.com | en | Programming |
 | [Stack Abuse](https://stackabuse.com/rss/) | stackabuse.com | en | Programming |
 | [Stack Overflow Blog](https://stackoverflow.blog/feed/) | stackoverflow.blog | en | Programming |
 | [Stratechery by Ben Thompson](https://stratechery.com/feed/) | stratechery.com | en | Tech |
@@ -376,7 +376,6 @@
 | [Al Borsa News](https://alborsaanews.com/rss) | alborsaanews.com | ar | Curated |
 | [Al Jazeera Arabic Economy](https://www.aljazeera.net/aljazeerarss/economy) | aljazeera.net | ar | Curated |
 | [All News](https://www.investing.com/rss/news.rss) | investing.com | en | Business & Economy |
-| [Argaam](https://www.argaam.com/ar/rss/ho-main-news?sectionid=1523) | argaam.com | ar | Curated |
 | [Bitcoin - The Currency of the Internet](https://www.reddit.com/r/Bitcoin/.rss) | reddit.com | en | Cryptocurrency |
 | [Bitcoin News](https://news.bitcoin.com/feed/) | news.bitcoin.com | en | Cryptocurrency |
 | [Bloomberg Originals](https://www.youtube.com/feeds/videos.xml?user=Bloomberg) | youtube.com | en | Business & Economy |
@@ -588,7 +587,6 @@
 | [Indie Games Plus](https://indiegamesplus.com/feed/) | indiegamesplus.com | en | Gaming |
 | [Kotaku](https://kotaku.com/rss) | kotaku.com | en | Gaming |
 | [Lichess's Blog](https://lichess.org/blog.atom) | lichess.org | en | Chess |
-| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Polygon.com](https://www.polygon.com/rss/index.xml) | polygon.com | en | Gaming |
 | [r/Chess](https://www.reddit.com/r/chess/.rss) | reddit.com | en | Chess |
 | [r/gaming](https://www.reddit.com/r/gaming.rss) | reddit.com | en | Gaming |
@@ -693,7 +691,6 @@
 | [IKEA Hackers](https://ikeahackers.net/feed) | ikeahackers.net | en | DIY |
 | [In My Own Style](https://inmyownstyle.com/feed) | inmyownstyle.com | en | Interior design |
 | [Interior Design (Interior Architecture)](https://www.reddit.com/r/InteriorDesign/.rss) | reddit.com | en | Interior design |
-| [Interior Design Ideas](https://www.home-designing.com/feed) | home-designing.com | en | Interior design |
 | [Interior design \| Dezeen](https://www.dezeen.com/interiors/feed/) | interiordesignstoriesfromdezeenmagazine | en | Interior design |
 | [Latest from Ideal Home in News](https://www.idealhome.co.uk/feed) | idealhome.co.uk | en | Interior design |
 | [Living Big In A Tiny House](https://www.youtube.com/feeds/videos.xml?user=livingbigtinyhouse) | youtube.com | en | Architecture |
@@ -732,6 +729,7 @@
 | [Bitcoin Audible](https://bitcoinaudible.com/feed/) | bitcoinaudible.com | en | Cryptocurrency |
 | [Blind Android Users Podcast](https://anchor.fm/s/4495abac/podcast/rss) | blindandroidusers.com | en | Android |
 | [Clockwise](https://relay.fm/clockwise/feed) | relay.fm | en | Tech |
+| [CodeNewbie](http://feeds.codenewbie.org/cnpodcast.xml) | codenewbie.org | en | Programming |
 | [CyberWire Daily](https://feeds.megaphone.fm/cyberwire-daily-podcast) | thecyberwire.com | en | Cyber security |
 | [Darknet Diaries](https://feeds.megaphone.fm/darknetdiaries) | darknetdiaries.com | en | Cyber security |
 | [Developer Tea](https://feeds.simplecast.com/dLRotFGk) | developertea.com | en | Programming |
@@ -756,6 +754,7 @@
 | [Nerd's Eye View \| Kitces.com](http://feeds.feedblitz.com/kitcesnerdseyeview&x=1) | kitces.com | en | Personal finance |
 | [Perpetual Chess Podcast](https://feeds.megaphone.fm/BLU4811105299) | perpetualchesspod.com | en | Chess |
 | [Planet Money](https://feeds.npr.org/510289/podcast.xml) | npr.org | en | Business & Economy |
+| [PlayStation.Blog](http://feeds.feedburner.com/psblog) | blog.playstation.com | en | Gaming |
 | [Podcast Archives - Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast/feed) | softwareengineeringdaily.com | en | Programming |
 | [Probably Science](https://probablyscience.libsyn.com/rss) | probablyscience.com | en | Science |
 | [Programming Throwdown](http://feeds.feedburner.com/ProgrammingThrowdown) | programmingthrowdown.com | en | Programming |
@@ -775,6 +774,7 @@
 | [Tailenders](https://podcasts.files.bbci.co.uk/p02pcb4w.rss) | bbc.co.uk | en | Cricket |
 | [TED Talks Daily](https://pa.tedcdn.com/feeds/talks.rss) | ted.com | en | Science |
 | [Test Match Special](https://podcasts.files.bbci.co.uk/p02nrsl2.rss) | bbc.co.uk | en | Cricket |
+| [The Bitcoin Podcast](https://feeds.simplecast.com/xCQr3ykc) | thebitcoinpodcast.com | en | Cryptocurrency |
 | [The Blog of Author Tim Ferriss](https://tim.blog/feed/) | tim.blog | en | Business & Economy |
 | [The Clark Howard Podcast](https://feeds.megaphone.fm/clarkhoward) | clark.com | en | Personal finance |
 | [The Cynical Developer](https://cynicaldeveloper.com/feed/podcast) | cynical.dev | en | Programming |
